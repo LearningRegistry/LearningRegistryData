@@ -1,0 +1,26 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "\"<expression xsi:schemaLocation=\\\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\\\" xmlns=\\\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\\\" xmlns:xsi=\\\"http://www.w3.org/2001/XMLSchema-instance\\\">\\n  <identifier>\\n    <catalog>hdl</catalog>\\n    <entry>10494/21540</entry>\\n  </identifier>\\n  <identifier>\\n    <catalog>expression-cmr-id</catalog>\\n    <entry>21540</entry>\\n  </identifier>\\n  <description>\\n    <facet>\\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\\n      <value>main</value>\\n    </facet>\\n    <metadata>\\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\\n      <lom xsi:schemaLocation=\\\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\\\" xmlns=\\\"http://ltsc.ieee.org/xsd/LOM\\\">\\n        <general>\\n          <identifier>\\n            <catalog>scholaris</catalog>\\n            <entry>scholaris50648</entry>\\n          </identifier>\\n          <title>\\n            <string language=\\\"pl\\\">Kawka</string>\\n          </title>\\n          <language>pl</language>\\n          <keyword>\\n            <string language=\\\"pl\\\">Biologia</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Przyroda</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Szko\\u0142a podstawowa klasy 1-3</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Szko\\u0142a podstawowa klasy 4-6</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Gimnazjum</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Liceum og\\u00f3lnokszta\\u0142c\\u0105ce</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Liceum profilowane</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Szko\\u0142a zawodowa</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Technikum</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Kszta\\u0142cenie doros\\u0142ych</string>\\n          </keyword>\\n          <keyword>\\n            <string language=\\\"pl\\\"> Zdj\\u0119cia | ilustracje</string>\\n          </keyword>\\n        </general>\\n        <educational>\\n          <intendedEndUserRole>\\n            <source>LRE.intendedEndUserRoleValues</source>\\n            <value>learner</value>\\n          </intendedEndUserRole>\\n          <typicalAgeRange>\\n            <string language=\\\"x-t-LRE\\\">13-15</string>\\n          </typicalAgeRange>\\n        </educational>\\n        <rights>\\n          <cost>\\n            <source>costValues</source>\\n            <value>no</value>\\n          </cost>\\n          <copyrightAndOtherRestrictions>\\n            <source>copyrightAndOtherRestrictionsValues</source>\\n            <value>yes</value>\\n          </copyrightAndOtherRestrictions>\\n          <description>\\n            <string language=\\\"x-t-cc-url\\\">http://creativecommons.org/licences/by-nc-nd/2.5</string>\\n            <string language=\\\"en\\\">Attribution Non-commercial No Derivatives (by-nc-nd)</string>\\n          </description>\\n        </rights>\\n        <metaMetadata>\\n          <contribute>\\n            <role>\\n              <source>LRE.roleMetaValues</source>\\n              <value>provider</value>\\n            </role>\\n            <entity>begin:vcard\\nfn:\\nn:\\norg:Scholaris\\nversion:3.0\\nend:vcard</entity>\\n          </contribute>\\n          <language>pl</language>\\n        </metaMetadata>\\n      </lom>\\n    </metadata>\\n  </description>\\n  <manifestation>\\n    <identifier>\\n      <catalog>manifestation-cmr-id</catalog>\\n      <entry>21540</entry>\\n    </identifier>\\n    <name>\\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\\n      <value>experience</value>\\n    </name>\\n    <item>\\n      <location>\\n        <uri>http://www.scholaris.pl/cms/index.php/resources/9118.html</uri>\\n      </location>\\n    </item>\\n  </manifestation>\\n</expression>\\n\"", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.scholaris.pl/cms/index.php/resources/9118.html"
+}
