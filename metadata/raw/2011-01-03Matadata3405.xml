@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76475</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76475</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7513f711-9b70-4beb-acbb-6b277f4d8309#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Lándzsahegy</string>
+            <string language="en">Spear -Head</string>
+            <string language="x-mt-de">Stange - Kopf</string>
+            <string language="x-mt-fr">Lance - Tête</string>
+            <string language="x-mt-pt">Lança - Cabeça</string>
+            <string language="x-mt-it">Germoglio - Testa</string>
+            <string language="x-mt-el">Λόγχη - κεφάλι</string>
+            <string language="x-mt-es">Lanza - Pista</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Lándzsahegy (kőkor, Ságvár)</string>
+            <string language="en">Spearhead (stone age, Ságvár)</string>
+          </description>
+          <keyword>
+            <string language="hu">civilizáció,  Ságvár,  </string>
+            <string language="en">civilisation,  Ságvár,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Speerspitze (Steinzeitalter, Ságvár)</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Fer de lance (âge de pierre, Ságvár)</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Spearhead (idade de pedra, Ságvár)</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Conduca (età di pietra, Ságvár)</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αιχμή λόγχης (ηλικία πετρών, Sαgvαr)</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Punta de lanza (edad de piedra, Ságvár)</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Zivilisation, Ságvár,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">civilisation, Ságvár,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">civilização, Ságvár,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">civilizzazione, Ságvár,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πολιτισμός, Sαgvαr,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">civilización, Ságvár,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Jernyei Kiss;János;
+fn:Jernyei Kiss János
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76475</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7513f711-9b70-4beb-acbb-6b277f4d8309&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

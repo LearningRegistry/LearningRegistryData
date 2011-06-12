@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/64969640</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>64969640</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>c7b4e2cc-ac7a-479a-8880-59323ef2bf8c#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kétoldalú emelők a gyakorlatban</string>
+            <string language="en">two-sided lever in practice</string>
+            <string language="x-mt-de">doppelseitiger Hebel in der Praxis</string>
+            <string language="x-mt-fr">levier recto-verso dans la pratique</string>
+            <string language="x-mt-pt">alavanca frente e verso na prática</string>
+            <string language="x-mt-it">leva fronte/retro in pratica</string>
+            <string language="x-mt-el">two-sided μοχλός στην πράξη</string>
+            <string language="x-mt-es">palanca con dos aspectos en la práctica</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kétoldalú emelők fotói</string>
+            <string language="en">photo of two-sided lever </string>
+          </description>
+          <keyword>
+            <string language="hu">kétoldalú emelők,  </string>
+            <string language="en">two-sided levers</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Foto des doppelseitigen Hebels</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">photo de levier recto-verso</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">foto de alavanca frente e verso</string>
+          </description>
+          <description>
+            <string language="x-mt-it">foto della leva fronte/retro</string>
+          </description>
+          <description>
+            <string language="x-mt-el">φωτογραφία του two-sided μοχλού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">foto de la palanca con dos aspectos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">doppelseitige Hebel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">leviers recto-verso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">alavancas frente e verso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">leve fronte/retro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">two-sided μοχλοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">palancas con dos aspectos</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>64969640</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=c7b4e2cc-ac7a-479a-8880-59323ef2bf8c&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

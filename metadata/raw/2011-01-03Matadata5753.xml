@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77889</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77889</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7240ce74-3a2c-44e3-a71d-7dd21779fde9#1#7</entry>
+          </identifier>
+          <title>
+            <string language="hu">A lencsék fókusztávolsága</string>
+            <string language="en">The focal distance of the lenses</string>
+            <string language="x-mt-de">Der fokale Abstand der Objektive</string>
+            <string language="x-mt-fr">La distance focale des objectifs</string>
+            <string language="x-mt-pt">A distância focal das lentes</string>
+            <string language="x-mt-it">La distanza focale degli obiettivi</string>
+            <string language="x-mt-el">Η εστιακή απόσταση των φακών</string>
+            <string language="x-mt-es">La distancia focal de las lentes</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A lencsék fókusztávolsága</string>
+            <string language="en">Focal distance of the lenses</string>
+          </description>
+          <keyword>
+            <string language="hu">fókusztávolság,  görbületisugár,  </string>
+            <string language="en">focal distance, principle radius of curvature,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Fokaler Abstand der Objektive</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Distance focale des objectifs</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Distância focal das lentes</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Distanza focale degli obiettivi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εστιακή απόσταση των φακών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Distancia focal de las lentes</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">fokaler Abstand, Grundregelradius der Biegung,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">distance focale, rayon de principe de la courbure,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">distância focal, raio do princípio da curvatura,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">distanza focale, raggio di principio di curvatura,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εστιακή απόσταση, ακτίνα αρχής της κυρτότητας,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">distancia focal, radio del principio de la curvatura,</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">16-17</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77889</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7240ce74-3a2c-44e3-a71d-7dd21779fde9&amp;v=1&amp;b=7</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

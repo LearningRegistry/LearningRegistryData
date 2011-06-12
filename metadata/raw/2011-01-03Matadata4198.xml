@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74696398</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74696398</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>41628812-a2fc-44d9-21b4-43c80a8a366d#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Vendégváró - turisztikai honlap</string>
+            <string language="en">Vendégváró - turistical website</string>
+            <string language="x-mt-de">Vendégváró - turistical Web site</string>
+            <string language="x-mt-fr">Vendégváró - site Web turistical</string>
+            <string language="x-mt-pt">Vendégváró - Web site turistical</string>
+            <string language="x-mt-it">Vendégváró - Web site turistical</string>
+            <string language="x-mt-el">Vendιgvαrσ - turistical ιστοχώρος</string>
+            <string language="x-mt-es">Vendégváró - Web site turistical</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Festmények, címek és festményrészletek párosítása</string>
+            <string language="en">task:find the pairs</string>
+          </description>
+          <keyword>
+            <string language="hu">interaktív tananyag,  animáció, festészet, művészet</string>
+            <string language="en">interactive subject,  animation,painting,art</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">task:find die Paare</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">chargez les paires</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">task:find os pares</string>
+          </description>
+          <description>
+            <string language="x-mt-it">task:find gli accoppiamenti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">task:find τα ζευγάρια</string>
+          </description>
+          <description>
+            <string language="x-mt-es">task:find los pares</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">interaktives Thema, Animation, Anstrich, kunst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sujet interactif, animation, peinture, art</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">assunto interativo, animation, pintura, arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">oggetto interattivo, animazione, pittura, arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαλογικό θέμα, ζωτικότητα, ζωγραφική, τέχνη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tema interactivo, animación, pintura, arte</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74696398</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=41628812-a2fc-44d9-21b4-43c80a8a366d&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

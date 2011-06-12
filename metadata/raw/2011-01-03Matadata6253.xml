@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73406</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73406</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>1b13bff4-40fd-4e39-9bb5-f496cc15f981#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az archaikus ifjú ábrázolás</string>
+            <string language="en">representation of the archaic boy</string>
+            <string language="x-mt-de">Darstellung des veralteten Jungen</string>
+            <string language="x-mt-fr">représentation du garçon archaïque</string>
+            <string language="x-mt-pt">respresentação do menino archaic</string>
+            <string language="x-mt-it">rappresentazione del ragazzo archaic</string>
+            <string language="x-mt-el">αντιπροσώπευση του αρχαϊ'ζοντος αγοριού</string>
+            <string language="x-mt-es">representación del muchacho arcaico</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az archaikus korban az ifjakat (kurosz = fiú, koré = lány) „archaikus mosollyal”, frontálisan, nagyméretű, kőből készült szobrokkal ábrázolták</string>
+            <string language="en">representation of the archaic boy</string>
+          </description>
+          <keyword>
+            <string language="hu">archaikus ifjú,  </string>
+            <string language="en">archaic boy,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Darstellung des veralteten Jungen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">représentation du garçon archaïque</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">respresentação do menino archaic</string>
+          </description>
+          <description>
+            <string language="x-mt-it">rappresentazione del ragazzo archaic</string>
+          </description>
+          <description>
+            <string language="x-mt-el">αντιπροσώπευση του αρχαϊ'ζοντος αγοριού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">representación del muchacho arcaico</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">veralteter Junge,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">garçon archaïque,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">menino archaic,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ragazzo archaic,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αρχαϊ'ζον αγόρι,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">muchacho arcaico,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73406</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=1b13bff4-40fd-4e39-9bb5-f496cc15f981&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

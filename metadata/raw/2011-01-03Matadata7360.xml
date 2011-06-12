@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74452</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74452</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>a03473ee-73de-46d4-8fac-dfccd2085fbf#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hangsorok, hangnemek</string>
+            <string language="en">Scales, modes</string>
+            <string language="x-mt-de">Skalen, Modi</string>
+            <string language="x-mt-fr">Échelles, modes</string>
+            <string language="x-mt-pt">Escalas, modalidades</string>
+            <string language="x-mt-it">Scale, modi</string>
+            <string language="x-mt-el">Κλίμακες, τρόποι</string>
+            <string language="x-mt-es">Escalas, modos</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">7. o. hangsorok, hangnemek</string>
+            <string language="en">p. 7 scales, modes</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, hangsor, hangnem</string>
+            <string language="en">music, scale, mode</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P. 7 Skalen, Modi</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">échelles de p. 7, modes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">escalas do p. 7, modalidades</string>
+          </description>
+          <description>
+            <string language="x-mt-it">scale del p. 7, modi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. 7 κλίμακες, τρόποι</string>
+          </description>
+          <description>
+            <string language="x-mt-es">escalas del p. 7, modos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, Skala, Modus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, échelle, mode</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, escala, modalidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, scala, modo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, κλίμακα, τρόπος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, escala, modo</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">12-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74452</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a03473ee-73de-46d4-8fac-dfccd2085fbf&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74306</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74306</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>83cf9494-788e-41d7-8226-55bc25b72738#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Budavár bevétele</string>
+            <string language="en">Capturing of Budavár</string>
+            <string language="x-mt-de">Erfassen von Budavár</string>
+            <string language="x-mt-fr">Serrage de Budavár</string>
+            <string language="x-mt-pt">Capturar de Budavár</string>
+            <string language="x-mt-it">Bloccando di Budavár</string>
+            <string language="x-mt-el">Σύλληψη Budavαr</string>
+            <string language="x-mt-es">El capturar de Budavár</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Budavár bevétele képben</string>
+            <string language="en">Capturing of Budavár in picture</string>
+          </description>
+          <keyword>
+            <string language="hu">támadások,  hősök,  Budavár,  </string>
+            <string language="en">attacks, heros, Budavár</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Erfassen von Budavár in der Abbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Serrage de Budavár dans l'image</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Capturar de Budavár no retrato</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Bloccando di Budavár nell'immagine</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σύλληψη Budavαr στην εικόνα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El capturar de Budavár en cuadro</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Angriffe, heros, Budavár</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">attaques, heros, Budavár</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ataques, heros, Budavár</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">attacchi, heros, Budavár</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επιθέσεις, heros, Budavαr</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ataques, heros, Budavár</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74306</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=83cf9494-788e-41d7-8226-55bc25b72738&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

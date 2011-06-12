@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75606</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75606</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>a7aa6a4b-99d7-405c-8707-bc9dbb2cda60#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A náci erőszakszervezetek</string>
+            <string language="en">The nazi power-enforcement</string>
+            <string language="x-mt-de">Die nazi Energie-Durchführung</string>
+            <string language="x-mt-fr">La puissance-application nazie</string>
+            <string language="x-mt-pt">O potência-power-enforcement nazi</string>
+            <string language="x-mt-it">L'potenza-applicazione nazista</string>
+            <string language="x-mt-el">Η ναζιστική δύναμη-επιβολή</string>
+            <string language="x-mt-es">La potencia-aplicacio'n nazi</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az SS és az SA bemutatása</string>
+            <string language="en">The introducing of the SS and the SA</string>
+          </description>
+          <keyword>
+            <string language="hu">Hitler,  Németország,  nácizmus,  </string>
+            <string language="en">Hitler, German, nazism</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das Einführen der SS und des SA</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La présentation des solides solubles et de la 
+SA</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduzir dos SS e do SA</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'introduzione degli ss e del SA</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η εισαγωγή του SS και του SA</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El introducir de los SS y del SA</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Hitler, Deutscher, Nazismus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Hitler, Allemand, nazisme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Hitler, alemão, nazism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Hitler, tedesco, nazism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Hitler, γερμανικά, ναζισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Hitler, alemán, nazism</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75606</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a7aa6a4b-99d7-405c-8707-bc9dbb2cda60&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

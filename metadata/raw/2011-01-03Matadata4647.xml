@@ -1,0 +1,171 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75792</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75792</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>b51f1bd0-ecc4-428a-a0ec-12a5e7c0b017#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mach-kúp</string>
+            <string language="en">Mach-cone</string>
+            <string language="x-mt-de">Mach-Kegel</string>
+            <string language="x-mt-fr">Mach-cône</string>
+            <string language="x-mt-pt">Mach-cone</string>
+            <string language="x-mt-it">Mach-cono</string>
+            <string language="x-mt-el">Μαθχ-κώνος</string>
+            <string language="x-mt-es">Mach-cono</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A hangsebességnél nagyobb sebesség esetén létrejön a hangkúp</string>
+            <string language="en">sonic cone in case of supersonic motion </string>
+          </description>
+          <keyword>
+            <string language="hu">hang,  </string>
+            <string language="en">sonic</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">sonic Kegel falls von der Überschallbewegung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">cône sonique en cas de mouvement 
+supersonique</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">cone sonic caso que do movimento supersonic</string>
+          </description>
+          <description>
+            <string language="x-mt-it">cono sonic nel caso di movimento supersonico</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ηχιτικός κώνος σε περίπτωση υπερηχητικής κίνησης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">cono sonic en caso de que del movimiento 
+supersónico</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">sonic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sonique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sonic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sonic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηχιτικός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sonic</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pócs;Dániel;
+fn:Dániel Pócs  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75792</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b51f1bd0-ecc4-428a-a0ec-12a5e7c0b017&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

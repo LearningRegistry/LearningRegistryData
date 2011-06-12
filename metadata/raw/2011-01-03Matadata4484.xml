@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73776</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73776</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>d1943ebc-4f2f-4e09-912b-ef153a871474#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Rozs</string>
+            <string language="en">Rye</string>
+            <string language="x-mt-de">Roggen</string>
+            <string language="x-mt-fr">Seigle</string>
+            <string language="x-mt-pt">Centeio</string>
+            <string language="x-mt-it">Segale</string>
+            <string language="x-mt-el">Σίκαλη</string>
+            <string language="x-mt-es">Centeno</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Rozskalászok</string>
+            <string language="en">Rye's ears of corn</string>
+          </description>
+          <keyword>
+            <string language="hu">gabona,  kalász,  egyszikű,  szemtermés,  </string>
+            <string language="en">corn, ear of corn, monocotyledonous, grain</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Kornähren des Roggens</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les épis du seigle de blé</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Orelhas do centeio de milho</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Spighe della segale del granoturco</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτιά σίκαλης του καλαμποκιού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Espigas de trigo del centeno</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Mais, Kornähre, monocotyledonous, Korn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">maïs, épi de blé, monocotyledonous, grain</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">milho, orelha de milho, monocotyledonous, grão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cereale, spiga del granoturco, monocotyledonous, grano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καλαμπόκι, αυτί του καλαμποκιού, monocotyledonous, σιτάρι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">maíz, espiga de trigo, monocotyledonous, grano</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73776</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d1943ebc-4f2f-4e09-912b-ef153a871474&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

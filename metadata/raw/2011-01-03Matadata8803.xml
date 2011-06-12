@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77042</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77042</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7d449a32-c731-45fb-9189-6984f9701d0a#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Krizantém</string>
+            <string language="en">Chrysanthemum</string>
+            <string language="x-mt-de">Chrysantheme</string>
+            <string language="x-mt-fr">Chrysanthemum</string>
+            <string language="x-mt-pt">Chrysanthemum</string>
+            <string language="x-mt-it">Crisantemo</string>
+            <string language="x-mt-el">Χρυσάνθεμο</string>
+            <string language="x-mt-es">Crisantemo</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A krizantém rövidnappalos növény</string>
+            <string language="en">Chrysanthemum is a short-a-day plant</string>
+          </description>
+          <keyword>
+            <string language="hu">rövidnappalos,  </string>
+            <string language="en">short-a-day</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Chrysantheme ist ein Kurz-eintagbetrieb</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le chrysanthemum est une usine de court-un-jour</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O chrysanthemum é uma planta de curto-um-dia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il crisantemo è una pianta di corto-un-giorno</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το χρυσάνθεμο είναι εγκαταστάσεις κοντός-α-ημέρας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El crisantemo es una planta del corto-uno-di'a</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kurz-eintag</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">court-un-jour</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">curto-um-dia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">corto-un-giorno</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κοντός-α-ημέρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">corto-uno-di'a</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77042</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7d449a32-c731-45fb-9189-6984f9701d0a&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

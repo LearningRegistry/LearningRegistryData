@@ -1,0 +1,136 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73138</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73138</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>bea364f8-65ed-4c3c-aec2-c2bc84bd97df#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Ponthalmazok ábrázolása koordináta-rendszerben</string>
+            <string language="en">The representation of point sets in the system of co-ordinates</string>
+            <string language="x-mt-de">Die Darstellung der Punktsets im System von 
+koordiniert</string>
+            <string language="x-mt-fr">La représentation des positionnements de point 
+dans le système de coordonne</string>
+            <string language="x-mt-pt">A respresentação de jogos do ponto no sistema 
+de coordena</string>
+            <string language="x-mt-it">La rappresentazione degli insiemi del punto nel 
+sistema di coordina</string>
+            <string language="x-mt-el">Η αντιπροσώπευση των συνόλων σημείου στο σύστημα των 
+συντεταγμένων</string>
+            <string language="x-mt-es">La representación de los conjuntos de la punta en
+el sistema de coordina</string>
+          </title>
+          <language>hu</language>
+          <keyword>
+            <string language="hu">pothalmaz, ábrázolás, koordináta-rendszer, koordináta</string>
+            <string language="en">point set, demonstration, system of co-ordinate, co-ordinate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punktset, Demonstration, System von koordinieren, 
+koordinieren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">le positionnement de point, la démonstration, 
+système de coordonnent, coordonnent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">o jogo do ponto, demonstração, sistema de 
+coordena, coordena</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">l'insieme del punto, la dimostrazione, sistema di
+coordina, coordina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύνολο σημείου, επίδειξη, σύστημα της συντεταγμένης, 
+συντεταγμένη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el conjunto de la punta, demostración, sistema de
+coordina, coordina</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">14-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73138</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=bea364f8-65ed-4c3c-aec2-c2bc84bd97df&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77267</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77267</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>6606fbc0-cdd8-4e08-9a95-6060ea59b771#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az isztambuli Antifonáléból</string>
+            <string language="en">From the antiphonal of Istanbul</string>
+            <string language="x-mt-de">Von antiphonal von Istanbul</string>
+            <string language="x-mt-fr">Du d'antienne d'Istanbul</string>
+            <string language="x-mt-pt">Do antiphonal de Istambul</string>
+            <string language="x-mt-it">Dal antiphonal di Costantinopoli</string>
+            <string language="x-mt-el">Από το antiphonal της Κωνσταντινούπολης</string>
+            <string language="x-mt-es">Del antiphonal de Estambul</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Részlet az isztambuli Antifonáléból</string>
+            <string language="en">A passage from the antiphonal of Istanbul</string>
+          </description>
+          <keyword>
+            <string language="hu">Antifonálé hangtan zeneelmélet,  </string>
+            <string language="en">antiphonal acoustics musical theory</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ein Durchgang von antiphonal von Istanbul</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un passage du d'antienne d'Istanbul</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma passagem do antiphonal de Istambul</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un passaggio dal antiphonal di Costantinopoli</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια μετάβαση από το antiphonal της Κωνσταντινούπολης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un paso del antiphonal de Estambul</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">antiphonal Akustikmusikaltheorie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">théorie d'antienne de musical d'acoustique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">teoria antiphonal do musical da acústica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">teoria antiphonal di musical di acustica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική θεωρία ακουστικής antiphonal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">teoría antiphonal del musical de la acústica</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77267</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6606fbc0-cdd8-4e08-9a95-6060ea59b771&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/817219832</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>817219832</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>52259421-07a8-4c86-afae-f5f7f05239e3#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Másodfokú függvény III.</string>
+            <string language="en">Quadratic function III.</string>
+            <string language="x-mt-de">Quadratische Funktion III.</string>
+            <string language="x-mt-fr">Fonction quadratique III.</string>
+            <string language="x-mt-pt">Função quadrática III.</string>
+            <string language="x-mt-it">Funzione quadratica III.</string>
+            <string language="x-mt-el">Δευτέρου βαθμού λειτουργία ΙΙΙ.</string>
+            <string language="x-mt-es">Función cuadrática III.</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Másodfokú függvény szemléltetése III.</string>
+            <string language="en">The demonstration of the quadratic function III.</string>
+          </description>
+          <keyword>
+            <string language="hu">másodfokú, függvény</string>
+            <string language="en">quadratic, function</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Demonstration der quadratischen Funktion III.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La démonstration de la fonction quadratique III.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A demonstração da função quadrática III.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La dimostrazione della funzione quadratica III.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η επίδειξη της δευτέρου βαθμού λειτουργίας ΙΙΙ.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La demostración de la función cuadrática III.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">quadratische Gleichung, Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">équation quadratique, fonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">equação quadrática, função</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">espressione quadratica, funzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εξίσωση δευτέρου βαθμού, λειτουργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ecuación cuadrática, función</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>817219832</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=52259421-07a8-4c86-afae-f5f7f05239e3&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

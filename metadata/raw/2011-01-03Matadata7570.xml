@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76164</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76164</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>226e6021-31b7-4420-a3fb-dae3a20da446#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A fénymásoló vázlata</string>
+            <string language="en">Sketch of the copy machine</string>
+            <string language="x-mt-de">Skizze der Exemplarmaschine</string>
+            <string language="x-mt-fr">Croquis de la machine de copie</string>
+            <string language="x-mt-pt">Esboço da máquina da cópia</string>
+            <string language="x-mt-it">Abbozzo della macchina della copia</string>
+            <string language="x-mt-el">Σκίτσο της μηχανής αντιγράφων</string>
+            <string language="x-mt-es">Bosquejo de la máquina de la copia</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A fénymásoló vázlata</string>
+            <string language="en">Sketch of the copy machine</string>
+          </description>
+          <keyword>
+            <string language="hu">fénymásoló,  </string>
+            <string language="en">Copy Machine</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Skizze der Exemplarmaschine</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Croquis de la machine de copie</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esboço da máquina da cópia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Abbozzo della macchina della copia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σκίτσο της μηχανής αντιγράφων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Bosquejo de la máquina de la copia</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Copy Maschine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Machine de Copy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Máquina Do Copy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Macchina Del Copy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μηχανή αντιγράφων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Máquina Del Copy</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76164</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=226e6021-31b7-4420-a3fb-dae3a20da446&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

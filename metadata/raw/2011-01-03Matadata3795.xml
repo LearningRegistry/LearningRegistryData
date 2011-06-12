@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76672</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76672</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>fd72b2a3-cae4-44d9-9e69-a31eef4afc78#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Barokk kertrészlet</string>
+            <string language="en">Section of a Baroque garden</string>
+            <string language="x-mt-de">Kapitel eines barocken Gartens</string>
+            <string language="x-mt-fr">Section d'un jardin baroque</string>
+            <string language="x-mt-pt">Seção de um jardim baroque</string>
+            <string language="x-mt-it">Sezione di un giardino baroque</string>
+            <string language="x-mt-el">Τμήμα ενός μπαρόκ κήπου</string>
+            <string language="x-mt-es">Sección de un jardín barroco</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Barokk kertrészlet képe</string>
+            <string language="en">A photo about a section of a Baroque garden</string>
+          </description>
+          <keyword>
+            <string language="hu">barokk ,  </string>
+            <string language="en">Baroque</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ein Foto über ein Kapitel eines barocken Gartens</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une photo au sujet d'une section d'un jardin 
+baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma foto sobre uma seção de um jardim baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una foto circa una sezione di un giardino 
+baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια φωτογραφία για ένα τμήμα ενός μπαρόκ κήπου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una foto sobre una sección de un jardín 
+barroco</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Barock</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μπαρόκ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Barroco</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Veszprémi Egyetem
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76672</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=fd72b2a3-cae4-44d9-9e69-a31eef4afc78&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76587</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76587</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e2df5a86-e8e0-426d-b42e-0007c6984ace#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az egyenes és pontjai</string>
+            <string language="en">Line and its points</string>
+            <string language="x-mt-de">Zeile und seine Punkte</string>
+            <string language="x-mt-fr">Ligne et ses points</string>
+            <string language="x-mt-pt">Linha e seus pontos</string>
+            <string language="x-mt-it">Riga ed i relativi punti</string>
+            <string language="x-mt-el">Γραμμή και τα σημεία του</string>
+            <string language="x-mt-es">Línea y sus puntas</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az egyenes és pontjainak szemléltetése.</string>
+            <string language="en">Demonstration of line and its points</string>
+          </description>
+          <keyword>
+            <string language="hu">11. osztály,  kép,  </string>
+            <string language="en">11. class, picture, </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Demonstration der Zeile und seiner Punkte</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Démonstration de ligne et de ses points</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Demonstração da linha e dos seus pontos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dimostrazione della riga e dei relativi punti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επίδειξη της γραμμής και των σημείων του</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Demostración de la línea y de sus puntas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">11. Kategorie, Abbildung,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">11. classe, image,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">11. classe, retrato,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">11. codice categoria, immagine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">11, κλάση, εικόνα,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">11. clase, cuadro,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76587</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e2df5a86-e8e0-426d-b42e-0007c6984ace&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

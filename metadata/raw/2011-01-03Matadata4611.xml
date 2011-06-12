@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76301</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76301</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>da31640b-06a4-47cd-9118-470fb7607b29#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Egy téglatest</string>
+            <string language="en">rectangle body</string>
+            <string language="x-mt-de">Viereck Körper</string>
+            <string language="x-mt-fr">corps de rectangle</string>
+            <string language="x-mt-pt">corpo do retângulo</string>
+            <string language="x-mt-it">corpo di rettangolo</string>
+            <string language="x-mt-el">σώμα ορθογωνίων</string>
+            <string language="x-mt-es">cuerpo del rectángulo</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Téglatest szemléltetése.</string>
+            <string language="en">rectangle body-illustration</string>
+          </description>
+          <keyword>
+            <string language="hu">12. osztály,  ábra,  téglatest,  </string>
+            <string language="en">12.class    picture,   rectangle body,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Viereck Körper-Abbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">corps-illustration de rectangle</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">corpo-ilustração do retângulo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">corpo-illustrazione di rettangolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σώμα-απεικόνιση ορθογωνίων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">cuerpo-ilustracio'n del rectángulo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">12.class Abbildung, Viereck Körper,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">12.class image, corps de rectangle,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">12.class retrato, corpo do retângulo,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">12.class immagine, corpo di rettangolo,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">12.class εικόνα, σώμα ορθογωνίων,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">12.class cuadro, cuerpo del rectángulo,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76301</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=da31640b-06a4-47cd-9118-470fb7607b29&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

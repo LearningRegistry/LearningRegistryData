@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75908</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75908</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>4b728435-ec30-11d7-8380-000acd021b2b#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mezőgazdasági munkák ábrázolása</string>
+            <string language="en">The representation of the farming works </string>
+            <string language="x-mt-de">Die Darstellung der bewirtschaftenden Arbeiten</string>
+            <string language="x-mt-fr">La représentation des travaux cultivateurs</string>
+            <string language="x-mt-pt">A respresentação dos trabalhos cultivando</string>
+            <string language="x-mt-it">La rappresentazione degli impianti d'agricoltura</string>
+            <string language="x-mt-el">Η αντιπροσώπευση των εργασιών καλλιέργειας</string>
+            <string language="x-mt-es">La representación de los trabajos que cultivan</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Mezőgazdasági munkák ábrázolása egy középkori krónikában: cséplés</string>
+            <string language="en">The representation of the farming works in a medieval chronicle: threshing</string>
+          </description>
+          <keyword>
+            <string language="hu">cséplés,  öltözködés,  cséphadaró,  gereblye,  </string>
+            <string language="en">threshing, clothing, thresher, rake   </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Darstellung des Bewirtschaftens arbeitet in 
+einer mittelalterlichen Chronik: Dreschen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La représentation de l'affermage fonctionne dans 
+une chronique médiévale : battage</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A respresentação de cultivar trabalha em um 
+chronicle medieval: threshing</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La rappresentazione dell'agricoltura funziona in 
+un chronicle medioevale: trebbiatura</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η αντιπροσώπευση των εργασιών καλλιέργειας σε έναν 
+μεσαιωνικό εξιστορεί κατά γράμμα: αλώνισμα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La representación de cultivar trabaja en un 
+chronicle medieval: trilla</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Dreschen, kleidend, Thresher, Rührstange</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">battage, vêtant, batteuse, râteau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">threshing, vestindo-se, thresher, ancinho</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">trebbiatura, coprendo, trebbiatrice, rastrello</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αλώνισμα, ενδυμασία, αλωνιστική μηχανή, τσουγκράνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">trilla, arropando, trilladora, rastrillo</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75908</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=4b728435-ec30-11d7-8380-000acd021b2b&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

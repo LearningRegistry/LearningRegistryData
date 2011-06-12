@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75609</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75609</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>fc611391-9ea0-48b2-a7bb-5aea5dc4525c#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az artézi kút működése</string>
+            <string language="en">artesian well</string>
+            <string language="x-mt-de">artesischer Brunnen</string>
+            <string language="x-mt-fr">puits artésien</string>
+            <string language="x-mt-pt">poço artesiano</string>
+            <string language="x-mt-it">pozzo artesiano</string>
+            <string language="x-mt-el">αρτεσιανό πηγάδι</string>
+            <string language="x-mt-es">pozo artesiano</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A közlekedőedények gyakorlati alkalmazása</string>
+            <string language="en">vessels in practise </string>
+          </description>
+          <keyword>
+            <string language="hu">közlekedőedények,  </string>
+            <string language="en">vessels</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Behälter in üben</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">les navires dans pratiquent</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">as embarcações em praticam</string>
+          </description>
+          <description>
+            <string language="x-mt-it">i vasi in si esercitano in</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σκάφη στην πρακτική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">los recipientes en practican</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Behälter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">navires</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">embarcações</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vasi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σκάφη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">recipientes</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pálfi ;Zoltán;
+fn:Zoltán Pálfi 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75609</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=fc611391-9ea0-48b2-a7bb-5aea5dc4525c&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74448</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74448</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>1982a19d-3452-4f3f-bc82-bd57469dd1d0#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Csikósok</string>
+            <string language="en">horsemen</string>
+            <string language="x-mt-de">Reiter</string>
+            <string language="x-mt-fr">cavaliers</string>
+            <string language="x-mt-pt">horsemen</string>
+            <string language="x-mt-it">horsemen</string>
+            <string language="x-mt-el">ιππείς</string>
+            <string language="x-mt-es">jinetes</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">alföldi jelenet</string>
+            <string language="en">scene in the hungarian great plain</string>
+          </description>
+          <keyword>
+            <string language="hu">gémeskút,  lovak,  népviselet,  </string>
+            <string language="en">shadoof, horses , traditional dress</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Szene in der ungarischen Prairie</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">scène dans la grande plaine hongroise</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">cena na planície grande hungarian</string>
+          </description>
+          <description>
+            <string language="x-mt-it">scena nella pianura grande ungherese</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σκηνή στην ουγγρική μεγάλη πεδιάδα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">escena en el gran llano húngaro</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">shadoof, Pferde, traditionelles Kleid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">shadoof, chevaux, robe traditionnelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">shadoof, cavalos, vestido tradicional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">shadoof, cavalli, vestito tradizionale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">shadoof, άλογα, παραδοσιακό φόρεμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">shadoof, caballos, alineada tradicional</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74448</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=1982a19d-3452-4f3f-bc82-bd57469dd1d0&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

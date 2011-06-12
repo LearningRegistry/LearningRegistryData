@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76565</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76565</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7221501b-3f32-43fd-bb23-beba2b7ab365#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Teljes visszaverődés</string>
+            <string language="en">Fully reflection</string>
+            <string language="x-mt-de">Völlig Reflexion</string>
+            <string language="x-mt-fr">Entièrement réflexion</string>
+            <string language="x-mt-pt">Inteiramente reflexão</string>
+            <string language="x-mt-it">Completamente riflessione</string>
+            <string language="x-mt-el">Πλήρως αντανάκλαση</string>
+            <string language="x-mt-es">Completamente reflexión</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A teljes visszaverődés bemutatása</string>
+            <string language="en">Introduction of the fully reflection</string>
+          </description>
+          <keyword>
+            <string language="hu">teljes visszaverődés,  </string>
+            <string language="en">fully reflection,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Einleitung der völlig Reflexion</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Introduction entièrement de la réflexion</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introdução inteiramente da reflexão</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduzione completamente della riflessione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισαγωγή της πλήρως αντανάκλασης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introducción completamente de la reflexión</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">völlig Reflexion,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">entièrement réflexion,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">inteiramente reflexão,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">completamente riflessione,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πλήρως αντανάκλαση,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">completamente reflexión,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76565</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7221501b-3f32-43fd-bb23-beba2b7ab365&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

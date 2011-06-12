@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74059</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74059</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7bea21ed-3683-4382-9a9f-b94c4d3bd201#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kúp típusok</string>
+            <string language="en">cone types</string>
+            <string language="x-mt-de">Kegeltypen</string>
+            <string language="x-mt-fr">types de cône</string>
+            <string language="x-mt-pt">tipos do cone</string>
+            <string language="x-mt-it">tipi del cono</string>
+            <string language="x-mt-el">τύποι κώνων</string>
+            <string language="x-mt-es">tipos del cono</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kúp típusok bemutatása</string>
+            <string language="en">Introduction of the cone types</string>
+          </description>
+          <keyword>
+            <string language="hu">fizika, kúp, típus</string>
+            <string language="en">Physics, cone, type</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Einleitung der Kegeltypen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Introduction des types de cône</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introdução dos tipos do cone</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduzione dei tipi del cono</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισαγωγή των τύπων κώνων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introducción de los tipos del cono</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, Kegel, Typ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique, cône, type</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física, cone, tipo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica, cono, tipo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική, κώνος, τύπος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física, cono, tipo</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Győző;Eszter;
+fn:Eszter Győző 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74059</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7bea21ed-3683-4382-9a9f-b94c4d3bd201&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

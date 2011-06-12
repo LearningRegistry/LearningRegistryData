@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/623448380</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>623448380</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>f85f4a1e-4cac-495c-99ae-beb0f8dd090b#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">A második bécsi iskola</string>
+            <string language="en">The second Viennese school</string>
+            <string language="x-mt-de">Die zweite Wiener Schule</string>
+            <string language="x-mt-fr">La deuxième école viennoise</string>
+            <string language="x-mt-pt">A segunda escola viennese</string>
+            <string language="x-mt-it">La seconda scuola viennese</string>
+            <string language="x-mt-el">Το δεύτερο βιενέζικο σχολείο</string>
+            <string language="x-mt-es">La segunda escuela vienesa</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Dodekafónia</string>
+            <string language="en">Dodecaphonic</string>
+          </description>
+          <keyword>
+            <string language="hu">bécs, iskola, második</string>
+            <string language="en">Vienna, school, second</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Dodecaphonic</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dodecaphonic</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Dodecaphonic</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dodecaphonic</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Dodecaphonic</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Dodecaphonic</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wien, Schule, zweite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Vienne, école, deuxième</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Viena, escola, segunda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Vienna, scuola, seconda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βιέννη, σχολείο, δεύτερο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Viena, escuela, segunda</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">15-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>623448380</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=f85f4a1e-4cac-495c-99ae-beb0f8dd090b&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

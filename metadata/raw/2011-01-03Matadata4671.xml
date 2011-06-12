@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76810</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76810</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>311ed11b-8b36-484f-8c1e-ebe6a4929a8b#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Exocitózis</string>
+            <string language="en">Exocytosis</string>
+            <string language="x-mt-de">Exocytosis</string>
+            <string language="x-mt-fr">Exocytosis</string>
+            <string language="x-mt-pt">Exocytosis</string>
+            <string language="x-mt-it">Exocytosis</string>
+            <string language="x-mt-el">Exocytosis</string>
+            <string language="x-mt-es">Exocytosis</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az exocitózis folyamata</string>
+            <string language="en">Process of exocytosis</string>
+          </description>
+          <keyword>
+            <string language="hu">exocitózis,  anyagleadás,  </string>
+            <string language="en">exocytosis, egress of matter</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Prozeß von exocytosis</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Processus d'exocytosis</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Processo do exocytosis</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Processo del exocytosis</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Διαδικασία exocytosis</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Proceso del exocytosis</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">exocytosis, Egress des Stoffes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">exocytosis, sortie de matière</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">exocytosis, egress da matéria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">exocytosis, uscita della materia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">exocytosis, έξοδος του θέματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">exocytosis, salida de la materia</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76810</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=311ed11b-8b36-484f-8c1e-ebe6a4929a8b&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

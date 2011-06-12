@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77367</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77367</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>cc971128-03a1-11d8-89de-d4002e51da35#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Majorság Buda környékén</string>
+            <string language="en">Farmstead around Buda</string>
+            <string language="x-mt-de">Farmstead um Buda</string>
+            <string language="x-mt-fr">Ferme autour de Buda</string>
+            <string language="x-mt-pt">Farmstead em torno de Buda</string>
+            <string language="x-mt-it">Farmstead intorno a Buda</string>
+            <string language="x-mt-el">Farmstead γύρω από Buda</string>
+            <string language="x-mt-es">Farmstead alrededor de Buda</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Majorság Buda környékén, 19. század első fele</string>
+            <string language="en">Farmstead around Buda, first half of the 19. century</string>
+          </description>
+          <keyword>
+            <string language="hu">mezőgazdaság,  </string>
+            <string language="en">agriculture</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Farmstead um Buda, erste Hälfte des Jahrhunderts 
+19.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ferme autour de Buda, première moitié du 
+siècle 19.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Farmstead em torno de Buda, primeira metade do 
+século 19.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Farmstead intorno a Buda, prima metà del secolo 
+19.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Farmstead γύρω από Buda, πρώτο μισό του αιώνα 
+19,</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Farmstead alrededor de Buda, primera mitad del 
+siglo 19.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Landwirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">agriculture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">agricultura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">agricoltura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agricultura</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77367</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=cc971128-03a1-11d8-89de-d4002e51da35&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

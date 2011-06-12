@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74878</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74878</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>4124ad21-86c4-444c-273a-21ed2ac65fa2#1#8</entry>
+          </identifier>
+          <title>
+            <string language="hu">Német gótikus építészet</string>
+            <string language="en">german gothic architecture</string>
+            <string language="x-mt-de">deutsche gotische Architektur</string>
+            <string language="x-mt-fr">architecture gothique allemande</string>
+            <string language="x-mt-pt">arquitetura gothic alemão</string>
+            <string language="x-mt-it">architettura gotica tedesca</string>
+            <string language="x-mt-el">γερμανική γοτθική αρχιτεκτονική</string>
+            <string language="x-mt-es">configuración gótica alemana</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Német gótikus építészet</string>
+            <string language="en">german gothic architecture</string>
+          </description>
+          <keyword>
+            <string language="hu">gótikus építészet,  gótika,  német,  </string>
+            <string language="en">gothic architecture, gothic, german</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">deutsche gotische Architektur</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">architecture gothique allemande</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">arquitetura gothic alemão</string>
+          </description>
+          <description>
+            <string language="x-mt-it">architettura gotica tedesca</string>
+          </description>
+          <description>
+            <string language="x-mt-el">γερμανική γοτθική αρχιτεκτονική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">configuración gótica alemana</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">gotische Architektur, gotisch, deutsch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">architecture gothique, gothique, allemande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">arquitetura gothic, gothic, alemão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">architettura gotica, gotico, tedesca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γοτθική αρχιτεκτονική, γοτθικός, γερμανικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">configuración gótica, gótico, alemana</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">13-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74878</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=4124ad21-86c4-444c-273a-21ed2ac65fa2&amp;v=1&amp;b=8</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

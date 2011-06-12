@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73329</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73329</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>c42ba190-ead6-4c1a-b145-e42a937f906d#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A madarak testfelépítése</string>
+            <string language="en">Build of birds</string>
+            <string language="x-mt-de">Bau der Vögel</string>
+            <string language="x-mt-fr">Construction des oiseaux</string>
+            <string language="x-mt-pt">Configuração dos pássaros</string>
+            <string language="x-mt-it">Configurazione degli uccelli</string>
+            <string language="x-mt-el">Κατασκευή των πουλιών</string>
+            <string language="x-mt-es">Estructura de pájaros</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A madarak testének rajza a belső szervek feltüntetésével</string>
+            <string language="en">Drawing of birds' body showing internal organs</string>
+          </description>
+          <keyword>
+            <string language="hu">madarak,  begy,  zúzógyomor,  </string>
+            <string language="en">birds, crop, pulping stomach</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Zeichnung des Körpers der Vögel interne Organe 
+zeigend</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Schéma du corps des oiseaux montrant les organes 
+internes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenho do corpo dos pássaros que mostra órgãos
+internos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione del corpo degli uccelli che mostra 
+gli organi interni</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχέδιο του σώματος των πουλιών που εμφανίζει 
+εσωτερικά όργανα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Gráfico del cuerpo de los pájaros que muestra 
+órganos internos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Vögel, Getreide, zermahlender Magen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">oiseaux, collecte, estomac de réduction en pulpe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pássaros, colheita, estômago pulping</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uccelli, il raccolto, stomaco di spappolamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πουλιά, συγκομιδή, πολτοποιώντας στομάχι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pájaros, cosecha, estómago que reduce a pulpa</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73329</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=c42ba190-ead6-4c1a-b145-e42a937f906d&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

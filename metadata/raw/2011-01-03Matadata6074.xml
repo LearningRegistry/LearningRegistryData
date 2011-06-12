@@ -1,0 +1,175 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75474</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75474</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>365674a7-55b8-4f88-9f81-6a4ff5380c67#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Térben 2 ponttól egyenlő távolságra lévő pontok halmaza</string>
+            <string language="en">mass of points of equal distance from two points in the space=surface of spheres</string>
+            <string language="x-mt-de">Masse der Punkte des gleichen Abstandes von zwei 
+Punkten im space=surface der Bereiche</string>
+            <string language="x-mt-fr">la masse des points de la distance égale de deux 
+points dans le space=surface des sphères</string>
+            <string language="x-mt-pt">massa dos pontos da distância igual de dois 
+pontos no space=surface das esferas</string>
+            <string language="x-mt-it">massa di punti della distanza uguale da due punti 
+nello space=surface delle sfere</string>
+            <string language="x-mt-el">μάζα των σημείων της ίσης απόστασης από δύο σημεία 
+στο space=surface των σφαιρών</string>
+            <string language="x-mt-es">masa de puntas de la distancia igual a partir de 
+dos puntas en el space=surface de esferas</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Nevezetes ponthalmazok</string>
+            <string language="en">notable mass of points</string>
+          </description>
+          <keyword>
+            <string language="hu">pont, tér, távolság, halmaz</string>
+            <string language="en">point, space, distance, mass</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">bemerkenswerte Masse der Punkte</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">la masse notable des points</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">massa notável dos pontos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">massa notevole di punti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ξεχωριστή μάζα των σημείων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">masa notable de puntas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Punkt, Platz, Abstand, Masse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">point, l'espace, distance, la masse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ponto, espaço, distância, massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto, spazio, distanza, massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημείο, διάστημα, απόσταση, μάζα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">punta, espacio, distancia, masa</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Bácskay;András;
+fn:András Bácskay  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75474</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=365674a7-55b8-4f88-9f81-6a4ff5380c67&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,152 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/339534820</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>339534820</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>2a479cad-81e9-4da6-8e58-8be3b2b883db#1#7</entry>
+          </identifier>
+          <title>
+            <string language="hu">Henger, kúp</string>
+            <string language="en">Cylinder, cone</string>
+            <string language="x-mt-de">Zylinder, Kegel</string>
+            <string language="x-mt-fr">Cylindre, cône</string>
+            <string language="x-mt-pt">Cilindro, cone</string>
+            <string language="x-mt-it">Cilindro, cono</string>
+            <string language="x-mt-el">Κύλινδρος, κώνος</string>
+            <string language="x-mt-es">Cilindro, cono</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Henger, kúp és gömb térfogata, felszíne</string>
+            <string language="en">The volume and area of the cylinder, the cone and the sphere</string>
+          </description>
+          <keyword>
+            <string language="hu">henger, kúp</string>
+            <string language="en">cylinder, cone</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der Datenträger und der Bereich des Zylinders, 
+des Kegels und des Bereichs</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le volume et la zone du cylindre, du cône et de 
+la sphère</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O volume e a área do cilindro, do cone e da 
+esfera</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il volume e la zona del cilindro, del cono e della
+sfera</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η ένταση του ήχου και η περιοχή του κυλίνδρου, του 
+κώνου και της σφαίρας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El volumen y el área del cilindro, del cono y de
+la esfera</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Zylinder, Kegel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cylindre, cône</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cilindro, cone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cilindro, cono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύλινδρος, κώνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cilindro, cono</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">17-18</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>339534820</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=2a479cad-81e9-4da6-8e58-8be3b2b883db&amp;v=1&amp;b=7</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

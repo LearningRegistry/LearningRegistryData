@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74515</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74515</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>bd1d7708-f68e-4a93-8d7c-5ef02ca180e8#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mazurka</string>
+            <string language="en">Mazurka</string>
+            <string language="x-mt-de">Masurka</string>
+            <string language="x-mt-fr">Masurka</string>
+            <string language="x-mt-pt">Mazurka</string>
+            <string language="x-mt-it">Mazurka</string>
+            <string language="x-mt-el">Μαζούρκα</string>
+            <string language="x-mt-es">Mazurka</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Mazurka-t táncoló pár képe</string>
+            <string language="en">The picture of a couple dancing mazurka</string>
+          </description>
+          <keyword>
+            <string language="hu">Mazurka ritmus tánc,  </string>
+            <string language="en">Mazurka rhythm dance</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Abbildung einer tanzenden Masurkas der Paare</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'image d'une masurka dansante de couples</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O retrato de um mazurka dançando dos pares</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'immagine di un mazurka ballante delle coppie</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η εικόνα μιας χορεύοντας μαζούρκας ζευγών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El cuadro de un mazurka que baila de los pares</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Masurkarhythmustanz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Danse de rythme de masurka</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Dança do ritmo do mazurka</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Ballo di ritmo di mazurka</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χορός ρυθμού μαζουρκών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Danza del ritmo del mazurka</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74515</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=bd1d7708-f68e-4a93-8d7c-5ef02ca180e8&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

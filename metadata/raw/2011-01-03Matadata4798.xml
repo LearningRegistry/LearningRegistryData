@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/72906</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>72906</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40dad1e4-b744-43fb-242b-8107f35f8a6e#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Virtuális tárlatrendezés</string>
+            <string language="en">virtual exhibition</string>
+            <string language="x-mt-de">virtuelle Ausstellung</string>
+            <string language="x-mt-fr">exposition virtuelle</string>
+            <string language="x-mt-pt">exhibition virtual</string>
+            <string language="x-mt-it">mostra virtuale</string>
+            <string language="x-mt-el">εικονική έκθεση</string>
+            <string language="x-mt-es">exposición virtual</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A tanuló feladata a képek közül két halmazba kiválasztani a Magyar Nemzeti Galériába illetve az Esztergomi Keresztény Múzeumba tartozóakat</string>
+            <string language="en">pupil's task:selection of the pictures </string>
+          </description>
+          <keyword>
+            <string language="hu">San Apollinare Nuovo,  bizánci építészet,  </string>
+            <string language="en">San Apollinare Nuovo, Byzantine architecture,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">task:selection der Pupille der Abbildungen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">l'élève chargent des images</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">task:selection da pupila dos retratos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">task:selection della pupilla delle immagini</string>
+          </description>
+          <description>
+            <string language="x-mt-el">task:selection μαθητή των εικόνων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">task:selection de la pupila de los cuadros</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">San Apollinare Nuovo, byzantinische Architektur,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">San Apollinare Nuovo, architecture bizantine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">San Apollinare Nuovo, arquitetura byzantine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">San Apollinare Nuovo, architettura byzantine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">SAN Apollinare Nuovo, βυζαντινή αρχιτεκτονική,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">San Apollinare Nuovo, configuración byzantine,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>72906</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40dad1e4-b744-43fb-242b-8107f35f8a6e&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

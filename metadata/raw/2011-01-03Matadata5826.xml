@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76152</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76152</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>aed174eb-c463-4bb0-8c0f-ffeb072f00a7#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Szüfrazsett</string>
+            <string language="en">Suffragette</string>
+            <string language="x-mt-de">Suffragette</string>
+            <string language="x-mt-fr">Suffragette</string>
+            <string language="x-mt-pt">Suffragette</string>
+            <string language="x-mt-it">Suffragette</string>
+            <string language="x-mt-el">Suffragette</string>
+            <string language="x-mt-es">Suffragette</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Szüfrazsettek tüntetés közben</string>
+            <string language="en">Sufragettes during demonstration</string>
+          </description>
+          <keyword>
+            <string language="hu">20. század,  feminizmus,  női emancipáció,  </string>
+            <string language="en">20. century, feminism, woman's emancipation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sufragettes während der Demonstration</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Sufragettes pendant la démonstration</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Sufragettes durante a demonstração</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Sufragettes durante la dimostrazione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Sufragettes κατά τη διάρκεια της επίδειξης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Sufragettes durante la demostración</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">20. Jahrhundert, Feminismus, Emanzipation der Frau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">20. siècle, le féminisme, l'émancipation de la 
+femme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">20. século, feminismo, emancipation da mulher</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">20. secolo, feminism, emancipazione della donna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">20 αιώνας, φεμινισμός, χειραφέτηση της γυναίκας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">20. siglo, feminismo, emancipación de la mujer</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76152</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=aed174eb-c463-4bb0-8c0f-ffeb072f00a7&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

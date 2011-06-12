@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74341</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74341</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>bf4bdde6-0f23-41b2-afa2-43707d949092#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az EU fejlődése</string>
+            <string language="en">Development of EU</string>
+            <string language="x-mt-de">Entwicklung des EUS</string>
+            <string language="x-mt-fr">Développement d'EU</string>
+            <string language="x-mt-pt">Desenvolvimento do EU</string>
+            <string language="x-mt-it">Sviluppo dell'UE</string>
+            <string language="x-mt-el">Ανάπτυξη της ΕΕ</string>
+            <string language="x-mt-es">Desarrollo del EU</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az EU fejlődése</string>
+            <string language="en">Development of EU</string>
+          </description>
+          <keyword>
+            <string language="hu">EU, fejlődés, EU fejlődése</string>
+            <string language="en">EU, development, development of EU</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Entwicklung des EUS</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Développement d'EU</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenvolvimento do EU</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Sviluppo dell'UE</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ανάπτυξη της ΕΕ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Desarrollo del EU</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">EU, Entwicklung, Entwicklung des EUS</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">EU, développement, développement d'EU</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">EU, desenvolvimento, desenvolvimento do EU</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">UE, sviluppo, sviluppo dell'UE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΕΕ, ανάπτυξη, ανάπτυξη της ΕΕ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">EU, desarrollo, desarrollo del EU</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Szegedi Tudományegyetem, Kísérleti Fizikai Tanszék, Szakmódszertani Csoport
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74341</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=bf4bdde6-0f23-41b2-afa2-43707d949092&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

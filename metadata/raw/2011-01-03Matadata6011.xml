@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75244</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75244</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>562aee3e-c5af-42bb-b061-43a268038b31#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Oldalfelező merőleges- ábra</string>
+            <string language="en">Median perpendicular - Figure</string>
+            <string language="x-mt-de">Mittleres Senkrechtes - Abbildung</string>
+            <string language="x-mt-fr">Perpendiculaire médiane - figure</string>
+            <string language="x-mt-pt">Perpendicular mediana - figura</string>
+            <string language="x-mt-it">Perpendicolare mediana - figura</string>
+            <string language="x-mt-el">Μεσαία κάθετος - αριθμός</string>
+            <string language="x-mt-es">Perpendicular mediano - figura</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az oldalfelezőkre vonatkozó tétel bizonyításához kapcsolódó ábra.</string>
+            <string language="en">Figure connected to the proving of the theorem relating to the median lines</string>
+          </description>
+          <keyword>
+            <string language="hu">merőleges, oldalfelező</string>
+            <string language="en">perpendicular, median</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung schloß an die Prüfung des Theorems in
+bezug auf die mittleren Zeilen an</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La figure s'est reliée à s'avérer du 
+théorème concernant les lignes médianes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A figura conectou a provar do theorem que 
+relaciona-se às linhas medianas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La figura ha collegato a risultare del teorema 
+concernente le righe mediane</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αριθμός που συνδέεται με την παρουσίαση αποδείξεων του
+θεωρήματος σχετικά με τις μεσαίες γραμμές</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La figura conectó con probar del teorema 
+referente a las líneas medianas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Senkrechtes, mittlere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">perpendiculaire, médiane</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">perpendicular, mediana</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">perpendicolare, mediana</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κάθετος, μεσαία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">perpendicular, mediano</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75244</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=562aee3e-c5af-42bb-b061-43a268038b31&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

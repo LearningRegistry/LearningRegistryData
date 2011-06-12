@@ -1,0 +1,165 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73128</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73128</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>eec4048c-14d7-4199-856d-e792e6a4dddd#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Fogtípusok</string>
+            <string language="en">tooth types</string>
+            <string language="x-mt-de">Zahntypen</string>
+            <string language="x-mt-fr">types de dent</string>
+            <string language="x-mt-pt">tipos do dente</string>
+            <string language="x-mt-it">tipi del dente</string>
+            <string language="x-mt-el">τύποι δοντιών</string>
+            <string language="x-mt-es">tipos del diente</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az ember metsző-, szem- és őrlőfogáról készült ábra</string>
+            <string language="en">Picture about the human's incisor, cuspid, grinder teeth.</string>
+          </description>
+          <keyword>
+            <string language="hu">fog,  fogazat,  őrlőfog,  metszőfog,  szemfog,  </string>
+            <string language="en">tooth, row of teeth, grinder, incisor, cuspid tooth</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung über die Schneide des Menschen, cuspid,
+Schleiferzähne.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image au sujet de l'incisive de l'humain, cuspid, 
+dents de rectifieuse.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato sobre o incisor do ser humano, cuspid, 
+dentes do moedor.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine circa l'incisivo dell'essere umano, 
+cuspid, denti della smerigliatrice.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα για το incisor του ανθρώπου, cuspid, 
+δόντια μύλων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro sobre la incisivo del ser humano, cuspid, 
+dientes de la amoladora.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Zahn, Reihe der Zähne, Schleifer, Schneide, cuspid Zahn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dent, ligne des dents, rectifieuse, incisive, dent de cuspid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dente, fileira dos dentes, moedor, incisor, dente do cuspid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dente, fila dei denti, smerigliatrice, incisivo, dente del 
+cuspid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δόντι, σειρά των δοντιών, μύλος, incisor, cuspid 
+δόντι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">diente, fila de dientes, amoladora, incisivo, diente del cuspid</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73128</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=eec4048c-14d7-4199-856d-e792e6a4dddd&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77628</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77628</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>50352f45-f050-43f5-9807-b9504fc78d28#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Ívmérték használata- ábra</string>
+            <string language="en">The usage of arcmeasure - figure</string>
+            <string language="x-mt-de">Der Verbrauch von arcmeasure - Abbildung</string>
+            <string language="x-mt-fr">L'utilisation de l'arcmeasure - figure</string>
+            <string language="x-mt-pt">O uso do arcmeasure - figura</string>
+            <string language="x-mt-it">L'uso del arcmeasure - figura</string>
+            <string language="x-mt-el">Η χρήση του arcmeasure - αριθμός</string>
+            <string language="x-mt-es">El uso del arcmeasure - figura</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Adott szög ívmértéke</string>
+            <string language="en">The arc measure of given angle</string>
+          </description>
+          <keyword>
+            <string language="hu">ívmérték</string>
+            <string language="en">arc-measure</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das Bogenmaß des gegebenen Winkels</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La mesure d'arc de l'angle donné</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A medida do arco do ângulo dado</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La misura dell'arco di dato angolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το μέτρο τόξων της δεδομένης γωνίας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La medida del arco del ángulo dado</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Bogen-Maß</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">arc-mesure</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">arco-medida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">arco-misura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τόξο-μέτρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">arco-medida</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77628</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=50352f45-f050-43f5-9807-b9504fc78d28&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

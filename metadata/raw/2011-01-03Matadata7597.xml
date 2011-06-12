@@ -1,0 +1,173 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73824</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73824</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>529a4cac-09e2-4fc7-8c5c-1e3b51b61609#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Motor működésének fázisai</string>
+            <string language="en">Phases of the work of an engine</string>
+            <string language="x-mt-de">Phasen der Arbeit einer Maschine</string>
+            <string language="x-mt-fr">Phases du travail d'un moteur</string>
+            <string language="x-mt-pt">Fases do trabalho de um motor</string>
+            <string language="x-mt-it">Fasi del lavoro di un motore</string>
+            <string language="x-mt-el">Φάσεις της εργασίας μιας μηχανής</string>
+            <string language="x-mt-es">Fases del trabajo de un motor</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Robbanómotor működésének bemutatása</string>
+            <string language="en">Introduction of the combustion engine working</string>
+          </description>
+          <keyword>
+            <string language="hu">Gépek,  </string>
+            <string language="en">machines</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Einleitung der Verbrennungsmaschinefunktion</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Introduction du fonctionnement de moteur de 
+combustion</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introdução do funcionamento do motor de 
+combustão</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduzione del funzionamento del motore a 
+combustione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισαγωγή της εργασίας μηχανών καύσεως</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introducción del funcionamiento del motor de 
+combustión</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Maschinen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">machines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">máquinas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">macchine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μηχανές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">máquinas</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pócs;Dániel;
+fn:Dániel Pócs  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73824</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=529a4cac-09e2-4fc7-8c5c-1e3b51b61609&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,511 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/23074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>23074</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>scholaris</catalog>
+            <entry>061129_090712_109</entry>
+          </identifier>
+          <title>
+            <string language="en">Description of motion in terms of vector</string>
+            <string language="x-mt-de">Beschreibung der Bewegung in Vektor ausgedrückt</string>
+            <string language="x-mt-fr">Description de mouvement en termes de vecteur</string>
+            <string language="x-mt-pt">Descrição do movimento nos termos do vetor</string>
+            <string language="x-mt-it">Descrizione di movimento in termini di vettore</string>
+            <string language="x-mt-el">Περιγραφή της κίνησης από την άποψη του διανύσματος</string>
+            <string language="x-mt-es">Descripción del movimiento en términos del 
+vector</string>
+          </title>
+          <language>pl</language>
+          <keyword>
+            <string language="en">motion</string>
+          </keyword>
+          <keyword>
+            <string language="en">plane</string>
+          </keyword>
+          <keyword>
+            <string language="en">scalar</string>
+          </keyword>
+          <keyword>
+            <string language="en">temperature</string>
+          </keyword>
+          <keyword>
+            <string language="en">vector</string>
+          </keyword>
+          <keyword>
+            <string language="en">mass</string>
+          </keyword>
+          <keyword>
+            <string language="en">velocity</string>
+          </keyword>
+          <keyword>
+            <string language="en">wind</string>
+          </keyword>
+          <keyword>
+            <string language="en">location</string>
+          </keyword>
+          <keyword>
+            <string language="en">GPS</string>
+          </keyword>
+          <keyword>
+            <string language="en">orbit</string>
+          </keyword>
+          <keyword>
+            <string language="en">position</string>
+          </keyword>
+          <keyword>
+            <string language="en">satellite</string>
+          </keyword>
+          <keyword>
+            <string language="en">scalar</string>
+          </keyword>
+          <keyword>
+            <string language="en">average velocity</string>
+          </keyword>
+          <keyword>
+            <string language="en">coordinates of the system</string>
+          </keyword>
+          <keyword>
+            <string language="en">displacement</string>
+          </keyword>
+          <keyword>
+            <string language="en">acceleration</string>
+          </keyword>
+          <keyword>
+            <string language="en">car</string>
+          </keyword>
+          <keyword>
+            <string language="en">centrifugal acceleration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bewegung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fläche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Skalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Temperatur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Masse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wind</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Standort</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bahn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Position</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Satellit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Skalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">durchschnittliche Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Koordinaten des Systems</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Distanzadresse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beschleunigung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Auto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">zentrifugale Beschleunigung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mouvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">avion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">scalaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la masse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">emplacement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">GPS</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">orbite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">position</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">satellite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">scalaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse moyenne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coordonnées du système</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">déplacement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accélération</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">voiture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accélération centrifuge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">plano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">posição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Gps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">órbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">posição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">satélite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade média</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">coordenadas do sistema</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">deslocamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acceleration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">carro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acceleration centrífugo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aereo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scalare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">posizione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Gps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">orbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">posizione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">satellite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scalare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità media</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">coordinate del sistema</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">spostamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">accelerazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">automobile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">accelerazione centrifuga</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κίνηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αεροπλάνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλιμακωτός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θερμοκρασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μάζα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αέρας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θέση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΠΣΤ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τροχιά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θέση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δορυφόρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλιμακωτός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέση ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συντεταγμένες του συστήματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετατόπιση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αυτοκίνητο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυγοκεντρική ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">movimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">plano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">masa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">velocidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">viento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">localización</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Gps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">órbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">posición</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">satélite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">velocidad media</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coordenadas del sistema</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dislocación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aceleración</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aceleración centrífuga</string>
+          </keyword>
+        </general>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-LRE">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licences/by-nc-nd/2.5</string>
+            <string language="en">Attribution Non-commercial No Derivatives (by-nc-nd)</string>
+          </description>
+        </rights>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+fn:
+n:
+org:Scholaris
+version:3.0
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>23074</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://scholaris.pl/cms/view_all.php?id=lekcja_wektorowy_opis_ruchu</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

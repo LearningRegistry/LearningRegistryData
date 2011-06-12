@@ -1,0 +1,108 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/21959</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>21959</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>scholaris</catalog>
+            <entry>scholaris33723</entry>
+          </identifier>
+          <title>
+            <string language="pl">Układ pokarmowy płazińców</string>
+          </title>
+          <language>pl</language>
+          <keyword>
+            <string language="pl">wypławek</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> układ pokarmowy</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> pokarm</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> płazińce</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> bezkręgowce</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> Biologia</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> Gimnazjum</string>
+          </keyword>
+          <keyword>
+            <string language="pl"> Zdjęcia | ilustracje</string>
+          </keyword>
+        </general>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-LRE">13-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licences/by-nc-nd/2.5</string>
+            <string language="en">Attribution Non-commercial No Derivatives (by-nc-nd)</string>
+          </description>
+        </rights>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+fn:
+n:
+org:Scholaris
+version:3.0
+end:vcard</entity>
+          </contribute>
+          <language>pl</language>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>21959</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.scholaris.pl/cms/index.php/resources/ilustracja_układ_pokarmowy_płazińców.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

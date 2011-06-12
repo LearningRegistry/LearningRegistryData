@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74827</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74827</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>8dfea2ea-3a4f-448a-8b88-34d2d7c19a5f#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hitler és Hindenburg</string>
+            <string language="en">Hitler and Hindenburg</string>
+            <string language="x-mt-de">Hitler und Hindenburg</string>
+            <string language="x-mt-fr">Hitler et Hindenburg</string>
+            <string language="x-mt-pt">Hitler e Hindenburg</string>
+            <string language="x-mt-it">Hitler e Hindenburg</string>
+            <string language="x-mt-el">Hitler και Hindenburg</string>
+            <string language="x-mt-es">Hitler e Hindenburg</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A két politikus kézfogása</string>
+            <string language="en">The handshake of the two politicians</string>
+          </description>
+          <keyword>
+            <string language="hu">nácizmus,  hatalom,  Németország,  </string>
+            <string language="en">nazism, power, German</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der Händedruck der zwei Politiker</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La poignée de main des deux politiciens</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O handshake dos dois políticos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La stretta di mano dei due politici</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η χειραψία των δύο πολιτικών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El apretón de manos de los dos políticos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Nazismus, Energie, deutsch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nazisme, puissance, allemande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nazism, potência, alemão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nazism, potenza, tedesca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ναζισμός, δύναμη, γερμανικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">nazism, potencia, alemana</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74827</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8dfea2ea-3a4f-448a-8b88-34d2d7c19a5f&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

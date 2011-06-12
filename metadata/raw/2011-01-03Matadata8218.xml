@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77613</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77613</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>c9a753d7-4be1-41ee-a52a-fe1b4eb075b5#1#7</entry>
+          </identifier>
+          <title>
+            <string language="hu">Törzsfejlődés</string>
+            <string language="en">evolution</string>
+            <string language="x-mt-de">Entwicklung</string>
+            <string language="x-mt-fr">évolution</string>
+            <string language="x-mt-pt">evolução</string>
+            <string language="x-mt-it">sviluppo</string>
+            <string language="x-mt-el">εξέλιξη</string>
+            <string language="x-mt-es">evolución</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az ember törzsfejlődése</string>
+            <string language="en">evolution of human</string>
+          </description>
+          <keyword>
+            <string language="hu">törzsfejlődés,  paleolitikum,  emberréválás,  </string>
+            <string language="en">evolution, paleolithic age, becoming human</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Entwicklung des Menschen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">évolution d'humain</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">evolução do ser humano</string>
+          </description>
+          <description>
+            <string language="x-mt-it">sviluppo dell'essere umano</string>
+          </description>
+          <description>
+            <string language="x-mt-el">εξέλιξη του ανθρώπου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">evolución del ser humano</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Entwicklung, paleolithic Alter, werden menschlich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">évolution, âge paleolithic, devenant humain</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">evolução, idade paleolithic, tornando-se humana</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sviluppo, età paleolithic, diventante umana</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εξέλιξη, παλαιολιθική ηλικία, που γίνεται ανθρώπινη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">evolución, edad paleolithic, llegando a ser humana</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">11-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77613</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=c9a753d7-4be1-41ee-a52a-fe1b4eb075b5&amp;v=1&amp;b=7</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

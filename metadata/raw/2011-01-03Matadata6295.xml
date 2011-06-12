@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74060</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74060</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>2d165f0c-ad89-42cb-9d36-2c4bffee5e44#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Viking hajó a tengeren</string>
+            <string language="en">Viking ship on the sea</string>
+            <string language="x-mt-de">Viking Schiff auf dem Meer</string>
+            <string language="x-mt-fr">Bateau de Viking sur la mer</string>
+            <string language="x-mt-pt">Navio de Viking no mar</string>
+            <string language="x-mt-it">Nave di Viking sul mare</string>
+            <string language="x-mt-el">Σκάφος Βίκινγκ στη θάλασσα</string>
+            <string language="x-mt-es">Nave de Viking en el mar</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Viking hajó a tengeren</string>
+            <string language="en">Viking ship on the sea</string>
+          </description>
+          <keyword>
+            <string language="hu">viking, hajó, tenger, festmény</string>
+            <string language="en">viking, ship, sea, painting</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Viking Schiff auf dem Meer</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Bateau de Viking sur la mer</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Navio de Viking no mar</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Nave di Viking sul mare</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σκάφος Βίκινγκ στη θάλασσα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Nave de Viking en el mar</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Viking, Schiff, Meer, malend</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">viking, bateau, mer, peignant</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">viking, navio, mar, pintando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">viking, nave, mare, verniciante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βίκινγκ, σκάφος, θάλασσα, ζωγραφική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el viking, nave, mar, pintando</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74060</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=2d165f0c-ad89-42cb-9d36-2c4bffee5e44&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

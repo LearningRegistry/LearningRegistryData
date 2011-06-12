@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75982</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75982</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40bb351e-2fec-400c-26a3-26e454847ca6#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Rotterdam este</string>
+            <string language="en"> Rotterdam at night</string>
+            <string language="x-mt-de"> Rotterdam nachts</string>
+            <string language="x-mt-fr"> Rotterdam la nuit</string>
+            <string language="x-mt-pt"> Rotterdam na noite</string>
+            <string language="x-mt-it"> Rotterdam alla notte</string>
+            <string language="x-mt-el"> Ρότερνταμ τη νύχτα</string>
+            <string language="x-mt-es"> Rotterdam en la noche</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Hollandia</string>
+            <string language="en">the Netherlands</string>
+          </description>
+          <keyword>
+            <string language="hu">Rotterdam este, Rotterdam, Hollandia</string>
+            <string language="en"> Rotterdam at night, Rotterdam, the Netherlands</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">die Niederlande</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">les Pays Bas</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">os Países Baixos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">i Paesi Bassi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">οι Κάτω Χώρες</string>
+          </description>
+          <description>
+            <string language="x-mt-es">los Países Bajos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de"> Rotterdam nachts, Rotterdam, die Niederlande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr"> Rotterdam la nuit, Rotterdam, les Pays Bas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt"> Rotterdam na noite, Rotterdam, os Países Baixos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it"> Rotterdam alla notte, Rotterdam, Paesi Bassi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"> Ρότερνταμ τη νύχτα, Ρότερνταμ, οι Κάτω Χώρες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es"> Rotterdam en la noche, Rotterdam, los Países Bajos</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75982</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40bb351e-2fec-400c-26a3-26e454847ca6&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

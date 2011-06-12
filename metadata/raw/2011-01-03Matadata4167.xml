@@ -1,0 +1,147 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75995</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75995</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>f49695b0-cd72-4f54-a07b-bf988037a129#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Gerjesztés a Bohr-féle atommodellen</string>
+            <string language="en">Excitation in Bohr's atomic model</string>
+            <string language="x-mt-de">Erregung Bohrs im Atommodell</string>
+            <string language="x-mt-fr">Excitation dans le modèle atomique de Bohr</string>
+            <string language="x-mt-pt">Excitação no modelo atômico de Bohr</string>
+            <string language="x-mt-it">Eccitazione nel modello atomico del Bohr</string>
+            <string language="x-mt-el">Διέγερση στο ατομικό μοντέλο Bohr</string>
+            <string language="x-mt-es">Excitación en el modelo atómico de Bohr</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Gerjesztés bemutatása a Bohr-féle atommodellen</string>
+            <string language="en">Presentation of the excitation in Bohr's atomic model</string>
+          </description>
+          <keyword>
+            <string language="hu">gerjesztés, bohr, atommodell</string>
+            <string language="en">excitation, Bohr, atomic model</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Darstellung der Erregung Bohrs im Atommodell</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présentation de l'excitation dans le modèle 
+atomique de Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Apresentação da excitação no modelo atômico 
+de Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Presentazione dell'eccitazione nel modello atomico
+del Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Παρουσίαση της διέγερσης στο ατομικό μοντέλο Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Presentación de la excitación en el modelo 
+atómico de Bohr</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Erregung, Bohr, Atommodell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">excitation, Bohr, modèle atomique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">excitação, Bohr, modelo atômico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">eccitazione, Bohr, modello atomico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διέγερση, Bohr, ατομικό μοντέλο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">excitación, Bohr, modelo atómico</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75995</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=f49695b0-cd72-4f54-a07b-bf988037a129&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

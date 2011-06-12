@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75334</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75334</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40bb3518-dac4-4425-2f15-30e895105f2b#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Dánia térkép</string>
+            <string language="en">Map about Denmark</string>
+            <string language="x-mt-de">Karte über Dänemark</string>
+            <string language="x-mt-fr">Carte au sujet du Danemark</string>
+            <string language="x-mt-pt">Mapa sobre Dinamarca</string>
+            <string language="x-mt-it">Programma circa la Danimarca</string>
+            <string language="x-mt-el">Χάρτης για τη Δανία</string>
+            <string language="x-mt-es">Correspondencia sobre Dinamarca</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Dánia</string>
+            <string language="en">Denmark</string>
+          </description>
+          <keyword>
+            <string language="hu">Dánia térkép, Dánia, térkép</string>
+            <string language="en">Map about Denmark, Denmark, map</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Dänemark</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le Danemark</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Dinamarca</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La Danimarca</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Δανία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Dinamarca</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Karte über Dänemark, Dänemark, Karte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Carte au sujet du Danemark, Danemark, carte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Mapa sobre Dinamarca, Dinamarca, mapa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Programma circa la Danimarca, Danimarca, programma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χάρτης για τη Δανία, Δανία, χάρτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Correspondencia sobre Dinamarca, Dinamarca, 
+correspondencia</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75334</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40bb3518-dac4-4425-2f15-30e895105f2b&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

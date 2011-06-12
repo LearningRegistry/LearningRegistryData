@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76538</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76538</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>f4f4d7a9-6cff-4753-bece-b0753b5af76f#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A Sinkanszen expressz</string>
+            <string language="en">Shinkansen express</string>
+            <string language="x-mt-de">Shinkansen ausdrücklich</string>
+            <string language="x-mt-fr">Shinkansen exprès</string>
+            <string language="x-mt-pt">Shinkansen expresso</string>
+            <string language="x-mt-it">Shinkansen espresso</string>
+            <string language="x-mt-el">Shinkansen σαφές</string>
+            <string language="x-mt-es">Shinkansen expreso</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kép a vonatokról</string>
+            <string language="en">Picture about the trains</string>
+          </description>
+          <keyword>
+            <string language="hu">Japán,  gazdasági csoda,  közlekedés,  </string>
+            <string language="en">Japan, economic miracle, traffic</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung über die Serien</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image au sujet des trains</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato sobre os trens</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine circa i treni</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα για τα τραίνα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro sobre los trenes</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Japan, ökonomisches Wunder, Verkehr</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Le Japon, miracle économique, le trafic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Japão, miracle econômico, tráfego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Il Giappone, miracolo economico, traffico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ιαπωνία, οικονομικό θαύμα, κυκλοφορία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Japón, milagro económico, tráfico</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76538</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=f4f4d7a9-6cff-4753-bece-b0753b5af76f&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

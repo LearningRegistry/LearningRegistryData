@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73258</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73258</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>a944ddd6-4a91-41a5-8630-baa3832d72fe#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Világi zene a középkorban</string>
+            <string language="en">Secular music in the Middle Ages</string>
+            <string language="x-mt-de">Weltliche Musik im mittleren Alter</string>
+            <string language="x-mt-fr">Musique séculaire dans les âges moyens</string>
+            <string language="x-mt-pt">Música secular nas idades médias</string>
+            <string language="x-mt-it">Musica secolare in Medio Evo</string>
+            <string language="x-mt-el">Κοσμική μουσική στις μέσες ηλικίες</string>
+            <string language="x-mt-es">Música secular en las edades medias</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">9-10. kozépkor, világi zene</string>
+            <string language="en">p. 9-10 Middle Ages, secular music</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, középkor, világi</string>
+            <string language="en">music, Middle Ages, secular</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P., 9-10 Mitte Alter, weltliche Musik</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">p. 9-10 âges de milieu, musique séculaire</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">p. 9-10 idades do meio, música secular</string>
+          </description>
+          <description>
+            <string language="x-mt-it">p. 9-10 di Medio Evo, musica secolare</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. 9-10 μέσες ηλικίες, κοσμική μουσική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">p. 9-10 edades del centro, música secular</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, mittleres Alter, weltlich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, âges moyens, séculaires</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, idades médias, secular</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, Medio Evo, secolari</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, μέσες ηλικίες, κοσμικές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, edades medias, seculares</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">14-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73258</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a944ddd6-4a91-41a5-8630-baa3832d72fe&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

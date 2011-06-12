@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78085</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78085</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>34410ee9-36d8-4a57-afc5-52fa5e389a33#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Apostolo Zeno</string>
+            <string language="en">Apostolo Zeno</string>
+            <string language="x-mt-de">Apostolo Zeno</string>
+            <string language="x-mt-fr">Apostolo Zeno</string>
+            <string language="x-mt-pt">Apostolo Zeno</string>
+            <string language="x-mt-it">Apostolo Zeno</string>
+            <string language="x-mt-el">Apostolo Zeno</string>
+            <string language="x-mt-es">Apostolo Zeno</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Apostolo Zeno (1668-1750)</string>
+            <string language="en">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <keyword>
+            <string language="hu">Apostolo Zeno libretto,  </string>
+            <string language="en">Apostolo Zeno, libretto</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Apostolo Zeno (1668-1750)</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Apostolo Zeno, Libretto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Apostolo Zeno, Livret</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Apostolo Zeno, libretto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Apostolo Zeno, libretto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Apostolo Zeno, λιμπρέτο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Apostolo Zeno, libretto</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:
+fn:
+org:Kurt Lewin Alapítvány
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>220</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78085</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=34410ee9-36d8-4a57-afc5-52fa5e389a33&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

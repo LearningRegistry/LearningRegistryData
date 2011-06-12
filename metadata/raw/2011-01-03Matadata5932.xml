@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75056</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75056</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>8330d62e-2f8b-4091-bf9f-cae01c24a14c#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Huj-huj gép</string>
+            <string language="en">"Huj-huj" machine</string>
+            <string language="x-mt-de">"Huj-huj" Maschine</string>
+            <string language="x-mt-fr">machine de "Huj-huj"</string>
+            <string language="x-mt-pt">máquina de "Huj-huj"</string>
+            <string language="x-mt-it">macchina "di Huj-huj"</string>
+            <string language="x-mt-el">Μηχανή "Χuι-χuι"</string>
+            <string language="x-mt-es">máquina de "Huj-huj"</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Huj-huj gép sematikus rajza</string>
+            <string language="en">Schematic picture of "Huj-huj" machine</string>
+          </description>
+          <keyword>
+            <string language="hu">fizika, huj, huj-huj, gép,</string>
+            <string language="en">Physics, huj, huj-huj, machine</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Schematische Abbildung "Huj-huj" der Maschine</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image schématique de machine de "Huj-huj"</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato esquemático da máquina de "Huj-huj"</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine schematica della macchina "di Huj-huj"</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχηματική εικόνα της μηχανής "Χuι-χuι"</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro esquemático de la máquina de "Huj-huj"</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, huj, huj-huj, Maschine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique, huj, huj-huj, machine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física, huj, huj-huj, máquina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica, huj, huj-huj, macchina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική, huj, huj-huj, μηχανή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física, huj, huj-huj, máquina</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pálfi ;Zoltán;
+fn:Zoltán Pálfi 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75056</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8330d62e-2f8b-4091-bf9f-cae01c24a14c&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

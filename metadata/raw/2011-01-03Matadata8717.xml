@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74759</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74759</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>d0590e78-b5c3-45ed-ae12-a9f1ce2d2753#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Leonard Bernstein képe</string>
+            <string language="en">Portrait of Leonardo Bernstein</string>
+            <string language="x-mt-de">Portrait von Leonardo Bernstein</string>
+            <string language="x-mt-fr">Verticale de Leonardo Bernstein</string>
+            <string language="x-mt-pt">Retrato de Leonardo Bernstein</string>
+            <string language="x-mt-it">Ritratto di Leonardo Bernstein</string>
+            <string language="x-mt-el">Πορτρέτο του Leonardo Bernstein</string>
+            <string language="x-mt-es">Retrato de Leonardo Bernstein</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">amerikai zeneszerző képe</string>
+            <string language="en">Picture of an american composer</string>
+          </description>
+          <keyword>
+            <string language="hu">karmester,  zongoraművész,  West Side Story,  </string>
+            <string language="en">conductor, pianist, West Side Story</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung eines amerikanischen Komponisten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image d'un compositeur américain</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato de um compositor americano</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine di un compositore americano</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα ενός αμερικανικού συνθέτη</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro de un compositor americano</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Leiter, Pianist, seitliche Westgeschichte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chef d'orchestre, pianiste, histoire latérale 
+occidentale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">maestro, pianist, história lateral ocidental</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conduttore, pianist, storia laterale ad ovest</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αγωγός, pianist, δυτική δευτερεύουσα ιστορία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">conductor, pianist, historia lateral del oeste</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74759</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d0590e78-b5c3-45ed-ae12-a9f1ce2d2753&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

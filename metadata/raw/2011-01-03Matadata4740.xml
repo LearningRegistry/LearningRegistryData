@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75778</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75778</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>530b10ef-dbc9-4aa1-8b01-1a34119455b9#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hermelin</string>
+            <string language="en">Ermine</string>
+            <string language="x-mt-de">Ermine</string>
+            <string language="x-mt-fr">Ermine</string>
+            <string language="x-mt-pt">Arminho</string>
+            <string language="x-mt-it">Ermine</string>
+            <string language="x-mt-el">Ermine</string>
+            <string language="x-mt-es">Armiño</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Hermelin közelképe téli bundában</string>
+            <string language="en">Close-up of ermine in winter-coat</string>
+          </description>
+          <keyword>
+            <string language="hu">hermelin,  kisragadozó,  ragadozó,  </string>
+            <string language="en">ermine, small carnivorous, carnivorous</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Nahaufnahme von Ermine im Winter-Mantel</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Plan rapproché d'ermine dans le hiver-manteau</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Close-up do arminho no inverno-revestimento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Primo piano del ermine in inverno-cappotto</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κινηματογράφηση σε πρώτο πλάνο του ermine στο 
+χειμώνας-παλτό</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Primer del armiño en invierno-capa</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Ermine, kleines fleischfressendes, fleischfressend</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ermine, petit carnivore, carnivore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">arminho, carnivorous pequeno, carnivorous</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ermine, piccolo carnivoro, carnivoro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ermine, μικρός σαρκοφάγος, σαρκοφάγο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">armiño, carnívoro pequeño, carnívoro</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75778</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=530b10ef-dbc9-4aa1-8b01-1a34119455b9&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

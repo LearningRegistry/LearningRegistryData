@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75917</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75917</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>c9c0a483-333a-4a94-bccc-7107b0b5f0ed#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Szög jelölések</string>
+            <string language="en">Angulary signs</string>
+            <string language="x-mt-de">Angulary Zeichen</string>
+            <string language="x-mt-fr">Signes d'Angulary</string>
+            <string language="x-mt-pt">Sinais de Angulary</string>
+            <string language="x-mt-it">Segni di Angulary</string>
+            <string language="x-mt-el">Σημάδια Angulary</string>
+            <string language="x-mt-es">Muestras de Angulary</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Számítási segédábra</string>
+            <string language="en">Calculating ancillary illustration</string>
+          </description>
+          <keyword>
+            <string language="hu">fizika, szög, jelölés</string>
+            <string language="en">Physics, angle, signing</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Untergeordnete Rechenabbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Illustration auxiliaire calculatrice</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Ilustração subordinada calculadora</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione dipendente calcolatrice</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Βοηθητική απεικόνιση υπολογισμού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ilustración ancilar calculadora</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, Winkel, unterzeichnend</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique, angle, signant</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física, ângulo, assinando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica, angolo, firmante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική, γωνία, υπογραφή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física, ángulo, firmando</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Győző;Eszter;
+fn:Eszter Győző 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75917</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=c9c0a483-333a-4a94-bccc-7107b0b5f0ed&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

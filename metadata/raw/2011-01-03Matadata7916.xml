@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77364</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77364</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7355816d-03a1-48bd-a945-e879240684a3#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A folyadékba helyezett testre ható erők</string>
+            <string language="en">Effective powers on the body in liquid</string>
+            <string language="x-mt-de">Wirkungsvolle Energien auf dem Körper in der 
+Flüssigkeit</string>
+            <string language="x-mt-fr">Puissances pertinentes sur le corps dans le 
+liquide</string>
+            <string language="x-mt-pt">Potências eficazes no corpo no líquido</string>
+            <string language="x-mt-it">Potenzi efficaci sul corpo in liquido</string>
+            <string language="x-mt-el">Αποτελεσματικές δυνάμεις στο σώμα στο υγρό</string>
+            <string language="x-mt-es">Potencias eficaces en el cuerpo en líquido</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A erők ábrázolása</string>
+            <string language="en">Illustration of the powers</string>
+          </description>
+          <keyword>
+            <string language="hu">úszás,  felhajtóerő,  </string>
+            <string language="en">swimming, lifting power</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung der Energien</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Illustration des puissances</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Ilustração das potências</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione delle potenzi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Απεικόνιση των δυνάμεων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ilustración de las potencias</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">schwimmen, anhebende Energie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nageant, puissance de levage</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nadando, potência levantando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nuotando, potenza di sollevamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κολύμβηση, δύναμη ανύψωσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">nadando, potencia de elevación</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77364</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7355816d-03a1-48bd-a945-e879240684a3&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

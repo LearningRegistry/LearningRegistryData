@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/1047343454</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>1047343454</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>6da16c29-dc15-40b9-8317-acebcfb58cbb#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Lineáris függvény I.</string>
+            <string language="en">Linear function I.</string>
+            <string language="x-mt-de">Lineare Funktion I.</string>
+            <string language="x-mt-fr">Fonction linéaire I.</string>
+            <string language="x-mt-pt">Função linear I.</string>
+            <string language="x-mt-it">Funzione lineare I.</string>
+            <string language="x-mt-el">Γραμμική λειτουργία Ι.</string>
+            <string language="x-mt-es">Función linear I.</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Lineáris függvény szemléltetése I.</string>
+            <string language="en">The illustration of the Linear function I.</string>
+          </description>
+          <keyword>
+            <string language="hu">lineáris függvény, lineáris, függvény</string>
+            <string language="en">Linear Function, linear, function</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Abbildung der linearen Funktion I.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'illustration de la fonction linéaire I.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A ilustração da função linear I.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'illustrazione della funzione lineare I.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η απεικόνιση της γραμμικής λειτουργίας Ι.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La ilustración de la función linear I.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Lineare Funktion, linear, Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Fonction linéaire, linéaire, fonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Função linear, linear, função</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Funzione lineare, lineare, funzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γραμμική λειτουργία, γραμμική, λειτουργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Función linear, linear, función</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>1047343454</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6da16c29-dc15-40b9-8317-acebcfb58cbb&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

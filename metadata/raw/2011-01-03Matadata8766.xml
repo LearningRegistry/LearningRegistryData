@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77512</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77512</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>efb4a903-99af-4c53-b674-487fc4400879#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A madarak légzése</string>
+            <string language="en">Breathing of birds</string>
+            <string language="x-mt-de">Atmung der Vögel</string>
+            <string language="x-mt-fr">Respiration des oiseaux</string>
+            <string language="x-mt-pt">Respirar dos pássaros</string>
+            <string language="x-mt-it">Respirazione degli uccelli</string>
+            <string language="x-mt-el">Αναπνοή των πουλιών</string>
+            <string language="x-mt-es">Respiración de pájaros</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Madár kontúrja a légzőkészülékkel</string>
+            <string language="en">Bird's contour with respirator</string>
+          </description>
+          <keyword>
+            <string language="hu">madarak,  légzés,  kettős légzés,  </string>
+            <string language="en">birds, breathing, double breathing</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Form des Vogels mit Respirator</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La découpe de l'oiseau avec le respirateur</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Contorno do pássaro com respirador</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Profilo dell'uccello con il respiratore</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Περίγραμμα πουλιού με την αναπνευστική συσκευή</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Contorno del pájaro con el respirador</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Vögel, atmend, doppelte Atmung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">oiseaux, respirant, double respiration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pássaros, respirando, respirar dobro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uccelli, respirando, doppia respirazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πουλιά, αναπνοή, διπλή αναπνοή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pájaros, respirando, respiración doble</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77512</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=efb4a903-99af-4c53-b674-487fc4400879&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

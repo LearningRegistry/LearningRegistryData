@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74590</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74590</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>63a8d1b2-701f-476f-81be-03beb1b2feed#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az atomok és ionok szerkezete táblázatosan</string>
+            <string language="en">chart of atomic and ionic structures</string>
+            <string language="x-mt-de">Diagramm der Atom- und Ionenstrukturen</string>
+            <string language="x-mt-fr">diagramme des structures atomiques et ioniques</string>
+            <string language="x-mt-pt">carta de estruturas atômicas e ionic</string>
+            <string language="x-mt-it">tabella delle strutture atomiche ed ioniche</string>
+            <string language="x-mt-el">διάγραμμα των ατομικών και ιοντικών δομών</string>
+            <string language="x-mt-es">carta de estructuras atómicas e iónicas</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az atomok és ionok szerkezetét összefoglaló táblázat lépésenkénti felépülése</string>
+            <string language="en">chart of atomic and ionic structures</string>
+          </description>
+          <keyword>
+            <string language="hu">atom, ion, szerkezet, táblázat</string>
+            <string language="en">atom, ion, structure, chart</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Diagramm der Atom- und Ionenstrukturen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">diagramme des structures atomiques et ioniques</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">carta de estruturas atômicas e ionic</string>
+          </description>
+          <description>
+            <string language="x-mt-it">tabella delle strutture atomiche ed ioniche</string>
+          </description>
+          <description>
+            <string language="x-mt-el">διάγραμμα των ατομικών και ιοντικών δομών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">carta de estructuras atómicas e iónicas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Atom, Ion, Struktur, Diagramm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">atome, ion, structure, diagramme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">átomo, íon, estrutura, carta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atomo, ione, struttura, tabella</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άτομο, ιόν, δομή, διάγραμμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">átomo, ion, estructura, carta</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74590</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=63a8d1b2-701f-476f-81be-03beb1b2feed&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

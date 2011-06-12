@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74571</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74571</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>01ef2173-0008-402c-bcc1-0dc923c21c98#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Szélerőmű</string>
+            <string language="en">Wind power plant</string>
+            <string language="x-mt-de">Windkraftwerk</string>
+            <string language="x-mt-fr">Centrale de vent</string>
+            <string language="x-mt-pt">Planta de potência do vento</string>
+            <string language="x-mt-it">Centrale elettrica del vento</string>
+            <string language="x-mt-el">Εγκαταστάσεις παραγωγής ενέργειας αέρα</string>
+            <string language="x-mt-es">Central eléctrica del viento</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Szélerőmű</string>
+            <string language="en">Wind power plant</string>
+          </description>
+          <keyword>
+            <string language="hu">szélerőmű,  </string>
+            <string language="en">wind power  plant</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Windkraftwerk</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Centrale de vent</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Planta de potência do vento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Centrale elettrica del vento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εγκαταστάσεις παραγωγής ενέργειας αέρα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Central eléctrica del viento</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Windkraftwerk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">centrale de vent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">planta de potência do vento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">centrale elettrica del vento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εγκαταστάσεις παραγωγής ενέργειας αέρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">central eléctrica del viento</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Szegedi Tudományegyetem, Kísérleti Fizikai Tanszék, Szakmódszertani Csoport
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74571</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=01ef2173-0008-402c-bcc1-0dc923c21c98&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

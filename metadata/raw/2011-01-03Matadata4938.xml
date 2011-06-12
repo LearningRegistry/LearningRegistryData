@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75975</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75975</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>d3dd9586-fac7-4f12-b93d-6709d0218df1#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Ptolemaios</string>
+            <string language="en">Ptolemaios</string>
+            <string language="x-mt-de">Ptolemaios</string>
+            <string language="x-mt-fr">Ptolemaios</string>
+            <string language="x-mt-pt">Ptolemaios</string>
+            <string language="x-mt-it">Ptolemaios</string>
+            <string language="x-mt-el">Ptolemaios</string>
+            <string language="x-mt-es">Ptolemaios</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Ptolemaios</string>
+            <string language="en">Ptolemaios</string>
+          </description>
+          <keyword>
+            <string language="hu">Ptolemaios,  </string>
+            <string language="en">Ptolemaios,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ptolemaios</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ptolemaios</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Ptolemaios</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ptolemaios</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ptolemaios</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ptolemaios</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Ptolemaios,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Ptolemaios,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ptolemaios,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Ptolemaios,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ptolemaios,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ptolemaios,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Ópra;Zsuzsanna;
+fn:Zsuzsanna Ópra  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75975</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d3dd9586-fac7-4f12-b93d-6709d0218df1&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

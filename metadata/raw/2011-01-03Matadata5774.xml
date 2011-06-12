@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76473</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76473</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>47a7b86c-0d6d-11d8-9145-f549f7201132#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az emberi rasszok</string>
+            <string language="en">The human races</string>
+            <string language="x-mt-de">Die menschlichen Rassen</string>
+            <string language="x-mt-fr">Les races humaines</string>
+            <string language="x-mt-pt">As raças humanas</string>
+            <string language="x-mt-it">Le razze umane</string>
+            <string language="x-mt-el">Οι ανθρώπινες φυλές</string>
+            <string language="x-mt-es">Las razas humanas</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az emberi rasszok elterjedése</string>
+            <string language="en">The human races</string>
+          </description>
+          <keyword>
+            <string language="hu">europid,  negrid,  veddo ausztralid,  mongolid,  </string>
+            <string language="en">europid,  negrid,  veddo ausztralid,  mongolid,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die menschlichen Rassen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les races humaines</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As raças humanas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Le razze umane</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι ανθρώπινες φυλές</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las razas humanas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">europid, negrid, veddo ausztralid, mongolid,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">europid, negrid, ausztralid de veddo, mongolid,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">europid, negrid, ausztralid do veddo, mongolid,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">europid, negrid, ausztralid di veddo, mongolid,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">europid, negrid, veddo ausztralid, mongolid,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">europid, negrid, ausztralid del veddo, mongolid,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76473</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=47a7b86c-0d6d-11d8-9145-f549f7201132&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

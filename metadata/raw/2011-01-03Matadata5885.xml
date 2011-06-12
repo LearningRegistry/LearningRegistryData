@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76171</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76171</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>3abfa3a0-e40f-4703-83bb-a369cc88a7d4#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Pettyes gőte</string>
+            <string language="en">Spotted triton</string>
+            <string language="x-mt-de">Beschmutzter Triton</string>
+            <string language="x-mt-fr">Triton repèré</string>
+            <string language="x-mt-pt">Triton manchado</string>
+            <string language="x-mt-it">Tritone macchiato</string>
+            <string language="x-mt-el">Επισημασμένο triton</string>
+            <string language="x-mt-es">Tritón manchado</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Pettyes gőte fotója</string>
+            <string language="en">Photograph of spotted triton</string>
+          </description>
+          <keyword>
+            <string language="hu">kétéltűek,  farkos kétéltűek,  gőték,  </string>
+            <string language="en">amphibia, tailed amphibia, tritons</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Fotographie von beschmutztem Triton</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Photographie de triton repèré</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Fotografia de triton manchado</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Fotografia di tritone macchiato</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Φωτογραφία επισημασμένο triton</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Fotografía de tritón manchado</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Amphibien, angebundene Amphibien, Triton</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amphibiens, amphibiens coupés la queue, tritons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amphibia, amphibia tailed, tritons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">anfibi, anfibi uniti, tritoni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αμφίβια, παρακολουθημένα αμφίβια, tritons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">anfibias, anfibias atadas, tritones</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76171</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=3abfa3a0-e40f-4703-83bb-a369cc88a7d4&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

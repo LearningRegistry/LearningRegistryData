@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77269</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77269</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>72067ad5-9754-44bf-8952-8b8aa87e8e6a#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Valódi kép</string>
+            <string language="en">Real picture</string>
+            <string language="x-mt-de">Reale Abbildung</string>
+            <string language="x-mt-fr">Vraie image</string>
+            <string language="x-mt-pt">Retrato real</string>
+            <string language="x-mt-it">Immagine reale</string>
+            <string language="x-mt-el">Πραγματική εικόνα</string>
+            <string language="x-mt-es">Cuadro verdadero</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Egy pontból induló sugarak találkozása</string>
+            <string language="en">Meeting of one point rooted rays</string>
+          </description>
+          <keyword>
+            <string language="hu">valódi kép,  leképezés,  </string>
+            <string language="en">real picture, forming,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sitzung der ein Punkt verwurzelten Strahlen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Réunion des rayons enracinés un par point</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Reunião de raios enraizados um ponto</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una riunione dei raggi sradicati un punto</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Συνεδρίαση των ένα ριζοβολημένων σημείο ακτίνων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Reunión de rayos arraigados una punta</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">reale Abbildung, bildend,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vraie image, formant,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">retrato real, dando forma,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">immagine reale, formante,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πραγματική εικόνα, που διαμορφώνει,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuadro verdadero, formando,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77269</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=72067ad5-9754-44bf-8952-8b8aa87e8e6a&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
