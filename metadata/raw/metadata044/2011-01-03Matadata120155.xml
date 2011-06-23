@@ -1,0 +1,307 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158070</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158070</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE1041</entry>
+          </identifier>
+          <title>
+            <string language="en">Today's Horoscope and the Newspaper</string>
+            <string language="x-mt-de">Heutiges Horoskop und die Zeitung</string>
+            <string language="x-mt-fr">Horoscope d'aujourd'hui et le journal</string>
+            <string language="x-mt-pt">Horoscope de hoje e o jornal</string>
+            <string language="x-mt-it">Odierno horoscope ed il giornale</string>
+            <string language="x-mt-el">Σημερινό ωροσκόπιο και η εφημερίδα</string>
+            <string language="x-mt-es">Horoscope de hoy y el periódico</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">See if the horoscope columns in different newspapers are similar or different.</string>
+          </description>
+          <keyword>
+            <string language="en">Horoscope</string>
+          </keyword>
+          <keyword>
+            <string language="en">believe</string>
+          </keyword>
+          <keyword>
+            <string language="en">lesson plan</string>
+          </keyword>
+          <keyword>
+            <string language="en">zodiac sign</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sehen Sie, wenn die Horoskopspalten in den 
+unterschiedlichen Zeitungen ähnlich oder unterschiedlich sind.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Voyez si les colonnes de horoscope dans 
+différents journaux sont semblables ou différentes.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Veja se as colunas do horoscope em jornais 
+diferentes forem similares ou diferentes.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Veda se le colonne di horoscope in giornali 
+differenti sono simili o differenti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Δείτε εάν οι στήλες ωροσκοπίων στις 
+διαφορετικές εφημερίδες είναι παρόμοιες ή διαφορετικές.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Vea si las columnas del horoscope en diversos 
+periódicos son similares o diferentes.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Horoskop</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">glauben Sie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lektionplan</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tierkreiszeichen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Horoscope</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">croyez</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">plan de leçon</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signe de zodiaque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Horoscope</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acredite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">planta da lição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal do zodiac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Horoscope</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">credi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">programma di lezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segno dello zodiac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ωροσκόπιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θεωρήστε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σχέδιο μαθήματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">zodiac σημάδι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Horoscope</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">crea</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">plan de la lección</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">muestra del zodiaco</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE1041</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>enquiry-oriented activity</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">12-16</string>
+            <string language="x-t-lre">12-16</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">=© 2003 Eric Cohen Books, Ltd. All rights reserved. http://www.ecb.co.il/ecbonline/termsofuse.html</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1071</id>
+              <entry>
+                <string language="en">reading</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>926</id>
+              <entry>
+                <string language="en">oral</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1410</id>
+              <entry>
+                <string language="en">writing skills</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>673</id>
+              <entry>
+                <string language="en">internet skills</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158070</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.ecb.co.il/ecbonline/fun/horoscopetg.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

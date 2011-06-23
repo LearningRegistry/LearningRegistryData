@@ -1,0 +1,214 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157205</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157205</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2284</entry>
+          </identifier>
+          <title>
+            <string language="en">Germination in beans</string>
+            <string language="x-mt-de">Keimung in den Bohnen</string>
+            <string language="x-mt-fr">Germination dans les haricots</string>
+            <string language="x-mt-pt">Germination nos feijões</string>
+            <string language="x-mt-it">Germinazione in fagioli</string>
+            <string language="x-mt-el">Βλάστηση στα φασόλια</string>
+            <string language="x-mt-es">Germinación en habas</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A simple animation of the germination process of a bean seed.</string>
+          </description>
+          <keyword>
+            <string language="en">germination</string>
+          </keyword>
+          <keyword>
+            <string language="en">seeds</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine einfache Animation des Keimungprozesses 
+eines Bohne Startwertes für Zufallsgenerator.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation simple du procédé de germination 
+d'une graine d'haricot.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation simples do processo do germination 
+de uma semente do feijão.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione semplice del processo di 
+germinazione di un seme del fagiolo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια απλή ζωτικότητα της διαδικασίας βλάστησης ενός 
+σπόρου φασολιών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación simple del proceso de la 
+germinación de un germen de la haba.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Keimung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Startwerte für Zufallsgenerator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">germination</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">graines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">germination</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sementes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">germinazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">semi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βλάστηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σπόροι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">germinación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gérmenes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2284</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The McGraw-Hill Companies.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>153</id>
+              <entry>
+                <string language="en">botany</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157205</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.mhhe.com/biosci/genbio/tlw3/eBridge/Chp18/animations/ch18/bean_structure_germination.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

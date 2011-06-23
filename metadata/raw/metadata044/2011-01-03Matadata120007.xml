@@ -1,0 +1,214 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158008</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158008</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2423</entry>
+          </identifier>
+          <title>
+            <string language="en">Regulation of Enzyme Activity</string>
+            <string language="x-mt-de">Regelung der Enzymaktivität</string>
+            <string language="x-mt-fr">Règlement de l'activité enzymatique</string>
+            <string language="x-mt-pt">Regulamento da atividade de enzyme</string>
+            <string language="x-mt-it">Regolazione di attività dell'enzima</string>
+            <string language="x-mt-el">Κανονισμός της ενζυμικής δραστηριότητας</string>
+            <string language="x-mt-es">Regulación de la actividad enzimática</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A simulation which demonstrates how enzymes change between active and inactive forms.</string>
+          </description>
+          <keyword>
+            <string language="en">enzyme</string>
+          </keyword>
+          <keyword>
+            <string language="en">Biochemistry</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Simulation, die zeigt, wie Enzyme zwischen 
+den aktiven und unaktivierten Formularen ändern.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une simulation qui démontre comment les enzymes 
+changent entre les formes actives et inactives.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma simulação que demonstre como os enzymes 
+mudam entre formulários ativos e inativos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una simulazione che dimostra come gli enzimi 
+cambiano fra le forme attive ed inattive.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια προσομοίωση που καταδεικνύει πώς τα ένζυμα 
+αλλάζουν μεταξύ των ενεργών και ανενεργών μορφών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una simulación que demuestra cómo las enzimas 
+cambian entre las formas activas e inactivas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Enzym</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Biochemie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">enzyme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Biochimie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">enzyme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Biochemistry</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">enzima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Biochimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ένζυμο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βιοχημεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">enzima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Bioquímica</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2423</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">.whfreeman.com</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string language="en">biology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158008</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://bcs.whfreeman.com/thelifewire/content/chp06/0602002.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

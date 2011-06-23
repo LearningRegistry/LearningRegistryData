@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158656</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158656</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2315</entry>
+          </identifier>
+          <title>
+            <string language="en">The Dark reaction in Photosynthesis</string>
+            <string language="x-mt-de">Die dunkle Reaktion in der Fotosynthese</string>
+            <string language="x-mt-fr">La réaction foncée dans la photosynthèse</string>
+            <string language="x-mt-pt">A reação escura na fotossíntese</string>
+            <string language="x-mt-it">La reazione scura nella fotosintesi</string>
+            <string language="x-mt-el">Η σκοτεινή αντίδραση στη φωτοσύνθεση</string>
+            <string language="x-mt-es">La reacción oscura en fotosíntesis</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An animated demonstration of the light independant or "dark phase" reactions in Photosynthesis</string>
+          </description>
+          <keyword>
+            <string language="en">Photosynthesis</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine lebhafte Demonstration der hellen 
+independant oder "dunkle Phase" Reaktionen in der Fotosynthese</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une démonstration animée des réactions 
+légères phase "independant ou de" foncée dans la photosynthèse</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma demonstração animated das reações claras 
+da fase independant ou "escura" na fotossíntese</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una dimostrazione animata delle reazioni chiare 
+di fase "independant o" scura nella fotosintesi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ζωντανεψοντη επίδειξη των ελαφριών αντιδράσεων 
+independant ή "σκοτεινής φάσησ" στη φωτοσύνθεση</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una demostración animada de las reacciones 
+ligeras fase independant o de la "oscura" en fotosíntesis</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Fotosynthese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Photosynthèse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Fotossíntese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fotosintesi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φωτοσύνθεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Fotosíntesis</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2315</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">John Kyrk</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158656</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.johnkyrk.com/photosynthesisdark.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

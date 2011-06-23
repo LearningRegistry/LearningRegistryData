@@ -1,0 +1,216 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157746</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157746</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE3384</entry>
+          </identifier>
+          <title>
+            <string language="en">Timeline of Israel Philharmonic Orchestra</string>
+            <string language="x-mt-de">Timeline Israel Philharmonic des Orchesters</string>
+            <string language="x-mt-fr">Chronologie d'orchestre Philharmonique de l'Israel</string>
+            <string language="x-mt-pt">Timeline do orchestra de Israel Philharmonic</string>
+            <string language="x-mt-it">Timeline dell'orchestra dell'Israele 
+Philharmonic</string>
+            <string language="x-mt-el">Υπόδειξη ως προς το χρόνο της φιλαρμονικής ορχήστρας 
+του Ισραήλ</string>
+            <string language="x-mt-es">Timeline de la orquesta de Israel Philharmonic</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A time line of the Israel Philharmonic orchestra.</string>
+          </description>
+          <keyword>
+            <string language="en">Orchestra</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Zeitzeile des Israel Philharmonic 
+Orchesters.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une ligne de temps de l'orchestre Philharmonique de 
+l'Israel.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma linha do tempo do orchestra de Israel 
+Philharmonic.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una riga di tempo dell'orchestra dell'Israele 
+Philharmonic.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια χρονική γραμμή της φιλαρμονικής ορχήστρας του 
+Ισραήλ.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una línea del tiempo de la orquesta de Israel 
+Philharmonic.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Orchester</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Orchestre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Orchestra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Orchestra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ορχήστρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Orquesta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE3384</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other web resource</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">10-18</string>
+            <string language="x-t-lre">10-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">israel Philharmonic Orchestra</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="en">English Language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+              <entry>
+                <string language="en">Music</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157746</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.ipo.co.il/history/timeline.asp</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

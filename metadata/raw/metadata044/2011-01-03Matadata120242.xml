@@ -1,0 +1,230 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158398</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158398</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2279</entry>
+          </identifier>
+          <title>
+            <string language="en">Pregnancy</string>
+            <string language="x-mt-de">Schwangerschaft</string>
+            <string language="x-mt-fr">Grossesse</string>
+            <string language="x-mt-pt">Gravidez</string>
+            <string language="x-mt-it">Gravidanza</string>
+            <string language="x-mt-el">Εγκυμοσύνη</string>
+            <string language="x-mt-es">Embarazo</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A very simple animation of the stages of pregnancy</string>
+          </description>
+          <keyword>
+            <string language="en">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="en">fetus</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine sehr einfache Animation der Stadien der 
+Schwangerschaft</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation très simple des étapes de la 
+grossesse</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation muito simples dos estágios da 
+gravidez</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione molto semplice delle fasi della 
+gravidanza</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια πολύ απλή ζωτικότητα των σταδίων της εγκυμοσύνης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación muy simple de las etapas del 
+embarazo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fötus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">foetus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fetus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">feto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έμβρυο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pregancy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">feto</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2279</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">AFA</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>979</id>
+              <entry>
+                <string language="en">physiology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>62</id>
+              <entry>
+                <string language="en">anatomy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158398</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://perso.wanadoo.fr/c.fumat/anim%20grossesse.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/156498</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>156498</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2593</entry>
+          </identifier>
+          <title>
+            <string language="en">Keplers Second Law</string>
+            <string language="x-mt-de">Keplers Zweite Gesetz</string>
+            <string language="x-mt-fr">Loi de Keplers Deuxièmes</string>
+            <string language="x-mt-pt">Lei De Keplers Segundo</string>
+            <string language="x-mt-it">Legge Di Keplers Secondo</string>
+            <string language="x-mt-el">Δεύτερος νόμος Keplers</string>
+            <string language="x-mt-es">Ley De Keplers Segundo</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An animation which illustrates Keplers Second Law of planetary motion.</string>
+          </description>
+          <keyword>
+            <string language="en">physics, kepler law</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Animation, die Keplers zweite Gesetz der 
+planetarischen Bewegung veranschaulicht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation qui illustre la loi de Keplers 
+deuxièmes du mouvement planétaire.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation que ilustre a lei de Keplers segundo 
+do movimento planetário.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione che illustra la legge di Keplers 
+secondo di movimento planetario.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ζωτικότητα που επεξηγεί το δεύτερο νόμο Keplers
+της πλανητικής κίνησης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación que ilustra la ley de Keplers 
+segundo del movimiento planetario.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, kepler Gesetz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique, loi de kepler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física, lei do kepler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica, legge del kepler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική, kepler νόμος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física, ley del kepler</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2593</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>yes</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">edumedia</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>104</id>
+              <entry>
+                <string language="en">Astronomy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>156498</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.edumedia-sciences.com/a243_l2-kepler-s-law.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
