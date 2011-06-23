@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75090</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75090</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e65d8fcd-4eb2-4362-ab9c-ad8598ac1431#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Taksony fejedelem</string>
+            <string language="en">Prince Taksony</string>
+            <string language="x-mt-de">Prinz Taksony</string>
+            <string language="x-mt-fr">Prince Taksony</string>
+            <string language="x-mt-pt">Príncipe Taksony</string>
+            <string language="x-mt-it">Principe Taksony</string>
+            <string language="x-mt-el">Πρίγκηπας Taksony</string>
+            <string language="x-mt-es">Príncipe Taksony</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Taksony fejedelem</string>
+            <string language="en">Prince Taksony</string>
+          </description>
+          <keyword>
+            <string language="hu">történelem, Taksony fejedelem, Taksony, nagyfejedelem, Képes Krónika</string>
+            <string language="en">History, Prince Taksony, Taksony, Grand Duke, Chronicle with Pictures</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Prinz Taksony</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Prince Taksony</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Príncipe Taksony</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Principe Taksony</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πρίγκηπας Taksony</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Príncipe Taksony</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geschichte, Prinz Taksony, Taksony, großartiger 
+Herzog, Chronik mit Abbildungen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Histoire, prince Taksony, Taksony, duc grand, chronique 
+avec des images</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">History, príncipe Taksony, Taksony, duque grande, 
+chronicle com retratos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Storia, principe Taksony, Taksony, grande duca, chronicle
+con le immagini</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Η ιστορία, πρίγκηπας Taksony, Taksony, μεγάλος δούκας,
+εξιστορεί κατά γράμμα με τις εικόνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Historia, príncipe Taksony, Taksony, duque magnífico,
+chronicle con los cuadros</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75090</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e65d8fcd-4eb2-4362-ab9c-ad8598ac1431&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

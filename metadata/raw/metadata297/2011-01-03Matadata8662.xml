@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74946</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74946</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>3f4a9fdb-401b-495b-8bdf-146e82f63d28#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Japán modernkori történelme</string>
+            <string language="en">Modern era history of Japan</string>
+            <string language="x-mt-de">Moderne Ärageschichte von Japan</string>
+            <string language="x-mt-fr">Histoire moderne d'ère du Japon</string>
+            <string language="x-mt-pt">History moderno da era de Japão</string>
+            <string language="x-mt-it">Storia moderna di era del Giappone</string>
+            <string language="x-mt-el">Σύγχρονη ιστορία εποχής της Ιαπωνίας</string>
+            <string language="x-mt-es">Historia moderna de la era de Japón</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az elpusztított városok</string>
+            <string language="en">The destroyed cities</string>
+          </description>
+          <keyword>
+            <string language="hu">atombomba,  Hirosima,  Nagaszaki,  </string>
+            <string language="en">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die zerstörten Städte</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les villes détruites</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As cidades destruídas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Le città distrutte</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι πόλεις</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las ciudades destruidas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">atombomb, Hirosima, Ναγκασάκι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">atombomb, Hirosima, Nagasaki</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74946</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=3f4a9fdb-401b-495b-8bdf-146e82f63d28&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
