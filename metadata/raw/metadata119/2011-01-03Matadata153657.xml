@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/16445</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>16445</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG377P</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG377P</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG377P</entry>
+          </identifier>
+          <title>
+            <string language="it">Organizzazione aziendale e commercio. 10/10: torre del parco e torre Rai a Milano</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">L'organizzazione di una rete di vendita in una grande industria prevede il controllo e coordinamento di una serie di attività che, partendo dalla promozione dei prodotti (fiere, cataloghi, pubblicità, ecc.) approdi alle commesse, alla produzione e infine alla consegna dei materiali finiti. Fin dall'inizio della propria attività, la Società Dalmine produsse una estesa gamma di prodotti tubolari in acciaio per innumerevoli campi di applicazione: acquedotti, oleodotti, gasdotti, tubi per industrie del petrolio, del metano e chimiche, per trivellazioni, per applicazioni termiche (caldaie, forni, impianti frigoriferi, ecc.) e meccaniche (industria automobilistica, aeronautica, ecc.), per costruzioni metalliche (tralicci, antenne, torri, ponteggi, impianti di illuminazione e di elettrificazione) e prodotti derivati dalle trasformazioni del tubo (bombole, serbatoi, curve, raccordi, serpentini, ecc.). I particolari campi di applicazione di alcuni di questi prodotti tubolari richiedevano specifiche competenze nella fase di installazione e posa in opera. Negli anni Cinquanta la Dalmine s.p.a. istituì società ad essa consociate specializzate nella posa in opera dei materiali tubolari di propria produzione per condotte, ponteggi, tralicci, ecc.Già dal 1933 con il dono al Comune di Milano della torre del Parco o Littoria (a sinistra nell'immagine) nei pressi del Palazzo dell'Arte e alta 110 m, la Soc. An. Dalmine si proponeva di mostrare le possibilità di applicazione del tubo in acciaio senza saldatura nella carpenteria tubolare. Il progetto, elaborato dall'architetto Giovanni Ponti, era stato revisionato per i calcoli strutturali e per lo studio del meccanismo di montaggio dalla stessa Dalmine, mentre l'ingegnere Cesare Chiodi venne nominato direttore tecnico della costruzione. Negli anni Cinquanta le torri a traliccio tubolare ebbero particolare successo nell'applicazione al nuovo settore televisivo, inaugurato dalla RAI nel 1952 con le prime trasmissioni sperimentali. Tra le tante torri messe in opera da Dalmine e dalle sue consociate in quegli anni figura, tra l'altro, la Torre RAI di Milano in Corso Sempione (a destra nell'immagine), ma molte altre ne vennero installate in tutta Italia.</string>
+          </description>
+          <coverage>
+            <string language="it">Milano</string>
+          </coverage>
+          <coverage>
+            <string language="it">1960d</string>
+          </coverage>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Fondazione Dalmine;;;; 
+FN:Fondazione Dalmine 
+ORG:FDAL
+URL:http://fondazione.dalmine.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Cattaneo;Barbara;;; 
+FN:BarbaraŠCattaneo 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG377P</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG377P</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T07:13:20.78Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>652</id>
+              <entry>
+                <string language="en">information and communications technology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG377P</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/nuovedalmine3/oc179.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
