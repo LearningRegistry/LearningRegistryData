@@ -1,0 +1,541 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/163760</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>163760</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114452</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114452</entry>
+          </identifier>
+          <title>
+            <string language="en">Analogue signal conversion and transmission in n-bit binary using a bandpass filter</string>
+            <string language="x-mt-de">Analogsignalkonvertierung und -übertragung im 
+Nbit binär mit einem Bandpaßfilter</string>
+            <string language="x-mt-fr">Conversion et transmission de signal analogue dans
+le n-bit binaire à l'aide d'un filtre passe-bande</string>
+            <string language="x-mt-pt">Conversão e transmissão do sinal análogo no 
+n-bit binário usando um filtro bandpass</string>
+            <string language="x-mt-it">Conversione e trasmissione del segnale di 
+analogico nel n-bit binario per mezzo di un filtro passa-banda</string>
+            <string language="x-mt-el">Μετατροπή και μετάδοση αναλογικών σημάτων στο δυαδικό
+ν-δυαδικών ψηφίων που χρησιμοποιεί ένα?????? φίλτρο</string>
+            <string language="x-mt-es">Conversión y transmisión de la señal analogica 
+en el n-di'gito binario binario con un filtro bandpass</string>
+          </title>
+          <description>
+            <string language="en">This illustration shows analogue signal conversion and transmission in n-bit binary using a bandpass filter. Bandpass filtering removes all the frequencies that are too high for the given sampling rate, in order to avoid the generation of aliases.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="en">aliases</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue signal conversion</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue signal destination</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue signal input</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue signal transmission</string>
+          </keyword>
+          <keyword>
+            <string language="en">bandpass filter</string>
+          </keyword>
+          <keyword>
+            <string language="en">bandpass filtering</string>
+          </keyword>
+          <keyword>
+            <string language="en">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="en">n-bit binary</string>
+          </keyword>
+          <keyword>
+            <string language="en">Receiver</string>
+          </keyword>
+          <keyword>
+            <string language="en">reconstitution filter</string>
+          </keyword>
+          <keyword>
+            <string language="en">sample and hold circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling clock</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling rate</string>
+          </keyword>
+          <keyword>
+            <string language="en">transmitter</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Abbildung zeigt Analogsignalkonvertierung 
+und -übertragung im Nbit, das mit einem Bandpaßfilter binär ist. 
+Die Bandpaßentstörung löscht alle Frequenzen, die für die 
+gegebene prüfende Kinetik zu hoch sind, in der Ordnung, um das 
+Erzeugung von Pseudonymen zu vermeiden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cette illustration montre la conversion et la 
+transmission de signal analogue dans le n-bit binaire à l'aide d'un 
+filtre passe-bande. Le filtrage passe-bande enlève toutes les 
+fréquences qui sont trop hautes pour la cadence de échantillon 
+indiquée, afin d'éviter la génération des noms d'emprunt.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta ilustração mostra a conversão e a 
+transmissão do sinal análogo no n-bit binário usando um filtro 
+bandpass. Filtrar bandpass remove todas as freqüências que 
+são demasiado elevadas para a taxa provando dada, a fim evitar a 
+geração dos pseudônimos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa illustrazione mostra la conversione e la 
+trasmissione del segnale di analogico nel n-bit binario per mezzo di 
+un filtro passa-banda. La filtrazione passa-banda rimuove tutte 
+le frequenze che sono troppo alte per il dato tasso di campionamento, 
+per evitare la generazione degli pseudonimi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η απεικόνιση εμφανίζει τη μετατροπή και μετάδοση
+αναλογικών σημάτων στο δυαδικό ν-δυαδικών ψηφίων χρησιμοποιώντας
+ένα?????? φίλτρο. Το?????? φιλτράρισμα αφαιρεί όλες τις 
+συχνότητες που είναι πάρα πολύ υψηλές για το δεδομένο ποσοστό 
+δειγματοληψίας, προκειμένου να αποφευχθεί η παραγωγή των 
+ψευδωνύμων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta ilustración muestra la conversión y la 
+transmisión de la señal analogica en el n-di'gito binario binario 
+con un filtro bandpass. La filtración bandpass quita todas las 
+frecuencias que son demasiado altas para la tarifa de muestreo dada, 
+para evitar la generación de pseudónimos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Pseudonyme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analogsignalkonvertierung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analogsignalzieleinheit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analogsignalinput</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analogsignalübertragung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bandpaßfilter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bandpaßentstörung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Nbit binär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Empfänger</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wiederherstellungfilter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abtast- und Haltekreis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstücktaktgeber</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstückkinetik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Übermittler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">CDA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">noms d'emprunt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">conversion de signal analogue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">destination de signal analogue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">entrée de signal analogue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">transmission de signal analogue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">filtre passe-bande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">filtrage passe-bande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">n-bit binaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Récepteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">filtre de reconstitution</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit témoin et de prise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">horloge de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cadence de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">émetteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">CAD</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pseudônimos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conversão do sinal análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">destino do sinal análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">entrada de sinal análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">transmissão do sinal análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">filtro bandpass</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">filtrar bandpass</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">n-bit binário</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Receptor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">filtro do reconstitution</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito de amostra e de preensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pulso de disparo da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">transmissor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pseudonimi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conversione del segnale di analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">destinazione del segnale di analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">input del segnale di analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">trasmissione del segnale di analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">filtro passa-banda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">filtrazione passa-banda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">n-bit binario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Ricevente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">filtro di ricostituzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito analogico per catturare e memorizzare un 
+segnale circuito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">orologio di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tasso di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">trasmettitore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΠΑΧ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψευδώνυμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετατροπή αναλογικών σημάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προορισμός αναλογικών σημάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">είσοδος αναλογικών σημάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετάδοση αναλογικών σημάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">?????? φίλτρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">?????? φιλτράρισμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ν-δυαδικό ψηφίο δυαδικό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Δέκτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φίλτρο ανασύνθεσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύκλωμα δειγμάτων και λαβής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρολόι δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσοστό δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συσκευή αποστολής σημάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pseudónimos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">conversión de la señal analogica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">destinación de la señal analogica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">entrada de información de señal analogica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">transmisión de la señal analogica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">filtro bandpass</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">filtración bandpass</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">n-di'gito binario binario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Receptor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">filtro de la reconstitución</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito de muestra y de asimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reloj del muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tarifa del muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">transmisor</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114452</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114452</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:34:17.48Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>163760</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114452.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

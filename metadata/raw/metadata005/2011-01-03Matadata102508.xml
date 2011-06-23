@@ -1,0 +1,477 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/161169</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>161169</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_79060</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_79060</entry>
+          </identifier>
+          <title>
+            <string language="en">Lattice enthalpies of group I halides</string>
+            <string language="x-mt-de">Gitter enthalpies Gruppe I der Halogenide</string>
+            <string language="x-mt-fr">Enthalpies de trellis des halogénures du groupe 
+I</string>
+            <string language="x-mt-pt">Enthalpies do lattice de halides do grupo I</string>
+            <string language="x-mt-it">Enthalpies della grata degli alogenuri del gruppo
+I</string>
+            <string language="x-mt-el">Ενθαλπίες δικτυωτού πλέγματος της ομάδας Ι αλογονίδια</string>
+            <string language="x-mt-es">Enthalpies del cedazo de los halides del grupo I</string>
+          </title>
+          <description>
+            <string language="en">This graph shows the lattice enthalpies of group I halides in terms of lattice energy and size of ions.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">bromine</string>
+          </keyword>
+          <keyword>
+            <string language="en">caesium</string>
+          </keyword>
+          <keyword>
+            <string language="en">chlorine</string>
+          </keyword>
+          <keyword>
+            <string language="en">fluorine</string>
+          </keyword>
+          <keyword>
+            <string language="en">group I halide</string>
+          </keyword>
+          <keyword>
+            <string language="en">iodine</string>
+          </keyword>
+          <keyword>
+            <string language="en">ion size</string>
+          </keyword>
+          <keyword>
+            <string language="en">lattice energy</string>
+          </keyword>
+          <keyword>
+            <string language="en">lattice enthalpy</string>
+          </keyword>
+          <keyword>
+            <string language="en">lithium</string>
+          </keyword>
+          <keyword>
+            <string language="en">potassium</string>
+          </keyword>
+          <keyword>
+            <string language="en">rubidium</string>
+          </keyword>
+          <keyword>
+            <string language="en">sodium</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Diagramm zeigt die Gitter enthalpies 
+Gruppe I der Halogenide in Gitterenergie und Größe der Ionen 
+ausgedrückt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphique montre les enthalpies de trellis des
+halogénures du groupe I en termes d'énergie de trellis et taille des
+ions.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este gráfico mostra os enthalpies do lattice de 
+halides do grupo I nos termos da energia do lattice e do tamanho dos 
+íons.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico mostra i enthalpies della grata 
+degli alogenuri del gruppo I in termini di energia della grata e 
+formato degli ioni.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση εμφανίζει στις ενθαλπίες 
+δικτυωτού πλέγματος της ομάδας Ι αλογονίδια από την άποψη της 
+ενέργειας δικτυωτού πλέγματος και του μεγέθους των ιόντων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este gráfico muestra los enthalpies del cedazo 
+de los halides del grupo I en términos de la energía del cedazo y de
+la talla de iones.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Brom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Cäsium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Chlor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fluor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gruppe I Halogenid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Jod</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ionengröße</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gitterenergie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gitterenthalpie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lithium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kalium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rubidium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Natrium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">brome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">césium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chlore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fluor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">halogénure du groupe I</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">iode</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">taille d'ion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">énergie de trellis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">enthalpie de trellis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">lithium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">potassium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rubidium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sodium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bromo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">caesium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cloro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fluorine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">halide do grupo I</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">iodo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tamanho do íon</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">energia do lattice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">enthalpy do lattice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lítio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">potassium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rubidium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sodium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bromo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cesio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cloro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fluoro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">alogenuro del gruppo I</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">iodio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">formato dello ione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">energia della grata</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">entalpia della grata</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">litio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">potassio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rubidio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sodio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βρώμιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καίσιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χλώριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φθόριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ομάδα Ι αλογονίδιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιώδιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιονικό μέγεθος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενέργεια δικτυωτού πλέγματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενθαλπία δικτυωτού πλέγματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λίθιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κάλιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρουβίδιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">νάτριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bromo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cesio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">clorina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">flúor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">halide del grupo I</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">yodo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">talla del ion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">energía del cedazo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">entalpia del cedazo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">litio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">potasio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rubidio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sodio</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_79060</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_79060</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:12:19.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>928</id>
+              <entry>
+                <string language="en">organic chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>161169</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/79060.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
