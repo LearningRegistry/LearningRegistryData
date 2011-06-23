@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73744</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73744</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40db20a8-3c4c-45a9-251f-a56b82591e5a#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A Corvina könyvtár</string>
+            <string language="en">The Corvina Library</string>
+            <string language="x-mt-de">Die Corvina Bibliothek</string>
+            <string language="x-mt-fr">La Bibliothèque de Corvina</string>
+            <string language="x-mt-pt">A Biblioteca De Corvina</string>
+            <string language="x-mt-it">La Libreria Di Corvina</string>
+            <string language="x-mt-el">Η βιβλιοθήκη Corvina</string>
+            <string language="x-mt-es">La Biblioteca De Corvina</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A Corvina könyvtár kódexei</string>
+            <string language="en">The Codex of the Corvina Library</string>
+          </description>
+          <keyword>
+            <string language="hu">corvina,  miniatrúra,  miniátor,  </string>
+            <string language="en">corvina, miniature, miniature-painter</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der Kodex der Corvina Bibliothek</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le codex de la bibliothèque de Corvina</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O codex da biblioteca de Corvina</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il codice della libreria di Corvina</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο κώδικας της βιβλιοθήκης Corvina</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El códice de la biblioteca de Corvina</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">corvina, Miniatur, Mini-Maler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">corvina, miniature, miniature-peintre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">corvina, miniatura, diminuto-pintor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">corvina, miniatura, miniatura-pittore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">corvina, μικρογραφία, μικροσκοπικός-ζωγράφος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">corvina, miniatura, miniatura-pintor</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73744</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40db20a8-3c4c-45a9-251f-a56b82591e5a&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
