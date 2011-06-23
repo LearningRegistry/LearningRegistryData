@@ -1,0 +1,208 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/213471</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>213471</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_fa1d0207f4446677d4219b00d2dd7982f09ba981</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_fa1d0207f4446677d4219b00d2dd7982f09ba981</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_fa1d0207f4446677d4219b00d2dd7982f09ba981</entry>
+          </identifier>
+          <title>
+            <string language="en">Energy transfer and energy loss in a food chain</string>
+            <string language="x-mt-de">Energieübertragung und Energieverlust in einer 
+Nahrungsmittelkette</string>
+            <string language="x-mt-fr">Transfert d'énergie et déperdition d'énergie 
+dans une chaîne alimentaire</string>
+            <string language="x-mt-pt">Transferência de energia e perda de energia em 
+uma corrente de alimento</string>
+            <string language="x-mt-it">Trasferimento di energia e perdita di energia in 
+un ciclo alimentare</string>
+            <string language="x-mt-el">Ενεργειακή μεταφορά και ενεργειακή απώλεια σε μια 
+τροφική αλυσίδα</string>
+            <string language="x-mt-es">Transferencia de energía y pérdida de energía 
+en un encadenamiento de alimento</string>
+          </title>
+          <description>
+            <string language="en">This diagram shows the amount of energy stored in plants and animals as the food chain goes higher.</string>
+          </description>
+          <language>x-none</language>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Diagramm zeigt die Menge von Energie 
+gespeichert in den Betrieben und in den Tieren, während die 
+Nahrungsmittelkette auf HI geht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce diagramme montre la quantité d'énergie 
+enregistrée chez les usines et les animaux pendant que la chaîne 
+alimentaire passe à 1.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama mostra a quantidade de energia 
+armazenada nas plantas e nos animais enquanto a corrente de alimento 
+vai mais altamente.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema mostra la quantità di energia 
+memorizzata in piante ed in animali mentre il ciclo alimentare passa 
+ad ALTO.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα εμφανίζει το ποσό ενέργειας που 
+καταχωρείται στα φυτά και τα ζώα καθώς η τροφική αλυσίδα 
+πηγαίνει υψηλότερη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este diagrama muestra la cantidad de energía 
+salvada en plantas y animales mientras que pasa a ALTO el 
+encadenamiento de alimento.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_fa1d0207f4446677d4219b00d2dd7982f09ba981</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_fa1d0207f4446677d4219b00d2dd7982f09ba981</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T18:30:44.85Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>502</id>
+              <entry>
+                <string language="en">food chain</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/fa1d0207f4446677d4219b00d2dd7982f09ba981.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
