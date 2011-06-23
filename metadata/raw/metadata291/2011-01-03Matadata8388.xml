@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76270</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76270</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>dc2b00b6-80b8-479b-905e-6ffb454db736#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A háromszög súlyvonala- ábra</string>
+            <string language="en">Triangle's tierce-line - illustration</string>
+            <string language="x-mt-de">Tiercezeile des Dreiecks - Abbildung</string>
+            <string language="x-mt-fr">La tierce-ligne de la triangle - illustration</string>
+            <string language="x-mt-pt">Tierce-linha do triângulo - ilustração</string>
+            <string language="x-mt-it">Tierce-riga del triangolo - illustrazione</string>
+            <string language="x-mt-el">Τηερθε-γραμμή τριγώνου - απεικόνιση</string>
+            <string language="x-mt-es">Tierce-li'nea del triángulo - ilustración</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A háromszög súlyvonalának szemléltetése.</string>
+            <string language="en">Demonstration of the triangle's tierce-line</string>
+          </description>
+          <keyword>
+            <string language="hu">9. osztály,  kép,  </string>
+            <string language="en">9. class, picture,   </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Demonstration der Tiercezeile des Dreiecks</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Démonstration de la tierce-ligne de la triangle</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Demonstração da tierce-linha do triângulo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dimostrazione della tierce-riga del triangolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επίδειξη της τηερθε-γραμμής του τριγώνου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Demostración de la tierce-li'nea del triángulo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">9. Kategorie, Abbildung,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">9. classe, image,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">9. classe, retrato,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">9. codice categoria, immagine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">9. κλάση, εικόνα,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">9. clase, cuadro,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76270</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=dc2b00b6-80b8-479b-905e-6ffb454db736&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

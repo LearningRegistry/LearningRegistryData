@@ -1,0 +1,319 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/71093</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>71093</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120223</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120223</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120223</entry>
+          </identifier>
+          <title>
+            <string language="sl">Kateri opazovalni sistem  je inercialen?</string>
+            <string language="en">Which is an inertial frame?</string>
+            <string language="x-mt-de">Welches ist ein Trägheitsfeld?</string>
+            <string language="x-mt-fr">Quelle est une trame à inertie ?</string>
+            <string language="x-mt-pt">Qual é um frame inertial?</string>
+            <string language="x-mt-it">Quale è una struttura inerziale?</string>
+            <string language="x-mt-el">Όποιο είναι ένα αδρανές πλαίσιο;</string>
+            <string language="x-mt-es">¿Cuál es un marco de inercia?</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Demonstracija treh meritev istega gibanja iz inercialnih in neinercialnem  sistemov.</string>
+            <string language="en">Demonstration of three measurements of same motion done in different (inertial and noninertial) reference frames.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">inercialni sistem</string>
+            <string language="en">inertial system</string>
+          </keyword>
+          <keyword>
+            <string language="sl">opazovalni sistem</string>
+            <string language="en">reference frame</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Demonstration von drei Messen der gleichen Bewegung 
+erfolgt in den unterschiedlichen (Trägheits- und noninertial) 
+Bezugsfeldern.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Démonstration de trois mesures du même mouvement fait 
+dans différentes trames (à inertie et noninertial) de référence.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Demonstração de três medidas do mesmo movimento feito 
+em frames (inertial e noninertial) diferentes da referência.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una dimostrazione di tre misure dello stesso movimento 
+fatto nei telai (inerziali e noninertial) differenti di riferimento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επίδειξη τριών μετρήσεων της ίδιας κίνησης που 
+γίνονται στα διαφορετικά (αδρανή και noninertial) πλαίσια 
+αναφοράς.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Demostración de tres medidas del mismo movimiento hecho 
+en diversos marcos (de inercia y noninertial) de la referencia.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Trägheitssystem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bezugsfeld</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">système à inertie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">trame de référence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistema inertial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">frame da referência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sistema inerziale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">struttura di riferimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αδρανές σύστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πλαίσιο αναφοράς</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistema de inercia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">marco de la referencia</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Wolfgang Christian
+N:Christian;Wolfgang;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Ivan Drnovšek
+N:Drnovšek;Ivan;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120223</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120223</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:02:35.99Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="sl">mehanika (fizika)</string>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120223</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120223:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/mechanics/reference_frames/prob9_3.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

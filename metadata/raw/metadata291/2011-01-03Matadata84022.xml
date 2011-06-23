@@ -1,0 +1,334 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/71338</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>71338</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120218</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120218</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120218</entry>
+          </identifier>
+          <title>
+            <string language="sl">Relativno gibanje v različnih opazovalnih sistemih</string>
+            <string language="en">Compare Relative Motion in Different Frames</string>
+            <string language="x-mt-de">Vergleichen Sie relative Bewegung in den 
+unterschiedlichen Feldern</string>
+            <string language="x-mt-fr">Comparez le mouvement relatif dans différentes 
+trames</string>
+            <string language="x-mt-pt">Compare o movimento relativo em frames 
+diferentes</string>
+            <string language="x-mt-it">Confronti il movimento relativo nei telai 
+differenti</string>
+            <string language="x-mt-el">Συγκρίνετε τη σχετική κίνηση στα διαφορετικά πλαίσια</string>
+            <string language="x-mt-es">Compare el movimiento relativo en diversos 
+marcos</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Sprehajalec hodi ob reki, poleg tega se po reki pelje tudi čoln.</string>
+            <string language="en">Promenader is walking along the river and at the same time the boat is passing by.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">opazovalni sistem</string>
+            <string language="en">reference frame</string>
+          </keyword>
+          <keyword>
+            <string language="sl">relativno gibanje</string>
+            <string language="en">relative motion</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Promenader geht entlang den Fluß und 
+gleichzeitig überschreitet das Boot vorbei.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Promenader marche le long du fleuve et en même 
+temps le bateau passe près.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Promenader está andando ao longo do rio e ao 
+mesmo tempo o barco está passando perto.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Promenader sta camminando lungo il fiume ed allo 
+stesso tempo la barca sta passando vicino.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το Promenader περπατά κατά μήκος του ποταμού και 
+συγχρόνως η βάρκα περνά από.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Promenader está recorriendo a lo largo del río 
+y en el mismo tiempo el barco está pasando cerca.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bezugsfeld</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">relative Bewegung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">trame de référence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mouvement relatif</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">frame da referência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">movimento relativo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">struttura di riferimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">movimento relativo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πλαίσιο αναφοράς</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σχετική κίνηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">marco de la referencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">movimiento relativo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Fu-Kwun Hwang
+N:Hwang;Fu-Kwun;;;
+ORG:National Taiwan Normal University
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Fu-Kwun Hwang
+N:Hwang;Fu-Kwun;;;
+ORG:National Taiwan Normal University
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120218</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120218</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:02:35.65Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="sl">mehanika (fizika)</string>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120218</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120218:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/mechanics/reference_frames/ex9_3.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
