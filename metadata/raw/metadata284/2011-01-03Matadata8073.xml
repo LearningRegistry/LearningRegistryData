@@ -1,0 +1,164 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74988</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74988</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>776604b5-4687-438b-9a16-7464fa05b175#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">A forgatónyomaték</string>
+            <string language="en">The torsional force</string>
+            <string language="x-mt-de">Die Dreh- Kraft</string>
+            <string language="x-mt-fr">La force de torsion</string>
+            <string language="x-mt-pt">A força de torção</string>
+            <string language="x-mt-it">La forza di torsione</string>
+            <string language="x-mt-el">Η torsional δύναμη</string>
+            <string language="x-mt-es">La fuerza torsional</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A forgatónyomaték, egyensúly</string>
+            <string language="en">The torsional force, balance</string>
+          </description>
+          <keyword>
+            <string language="hu">egyszerű gépek,  forgatónyomaték,  erőkar,  egyensúly,  </string>
+            <string language="en">simple machines, torsional force, leverage,  balance,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Dreh- Kraft, Balance</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La force de torsion, équilibre</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A força de torção, contrapeso</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La forza di torsione, equilibrio</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η torsional δύναμη, ισορροπία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La fuerza torsional, balance</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">einfache Maschinen, Dreh- Kraft, Hebelkraft, Balance,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">les machines simples, force de torsion, 
+accroissent, équilibrent,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">máquinas simples, força de torção, força de 
+alavanca, contrapeso,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">macchine semplici, forza di torsione, potenza d'una 
+leva, equilibrio,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απλές μηχανές, torsional δύναμη, δύναμη, ισορροπία,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">máquinas simples, fuerza torsional, palancada, 
+balance,</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">12-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74988</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=776604b5-4687-438b-9a16-7464fa05b175&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
