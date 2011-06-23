@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75415</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75415</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>fe60f1fe-aed2-46dd-b1aa-199c8fed1765#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az ízület felépítése</string>
+            <string language="en">structure of diarthrosis</string>
+            <string language="x-mt-de">Struktur von Diarthrosis</string>
+            <string language="x-mt-fr">structure de la diarthrose</string>
+            <string language="x-mt-pt">estrutura do diarthrosis</string>
+            <string language="x-mt-it">struttura di diarthrosis</string>
+            <string language="x-mt-el">δομή του diarthrosis</string>
+            <string language="x-mt-es">estructura del diarthrosis</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A térdízület rajza</string>
+            <string language="en">sketching about knee-joint</string>
+          </description>
+          <keyword>
+            <string language="hu">ízület,  ízületi tok,  mozgás,  vázrendszer,  </string>
+            <string language="en">diarthrosis, box of joint, movement, skeletal system</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Skizzieren über Knie-Verbindung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">esquisse au sujet du genou-joint</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">esboçar sobre a joelho-junção</string>
+          </description>
+          <description>
+            <string language="x-mt-it">abbozzando circa il ginocchio-giunto</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σκιαγράφηση για την γόνατο-ένωση</string>
+          </description>
+          <description>
+            <string language="x-mt-es">el bosquejar sobre rodilla-empalme</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Diarthrosis, Kasten der Verbindung, Bewegung, 
+skelettartiges System</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">diarthrose, cadre de joint, mouvement, système 
+squelettique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">diarthrosis, caixa da junção, movimento, sistema 
+esqueletal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">diarthrosis, casella del giunto, movimento, sistema 
+scheletrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">diarthrosis, κιβώτιο της ένωσης, μετακίνηση, σκελετικό 
+σύστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">diarthrosis, rectángulo del empalme, movimiento, 
+sistema esquelético</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75415</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=fe60f1fe-aed2-46dd-b1aa-199c8fed1765&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

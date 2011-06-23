@@ -1,0 +1,640 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/36590</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>36590</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/2249</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/2249</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/2249</entry>
+          </identifier>
+          <title>
+            <string language="ca">Dígits . Càlculs lògics</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">L'ordinador, a més de fer càlculs numèrics, també fa càlculs lògics. En aquest capítol de "Dígits" es repassen els diferents sistemes que s'han fet servir al llarg de la història per fer aquesta mena de càlculs.
+
+La manera més senzilla de representar relacions lògiques són els diagrames en forma d'arbre. Aristòtil els va fer servir per classificar les espècies.
+
+Quinze segles després, Ramon Llull va donar un nou impuls a la lògica. Llull era un estudiós de les qualitats de Déu, per això va idear un sistema per generar, de manera mecànica, nous conceptes divins. Es tracta de l'anomenada "màquina del saber", que consistia en un seguit de discos concèntrics amb diversos conceptes. Un primer disc contenia les referències als nou atributs essencials del Déu. Un segon contenia tres triangles amb tres operacions possibles entre aquests atributs. El sistema, conegut com "ars magna", va arribar a aplegar catorze discos concentrics. 
+
+L'alemany Gottfried Leibniz, al segle XVII, va idear un sistema anomenat "ars combinatoria", en què tota expressió lògica es podia reduir a una combinació de paraules i números. A més, Leibniz va promoure l'ús de la notació binària, és a dir, representar els números amb zeros i uns. 
+
+A mitjan segle XIX, el britànic George Boole va proposar l'aplicació d'aquesta notació binària a la lògica. L'anomenada àlgebra de Boole assigna un 0 quan una proposició és falsa, i un 1 quan és certa. 
+
+Sobre la base d'aquesta àlgebra es van construir diverses màquines per fer càlculs lògics. Per exemple, Charles Stanhope va construir la Demonstrator i, William Jevons, el Piano lògic.
+
+Durant la dècada del 1930, investigant les comunicacions telefòniques, el nord-amercicà Claude Shannon va formular una teoria segons la qual tot missatge es pot representar com un seguit de zeros i uns, als quals, per tant, es pot aplicar l'àlgebra de Boole.</string>
+          </description>
+          <keyword>
+            <string language="ca">àlgebra</string>
+            <string language="en">algebra</string>
+            <string language="es">álgebra</string>
+          </keyword>
+          <keyword>
+            <string language="ca">càlcul</string>
+            <string language="en">calculation</string>
+            <string language="es">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">ordinador</string>
+            <string language="en">computer</string>
+            <string language="es">ordenador</string>
+          </keyword>
+          <keyword>
+            <string language="ca">alfabetització informàtica</string>
+            <string language="en">computer literacy</string>
+            <string language="es">alfabetización informática</string>
+          </keyword>
+          <keyword>
+            <string language="ca">electrònica</string>
+            <string language="en">electronics</string>
+            <string language="es">electrónica</string>
+          </keyword>
+          <keyword>
+            <string language="ca">història de la tecnologia</string>
+            <string language="en">history of technology</string>
+            <string language="es">historia de la tecnología</string>
+          </keyword>
+          <keyword>
+            <string language="ca">informàtica</string>
+            <string language="en">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="ca">tecnologies de la informació i la comunicació</string>
+            <string language="en">information and communications technology</string>
+            <string language="es">tecnologías de la información y la comunicación</string>
+          </keyword>
+          <keyword>
+            <string language="ca">invenció</string>
+            <string language="en">invention</string>
+            <string language="es">invención</string>
+          </keyword>
+          <keyword>
+            <string language="ca">matemàtiques</string>
+            <string language="en">mathematics</string>
+            <string language="es">matemáticas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Algebra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Berechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Computer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Computerbildungsgrad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elektronik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschichte der Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Informatik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Informations- und Kommunikationstechnik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Erfindung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mathematik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">algèbre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">calcul</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ordinateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">connaissances en informatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'électronique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histoire de technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">informatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">technologie de l'information et de transmissions</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">invention</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mathématiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">álgebra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">computador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">literacy de computador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">eletrônica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">history da tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tecnologia de informação e de comunicações</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">invenção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">matemática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">algebra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">literacy di calcolatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elettronica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">storia di tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">informatica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tecnologia di comunicazioni e delle informazioni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">invenzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">matematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άλγεβρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογιστής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βασική εκπαίδευση υπολογιστών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρονική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορία της τεχνολογίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορίες και τεχνολογία επικοινωνιών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εφεύρεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μαθηματικά</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">1.2</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Edu3
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/2249</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/2249</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpanzano
+N:jpanzano
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-19</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpanzano
+N:jpanzano
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:nfuertes
+N:nfuertes
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T22:56:13.12Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">12-99</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H6M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">La informació i els continguts que es difonen en el portal són de la Generalitat de Catalunya, de la CCMA i dels seus autors i tenen la consideració d'obres protegides de conformitat amb les disposicions del Reial Decret 1/1996, del 12 d'abril, pel qual s'aprova el text refós de la Llei de Propietat Intel·lectual, i resulten igualment d'aplicació els tractats internacionals subscrits en aquest camp. Només està autoritzat l'ús de la informació amb finalitats docents o per a ús personal, per tant, queda prohibida la comercialització o qualsevol altra activitat amb una finalitat o ús públic que es pugui realitzar amb continguts de la pàgina.</string>
+            <string language="x-t-cc">Edu3</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>2638</id>
+              <entry>
+                <string language="ca">Tractament de la informació</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>5246</id>
+              <entry>
+                <string language="ca">Tecnologies de la informació i de la comunicació</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>5253</id>
+              <entry>
+                <string language="ca">Tecnologia i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>5325</id>
+              <entry>
+                <string language="ca">Electrònica i automatismes elèctrics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6728</id>
+              <entry>
+                <string language="ca">Elements d'història de la filosofia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6772</id>
+              <entry>
+                <string language="ca">Els nombres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6790</id>
+              <entry>
+                <string language="ca">Matemàtiques, cultura i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7002</id>
+              <entry>
+                <string language="ca">La humanitat i la tecnologia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7008</id>
+              <entry>
+                <string language="ca">Màquines i sistemes</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7024</id>
+              <entry>
+                <string language="ca">Circuits i aplicacions elèctriques i electròniques</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7255</id>
+              <entry>
+                <string language="ca">Numeració i càlcul</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7294</id>
+              <entry>
+                <string language="ca">Matemàtiques i societat</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>52</id>
+              <entry>
+                <string language="ca">àlgebra</string>
+                <string language="en">algebra</string>
+                <string language="es">álgebra</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>170</id>
+              <entry>
+                <string language="ca">càlcul</string>
+                <string language="en">calculation</string>
+                <string language="es">cálculo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>251</id>
+              <entry>
+                <string language="ca">ordinador</string>
+                <string language="en">computer</string>
+                <string language="es">ordenador</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>255</id>
+              <entry>
+                <string language="ca">alfabetització informàtica</string>
+                <string language="en">computer literacy</string>
+                <string language="es">alfabetización informática</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>417</id>
+              <entry>
+                <string language="ca">electrònica</string>
+                <string language="en">electronics</string>
+                <string language="es">electrónica</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>595</id>
+              <entry>
+                <string language="ca">història de la tecnologia</string>
+                <string language="en">history of technology</string>
+                <string language="es">historia de la tecnología</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>650</id>
+              <entry>
+                <string language="ca">informàtica</string>
+                <string language="en">informatics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>652</id>
+              <entry>
+                <string language="ca">tecnologies de la informació i la comunicació</string>
+                <string language="en">information and communications technology</string>
+                <string language="es">tecnologías de la información y la comunicación</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>677</id>
+              <entry>
+                <string language="ca">invenció</string>
+                <string language="en">invention</string>
+                <string language="es">invención</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="ca">matemàtiques</string>
+                <string language="en">mathematics</string>
+                <string language="es">matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>905</id>
+              <entry>
+                <string language="ca">número</string>
+                <string language="en">number</string>
+                <string language="es">número</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/2249</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu3.cat/Edu3tv/Fitxa?p_id=19355</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
