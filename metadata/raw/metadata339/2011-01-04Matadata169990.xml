@@ -1,0 +1,304 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82691</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82691</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>1824</entry>
+          </identifier>
+          <title>
+            <string language="no">Heisspill</string>
+            <string language="en">Elevator game</string>
+            <string language="x-mt-de">Aufzug Spiel</string>
+            <string language="x-mt-fr">Jeu d'ascenseur</string>
+            <string language="x-mt-pt">Jogo do elevador</string>
+            <string language="x-mt-it">Gioco dell'elevatore</string>
+            <string language="x-mt-el">Παιχνίδι ανελκυστήρων</string>
+            <string language="x-mt-es">Juego del elevador</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Hvor mye kraft trengs for å kunne heise en bøtte opp fra en brønn? Prøv deg frem!</string>
+            <string language="en">How much energy is needed to lift a bucket from a well? Try it!</string>
+          </description>
+          <keyword>
+            <string language="no">vekt</string>
+            <string language="en">weight</string>
+          </keyword>
+          <keyword>
+            <string language="no">kraft</string>
+            <string language="en">energy</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Wieviel Energie ist erforderlicher Heber eine 
+Wanne von einer Vertiefung? Versuchen Sie ihn!</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Combien énergie l'ascenseur nécessaire 
+coûte-t-il une position d'un puits ? Essayez-le !</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Quanto energia é o elevador needed uma cubeta de 
+um poço? Tente-o!</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Quanta energia è l'elevatore necessario una 
+benna da un pozzo? Provilo!</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πόση ενέργεια απαιτείται για να ανυψώσει έναν κάδο 
+από ένα φρεάτιο; Τον δοκιμάστε!</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Cuánto energía es la elevación necesaria un 
+compartimiento de un receptor de papel? ¡Inténtela!</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Gewicht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Energie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">poids</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">énergie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">peso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">energia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">peso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">energia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βάρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενέργεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">peso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">energía</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>1824</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-27</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-16</string>
+            <string language="no">12-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82691</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/Heisspill.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,242 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82636</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82636</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4600</entry>
+          </identifier>
+          <title>
+            <string language="it">Energia potenziale</string>
+            <string language="en">Potential energy</string>
+            <string language="x-mt-de">Mögliche Energie</string>
+            <string language="x-mt-fr">Énergie potentielle</string>
+            <string language="x-mt-pt">Energia potencial</string>
+            <string language="x-mt-el">Πιθανή ενέργεια</string>
+            <string language="x-mt-es">Energía potencial</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Due animazioni interattive permettono lo studio dell'ambito della potenzialità. La quantità relativa di energia è identificabile, cioè, dovrebbe essere calcolata paragonata a qualsiasi livello di riferimento. Per la prima animazione un oggetto è mosso verticalmente mentre per la seconda è mosso in qualsiasi direzione. Il programma indica il cambiamento di energia potenziale.</string>
+            <string language="en">Two interactive animations enable study of the extent of potential. The relative quantity of energy is identifiable, that is, it should be calculated compared to any reference level. For the first animation an object is moved vertically while for the second one it is moved in any direction. The program indicates the change of potential energy.</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Zwei interaktive Animationen aktivieren Studie 
+des Umfangs eines Potentials. Die relative Quantität von 
+Energie ist identifizierbar, d.h. sollte es errechnet werden verglich 
+mit jeder möglicher Bezugsstufe. Für die erste Animation wird 
+eine Nachricht vertikal verschoben, während für zweite sie in jede 
+mögliche Richtung verschoben wird. Das Programm zeigt die 
+Änderung der möglichen Energie an.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Deux animations interactives permettent l'étude 
+de l'ampleur du potentiel. La quantité relative d'énergie est 
+identifiable, c.-à-d., il devrait calculer a comparé à n'importe 
+quel niveau de référence. Pour la première animation un objet
+est déplacé verticalement tandis que pour le second il est déplacé
+n'importe quelle direction. Le programme indique le changement 
+de l'énergie potentielle.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Dois animations interativos permitem o estudo da 
+extensão do potencial. A quantidade relativa da energia é 
+identifiable, isto é, deve-se calcular comparou a todo o nível de 
+referência. Para o primeiro animation um objeto está movido 
+verticalmente quando para segundo for movido em todo o sentido. 
+O programa indica a mudança da energia potencial.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Δύο διαλογικές ζωτικότητες επιτρέπουν τη μελέτη της 
+έκτασης της δυνατότητας. Η σχετική ποσότητα ενέργειας 
+είναι ευπροσδιόριστη, δηλαδή πρέπει να υπολογιστεί έναντι σε 
+οποιοδήποτε επίπεδο αναφοράς. Για την πρώτη ζωτικότητα ένα
+αντικείμενο κινείται κάθετα ενώ για τη δεύτερη κινείται σε 
+οποιαδήποτε κατεύθυνση. Το πρόγραμμα δείχνει την αλλαγή της
+πιθανής ενέργειας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Dos animaciones interactivas permiten el estudio 
+del fragmento del potencial. La cantidad relativa de energía es
+identificable, es decir, debe ser calculado comparó a cualquier nivel
+de referencia. Para la primera animación un objeto se mueve 
+verticalmente mientras que para segundo se mueve en cualquier 
+dirección. El programa indica el cambio de la energía 
+potencial.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4600</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Márta;;;
+FN:Márta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-03-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Congedo;Fiorenza;;;
+FN:Fiorenza Congedo
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-07</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="en">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82636</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.digitalbrain.com/celebrate/community/celebrate/resources/Hungary/physics/Potential%20energy/home/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

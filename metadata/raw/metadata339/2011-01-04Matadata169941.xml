@@ -1,0 +1,219 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82474</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82474</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15639</entry>
+          </identifier>
+          <title>
+            <string language="it">Il fondatore della moderna Turchia - ATATURK</string>
+            <string language="en">The Founder of Modern Turkey-ATATURK</string>
+            <string language="x-mt-de">Der Gründer von der modernen Türkei-ATATURK</string>
+            <string language="x-mt-fr">Le fondateur de la Turquie-ATATURK moderne</string>
+            <string language="x-mt-pt">O founder de Turquia-ATATURK moderna</string>
+            <string language="x-mt-el">Ο ιδρυτής σύγχρονου Τουρκία- Ataturk</string>
+            <string language="x-mt-es">El fundador de Turqui'a-ATATURK moderna</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Informazioni introduttive su un vero eroe -  il fondatore della moderna Turchia e suo presidente.</string>
+            <string language="en">Introductory information about a true hero - the founder of modern Turkey and its first president</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Einleitende Informationen über einen 
+zutreffenden Held - der Gründer von der modernen Türkei und sein 
+erster Präsident</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Informations préliminaires sur un héros vrai - 
+le fondateur de la Turquie moderne et son premier président</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Informação introdutória sobre um herói 
+verdadeiro - founder de Turquia moderna e seu primeiro presidente</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισαγωγικές πληροφορίες για έναν αληθινό ήρωα - ο 
+ιδρυτής της σύγχρονης Τουρκίας και του πρώτου Προέδρου του</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Información introductoria sobre un héroe 
+verdadero - el fundador de Turquía moderna y su primer presidente</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Gürsoy;Ulkü;;;
+FN:Ulkü Gürsoy
+ORG:Turkish Education Association
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15639</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Gursoy;Ulku;;;
+FN:Ulku Gursoy
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-13</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1378</id>
+              <entry>
+                <string language="en">war</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>994</id>
+              <entry>
+                <string language="en">political movement</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1206</id>
+              <entry>
+                <string language="en">social system</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1001</id>
+              <entry>
+                <string language="en">politics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1394</id>
+              <entry>
+                <string language="en">women's position</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>317</id>
+              <entry>
+                <string language="en">democracy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82474</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/ulku1/sanstitre/abc.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,228 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82465</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82465</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14319</entry>
+          </identifier>
+          <title>
+            <string language="it">L'Europa in 12 lezioni</string>
+            <string language="en">Europe in 12 lessons</string>
+            <string language="x-mt-de">Europa in 12 Lektionen</string>
+            <string language="x-mt-fr">l'Europe dans 12 leçons</string>
+            <string language="x-mt-pt">Europa em 12 lições</string>
+            <string language="x-mt-el">Ευρώπη σε 12 μαθήματα</string>
+            <string language="x-mt-es">Europa en 12 lecciones</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Un webquiz che usa il sito web dell'Europa in 12 lezioni per consolidare la conoscenza sulla fondazione e lo sviluppo della UE.</string>
+            <string language="en">A webquiz using the Europe in 12 lessons website to consolidate knowledge about the founding and development of the EU.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Ein webquiz mit dem Europa in der Web site mit 12 
+Lektionen, Wissen über die Gründung und die Entwicklung des EUS zu 
+vereinigen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un webquiz en utilisant l'Europe dans le site Web 
+de 12 leçons pour consolider la connaissance au sujet de la fondation
+et du développement de l'EU.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um webquiz usando a Europa em um Web site de 12 
+lições consolidar o conhecimento sobre fundar e o desenvolvimento do
+EU.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα webquiz που χρησιμοποιεί την Ευρώπη στον 
+ιστοχώρο 12 μαθημάτων για να παγιώσει τη γνώση για την ίδρυση 
+και την ανάπτυξη της ΕΕ.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un webquiz usando la Europa en Web site de 12 
+lecciones para consolidar conocimiento sobre la fundación y el 
+desarrollo del EU.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:Westminster Under School
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14319</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-U</string>
+            <string language="en">&gt; 10</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Scarica il quiz ed usa il sito dell'Europa in 12 passi per risolvere il puzzle</string>
+            <string language="en">Download the quiz and use the Europe in 12 steps site to solve a puzzle.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>929</id>
+              <entry>
+                <string language="en">organisation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82465</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/webquests/pat-webquest/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

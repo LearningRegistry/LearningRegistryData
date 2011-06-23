@@ -1,0 +1,263 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82418</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82418</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2169</entry>
+          </identifier>
+          <title>
+            <string language="it">Quadrati Magici</string>
+            <string language="en">Magic Squares</string>
+            <string language="x-mt-de">Magische Quadrate</string>
+            <string language="x-mt-fr">Places Magiques</string>
+            <string language="x-mt-pt">Quadrados Mágicos</string>
+            <string language="x-mt-el">Μαγικά τετράγωνα</string>
+            <string language="x-mt-es">Cuadrados Mágicos</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">I quadrati magici hanno la stessa somma lungo tutte le colonne e tutte le righe. Siete in grado di risolvere i diversi quadrati?</string>
+            <string language="en">Magical squares have the same sum along all columns and all rows. Can you solve the different squares?</string>
+          </description>
+          <keyword>
+            <string language="it">soluzione di problemi</string>
+            <string language="en">problem solving</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Magische Quadrate haben die gleiche Summe entlang 
+allen Spalten und allen Reihen. Können Sie die 
+unterschiedlichen Quadrate lösen?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les places magiques ont la même somme le long de 
+toutes les colonnes et de toutes les lignes. Pouvez-vous 
+résoudre les différentes places ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os quadrados mágicos têm a mesma soma ao longo 
+de todas as colunas e de todas as fileiras. Pode você resolver 
+os quadrados diferentes?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τα μαγικά τετράγωνα έχουν το ίδιο ποσό κατά μήκος 
+όλων των στηλών και όλων των σειρών. Μπορείτε να λύσετε τα
+διαφορετικά τετράγωνα;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los cuadrados mágicos tienen la misma suma a lo 
+largo de todas las columnas y de todas las filas. ¿Puede usted 
+solucionar los diversos cuadrados?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Lösen von Problemen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">résolution des problèmes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">resolver de problema</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίλυση προβλήματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el solucionar de problema</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2169</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-02-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lattanzi;Giuseppina;;;
+FN:Giuseppina Lattanzi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lattanzi;Giuseppina;;;
+FN:Giuseppina Lattanzi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">1-U</string>
+            <string language="en">&gt; 1</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82418</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/english/animations/mathematics/magi1/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

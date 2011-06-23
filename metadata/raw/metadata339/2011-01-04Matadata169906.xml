@@ -1,0 +1,203 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82411</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82411</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15347</entry>
+          </identifier>
+          <title>
+            <string language="de">Der Europass</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Insbesondere an junge Auszubildende richtet sich diese Übung. Sie macht vertraut mit dem Europass, der bei europäischen Mobilitätsmaßnahmen als Nachweisinstrument dient.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane ;;;
+FN:Christiane  Bodammer
+ORG:BBS OHZ
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15347</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane;;;
+FN:Christiane Bodammer
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>de</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">17-22</string>
+            <string language="de">17-22</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Im Zusammenhang mit Vorbereitungsmaßnahmen für eine europäische Mobilität kann diese Übung eingesetzt werden.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>384</id>
+              <entry>
+                <string language="de">Wirtschaft</string>
+                <string language="en">economy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>428</id>
+              <entry>
+                <string language="de">Unternehmen</string>
+                <string language="en">enterprise</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>381</id>
+              <entry>
+                <string language="de">Wirtschaftspolitik</string>
+                <string language="en">economic policy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1327</id>
+              <entry>
+                <string language="de">Übergang in die Arbeitswelt</string>
+                <string language="en">transition from school to work</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>700</id>
+              <entry>
+                <string language="de">Arbeit</string>
+                <string language="en">labour</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>174</id>
+              <entry>
+                <string language="de">Arbeitslehre</string>
+                <string language="en">career education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>453</id>
+              <entry>
+                <string language="de">Europapolitik</string>
+                <string language="en">European policy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>451</id>
+              <entry>
+                <string language="de">europäische Dimension</string>
+                <string language="en">European dimension</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82411</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/gausepohl/eu-unionsburgerschaft/Europass.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

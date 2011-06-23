@@ -1,0 +1,275 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82927</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82927</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15161</entry>
+          </identifier>
+          <title>
+            <string language="it">La Commissione Europea</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Questo oggetto di apprendimento aiuta ad insegnare il funzionamento della Commissione Europea. E’ un esercizio per il quale è necessario riempire gli spazi vuoti, fornito di un tasto di “controllo”, per poter comprendere se la risposta è esatta, un tasto “suggerimento”, per ottenere una lettera in aiuto se una parola risulta difficile ed un tasto “?” per poter accedere ad una definizione chiarificatrice. Fai attenzione: si perdono punti se si chiedono suggerimenti o definizioni
+
+Le definizioni chiave mettono alla prova la conoscenza degli studenti sulla Commissione Europea chiedendo loro di riempire quindici spazi sui seguenti argomenti: 
+
+1.	la Commissione Europea come una delle istituzioni chiave dell’UE
+2.	Membri della Commissione
+3.	numero dei Membri della Commissione
+4.	autonomia della Commissione 
+5.	interesse comune
+6.	limitata influenza delle singole nazioni
+7.	Commissione Europea e Trattati
+8.	rapporti con il Consiglio
+9.	Corte di Giustizia
+10.	legislazione UE
+11.	rapporti con il Parlamento
+12.	mozione di censura
+13.	capitale dell’UE
+14.	Lussemburgo 
+</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Prof. Noemi;;;
+FN:Prof. Noemi Lusi
+ORG:Italy
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15161</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Noemi;;;
+FN:Noemi Lusi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-21</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>it</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>manager</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>counselor</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>educational administration</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-U</string>
+            <string language="it">&gt; 14</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Obiettivi pedagogici e didattici
+
+Gli studenti ripasseranno le loro conoscenze su come funziona la Commissione Europea, imparando le nozioni di base su questa istituzione fondamentale dell’U.E. 
+
+Approccio pedagogico
+
+Fascia d’età: 14  - 25
+Tempo         : 45 minuti.
+Procedimento:
+gli studenti possono lavorare individualmente, in coppia o in gruppi da 3 o 4. Leggeranno il brano una prima volta, poi una seconda cominciando a riempire gli spazi vuoti eventualmente usando i tasti a loro disposizione se hanno bisogno di aiuto. Questo oggetto di apprendimento può essere utilizzato da altri insegnanti in molti modi diversi dipendentemente dal loro contesto, il loro obiettivo, la fascia d’età del gruppo, le conoscenze di base, il numero degli studenti che compongono la classe, il numero dei computers nel laboratorio,  il tempo a disposizione etc. 
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>213</id>
+              <entry>
+                <string language="it">educazione civica</string>
+                <string language="en">civics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="it">cittadinanza</string>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>731</id>
+              <entry>
+                <string language="it">scienze giuridiche</string>
+                <string language="en">legal sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>716</id>
+              <entry>
+                <string language="it">legge</string>
+                <string language="en">law</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="it">scienze economiche</string>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="it">cultura</string>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>450</id>
+              <entry>
+                <string language="it">Commissione Europea</string>
+                <string language="en">European Commission</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>452</id>
+              <entry>
+                <string language="it">Parlamento Europeo</string>
+                <string language="en">European Parliament</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82927</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/nl-more/05/it/lo5-it.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

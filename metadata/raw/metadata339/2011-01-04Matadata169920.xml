@@ -1,0 +1,278 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82941</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82941</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14738</entry>
+          </identifier>
+          <title>
+            <string language="it">I paesi dell'UE</string>
+            <string language="en">The EU countries</string>
+            <string language="x-mt-de">Die EU-Länder</string>
+            <string language="x-mt-fr">Les pays d'EU</string>
+            <string language="x-mt-pt">Os países do EU</string>
+            <string language="x-mt-el">Οι χώρες της ΕΕ</string>
+            <string language="x-mt-es">Los países del EU</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Un cruciverba basato sulla conoscenza dei paesi dell'UE. Per farlo gli studenti devono conoscere i nomi dei 25 paesi della Unione Europea.</string>
+            <string language="en">A crossword based on the knowledge of the EU countries. To do it the students should know the names of the 25 EU countries.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Ein Kreuzworträtsel basiert auf dem Wissen der 
+EU-Länder. Um es zu tun sollten die Kursteilnehmer die Namen 
+der 25 EU-Länder kennen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Des mots croisé basés sur la connaissance des 
+pays d'EU. Pour le faire les étudiants devraient savoir les 
+noms des 25 pays d'EU.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um crossword baseado no conhecimento dos países 
+do EU. Para fazê-lo os estudantes devem saber os nomes dos 25 
+países do EU.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα σταυρόλεξο βασισμένο στη γνώση των χωρών της ΕΕ. 
+Για να το κάνουν οι σπουδαστές πρέπει να ξέρουν τα ονόματα 
+των 25 χωρών της ΕΕ.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un crucigrama basado en el conocimiento de los 
+países del EU. Para hacerlo los estudiantes deben saber los 
+nombres de los 25 países del EU.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:AUKŠPOLE;RUTA;;;
+FN:RUTA AUKŠPOLE
+ORG:VIESITE SECONDARY SCHOOL
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14738</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Aukspole;Ruta;;;
+FN:Ruta Aukspole
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-04-18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>229</id>
+              <entry>
+                <string language="en">cognitive development</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>230</id>
+              <entry>
+                <string language="en">cognitive process</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>342</id>
+              <entry>
+                <string language="en">discovery learning</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>245</id>
+              <entry>
+                <string language="en">competence assessment</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1168</id>
+              <entry>
+                <string language="en">self-evaluation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1025</id>
+              <entry>
+                <string language="en">primary school</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1160</id>
+              <entry>
+                <string language="en">secondary school</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>453</id>
+              <entry>
+                <string language="en">European policy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>297</id>
+              <entry>
+                <string language="en">cultural exchange</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1316</id>
+              <entry>
+                <string language="en">tourism</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="en">English language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82941</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/plain</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/ar/eu-countries.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
