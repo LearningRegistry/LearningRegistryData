@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77456</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77456</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7b7761cb-1819-11d8-9145-94cd27c30d32#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">IV. Henrik</string>
+            <string language="en">Henry IV.</string>
+            <string language="x-mt-de">Henry IV.</string>
+            <string language="x-mt-fr">Henry IV.</string>
+            <string language="x-mt-pt">Henry IV.</string>
+            <string language="x-mt-it">Henry IV.</string>
+            <string language="x-mt-el">Θ*Χενρυ IV.</string>
+            <string language="x-mt-es">Henrio IV.</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">IV. Henrik, francia király</string>
+            <string language="en">Henry IV. king of France</string>
+          </description>
+          <keyword>
+            <string language="hu">Bourbon,  viselet,  öltözködés,  életmód,  </string>
+            <string language="en">Bourbon, custome, clothing, way of life</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">König des Henrys IV. von Frankreich</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Roi d'Henry IV. de la France</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Rei do Henry IV. de France</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Re di henry IV. della Francia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Θ*Χενρυ IV. βασιλιάς της Γαλλίας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Rey del Henrio IV. de Francia</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Bourbon, custome, Kleidung, Lebensart</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Bourbon, custome, habillement, façon de vivre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Bourbon, custome, roupa, maneira de vida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Bourbon, custome, vestiti, modo di vivere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μπέρμπον, custome, ενδυμασία, τρόπος της ζωής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Borbón, custome, ropa, manera de la vida</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77456</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7b7761cb-1819-11d8-9145-94cd27c30d32&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,312 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227705</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227705</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>aspect:eri/10013</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:eri/10013</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:eri/10013</entry>
+          </identifier>
+          <title>
+            <string language="sl">Računalniška omrežja</string>
+            <string language="en">Computer networks</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Poglavje o računalniških omrežjih v sklopu e-gradiva za računalništvo in informatiko. Vsebina poglavja: tipi omrežja (lan, wan), plasti omrežja (osi, tcp/ip), oprema mreže.</string>
+            <string language="en">Chapter about computer networks, part of e-materials for computer science and informatics. Chapter contents: network types (lan, wan), network layers (osi, tcp/ip), network equipment.</string>
+          </description>
+          <keyword>
+            <string language="sl">lokalno omrežje</string>
+            <string language="en">local area network</string>
+          </keyword>
+          <keyword>
+            <string language="sl">most</string>
+            <string language="en">bridge</string>
+          </keyword>
+          <keyword>
+            <string language="sl">tcp/ip</string>
+            <string language="en">tcp/ip</string>
+          </keyword>
+          <keyword>
+            <string language="sl">lan</string>
+            <string language="en">lan</string>
+          </keyword>
+          <keyword>
+            <string language="sl">wan</string>
+            <string language="en">wan</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Tea Lončarić
+N:Lončarić;Tea;;;
+ORG:Srednja šola za elektrotehniko in računalništvo, Ljubljana
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Andreja Vehovec
+N:Vehovec;Andreja;;;
+ORG:Srednja šola za elektrotehniko in računalništvo, Ljubljana
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Marko Kastelic
+N:Kastelic;Marko;;;
+ORG:Srednja šola za elektrotehniko in računalništvo, Ljubljana
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:David Drofenik
+N:Drofenik;David;;;
+ORG:Šolski center Ptuj
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Alenka Kavčič
+N:Kavčič;Alenka;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Matija Marolt
+N:Marolt;Matija;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Marko Privošnik
+N:Privošnik;Marko;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-03-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:eri/10013</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:eri/10013</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-07T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:59:16.38Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+            <string language="sl">Creative Commons - Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 3.0</string>
+            <string language="en">Creative Commons - Attribution-Noncommercial-Share Alike 3.0 Unported</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>653</id>
+              <entry>
+                <string language="sl">informacijska mreža</string>
+                <string language="en">information network</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>238</id>
+              <entry>
+                <string language="sl">komunikacija</string>
+                <string language="en">communication</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>652</id>
+              <entry>
+                <string language="sl">informacijske in komunikacijske tehnologije</string>
+                <string language="en">information and communications technology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:eri/10013:html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:eri/10013:html:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos.fri.uni-lj.si/eri/RACUNALNISTVO/index.html#racunalniska_omrezja</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:eri/10013:scorm</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v2004</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:eri/10013:scorm:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos.fri.uni-lj.si/eri/packages/scorm/13.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:eri/10013:cc</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:eri/10013:cc:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos.fri.uni-lj.si/eri/packages/cc/13.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

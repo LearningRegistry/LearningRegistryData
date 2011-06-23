@@ -1,0 +1,148 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/72947</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>72947</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>fa2bc3bd-361f-46ed-bebc-f2e8a500aff5#1#5</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kodály</string>
+            <string language="en">Kodály</string>
+            <string language="x-mt-de">Kodály</string>
+            <string language="x-mt-fr">Kodály</string>
+            <string language="x-mt-pt">Kodály</string>
+            <string language="x-mt-it">Kodály</string>
+            <string language="x-mt-el">Kodαly</string>
+            <string language="x-mt-es">Kodály</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kodály</string>
+            <string language="en">Kodály</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, zeneszerző, kodály, zoltán, kodály zoltán</string>
+            <string language="en">music, composer, kodály, zoltán, zoltán kodály</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Kodály</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Kodály</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Kodály</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Kodály</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Kodαly</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Kodály</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, Komponist kodály zoltán, zoltán kodály</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, compositeur, kodály, zoltán, zoltán 
+kodály</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, compositor, kodály, zoltán, zoltán kodály</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, compositore, kodály, zoltán, zoltán kodály</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, συνθέτης, kodαly, zoltαn, zoltαn 
+kodαly</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, compositor, kodály, zoltán, zoltán kodály</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">15-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>72947</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=fa2bc3bd-361f-46ed-bebc-f2e8a500aff5&amp;v=1&amp;b=5</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
