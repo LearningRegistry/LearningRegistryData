@@ -1,0 +1,527 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/161515</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>161515</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114560</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114560</entry>
+          </identifier>
+          <title>
+            <string language="en">Input and output signals for an inverting amplifier</string>
+            <string language="x-mt-de">Input und Ausgangssignale für einen umkehrenden 
+Verstärker</string>
+            <string language="x-mt-fr">Entrée et signaux de sortie pour un 
+amplificateur inversant</string>
+            <string language="x-mt-pt">Sinais da entrada e de saída para um 
+amplificador invertendo</string>
+            <string language="x-mt-it">Input e segnali in uscita per un amplificatore 
+d'inversione</string>
+            <string language="x-mt-el">Σήματα εισόδου και εξόδου για έναν ενισχυτή 
+αναστροφής</string>
+            <string language="x-mt-es">Señales de la entrada de información y de 
+salida para un amplificador que invierte</string>
+          </title>
+          <description>
+            <string language="en">These sinusoidal graphs show an inverting amplifier's input (left) and output (right) signals.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">electronic circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="en">feedback resistor</string>
+          </keyword>
+          <keyword>
+            <string language="en">IC</string>
+          </keyword>
+          <keyword>
+            <string language="en">input signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">input voltage</string>
+          </keyword>
+          <keyword>
+            <string language="en">Integrated circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">inverting amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">non-inverting input</string>
+          </keyword>
+          <keyword>
+            <string language="en">op-amp</string>
+          </keyword>
+          <keyword>
+            <string language="en">operational amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">output signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">Resistor</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltage gain</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltage output</string>
+          </keyword>
+          <keyword>
+            <string language="en">zero-volt line</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese sinusförmigen Diagramme zeigen den Input 
+eines umkehrenden Verstärkers (nach links) und (die rechten) Signale 
+der Ausgabe.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ces graphiques sinusoïdaux montrent l'entrée 
+d'un amplificateur inversant (à gauche) et signaux de sortie (les 
+bons).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Estes gráficos sinusoidal mostram a entrada de 
+um amplificador invertendo (à esquerda) e sinais (direitos) da 
+saída.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questi grafici sinusoidali mostrano l'input 
+dell'amplificatore d'inversione (a sinistra) e segnali dell'uscita (i 
+giusti).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτές οι ημιτονοειδείς γραφικές παραστάσεις 
+εμφανίζουν σήματα της εισόδου ενός αναστροφής ενισχυτή 
+(αριστερά) και εξόδου (δεξιά).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Estos gráficos sinusoidales muestran la entrada 
+de información de un amplificador que invierte (a la izquierda) y 
+señales (derechas) de la salida.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">elektronischer Stromkreis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Feedbackwiderstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">IS</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Eingangssignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Inputspannung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Integrierte Schaltung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Umkehren des Verstärkers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">nicht-Umkehren von von Input</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">OP-Ampere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">funktionsfähiger Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ausgangssignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Widerstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spannung Gewinn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spannung Ausgabe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Nullvolt Zeile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit électronique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">résistance de feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal d'entrée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tension d'entrée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Circuit intégré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">inverser l'amplificateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">non-inverser l'entrée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amplificateur opérationnel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">le signal de sortie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Résistance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">gain de tension</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sortie de tension</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne de zéro-volt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito eletrônico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">resistor do feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal de entrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tensão de entrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Circuito integrado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">invertendo o amplificador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">non-invertendo a entrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amplificador operacional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal de saída</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Resistor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ganho da tensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">saída da tensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha de zero-volt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito elettronico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Risposte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resistore di risposte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale in ingresso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tensione in ingresso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Circuito integrato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">inversione dell'amplificatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">non-inversione dell'input</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">amplificatore operativo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale in uscita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Resistore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">guadagno di tensione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uscita di tensione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga di zero-volt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρονικό κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανατροφοδότηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αντιστάτης ανατροφοδότησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ολοκληρωμένο κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σήμα εισόδου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τάση εισόδου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ολοκληρωμένο κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναστροφή του ενισχυτή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μη-αναστροφή της εισόδου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οπ-αμπ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργικός ενισχυτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σήμα εξόδου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αντιστάτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κέρδος τάσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έξοδος τάσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή μηδέν-βολτ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito electrónico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">resistor del feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal de entrada de información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">voltaje de entrada de información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Circuito integrado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">invertir el amplificador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">no-invertir la entrada de información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">de Op. Sys.-amperio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">amplificador operacional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal de salida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Resistor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aumento del voltaje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">salida del voltaje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea de cero-voltio</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114560</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114560</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:33:20.53Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>161515</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114560.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
