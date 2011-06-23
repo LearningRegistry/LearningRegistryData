@@ -1,0 +1,310 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/60254</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>60254</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:bios_es_20070518_3_0030100</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>bios_es_20070518_3_0030100</entry>
+          </identifier>
+          <title>
+            <string language="es">La materia viva</string>
+            <string language="en">Living matter</string>
+            <string language="x-mt-de">Lebender Stoff</string>
+            <string language="x-mt-fr">Matière vivante</string>
+            <string language="x-mt-pt">Matéria viva</string>
+            <string language="x-mt-it">Materia vivente</string>
+            <string language="x-mt-el">Θέμα διαβίωσης</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Tema que explica la estructura y la función de los grupos de biomoléculas, empezando por el agua y continuando con las sales minerales, los glúcidos, los lípidos, los prótidos y los ácidos nucleicos.</string>
+            <string language="en">Topic explaining the structure and function of the groups of biomolecules, starting with water and moving on to mineral salts, glucides, lipids, protides and nucleic acids.</string>
+          </description>
+          <keyword>
+            <string language="es">biosfera</string>
+            <string language="en">biosphere</string>
+          </keyword>
+          <keyword>
+            <string language="es">biología</string>
+            <string language="en">Biology</string>
+          </keyword>
+          <keyword>
+            <string language="es">materia</string>
+            <string language="en">matter</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Thema, welches die Struktur und die Funktion der 
+Gruppen der Biomoleküle, beginnend mit Wasser erklärt und an auf 
+Mineralsalze, Glukide, Lipide, Protide und Nukleinsäuren bewegt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Sujet expliquant la structure et la fonction des 
+groupes de biomolécules, commençant par l'eau et passant aux sels 
+minéraux, aux glucides, aux lipides, aux protides et aux acides 
+nucléiques.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Tópico que explica a estrutura e a função dos 
+grupos dos biomolecules, começando com água e movendo-se sobre para 
+sais minerais, glucides, lipids, protides e ácidos nucleic.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Soggetto che spiega la struttura e la funzione dei
+gruppi delle biomolecole, cominciando dall'acqua e passante verso i 
+sali minerali, i glucidi, i lipidi, i protidi e gli acidi nucleici.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Θέμα που εξηγεί τη δομή και τη λειτουργία των ομάδων 
+βιομορίων, αρχίζοντας από το ύδωρ και κίνηση προς τα ορυκτά 
+άλατα, glucides, τα λιπίδια, protides και τα νουκλεϊνικά 
+οξέα.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Biosphäre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Biologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Stoff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">biosphère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Biologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">matière</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">biosphere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Biologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">matéria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">biosfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Biologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">materia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βιόσφαιρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Η βιολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θέμα</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Juan Antonio Muñoz López\,Alfonso de Mier del Saz\,Mª Rosa Leva López\,F
+ ernando Bort Misol\,Carlos Muñoz Romero\,Ana Belén Jiménez Sánchez
+N:Juan Antonio Muñoz López,Alfonso de Mier del Saz,Mª Rosa Leva López,Ferna
+ ndo Bort Misol,Carlos Muñoz Romero,Ana Belén Jiménez Sánchez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:bios_es_20070518_3_0030100</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>bios_es_20070518_3_0030100</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:18:04.68Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>text</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>case study</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>video</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string>ciencias de la naturaleza</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>141</id>
+              <entry>
+                <string>bioquímica</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string>química</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string>ciencias físicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>60254</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/biosfera/alumno/2bachillerato/biomol/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

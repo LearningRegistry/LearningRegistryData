@@ -1,0 +1,373 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/59453</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>59453</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_827</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_827</entry>
+          </identifier>
+          <title>
+            <string language="es">Triángulo equilátero por dos rectas y un punto exterior a ellas</string>
+            <string language="en">Equilateral triangle with vertices on two parallel lines and a point not on the lines</string>
+            <string language="x-mt-de">Gleichseitiges Dreieck mit Gipfeln auf zwei 
+parallelen Zeilen und einem Punkt nicht auf den Zeilen</string>
+            <string language="x-mt-fr">Triangle équilaterale avec des sommets sur deux 
+lignes parallèles et un point pas sur les lignes</string>
+            <string language="x-mt-pt">Triângulo equilateral com vertices em duas linhas
+paralelas e um ponto não nas linhas</string>
+            <string language="x-mt-it">Triangolo equilateral con i vertici su due righe 
+parallele e un punto non sulle righe</string>
+            <string language="x-mt-el">Ισόπλευρο τρίγωνο με vertices σε δύο παράλληλες 
+γραμμές και ένα σημείο όχι στις γραμμές</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación que permite visualizar la construcción de un triángulo equilátero por dos rectas y un punto exterior a ellas</string>
+            <string language="en">simulation which allows the user to visualize the construction of an equilateral triangle which has vertices on two parallel lines and on a point which is not on the lines</string>
+          </description>
+          <keyword>
+            <string language="es">construcción</string>
+            <string language="en">construction</string>
+          </keyword>
+          <keyword>
+            <string language="es">equilátero</string>
+            <string language="en">equilateral</string>
+          </keyword>
+          <keyword>
+            <string language="es">triángulo</string>
+            <string language="en">triangle</string>
+          </keyword>
+          <keyword>
+            <string language="es">recta</string>
+            <string language="en">line</string>
+          </keyword>
+          <keyword>
+            <string language="es">plano</string>
+            <string language="en">plane</string>
+          </keyword>
+          <keyword>
+            <string language="es">punto</string>
+            <string language="en">point</string>
+          </keyword>
+          <keyword>
+            <string language="es">paralela</string>
+            <string language="en">parallel</string>
+          </keyword>
+          <keyword>
+            <string language="es">geometría</string>
+            <string language="en">geometry</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Simulation, die dem Benutzer erlaubt, den Aufbau 
+eines gleichseitigen Dreiecks sichtbar zu machen, das Gipfel auf zwei 
+parallelen Zeilen und in einem Punkt hat, der nicht auf den Zeilen 
+ist</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">simulation qui permet à l'utilisateur de 
+visualiser la construction d'une triangle équilaterale qui a des 
+sommets sur deux lignes parallèles et sur un point qui n'est pas sur 
+les lignes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">simulação que permite que o usuário visualize a
+construção de um triângulo equilateral que tenha vertices em duas 
+linhas paralelas e em um ponto que não esteja nas linhas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">simulazione che permette che l'utente preveda la 
+costruzione di un triangolo equilateral che ha vertici su due righe 
+parallele e su un punto che non è sulle righe</string>
+          </description>
+          <description>
+            <string language="x-mt-el">προσομοίωση που επιτρέπει στο χρήστη για να 
+απεικονίσει την κατασκευή ενός ισόπλευρου τριγώνου που έχει 
+vertices σε δύο παράλληλες γραμμές και σε ένα σημείο που δεν 
+είναι στις γραμμές</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Aufbau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">gleichseitig</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Dreieck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fläche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punkt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ähnlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">construction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">équilateral</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">triangle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">avion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">point</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">parallèle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">construção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">equilateral</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">triângulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">plano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ponto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">paralela</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costruzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">equilateral</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">triangolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aereo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parallelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατασκευή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισόπλευρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τρίγωνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αεροπλάνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημείο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παράλληλος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Salvador Calvo-Fernández Pérez
+N:Salvador Calvo-Fernández Pérez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_827</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_827</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:14:50.32Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>544</id>
+              <entry>
+                <string>geometría</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>59453</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/EquilateroPuntoRectas/EquilateroPuntoRectas.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

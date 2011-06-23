@@ -1,0 +1,250 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/58493</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>58493</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020507</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020507</entry>
+          </identifier>
+          <title>
+            <string language="es">Crucigrama sobre el origen de Roma</string>
+            <string language="en">Crossword on the origins of Rome</string>
+            <string language="x-mt-de">Kreuzworträtsel auf den Ursprung von Rom</string>
+            <string language="x-mt-fr">Mots croisé sur les origines de Rome</string>
+            <string language="x-mt-pt">Crossword nas origens de Roma</string>
+            <string language="x-mt-it">Parole incrociate sulle origini di Roma</string>
+            <string language="x-mt-el">Σταυρόλεξο στην προέλευση της Ρώμης</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Crucigrama con preguntas acerca de los lugares, pueblos y personajes más significativos de la Roma primitiva.</string>
+            <string language="en">Crossword with questions about the most meaningful places, peoples and personalities in primitive Rome.</string>
+          </description>
+          <keyword>
+            <string language="es">Roma</string>
+            <string language="en">Rome</string>
+          </keyword>
+          <keyword>
+            <string language="es">origen</string>
+            <string language="en">origin</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Kreuzworträtsel mit Fragen über die 
+aussagefähigsten Plätze, die Völker und die Funktionseigenschaften 
+in ursprünglichem Rom.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Mots croisé avec des questions au sujet des 
+endroits, des peuples et des personnalités les plus signicatifs à 
+Rome primitif.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Crossword com perguntas sobre os lugares, os 
+povos e as personalidades os mais significativos em Roma primitiva.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Parole incrociate con le domande circa i posti, 
+la gente e le personalità più espressivi a Roma primitiva.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σταυρόλεξο με τις ερωτήσεις για τις σημαντικότερους 
+θέσεις, τους λαούς και τις προσωπικότητες στην πρωτόγονη Ρώμη.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Rom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ursprung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Rome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">origine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">origem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">origine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ρώμη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προέλευση</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jesús María Quílez Bielsa\,Alfredo Ortega Martínez
+N:Jesús María Quílez Bielsa,Alfredo Ortega Martínez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020507</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020507</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:57.68Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>712</id>
+              <entry>
+                <string>latín</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1108</id>
+              <entry>
+                <string>historia romana</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>58493</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/latin/esl141ac03.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

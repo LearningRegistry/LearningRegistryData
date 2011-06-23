@@ -1,0 +1,499 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/30771</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>30771</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9684</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9684</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Inköp</string>
+            <string language="en">Purchases</string>
+            <string language="x-mt-de">Erwerbe</string>
+            <string language="x-mt-fr">Achats</string>
+            <string language="x-mt-pt">Compras</string>
+            <string language="x-mt-it">Acquisti</string>
+            <string language="x-mt-el">Αγορές</string>
+            <string language="x-mt-es">Compras</string>
+          </title>
+          <description>
+            <string language="sv">Inköp har flera delmoment och bör ha samma rutiner vid varje tillfälle. Modul 4 - Administration och Regler.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Purchases have several elements and should have same procedures at each occasion. 
+
+Module 4 - administration and rules.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">anbudsbegäran</string>
+            <string language="sv">order</string>
+            <string language="sv">beställning</string>
+            <string language="sv">delmoment</string>
+            <string language="sv">inköpsavtal</string>
+            <string language="sv">leveransbevakning</string>
+            <string language="sv">rabatt</string>
+            <string language="sv">samköp</string>
+            <string language="sv">attest</string>
+            <string language="sv">kontering</string>
+            <string language="sv">leverantörsreskontra</string>
+            <string language="sv">betalning</string>
+            <string language="en">economy</string>
+            <string language="en">anbudsbegäran</string>
+            <string language="en">order</string>
+            <string language="en">order</string>
+            <string language="en">elements</string>
+            <string language="en">purchase sap numbers</string>
+            <string language="en">delivery inspection and control</string>
+            <string language="en">discount</string>
+            <string language="en">samköp</string>
+            <string language="en">attest</string>
+            <string language="en">kontering</string>
+            <string language="en">leverantörsreskontra</string>
+            <string language="en">payment</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Erwerbe haben einige Elemente und sollten die 
+gleichen Prozeduren an jeder Gelegenheit haben. Modul 4 - 
+Leitung und rules.Is eingeschlossen in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les achats ont plusieurs éléments et devraient 
+avoir les mêmes procédures à chaque occasion. Module 4 - 
+gestion et rules.Is inclus dans FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As compras têm diversos elementos e devem ter os
+mesmos procedimentos em cada ocasião. Módulo 4 - 
+administração e rules.Is incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli acquisti hanno parecchi elementi e dovrebbero
+avere stesse procedure ad ogni occasione. Modulo 4 - gestione e 
+rules.Is inclusi in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι αγορές έχουν διάφορα στοιχεία και πρέπει να έχουν
+τις ίδιες διαδικασίες σε κάθε περίπτωση. Ενότητα 4 - η 
+διοίκηση και οι κανόνες συμπεριλαμβάνονται σε FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las compras tienen varios elementos y deben tener
+mismos procedimientos en cada ocasión. Módulo 4 - 
+administración y rules.Is incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">anbudsbegäran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ordnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ordnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elemente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Erwerb Saftzahlen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Anlieferung Kontrolle und Steuerung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Diskont</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">samköp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bezeugen Sie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kontering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">leverantörsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahlung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">anbudsbegäran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">éléments</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombres de sève d'achat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">inspection et commande de la livraison</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">escompte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">samköp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">certifiez</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">kontering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">leverantörsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">paiement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">anbudsbegäran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ordem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ordem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">elementos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">números do sap da compra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">inspeção e controle da entrega</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">disconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">samköp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ateste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">kontering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">leverantörsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pagamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">anbudsbegäran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ordine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ordine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elementi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">l'acquisto fiacca i numeri</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">controllo e controllo di consegna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">samköp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">attesti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">kontering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">leverantörsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pagamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">anbudsbegδran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατάταξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατάταξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στοιχεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμοί σφρίγους αγορών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επιθεώρηση και έλεγχος παράδοσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έκπτωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">samkφp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βεβαιώστε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"></string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">leverantφrsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληρωμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">anbudsbegäran</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">orden</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">orden</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">elementos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">números de la savia de la compra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">examen y control de la salida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">descuento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">samköp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">atestigüe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el kontering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">leverantörsreskontra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pago</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9684</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9684</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:27:00.59Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>30771</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9684</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
