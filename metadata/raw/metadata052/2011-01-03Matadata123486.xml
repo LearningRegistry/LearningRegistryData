@@ -1,0 +1,404 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98511</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98511</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:aca76248-7ad3-4cc3-83c1-fd757f03816a</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Poliéderek felszíne (A) és térfogata (V)</string>
+            <string language="en-US">The Surface (S) And Volume (V) Of Polyeders</string>
+            <string language="x-mt-de">Das Oberflächen-(S) Und Der Datenträger (V) Von 
+Polyeders</string>
+            <string language="x-mt-fr">Le (s) Et Le Volume Extérieurs (v) De Polyeders</string>
+            <string language="x-mt-pt">O (S) E O Volume De superfície (V) De Polyeders</string>
+            <string language="x-mt-it">Il (s) Ed Il Volume Di superficie (v) Di 
+Polyeders</string>
+            <string language="x-mt-el">Η επιφάνεια (S) και ένταση του ήχου (V) 
+Polyeders</string>
+            <string language="x-mt-es">El (s) Y El Volumen Superficiales (v) De 
+Polyeders</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Poliéderek felszíne, térfogata, példák</string>
+            <string language="en-US">Surface, volume of polyeders</string>
+          </description>
+          <keyword>
+            <string language="en-US">polyhedron</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">face</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">convex</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">concave</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">surface area</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">volume</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Oberfläche, Datenträger polyeders</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Surface, volume de polyeders</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Superfície, volume dos polyeders</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Superficie, volume dei polyeders</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επιφάνεια, ένταση του ήχου των polyeders</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Superficie, volumen de polyeders</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Polyeder</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gesicht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gipfel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">konvex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">konkav</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fläche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Datenträger</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">polyèdre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">visage</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sommet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">convexe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">concave</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">superficie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">volume</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">polyhedron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cara</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">convexo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">côncavo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">área de superfície</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">volume</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">poliedro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">faccia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vertice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">convesso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">concavo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">area</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">volume</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">polyhedron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πρόσωπο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κυρτός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κοίλος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιοχή επιφάνειας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ένταση του ήχου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">poliedro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cara</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">convexo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cóncavo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">área superficial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">volumen</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:aca76248-7ad3-4cc3-83c1-fd757f03816a</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:25:59.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d6dac7c5-5785-462c-a241-9130671a48f5</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>13ccfce2-29cd-4d8f-94df-5b9f501143f7</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>49f02b2c-6d38-4fbd-8a0a-0424badf8ad6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1f8db9c8-601c-4b33-9bc3-882659801fa3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>45d625fa-846f-4103-99bf-bc0194466060</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a794289d-9b71-4bfa-b9fa-6b69cc5aa910</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1239963f-7213-48f3-9736-8de2c4fb90a8</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=aca76248-7ad3-4cc3-83c1-fd757f03816a</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>aca76248-7ad3-4cc3-83c1-fd757f03816a-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/ac/a7/aca76248-7ad3-4cc3-83c1-fd757f03816a_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

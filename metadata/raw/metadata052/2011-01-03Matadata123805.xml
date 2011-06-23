@@ -1,0 +1,320 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/101652</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>101652</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Szögmérés</string>
+            <string language="en-US">Angle Measurement</string>
+            <string language="x-mt-de">Winkel-Messen</string>
+            <string language="x-mt-fr">Mesure d'Angle</string>
+            <string language="x-mt-pt">Medida Do Ângulo</string>
+            <string language="x-mt-it">Misura Di Angolo</string>
+            <string language="x-mt-el">Μέτρηση γωνίας</string>
+            <string language="x-mt-es">Medida Del Ángulo</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="en-US">Angle measurement</string>
+          </description>
+          <keyword>
+            <string language="en-US">angle</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">angle measurement</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">degree</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">radian</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Winkelmessen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Mesure d'angle</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Medida do ângulo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Misura di angolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μέτρηση γωνίας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Medida del ángulo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Winkel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Winkelmessen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Grad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Einheitswinkel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">angle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mesure d'angle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">degré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">radian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ângulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">medida do ângulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">grau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">radiano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">angolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">misura di angolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">radiante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γωνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέτρηση γωνίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βαθμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ακτίνιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ángulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">medida del ángulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">grado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">radián</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:23:00.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f34d2687-bbe2-4018-86f6-8408f443de2a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>280178f3-c9fb-4834-915c-5c040a22858a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ddef3bd6-edc1-40c3-892e-9eaf448d1a52</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a9fc816f-96cf-44ad-9ddc-50f3154fa4fb</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>a9fc816f-96cf-44ad-9ddc-50f3154fa4fb-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/a9/fc/a9fc816f-96cf-44ad-9ddc-50f3154fa4fb_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

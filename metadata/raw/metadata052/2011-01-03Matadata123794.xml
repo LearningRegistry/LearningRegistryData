@@ -1,0 +1,326 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93150</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93150</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:54b87dde-50c1-44e0-bbf2-1e7749858c63</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Csonkagúla, csonkakúp</string>
+            <string language="en-US">Truncated Pyramid, Truncated Cone</string>
+            <string language="x-mt-de">Abgespaltete Pyramide, Abgespalteter Kegel</string>
+            <string language="x-mt-fr">Pyramide Tronquée, Cône Tronqué</string>
+            <string language="x-mt-pt">Pirâmide Truncada, Cone Truncado</string>
+            <string language="x-mt-it">Piramide Troncata, Cono Troncato</string>
+            <string language="x-mt-el">Περικομμένη πυραμίδα, περικομμένος κώνος</string>
+            <string language="x-mt-es">Pirámide Truncada, Cono Truncado</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Csonkagúla, csonkakúp, felszín-, térfogatszámítások</string>
+            <string language="en-US">Truncated pyramid, truncated cone, calculation of surface and volume</string>
+          </description>
+          <keyword>
+            <string language="en-US">frustum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">truncated cone</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">truncated pyramid</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Abgespaltete Pyramide, abgespalteter Kegel, 
+Berechnung der Oberfläche und Datenträger</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pyramide tronquée, cône tronqué, calcul de la 
+surface et volume</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Pirâmide truncada, cone truncado, cálculo da 
+superfície e volume</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Piramide troncata, cono troncato, calcolo di 
+superficie e volume</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Περικομμένη πυραμίδα, περικομμένος κώνος, υπολογισμός
+της επιφάνειας και ένταση του ήχου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Pirámide truncada, cono truncado, cálculo de la 
+superficie y volumen</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Frustum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">abgespalteter Kegel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">abgespaltete Pyramide</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">frustum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cône tronqué</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pyramide tronquée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">frustum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cone truncado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pirâmide truncada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frustum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cono troncato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">piramide troncata</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">frustum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περικομμένος κώνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περικομμένη πυραμίδα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tronco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cono truncado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pirámide truncada</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:54b87dde-50c1-44e0-bbf2-1e7749858c63</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:15:08.87Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5915f253-0a24-4ddf-9421-47fbbdf2c304</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>21076a02-5962-4cd4-a321-cc313d12fb1f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>40ef8434-4597-4eae-9548-27f09fd6084c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>9a623ae2-6c81-41c7-824b-64b71a612a06</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>9942695e-61fb-4d07-afb1-8d821fed811b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>957116bc-24e8-4749-a5f5-6a7542ee8a0f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c0967567-8add-4983-9187-aa43d17900f3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>95feee69-bb10-4831-93b3-ba32b4ebcc7a</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=54b87dde-50c1-44e0-bbf2-1e7749858c63</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>54b87dde-50c1-44e0-bbf2-1e7749858c63-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/54/b8/54b87dde-50c1-44e0-bbf2-1e7749858c63_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
