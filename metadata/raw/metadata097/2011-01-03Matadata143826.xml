@@ -1,0 +1,255 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/112999</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>112999</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D1149</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D1149</entry>
+          </identifier>
+          <title>
+            <string language="nl">Beroepen : Prenten</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Worddocument met twaalf plaatjes van beroepen voor het inoefenen van woordenschat.</string>
+          </description>
+          <keyword>
+            <string language="nl">agent</string>
+          </keyword>
+          <keyword>
+            <string language="nl">politie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">postbode</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ict helpt</string>
+          </keyword>
+          <keyword>
+            <string language="nl">woordenschat</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kok</string>
+          </keyword>
+          <keyword>
+            <string language="nl">oogarts</string>
+          </keyword>
+          <keyword>
+            <string language="nl">onderwijzer</string>
+          </keyword>
+          <keyword>
+            <string language="nl">priester</string>
+          </keyword>
+          <keyword>
+            <string language="nl">brandweerman</string>
+          </keyword>
+          <keyword>
+            <string language="nl">boer</string>
+          </keyword>
+          <keyword>
+            <string language="nl">schilder</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bakker</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ruimtevaarder</string>
+          </keyword>
+          <keyword>
+            <string language="nl">astronaut</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dokter</string>
+          </keyword>
+          <keyword>
+            <string language="nl">knipblad</string>
+          </keyword>
+          <keyword>
+            <string language="nl">beroep</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Beroepen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">prent</string>
+          </keyword>
+          <keyword>
+            <string language="nl">pictogram</string>
+          </keyword>
+          <keyword>
+            <string language="nl">universeel</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-09-19T16:05:26.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Els Michiels
+FN:Els Michiels 
+EMAIL;TYPE=INTERNET: 
+ORG: Els Michiels
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D1149</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D1149</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:36:35.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Inge Duijsters</entity>
+          <date>
+            <dateTime>2008-01-12</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>112999</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/1149/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

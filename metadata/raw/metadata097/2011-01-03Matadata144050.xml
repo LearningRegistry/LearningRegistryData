@@ -1,0 +1,166 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114368</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114368</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:9515</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>9515</entry>
+          </identifier>
+          <title>
+            <string language="nl">Ubuntu : Cursus en ODF-handboek</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Open Document Format (ODF) is een internationale open standaardenfamilie die de opvolger is van veelgebruikte bedrijfsspecifieke documentformaten als .doc, .wpd, .xls en .rtf. ODF is geen software, maar een universele manier van informatie opslaan en verwerken die specifieke toepassingen en leveranciers overstijgt. Naast dit handboek (pdf) vind je op de site de uitgebreide Ubuntucursus in het Nederlands van Machtelt Garrels.In de eerste plaats is dit materiaal bedoeld voor de nieuwe gebruikers van het Linuxbesturingssysteem. Het is een overzicht, een beginnersgids met vele oefeningen doorheen de gehele cursus en taken aan het eind van elk hoofdstuk. De oefeningen en taken zullen de gebruiker helpen vertrouwd te geraken met het Linuxbesturingssysteem en leren probleemoplossend te denken.  De cursus bevat zeer veel levensechte voorbeelden, afgeleid van de ervaring van de auteur als Linuxgebruiker, systeem- en netwerkbeheerder, trainer en consultant. Deze voorbeelden zullen de gebruikers helpen om een beter zicht te krijgen op de samenhang tussen de verschillende onderdelen van het systeem en zullen aanmoedigen om zelf te gaan experimenteren.  </string>
+          </description>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Open Document Format</string>
+          </keyword>
+          <keyword>
+            <string language="nl">standaard</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-10-09T12:06:03.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Machtelt Garrels
+FN:Machtelt Garrels 
+EMAIL;TYPE=INTERNET: 
+ORG: Machtelt Garrels
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:9515</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>9515</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:33:30.22Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114368</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/9515/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
