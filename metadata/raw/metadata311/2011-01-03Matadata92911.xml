@@ -1,0 +1,270 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/203525</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>203525</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>1023_SCORM</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:1023</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>1023</entry>
+          </identifier>
+          <title>
+            <string language="lt">Laboratorinis darbas „Metalų savybės”</string>
+            <string language="en">Laboratory work “Metals’ characteristics”</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Metalų cheminų savybių tyrimui naudojami 4 virtualūs eksperimentai. Žinių įtvirtinmui yra atliekamos interaktyvios užduotys.</string>
+          </description>
+          <keyword>
+            <string language="lt">metalų savybės</string>
+            <string language="lt">chemija</string>
+            <string language="lt">laboratorinis darbas</string>
+            <string language="en">chemistry</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „TerraIT“
+END:VCARD</entity>
+            <date>
+              <dateTime>2005</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:1023</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>1023</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Regina Kaušienė
+N:Kaušienė;Regina;;;
+  
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-12</dateTime>
+            </date>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:00:59.07Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>mixed</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Virtualūs eksperimentai padeda ištirti metalų chemines savybes ir tinka chemijos pamokose moksleivių savarankiškam mokymuisi ar medžiagos aiškinimui. Savitikrai galima panaudoti interaktyvias užduotis.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">Su autorinėmis teisėmis. MO galima kopijuoti, platinti, demonstruoti tik nekomerciniais tikslais. Kitos teisės: Lietuvos bendrojo lavinimo mokykloms.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/MO/Chemija/1021_SCORM.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">Pireš 3.2. Laboratorinis darbas „Metalų savybės” yra  3.1. Metalų cheminės savybės. A ir B grupių metalų savybių skirtumai</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/doc/VMA/backups2/atsargin_kopija-chemija.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">Nuotolinis chemijos mokymo kursas gabiems vaikams 9 klasei.</string>
+            </description>
+          </resource>
+        </relation>
+        <annotation>
+          <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Regina Kaušienė 
+N:;Regina Kaušienė;;;
+  
+END:VCARD</entity>
+          <date>
+            <dateTime>2006-09-03</dateTime>
+          </date>
+          <description>
+            <string language="lt">MO pateikiami virtualūs eksperimentai labai vaizdūs. Parinktos įdomios interaktyvios užduotys. Dvi interaktyvios užduotys nepriima teisingų atsakymų.</string>
+          </description>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="lt">Chemija</string>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>1023_SCORM</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v2004</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/Chemija/1023_SCORM.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>1023_IMSCC</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/CC/chemija/1023CC.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

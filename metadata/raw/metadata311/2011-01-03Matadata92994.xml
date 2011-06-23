@@ -1,0 +1,216 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/226074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>226074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>3359_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3359</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3359</entry>
+          </identifier>
+          <title>
+            <string language="lt">Saugi chemija: Laboratoriniai darbai 9-10 klasėms</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Naudodamiesi šia priemone, galėsite atlikti laboratorinius darbus, kurių neįmanoma arba dėl įvairių priežasčių keblu atlikti mokykloje. Prieš laboratorinį darbą ir po jo atliksite testą ir pasitikrinsite turimas bei naujai įgytas žinias. Kiekvieną iš 12 chemijos laboratorinių darbų sudaro šios dalys: 3 testo klausimai (medžiagų pažinimo dalies), kurie padeda mokiniams prisiminti reikalingą teoriją ir suformuluoti laboratorinio darbo hipotezę. Jie pateikiami mokiniams prieš laboratorinį darbą; Virtualusis laboratorinis darbas. Pateikiama bendra gana informatyvi instrukcija, kaip jį atlikti, o konkrečius žingsnius mokiniai turi susiplanuoti patys; 3 testo klausimai (gamtos tyrimų dalis), kurie padeda mokiniams labiau įgusti tyrinėti gamtą. Klausimai pateikiami atlikus laboratorinį darbą; Enciklopedijos straipsnelis, kuriame pateikiama informacija, susijusi su konkretaus laboratorinio darbo tema; Testų klausimai yra trijų sunkumo lygių, vienas iš jų pasirenkamas prieš darbą; Į klausimus galima atsakinėti mokymosi (galima naudotis enciklopedijos straipsneliu ir atsakinėti kiek nori kartų) arba kontrolinio darbo (nepasiekiama enciklopedija, ar atsakymas teisingas, parodoma tik atlikus visą darbą) režimais.</string>
+          </description>
+          <keyword>
+            <string language="lt">laboratorinis darbas</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2008</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3359</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3359</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Svetlana Kubilinskienė
+N:Kubilinskienė;Svetlana;;;
+ ORG:ITC
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-04-20</dateTime>
+            </date>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:13:01.43Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Šios kompiuterinės mokomosios priemonės idėja – virtualieji laboratoriniai bandymai, kurių negalima ar būtų sunku atlikti realiai per pamokas. Jie papildytų realius laboratorinius darbus, mokiniams būtų sudarytos sąlygos mokantis chemijos tyrinėti, modeliuoti, prognozuoti – ugdyti savo kompetenciją.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <annotation>
+          <date>
+            <dateTime>2009-04-20</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="lt">Chemija</string>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3359_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/saugi-chemija/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

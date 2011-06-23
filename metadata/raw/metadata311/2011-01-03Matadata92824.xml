@@ -1,0 +1,110 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/23867</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>23867</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>CSI</catalog>
+            <entry>00001</entry>
+          </identifier>
+          <title>
+            <string language="fr">Teste tes habitudes</string>
+          </title>
+          <language>fr</language>
+          <description>
+            <string language="fr">Les élèves peuvent calculer leur émission de gaz à effet de serre en répondant à quelques questions sur leur mode de vie</string>
+          </description>
+          <keyword>
+            <string language="fr">environnement</string>
+          </keyword>
+          <keyword>
+            <string language="fr">réchauffement climatique</string>
+          </keyword>
+          <keyword>
+            <string language="fr">gaz à effet de serre</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+n:eduMedia
+fn:eduMedia
+org:eduMedia
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+n:Cité des sciences et de l'industrie
+fn:Cité des sciences et de l'industrie
+org:Cité des sciences et de l'industrie
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <language>fr</language>
+        </metaMetadata>
+        <educational>
+          <language>fr</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="x-t-lre">9-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fr">Tous droits réservés</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>23867</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.cite-sciences.fr/parrainage/animations/Fr/calculEmissions.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
