@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77562</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77562</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40d170b3-f5b8-40d3-2c79-f6faa388c5e9#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hagia Sophia</string>
+            <string language="en">Haia Sophia</string>
+            <string language="x-mt-de">Haia Sophia</string>
+            <string language="x-mt-fr">Haia Sophia</string>
+            <string language="x-mt-pt">Haia Sophia</string>
+            <string language="x-mt-it">Haia Sophia</string>
+            <string language="x-mt-el">Haia Sophia</string>
+            <string language="x-mt-es">Haia Sophia</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Hagia Sophia.</string>
+            <string language="en">Haia Sophia</string>
+          </description>
+          <keyword>
+            <string language="hu">Hagia Sophia,  Konstantinápoly,  bizánci építészet,  bizánci művészet,  </string>
+            <string language="en">Hagia Sophia, Constantinople, Byzantine architecture, Byzantine art, 6th century</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Haia Sophia</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Haia Sophia</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Haia Sophia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Haia Sophia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Haia Sophia</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Haia Sophia</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Hagia Sophia, Konstantinopolis, byzantinische 
+Architektur, byzantinische kunst, 6. Jahrhundert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Hagia Sophia, Constantinople, architecture bizantine, 
+art bizantin, 6ème siècle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Hagia Sophia, Constantinople, arquitetura byzantine, 
+arte byzantine, õ século</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Hagia Sophia, Constantinople, architettura byzantine, 
+arte byzantine, sesto secolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Hagia Sophia, Κωνσταντινούπολη, βυζαντινή 
+αρχιτεκτονική, βυζαντινή τέχνη, 6ος αιώνας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Hagia Sophia, Constantinople, configuración byzantine, 
+arte byzantine, 6to siglo</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Nemzeti Tankönyvkiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77562</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40d170b3-f5b8-40d3-2c79-f6faa388c5e9&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
