@@ -1,0 +1,62 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "resultant force", 
+        "force", 
+        "component forces", 
+        "maximum value", 
+        "minimum value", 
+        "resultierende Kraft", 
+        "Kraft", 
+        "Teilkr\u00e4fte", 
+        "Maximalwert", 
+        "Mindestwert", 
+        "force r\u00e9sultante", 
+        "force", 
+        "forces composantes", 
+        "valeur maximum", 
+        "valeur minimum", 
+        "for\u00e7a resultante", 
+        "for\u00e7a", 
+        "for\u00e7as componentes", 
+        "valor m\u00e1ximo", 
+        "valor m\u00ednimo", 
+        "forza risultante", 
+        "forza", 
+        "forze componenti", 
+        "valore massimo", 
+        "valore minimo", 
+        "\u03b5\u03c0\u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03b7 \u03b4\u03cd\u03bd\u03b1\u03bc\u03b7", 
+        "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7", 
+        "\u03c3\u03c5\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03b9\u03c2", 
+        "\u03bc\u03ad\u03b3\u03b9\u03c3\u03c4\u03b7 \u03b1\u03be\u03af\u03b1", 
+        "\u03b5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03b7 \u03b1\u03be\u03af\u03b1", 
+        "fuerza resultante", 
+        "fuerza", 
+        "fuerzas componentes", 
+        "valor m\u00e1ximo", 
+        "valor m\u00ednimo"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/23558</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>23558</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>scholaris</catalog>\r\n            <entry>061129_090712_091</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"en\">Addition of forces</string>\r\n            <string language=\"x-mt-de\">Hinzuf\u00fcgung der Kr\u00e4fte</string>\r\n            <string language=\"x-mt-fr\">Ajout des forces</string>\r\n            <string language=\"x-mt-pt\">Adi\u00e7\u00e3o das for\u00e7as</string>\r\n            <string language=\"x-mt-it\">Aggiunta delle forze</string>\r\n            <string language=\"x-mt-el\">\u03a0\u03c1\u03bf\u03c3\u03b8\u03ae\u03ba\u03b7 \u03c4\u03c9\u03bd \u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03c9\u03bd</string>\r\n            <string language=\"x-mt-es\">Adici\u00f3n de fuerzas</string>\r\n          </title>\r\n          <language>pl</language>\r\n          <keyword>\r\n            <string language=\"en\">resultant force</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"en\">force</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"en\">component forces</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"en\">maximum value</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"en\">minimum value</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">resultierende Kraft</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Kraft</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Teilkr\u00e4fte</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Maximalwert</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Mindestwert</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">force r\u00e9sultante</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">force</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">forces composantes</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">valeur maximum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">valeur minimum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">for\u00e7a resultante</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">for\u00e7a</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">for\u00e7as componentes</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">valor m\u00e1ximo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">valor m\u00ednimo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">forza risultante</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">forza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">forze componenti</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">valore massimo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">valore minimo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b5\u03c0\u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03b7 \u03b4\u03cd\u03bd\u03b1\u03bc\u03b7</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c3\u03c5\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03b9\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03bc\u03ad\u03b3\u03b9\u03c3\u03c4\u03b7 \u03b1\u03be\u03af\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03b7 \u03b1\u03be\u03af\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">fuerza resultante</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">fuerza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">fuerzas componentes</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">valor m\u00e1ximo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">valor m\u00ednimo</string>\r\n          </keyword>\r\n        </general>\r\n        <educational>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>learner</value>\r\n          </intendedEndUserRole>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-LRE\">14-15</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licences/by-nc-nd/2.5</string>\r\n            <string language=\"en\">Attribution Non-commercial No Derivatives (by-nc-nd)</string>\r\n          </description>\r\n        </rights>\r\n        <metaMetadata>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nfn:\r\nn:\r\norg:Scholaris\r\nversion:3.0\r\nend:vcard</entity>\r\n          </contribute>\r\n          <language>en</language>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>23558</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://scholaris.pl/cms/view_all.php?id=lekcja_dodawanie_si%C5%82</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://scholaris.pl/cms/view_all.php?id=lekcja_dodawanie_si%C5%82"
+}
