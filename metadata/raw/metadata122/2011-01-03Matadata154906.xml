@@ -1,0 +1,226 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/7279</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>7279</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG375V</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG375V</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG375V</entry>
+          </identifier>
+          <title>
+            <string language="it">Aspetti del boom economico: le risorse energetiche. 8/15: Un tratto del gasdotto Cortemaggiore-Genova</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Il 10 febbraio 1953 con la legge n. 136 viene istituito l'ENI (Ente Nazionale Idrocarburi).L'ente aveva il compito di sviluppare la ricerca di idrocarburi sul territorio nazionale, e di coordinare tutte le attività del settore: produzione, raffinazione, trasformazione e commercio. Presidente dell'ente fu nominato Enrico Mattei che, nell'immediato dopoguerra, era stato commissario e vicepresidente dell'AGIP. All'epoca di quell'incarico, Mattei fece riprendere le ricerche di idrocarburi in Val Padana, dove nel 1949 venne scoperto il giacimento di Cortemaggiore in provincia di Piacenza. Convinto sostenitore della necessità che le risorse energetiche dovessero essere di proprietà pubblica, anche attraverso l'ENI Mattei sostenne l'affrancamento della politica energetica italiana dal controllo delle compagnie petrolifere internazionali e americane in particolare. Nel 1961 l'ENI aveva sviluppato una rete di circa 4.500 chilometri di metanodotti, di cui il tratto Cortemaggiore-Genova (visibile nella foto in un tratto tra Novi Ligure e Campomorone) era uno tra i tanti.</string>
+          </description>
+          <coverage>
+            <string language="it">1950d</string>
+          </coverage>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Fondazione Dalmine;;;; 
+FN:Fondazione Dalmine 
+ORG:FDAL
+URL:http://fondazione.dalmine.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Cattaneo;Barbara;;; 
+FN:BarbaraŠCattaneo 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG375V</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG375V</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T07:13:08.11Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>533</id>
+              <entry>
+                <string language="en">gas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>382</id>
+              <entry>
+                <string language="en">economic resources</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>384</id>
+              <entry>
+                <string language="en">economy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>874</id>
+              <entry>
+                <string language="en">natural resources</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>646</id>
+              <entry>
+                <string language="en">industry</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>918</id>
+              <entry>
+                <string language="en">oil</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>424</id>
+              <entry>
+                <string language="en">energy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG375V</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/nuovedalmine3/be126.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
