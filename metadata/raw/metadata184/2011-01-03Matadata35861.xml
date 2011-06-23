@@ -1,0 +1,302 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/122015</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>122015</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.3811</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.3811</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.3811</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Verkehrsschilderschulung spielerisch bei ARAL.de</string>
+          </title>
+          <description>
+            <string language="de-DE">Auf den Seiten der Mineralölfirma ARAL findet sich ein Spiel zur Schulung der Bedeutung von Verkehrsschildern. Nachdem sich die Straßenverkehrsordnungen unwesenlich voneinander unterscheiden (BRD und A), lassen sich auch für unsere pubertären und spätpubertären Jugendlichen Fahrschulvorübungen im Sinne von Verkehrssicherheit online durchführen.</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">Verkehr</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrserziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Straßen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">virtuelle Realität</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Fahrschule</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrsregeln</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrsschilder</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Reisen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrserziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Fahrrad</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Schulweg</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrsregeln / -zeichen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en-US">1.0.2005-02-22</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. ARAL
+n:ARAL;N.
+email;type=intern:diana.wegener@aral.com
+end:vcard</entity>
+            <date>
+              <dateTime>2005-02-22</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. ARAL
+n:ARAL;N.
+email;type=intern:diana.wegener@aral.com
+end:vcard</entity>
+            <date>
+              <dateTime>2005-02-22</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.3811.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.3811.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2005-02-22</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:09:49.14Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">&lt;a href="http://www.aral.de/funktion/cont_99_4_0.cfm?kont_subj=undid=undverzeichnis=undthema=undsub_thema=undt_erg=undtyp=undordner_name=" target=_blank&gt;Impressum&lt;/a&gt;
+
+				&lt;a href="http://www.aral.de/funktion/cont_99_4_0.cfm?kont_subj=undid=undverzeichnis=undthema=undsub_thema=undt_erg=undtyp=undordner_name=" target=_blank&gt;Impressum&lt;/a&gt;
+
+				&lt;a href="http://www.aral.de/funktion/cont_99_4_0.cfm?kont_subj=undid=undverzeichnis=undthema=undsub_thema=undt_erg=undtyp=undordner_name=" target=_blank&gt;Impressum&lt;/a&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1082</id>
+              <entry>
+                <string language="en">regional geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1292</id>
+              <entry>
+                <string language="en">technology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>784</id>
+              <entry>
+                <string language="en">marketing</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.3811</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/plain</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://fuehrerschein.aral.de/_struktur/inside.cfm?si_id=26</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
