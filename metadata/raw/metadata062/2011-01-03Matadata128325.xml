@@ -1,0 +1,308 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/96400</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>96400</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:da342db6-8aa5-423a-a1ad-dde8dd7457b4</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Vetületek</string>
+            <string language="en-US">Faults</string>
+            <string language="x-mt-de">Störungen</string>
+            <string language="x-mt-fr">Défauts</string>
+            <string language="x-mt-pt">Falhas</string>
+            <string language="x-mt-it">Difetti</string>
+            <string language="x-mt-el">Βλάβες</string>
+            <string language="x-mt-es">Incidentes</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Néhány alapvető vetület bemutatása.</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">térképészet</string>
+            <string language="en-US">cartography</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">vetület</string>
+            <string language="en-US">projection</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">szögtartó vetület</string>
+            <string language="en-US">isogonal projection</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">területtartó vetület</string>
+            <string language="en-US">area retaining projection</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">általános torzítású vetület</string>
+            <string language="en-US">projection with general distortion</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <keyword>
+            <string language="x-mt-de">Cartography</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Projektion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">isogonal Projektion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bereich beibehaltene Projektion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Projektion mit allgemeiner Verzerrung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cartographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection isogone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection de retenue de zone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection avec la déformation générale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cartography</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção isogonal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção de retenção da área</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção com distorção geral</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cartografia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione isogonal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione di ritegno di zona</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione con distorsione generale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χαρτογραφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προβολή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισογώνια προβολή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιοχή που διατηρεί την προβολή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προβολή με τη γενική διαστρέβλωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cartografía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proyección</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proyección isogonal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proyección de retención del área</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proyección con la distorsión general</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:da342db6-8aa5-423a-a1ad-dde8dd7457b4</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:57:03.60Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=da342db6-8aa5-423a-a1ad-dde8dd7457b4</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4-WebNormal</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>da342db6-8aa5-423a-a1ad-dde8dd7457b4-WebNormal-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/da342db6-8aa5-423a-a1ad-dde8dd7457b4/1/3/ResourceNormal/vetulet.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

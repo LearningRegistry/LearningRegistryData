@@ -1,0 +1,296 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93000</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93000</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Rakjuk össze, alkatrészek</string>
+            <string language="en-US">Let's Assemble, Parts</string>
+            <string language="x-mt-de">Lassen Sie Uns Zusammenbauen, Teile</string>
+            <string language="x-mt-fr">Réunissons, Des Pièces</string>
+            <string language="x-mt-pt">Deixe-nos Montar, As Peças</string>
+            <string language="x-mt-it">Montiamo, Parti</string>
+            <string language="x-mt-el">Συγκεντρώστε, μέρη</string>
+            <string language="x-mt-es">Ensamblemos, Las Piezas</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A gépbővítés tudnivalói és az egyes alaktrészek működése</string>
+            <string language="en-US">What Should Be Known About Extending the PC, Operation of Different Parts</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">informatika</string>
+            <string language="en-US">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">vezeték</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Was über das Ausdehnen des PC bekannt sollte, 
+Operation der unterschiedlichen Teile</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce qui devrait être connu au sujet d'étendre le 
+PC, exécution de différentes pièces</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O que deve ser sabido sobre estender o PC, 
+operação das peças diferentes</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Che cosa dovrebbe essere conosciuto circa 
+l'estensione del pc, funzionamento delle parti differenti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό που πρέπει να μαθευτεί για την επέκταση του 
+PC, λειτουργία των διαφορετικών μερών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Qué se debe saber sobre ampliar la PC, operación
+de diversas piezas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Informatik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">informatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">informatica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informática</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:40:13.81Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>416bcdda-4048-449b-243b-5424d511630b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ac889e09-9af7-44c0-84ab-be3af1a7d0e3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5f95e4d4-e37b-4bdc-942e-1934eb8c1095</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>27cecf81-b2b3-4d6d-9214-117c26330584</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e3969cad-e474-4713-ba5d-dbaf6e835277</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>bafe3a03-7cb7-4ff7-8110-2a7df91bcfa0</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ef8abbbd-6551-4e24-aa40-91f2c91465df</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>212308db-a350-4307-86fb-5b1782603141</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6cc5ba2e-f317-403f-a92f-c15ced9ad853</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b184ade0-550e-4ca2-9115-96855ff07f72</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>625</id>
+              <entry>
+                <string language="en-US">ICT</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=bb369e8f-50c0-48c0-bae4-7e09ddf17fa5</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>bb369e8f-50c0-48c0-bae4-7e09ddf17fa5-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/bb/36/bb369e8f-50c0-48c0-bae4-7e09ddf17fa5_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

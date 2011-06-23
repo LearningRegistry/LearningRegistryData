@@ -1,0 +1,335 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98011</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98011</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>bf16f780-0917-4acb-90be-7b17729fb85b</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:bf16f780-0917-4acb-90be-7b17729fb85b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>bf16f780-0917-4acb-90be-7b17729fb85b</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Az otthoni használat kellékei</string>
+            <string language="en-US">Accessories of Home Use</string>
+            <string language="x-mt-de">Zusatzgeräte des Hauptgebrauches</string>
+            <string language="x-mt-fr">Accessoires d'une utilité à la maison</string>
+            <string language="x-mt-pt">Acessórios do uso home</string>
+            <string language="x-mt-it">Accessori di uso domestico</string>
+            <string language="x-mt-el">Εξαρτήματα της χρήσης "Οικιαών</string>
+            <string language="x-mt-es">Accesorios del uso casero</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Az otthoni használat technikai kellékei, eszközei</string>
+            <string language="en-US">Technical Accessories, Tools of Home Use</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">informatika</string>
+            <string language="en-US">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">e-mail</string>
+            <string language="en-US">e-mail</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">ergonómia</string>
+            <string language="en-US">ergonomy</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">telefon</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">fax</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hálózat</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Technische Zusatzgeräte, Hilfsmittel des 
+Hauptgebrauches</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Accessoires techniques, outils d'une utilité à 
+la maison</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Acessórios técnicos, ferramentas do uso home</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Accessori tecnici, strumenti di uso domestico</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τεχνικά εξαρτήματα, εργαλεία της χρήσης "Οικιαών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Accesorios técnicos, herramientas del uso 
+casero</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Informatik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">E-mail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">ergonomy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">informatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">E-mail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ergonomy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">E-mail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ergonomy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">informatica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">E-mail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ergonomy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρονικό ταχυδρομείο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εργονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">E-mail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ergonomy</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:bf16f780-0917-4acb-90be-7b17729fb85b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>bf16f780-0917-4acb-90be-7b17729fb85b</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:56:52.50Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>416bcddb-5760-4070-2fb2-4b7551d3dd80</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a02a81f0-78af-45d6-a9c4-1e9e4344b8a2</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>29cd68ee-e8db-4513-9834-34f15ebfc4e6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a07c71f2-698e-4d73-8bd0-dce81733f3a1</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6ca01f42-305e-47f8-8e3e-58428973cb0b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>397a9cb8-8f5f-427d-8759-d0a352266b2d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>cfdf3fd3-99a5-40c7-bb20-4c742da9876d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>83f582f1-8d9a-4db4-8bee-00b2d6164622</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>625</id>
+              <entry>
+                <string language="en-US">ICT</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>bf16f780-0917-4acb-90be-7b17729fb85b-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>bf16f780-0917-4acb-90be-7b17729fb85b-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=bf16f780-0917-4acb-90be-7b17729fb85b</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>bf16f780-0917-4acb-90be-7b17729fb85b-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>bf16f780-0917-4acb-90be-7b17729fb85b-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/bf/16/bf16f780-0917-4acb-90be-7b17729fb85b_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
