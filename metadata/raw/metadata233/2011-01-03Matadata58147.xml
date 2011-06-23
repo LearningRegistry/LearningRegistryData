@@ -1,0 +1,685 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/38490</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>38490</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/3782</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3782</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3782</entry>
+          </identifier>
+          <title>
+            <string language="ca">Enginy. Mans dretes</string>
+            <string language="en">"Skill". Right hands</string>
+            <string language="x-mt-de">"Fähigkeit". Rechte Hände</string>
+            <string language="x-mt-fr">"compétence". Mains droites</string>
+            <string language="x-mt-pt">"habilidade". Mãos direitas</string>
+            <string language="x-mt-it">"abilità". Mani destre</string>
+            <string language="x-mt-el">"Ικανότητα". Δεξιά χέρια</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">El miniespai "Enginy" proposa un joc visual amb moltes mans.
+
+A la pantalla hi ha set mans que es belluguen. Cal dir quantes d'aquestes mans són mans dretes.</string>
+            <string language="en">The "Skill" screen shows seven hands. How many are right hands?</string>
+          </description>
+          <keyword>
+            <string language="ca">atenció</string>
+            <string language="en">attention</string>
+            <string language="es">atención</string>
+          </keyword>
+          <keyword>
+            <string language="ca">classificació</string>
+            <string language="en">classification</string>
+            <string language="es">clasificación</string>
+          </keyword>
+          <keyword>
+            <string language="ca">cognició</string>
+            <string language="en">cognition</string>
+          </keyword>
+          <keyword>
+            <string language="ca">anàlisi comparatiu</string>
+            <string language="en">comparative analysis</string>
+            <string language="es">análisis comparativo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">formació del concepte</string>
+            <string language="en">concept formation</string>
+            <string language="es">formación del concepto</string>
+          </keyword>
+          <keyword>
+            <string language="ca">anàlisi de contingut</string>
+            <string language="en">content analysis</string>
+            <string language="es">análisis de contenido</string>
+          </keyword>
+          <keyword>
+            <string language="ca">coneixement</string>
+            <string language="en">knowledge</string>
+            <string language="es">conocimiento</string>
+          </keyword>
+          <keyword>
+            <string language="ca">observació</string>
+            <string language="en">observation</string>
+            <string language="es">observación</string>
+          </keyword>
+          <keyword>
+            <string language="ca">percepció</string>
+            <string language="en">perception</string>
+            <string language="es">percepción</string>
+          </keyword>
+          <keyword>
+            <string language="ca">coneixements previs</string>
+            <string language="en">prior knowledge</string>
+            <string language="es">conocimientos previos</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der "Fähigkeit" Bildschirm zeigt sieben Hände. 
+Wieviele sind rechte Hände?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'écran de "compétence" montre sept mains. 
+Quelles est-ce que sont des mains droites ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A tela da "habilidade" mostra sete mãos. 
+Quanto são mãos direitas?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Lo schermo "di abilità" mostra sette mani. 
+Quant0 sono mani destre?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η οθόνη "ικανότητασ" εμφανίζει επτά χέρια. 
+Πόσοι είναι δεξιά χέρια;</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Aufmerksamkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Klassifikation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Erkennen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analyse mit Vergleichswerten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Konzeptanordnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Inhaltsanalyse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wissen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beobachtung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vorstellung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">vorheriges Wissen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">attention</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">classification</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">connaissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">analyse comparative</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">formation de concept</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">analyse du contenu</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la connaissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">observation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">perception</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la connaissance antérieure</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atenção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">classificação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cognição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">análise comparativa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">formação do conceito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">análise satisfeita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conhecimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">observação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">percepção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conhecimento prévio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">attenzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">classificazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cognizione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">analisi comparativa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">formazione di concetto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">analisi soddisfatta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conoscenza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">osservazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">percezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conoscenza anteriore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσοχή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταξινόμηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γνώση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συγκριτική ανάλυση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σχηματισμός έννοιας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανάλυση περιεχομένου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γνώση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παρατήρηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αντίληψη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προγενέστερη γνώση</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">1.2</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Edu3
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3782</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3782</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpanzano
+N:jpanzano
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-10-31</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jsero
+N:jsero
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-01-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jcrayfor
+N:jcrayfor
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jcrayfor
+N:jcrayfor
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-08</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T21:33:51.04Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">0-99</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>very easy</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H1M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">La informació i els continguts que es difonen en el portal són de la Generalitat de Catalunya, de la CCMA i dels seus autors i tenen la consideració d'obres protegides de conformitat amb les disposicions del Reial Decret 1/1996, del 12 d'abril, pel qual s'aprova el text refós de la Llei de Propietat Intel·lectual, i resulten igualment d'aplicació els tractats internacionals subscrits en aquest camp. Només està autoritzat l'ús de la informació amb finalitats docents o per a ús personal, per tant, queda prohibida la comercialització o qualsevol altra activitat amb una finalitat o ús públic que es pugui realitzar amb continguts de la pàgina.</string>
+            <string language="x-t-cc">Edu3</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>6530</id>
+              <entry>
+                <string language="ca">Relacions i canvi</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6534</id>
+              <entry>
+                <string language="ca">Espai i forma</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6538</id>
+              <entry>
+                <string language="ca">Matemàtiques i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6545</id>
+              <entry>
+                <string language="ca">Patrons, relacions i canvis</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6556</id>
+              <entry>
+                <string language="ca">Característiques i propietats de les figures de dues i tres dimensions</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6558</id>
+              <entry>
+                <string language="ca">Relacions espacials</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6561</id>
+              <entry>
+                <string language="ca">Transformacions geomètriques</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6577</id>
+              <entry>
+                <string language="ca">Jocs matemàtics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7860</id>
+              <entry>
+                <string language="ca">Observació i identificació de diferents elements de l'entorn</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7866</id>
+              <entry>
+                <string language="ca">Identificació de formes bidimensionals</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7867</id>
+              <entry>
+                <string language="ca">Semblances i diferències en organismes, objectes i materials</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7874</id>
+              <entry>
+                <string language="ca">Classificació d'objectes i materials</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7876</id>
+              <entry>
+                <string language="ca">Noció i representació de quantitat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7882</id>
+              <entry>
+                <string language="ca">Situació dels objectes a l'espai</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>114</id>
+              <entry>
+                <string language="ca">atenció</string>
+                <string language="en">attention</string>
+                <string language="es">atención</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>221</id>
+              <entry>
+                <string language="ca">classificació</string>
+                <string language="en">classification</string>
+                <string language="es">clasificación</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>228</id>
+              <entry>
+                <string language="ca">cognició</string>
+                <string language="en">cognition</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>242</id>
+              <entry>
+                <string language="ca">anàlisi comparatiu</string>
+                <string language="en">comparative analysis</string>
+                <string language="es">análisis comparativo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>258</id>
+              <entry>
+                <string language="ca">formació del concepte</string>
+                <string language="en">concept formation</string>
+                <string language="es">formación del concepto</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>269</id>
+              <entry>
+                <string language="ca">anàlisi de contingut</string>
+                <string language="en">content analysis</string>
+                <string language="es">análisis de contenido</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>697</id>
+              <entry>
+                <string language="ca">coneixement</string>
+                <string language="en">knowledge</string>
+                <string language="es">conocimiento</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>912</id>
+              <entry>
+                <string language="ca">observació</string>
+                <string language="en">observation</string>
+                <string language="es">observación</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>959</id>
+              <entry>
+                <string language="ca">percepció</string>
+                <string language="en">perception</string>
+                <string language="es">percepción</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1026</id>
+              <entry>
+                <string language="ca">coneixements previs</string>
+                <string language="en">prior knowledge</string>
+                <string language="es">conocimientos previos</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1058</id>
+              <entry>
+                <string language="ca">anàlisi qualitatiu</string>
+                <string language="en">qualitative analysis</string>
+                <string language="es">análisis cualitativo</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/3782</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu3.cat/Edu3tv/Fitxa?p_id=22944</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
