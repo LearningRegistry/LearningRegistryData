@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77226</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77226</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>caa4d010-a3a0-988a-7f0c-7716fd0eb849#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Csóka</string>
+            <string language="en">jackdaw</string>
+            <string language="x-mt-de">jackdaw</string>
+            <string language="x-mt-fr">jackdaw</string>
+            <string language="x-mt-pt">jackdaw</string>
+            <string language="x-mt-it">jackdaw</string>
+            <string language="x-mt-el">κάργα</string>
+            <string language="x-mt-es">jackdaw</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Csóka - hím</string>
+            <string language="en">jackdaw - male </string>
+          </description>
+          <keyword>
+            <string language="hu">Csóka,  Corvus monedula,  VERÉBALAKÚAK,  PASSERIFORMES,  VARJÚFÉLÉK,  CORVIDAE,  Corvus,  </string>
+            <string language="en">jackdaw, Corvus monedula, PASSERIFORMES, CORVIDAE, Corvus</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">jackdaw - Mann</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">jackdaw - mâle</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">jackdaw - macho</string>
+          </description>
+          <description>
+            <string language="x-mt-it">jackdaw - maschio</string>
+          </description>
+          <description>
+            <string language="x-mt-el">κάργα - αρσενικό</string>
+          </description>
+          <description>
+            <string language="x-mt-es">jackdaw - varón</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">jackdaw, Corvus monedula, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">jackdaw, monedula de Corvus, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">jackdaw, monedula de Corvus, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">jackdaw, monedula di Corvus, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κάργα, Corvus monedula, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">jackdaw, monedula de Corvus, PASSERIFORMES, CORVIDAE, 
+Corvus</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Nemzeti Tankönyvkiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77226</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=caa4d010-a3a0-988a-7f0c-7716fd0eb849&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
