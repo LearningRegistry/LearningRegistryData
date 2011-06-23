@@ -1,0 +1,175 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/30557</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>30557</entry>
+  </identifier>
+  <identifier>
+    <catalog>IML-NOT</catalog>
+    <entry>nrcfysik_165</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:nrcfysik_165</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-NOT</catalog>
+            <entry>nrcfysik_165</entry>
+          </identifier>
+          <title>
+            <string language="sv">Slutet på en lång, spännande resa i materiens inre</string>
+          </title>
+          <language>sv</language>
+          <description>
+            <string language="sv">LEP var resultatet av att CERNs dåvarande
+medlemsländer gått samman i slutet av 70-talet för att diskutera partikelfysikens framtid i
+Europa. Diskussionerna ledde så småningom fram till ett beslut om byggandet av världens
+största vetenskaplga instrument. Nu har dock detta enorma ?mikroskop? gjort sitt, och
+det är dags att summera vad man har kunnat åstadkomma med hjälp av det.</string>
+          </description>
+          <keyword>
+            <string language="sv">elementarpartikelfysik</string>
+          </keyword>
+          <keyword>
+            <string language="sv">cern</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ekström;Peter
+FN:Peter Ekström
+ORG:nrcfysik
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>text</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="en">Attribution-Noncommercial-No Derivative Works 3.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+                <string language="sv">fysik</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:nrcfysik_165-M</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-NOT</catalog>
+            <entry>nrcfysik_165-M</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ekström;Peter
+FN:Peter Ekström
+ORG:nrcfysik
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2008-08-30T21:19:02.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>sv</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T06:09:29.07Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>IML-NOT</catalog>
+      <entry>nrcfysik_165</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.fysik.org/website/showPage.asp?ch=17&amp;it=120</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
