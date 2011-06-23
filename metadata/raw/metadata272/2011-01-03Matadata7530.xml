@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77714</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77714</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>ad796a52-6717-4515-bb5b-165bf10c81fc#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Vakondok</string>
+            <string language="en">Mole</string>
+            <string language="x-mt-de">Mole</string>
+            <string language="x-mt-fr">Taupe</string>
+            <string language="x-mt-pt">Toupeira</string>
+            <string language="x-mt-it">Talpa</string>
+            <string language="x-mt-el">Τυφλοπόντικας</string>
+            <string language="x-mt-es">Topo</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Vakondok képe</string>
+            <string language="en">Picture of mole</string>
+          </description>
+          <keyword>
+            <string language="hu">emlősök,  rovarevők,  gerinces,  </string>
+            <string language="en">mammals, insect-eaters, vertebrate</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung der Mole</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image de taupe</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato da toupeira</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine della talpa</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα του τυφλοπόντικα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro del topo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Säugetiere, Insekt-Esser, Wirbeltier</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mammifères, insecte-mangeurs, vertébré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mamíferos, inseto-comedores, vertebrado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">mammiferi, insetto-mangiatori, vertebrato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θηλαστικά, έντομο-τρώγοντες, σπονδυλωτό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mamíferos, insecto-comedores, vertebrado</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77714</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=ad796a52-6717-4515-bb5b-165bf10c81fc&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
