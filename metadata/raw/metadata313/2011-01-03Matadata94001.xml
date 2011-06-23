@@ -1,0 +1,397 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225608</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225608</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-85373</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.crdp-strasbourg.fr/prio/index.php</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.crdp-strasbourg.fr/prio/index.php</entry>
+          </identifier>
+          <title>
+            <string language="fre">EDUC'Flash</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Reportages vidéos de 2 à 6 minutes, proposés dans le cadre du Programme Régional d'Information et d'Orientation, avec le soutien de la Région Alsace et destinés aux enseignants, mais aussi aux élèves et à leurs parents. Chacune des thématiques qui les regroupe est accompagnée de ressources bibliographiques et d'adresses utiles à consulter. Les films donnent une approche très vivante du milieu du travail en Alsace et permettent aux jeunes de découvrir une grande variété de choix professionnels (certains classiques, d'autres résolument plus originaux).</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <coverage>
+            <string language="fre">Allemagne</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Alsace
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-30T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-85373</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-85373</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Alsace
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-31T17:08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-06T09:59</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:38:49.45Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Elève en autonomie</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">La reproduction de tout ou partie de ce site sur un support électronique quel qu'il soit est formellement interdite sauf autorisation expresse. La reproduction des textes sur support papier, à des fins pédagogiques, est autorisée sous respect des conditions suivantes : gratuité de la diffusion, respect de l'intégralité des documents reproduits (ni modification ni altération d'aucune sorte), citation lisible de la source. Les reportages vidéos sont autorisés en lecture seulement ; pour toute autre utilisation, veuillez contacter le CRDP d'Alsace.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>TEC</id>
+              <entry>
+                <string language="fre">domaines et spécialités de l'enseignement technologique, professionnel, agricole</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAORI</id>
+              <entry>
+                <string language="fre">éducation à l'orientation et au choix</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISREE</id>
+              <entry>
+                <string language="fre">relation école-entreprise</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISSEI</id>
+              <entry>
+                <string language="fre">section européenne ou internationale</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>VPLY</id>
+              <entry>
+                <string language="fre">voie professionnelle : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLYBE</id>
+              <entry>
+                <string language="fre">BEP brevet d'études professionnelles</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLYBM</id>
+              <entry>
+                <string language="fre">BMA brevet des métiers d'art</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLYCA</id>
+              <entry>
+                <string language="fre">CAP certificat d'aptitude professionnelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLYBT</id>
+              <entry>
+                <string language="fre">BT brevet de technicien</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLYBP</id>
+              <entry>
+                <string language="fre">BP brevet professionnel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLY1P</id>
+              <entry>
+                <string language="fre">1re bac pro</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLYTP</id>
+              <entry>
+                <string language="fre">terminale bac pro</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EA</id>
+              <entry>
+                <string language="fre">enseignement agricole</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PE</id>
+              <entry>
+                <string language="fre">formation des personnels de l'éducation nationale</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>38588</id>
+              <entry>
+                <string language="fre">relation école-collectivité territoriale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>38589</id>
+              <entry>
+                <string language="fre">relation école-entreprise</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>38615</id>
+              <entry>
+                <string language="fre">relation parent-enseignant</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>42705</id>
+              <entry>
+                <string language="fre">métier</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44006</id>
+              <entry>
+                <string language="fre">orientation professionnelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44007</id>
+              <entry>
+                <string language="fre">orientation scolaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51784</id>
+              <entry>
+                <string language="fre">débouché professionnel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>54000</id>
+              <entry>
+                <string language="fre">activité professionnelle</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>331.11</id>
+            </taxon>
+            <taxon>
+              <id>371.6</id>
+            </taxon>
+            <taxon>
+              <id>371.4</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.crdp-strasbourg.fr/prio/index.php</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

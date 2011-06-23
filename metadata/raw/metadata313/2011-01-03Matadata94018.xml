@@ -1,0 +1,459 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225517</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225517</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-129789</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.cndp.fr/secondaire/languespratique/arabe/952/accueil.htm</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.cndp.fr/secondaire/languespratique/arabe/952/accueil.htm</entry>
+          </identifier>
+          <title>
+            <string language="fre">L@ngues_en_ligne (arabe) - Babylone</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier d'accompagnement (pour l'étude de la langue arabe) du n°952 de la revue TDC et du n° 14 de TDC école , conçu à l'occasion de l'exposition « Babylone » au musée du Louvre. Les séquences pédagogiques proposées permettent aux élèves de connaître quelques aspects du monde arabe, de savoir en parler, d'acquérir des compétences langagières, linguistiques et culturelles. En primaire, les écoliers s'intéressent à Babylone. Les collégiens étudient quelques sites du monde arabe appartenant au Patrimoine mondial de l'UNESCO. Les lycéens découvrent le patrimoine musical commun à l'Irak et à la Syrie à travers l'étude de deux chansons traditionnelles. Cartes, photos, images, extraits musicaux.</string>
+          </description>
+          <coverage>
+            <string language="fre">Mésopotamie</string>
+          </coverage>
+          <coverage>
+            <string language="fre">Moyen-Orient</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Sicard-Fraisse, Frédérique
+N:Sicard-Fraisse, Frédérique
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Tahhan, Bassam
+N:Tahhan, Bassam
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Tahhan, Brigitte
+N:Tahhan, Brigitte
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2008-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-129789</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-129789</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-04-04T10:12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-04-10T11:42</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:56:58.77Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">© SCÉRÉN - CNDP                                                                                                     Tous droits de reproduction sont réservés, y compris pour les documents téléchargeables et les représentations iconographiques et photographiques.                                                                                                     Les droits d’utilisation, de reproduction et de diffusion sont strictement réservés au CNDP.                                                                                                                                         La reproduction de tout ou partie de ce site sur un support électronique quel qu’il soit est formellement interdite sauf autorisation expresse du CNDP.                                                                                                                                         La reproduction des textes de ce site sur un support papier est autorisée, sous respect des trois conditions suivantes : gratuité de la diffusion, respect de l’intégralité des documents reproduits : ni modification ni altération d’aucune sorte, citation claire et lisible de la source ; pour d’autres utilisations, veuillez contacter le responsable du site.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr/pédagogie/languesenligne/accueil.htm</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRIEHUHIS</id>
+              <entry>
+                <string language="fre">histoire (école primaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILER</id>
+              <entry>
+                <string language="fre">langue étrangère ou régionale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILANORA</id>
+              <entry>
+                <string language="fre">maîtrise du langage oral</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILANECR</id>
+              <entry>
+                <string language="fre">écriture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILANLEC</id>
+              <entry>
+                <string language="fre">lecture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHAR</id>
+              <entry>
+                <string language="fre">histoire des arts</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHIS</id>
+              <entry>
+                <string language="fre">histoire (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLVEARA</id>
+              <entry>
+                <string language="fre">arabe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECMUS</id>
+              <entry>
+                <string language="fre">musique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EP</id>
+              <entry>
+                <string language="fre">école primaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 3</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3M2</id>
+              <entry>
+                <string language="fre">CM2 cours moyen 2e année</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO5E</id>
+              <entry>
+                <string language="fre">5e</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO4E</id>
+              <entry>
+                <string language="fre">4e</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY2N</id>
+              <entry>
+                <string language="fre">2de</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>40492</id>
+              <entry>
+                <string language="fre">patrimoine culturel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>40515</id>
+              <entry>
+                <string language="fre">pays arabe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>43327</id>
+              <entry>
+                <string language="fre">musique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>50067</id>
+              <entry>
+                <string language="fre">chanson</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51583</id>
+              <entry>
+                <string language="fre">culture arabe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51939</id>
+              <entry>
+                <string language="fre">arabe : langue</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>52070</id>
+              <entry>
+                <string language="fre">art antique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>52453</id>
+              <entry>
+                <string language="fre">Babylone</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>492.7</id>
+            </taxon>
+            <taxon>
+              <id>900</id>
+            </taxon>
+            <taxon>
+              <id>780</id>
+            </taxon>
+            <taxon>
+              <id>722.5</id>
+            </taxon>
+            <taxon>
+              <id>292</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.cndp.fr/secondaire/languespratique/arabe/952/accueil.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

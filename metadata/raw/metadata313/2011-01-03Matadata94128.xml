@@ -1,0 +1,412 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225609</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225609</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-86199</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://eprofsdocs.crdp-aix-marseille.fr/</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://eprofsdocs.crdp-aix-marseille.fr/</entry>
+          </identifier>
+          <title>
+            <string language="fre">e-profsdocs</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Ce site se veut un outil d’aide au travail des
+Professeurs-documentalistes dans leur pratique quotidienne et cherche ainsi à aborder la diversité des missions et à répondre aux besoins du terrain. Il peut également intéresser d’autres
+acteurs, en particulier des professeurs de discipline qui y trouveront des ressources
+interdisciplinaires et des exemples de séquences pédagogiques : IDD, B2i, éducation à l’image et aux médias…</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie d'Aix-Marseille
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-11-13T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:DIRE, Documentation et ingénierie de ressources éducatives
+N:DIRE, Documentation et ingénierie de ressources éducatives
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-86199</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-86199</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie d'Aix-Marseille
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-10T09:45</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-02T15:45</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:40:02.90Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>DISTPR</id>
+              <entry>
+                <string language="fre">aide au travail personnel et à la réussite</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILANECR</id>
+              <entry>
+                <string language="fre">écriture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILANLEC</id>
+              <entry>
+                <string language="fre">lecture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRACIT</id>
+              <entry>
+                <string language="fre">éducation à la citoyenneté</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAEED</id>
+              <entry>
+                <string language="fre">EEDD éducation à l'environnement pour un développement durable</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAIMA</id>
+              <entry>
+                <string language="fre">éducation à l'image</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAFMI</id>
+              <entry>
+                <string language="fre">formation à la maîtrise de l'information</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAMED</id>
+              <entry>
+                <string language="fre">éducation aux médias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRASEC</id>
+              <entry>
+                <string language="fre">éducation à la sécurité</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISLIC</id>
+              <entry>
+                <string language="fre">liaison inter-cycles et inter-degrés</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISPET</id>
+              <entry>
+                <string language="fre">projets d'élèves transversaux</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRASAN</id>
+              <entry>
+                <string language="fre">éducation à la santé</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRIB2I</id>
+              <entry>
+                <string language="fre">B2i brevet informatique et internet (école)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EP</id>
+              <entry>
+                <string language="fre">école primaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>36958</id>
+              <entry>
+                <string language="fre">TICE</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41262</id>
+              <entry>
+                <string language="fre">politique documentaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41714</id>
+              <entry>
+                <string language="fre">professionnel de l'information et de la documentation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44083</id>
+              <entry>
+                <string language="fre">outil de recherche sur Internet</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44469</id>
+              <entry>
+                <string language="fre">interdisciplinarité</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>48496</id>
+              <entry>
+                <string language="fre">documentation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49297</id>
+              <entry>
+                <string language="fre">enseignant-documentaliste</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51210</id>
+              <entry>
+                <string language="fre">coopération documentaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>52650</id>
+              <entry>
+                <string language="fre">BCD</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>52780</id>
+              <entry>
+                <string language="fre">bibliothéconomie</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>53677</id>
+              <entry>
+                <string language="fre">CDI</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>011</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://eprofsdocs.crdp-aix-marseille.fr/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

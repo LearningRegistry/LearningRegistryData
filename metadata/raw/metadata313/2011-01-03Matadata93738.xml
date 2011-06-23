@@ -1,0 +1,290 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/203289</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>203289</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>3356_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3356</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3356</entry>
+          </identifier>
+          <title>
+            <string language="lt">Oksidacijos - redukcijos modelis</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Vykdydami elektrolizės bandymus tirpaluose ir lydiniuose, mokiniai galės analizuoti, kokie procesai vyksta prie elektrodų, kaip vyksta oksidacijos - redukcijos reakcijos.</string>
+          </description>
+          <keyword>
+            <string language="lt">Oksidatorius; reduktorius; elektrolizė; elektrodas; katodas; anodas; elektrolitas; vario chloridas; natrio chloridas; druskos rūgštis; vanduo; anglis; platina; vandenilis; deguonis; chloras; atpažinimo reakcija; natrio šarmas; fenolftaleinas</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="lt">1</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Regina Kaušienė
+N:Kaušienė;Regina;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-12-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>educational validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>graphical designer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jurga Kurtinaitienė
+N:Kurtinaitienė;Jurga;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Terra IT“
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3356</entry>
+          </identifier>
+          <identifier>
+            <catalog>LT SAUGCH 9-10</catalog>
+            <entry>3356</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:13:01.15Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Elektrolizės procesai yra oksidacijos - redukcijos. Vykdydami elektrochminius bandymus, mokiniai turės galimybę gilintis į šių procesų esmę. Tai realizuojama molekuliniu vaizdu, kurį galima pamatyti, užvedus ant centre esančių aktyvių zonų. Siūlykite mokiniams  tai ką mato užrašyti cheminiais ženklais. Šis laboratorinis darbas pravers ir mokantis metalų gavimą elektrolizės būdu, kalbant apie valgomosios druskos naudojimą, natrio šarmo gamybą, vandens elektrolizę. Mokiniai galės palyginti elektrolizės tirpaluose ir lydaluose skirtumus.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>experiment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/saugi-chemija/download/topic_7/scorm_7.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">SCORM</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="lt">Chemija</string>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3356_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/saugi-chemija/grotuvas_7.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

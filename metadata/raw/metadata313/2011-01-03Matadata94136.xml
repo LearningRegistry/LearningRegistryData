@@ -1,0 +1,359 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225504</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225504</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-139938</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://bacon.cndp.fr/dossiers_cndp/index.php?id=403</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://bacon.cndp.fr/dossiers_cndp/index.php?id=403</entry>
+          </identifier>
+          <title>
+            <string language="fre">L@ngues_en_ligne (Portugais)–La reproduction végétale</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier d'accompagnement (pour l'apprentissage de la langue portugaise) de TDC n°969 et TDC école n°31 proposant aux élèves du primaire de repérer les étapes de la reproduction des plantes à fleur, en utilisant les couleurs et un peu de vocabulaire scientifique. Les collégiens s'intéressent à la reproduction des plantes sans fleur et à la protection de l'environnement. Les lycéens étudient la reproduction des algues et à cette occasion la pollution et ses conséquences.</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-03-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Prat, Anne-Marie
+N:Prat, Anne-Marie
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2009-03-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-139938</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-139938</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-24T15:46</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-24T17:12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T02:05:45.62Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">©SCÉRÉN-CNDP 2006                                                    Droits d’auteur                                                    Tous droits de reproduction sont réservés, y compris pour les documents téléchargeables et les                                                    représentations iconographiques et photographiques.                                                    Les droits d’utilisation, de reproduction et de diffusion sont strictement réservés au CNDP.                                                    La reproduction de tout ou partie de ce site sur un support électronique quel qu’il soit est                                                    formellement interdite sauf autorisation expresse du CNDP.                                                    La reproduction des textes de ce site sur un support papier est autorisée, sous respect des trois                                                    conditions suivantes :                                                    - gratuité de la diffusion,                                                    - respect de l’intégralité des documents reproduits : ni modification ni altération d’aucune sorte,                                                    - citation claire et lisible de la source ; pour d’autres utilisations, veuillez contacter le responsable                                                    du site.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr/pedagogie/languesenligne/accueil.htm</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRILER</id>
+              <entry>
+                <string language="fre">langue étrangère ou régionale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLVEPOR</id>
+              <entry>
+                <string language="fre">portugais</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EPEE</id>
+              <entry>
+                <string language="fre">école élémentaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 3</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>38731</id>
+              <entry>
+                <string language="fre">reproduction végétale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41292</id>
+              <entry>
+                <string language="fre">pollution</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41398</id>
+              <entry>
+                <string language="fre">portugais : langue</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41807</id>
+              <entry>
+                <string language="fre">protection de l'environnement</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>46303</id>
+              <entry>
+                <string language="fre">flore</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49866</id>
+              <entry>
+                <string language="fre">expression écrite</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49869</id>
+              <entry>
+                <string language="fre">expression orale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49962</id>
+              <entry>
+                <string language="fre">faune</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>50854</id>
+              <entry>
+                <string language="fre">compréhension</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>469</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://bacon.cndp.fr/dossiers_cndp/index.php?id=403</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

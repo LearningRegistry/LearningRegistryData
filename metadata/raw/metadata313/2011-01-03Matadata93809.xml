@@ -1,0 +1,290 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/203759</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>203759</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>3352_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3352</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3352</entry>
+          </identifier>
+          <title>
+            <string language="lt">Rūgščiųjų lietų susidarymo ir poveikio modeliavimas</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Šiame mokomajame objekte mokinys pritaikys turimas žinias apie rūgštųjų lietų nestandartinėje situacijoje - nustatant vyravusio vėjo kryptį vietovėje pagal iškritusio lietaus pH vertes.</string>
+          </description>
+          <keyword>
+            <string language="lt">rūgštusis lietus; pH; vėjo kryptis</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="lt">1</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Daiva Bigelienė
+N:Bigelienė;Daiva;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-12-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>educational validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>graphical designer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jurga Kurtinaitienė
+N:Kurtinaitienė;Jurga;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Terra IT“
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3352</entry>
+          </identifier>
+          <identifier>
+            <catalog>LT SAUGCH 9-10</catalog>
+            <entry>3352</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:13:00.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Mokinys atlikdamas laboratorinį darbą ugdysis gamtos tyrimų gebėjimus, tokius kaip: pagal vieną požymį klasifikuoti į kelis tipus ir palyginti procesus, reiškinius ir faktus;  paprasčiausiose standartinėse situacijose nustatant reiškinių dėsningumus ir priimant argumentuotus sprendimus taikyti gamtos mokslų žinias; skaityti ir apdoroti skaitinę ir grafinę informaciją; numatyti ir suplanuoti eksperimentą (modifikuoti žinomus eksperimentus ir pritaikyti panašiai situacijai);  daryti išvadas ir tikrinti jų teisingumą;  aiškinti reiškinius taikant gamtos mokslų dėsningumus;  apibendrinti ir kritiškai vertinti informaciją apie gyvosios ir negyvosios gamtos įvairovę, gamtos mokslų atradimus, aplinkosaugą;  pagal pateiktą aprašymą atlikti eksperimentą ar praktinę užduotį;   tinkamai (schemomis, paveikslais, diagramomis, tekstu ir kt.) perduoti informaciją apie gyvosios ir negyvosios gamtos objektus, procesus, dėsningumus; pritaikyti matematikos žinias reiškiniams ir situacijoms aiškinti;  planuoti mokymosi veiklą; taikyti įvairias mokymosi strategijas;  reflektuoti mokymosi procesą.    Prieš ir po laboratorinio darbo pateikiami testai. Klausimai teste yra trijų sudėtingumo lygių - lengvas, vidutinis, sudėtingas. Mokinys pačioje pradžioje pasirenka, kokio tipo testą jis nori gauti. Priklausomai nuo jo pasirinkimo, testas sudaromas pagal tokias proporcijas: lengvas - 2 lengvi, 1 vidutinis klausimai; vidutinis - 3 vidutiniai klausimai; sunkus - 1 vidutinis, 2 sunkūs klausimai. Kaskart atliekant laboratorinį darbą, klausimai parenkami atsitiktinai, taip pat išmaišomi ir atsakymų variantai. Pieš laboratorinį darbą testo klausimai labiau skirti įvertinti jau mokinio turimą informaciją bei patirtį, po laboratorinio - ko išmoko šio darbo metu.    Taip pat pateikiamas atsiskaitymo lapas, kur mokinys fiksuoja savo darbo rezultatus, juos apibendrina. Mokytojas gali jame įvertinti mokinį, pateikti pastabas.    Atlikti laboratorinį darbą mokinys gali dviems režimais: mokymosi ir kontrolinio darbo. Mokymosi režime  atsakius į klausimą, parodoma, ar atsakė teisingai, ir jei atsakymas neteisingas, mokinys gali paskaityti šiam laboratoriniam darbui priskirtą enciklopedijos straipsnį. Paskaitęs gali atsakyti dar kartą, arba eiti prie kito klausimo; atsakinėti į klausimus gali neribotą kiekį kartų. Enciklopedijos straipsnelis rodomas, kai neteisingai atsako, taip jį gali atsidaryti savarankiškai,  paskaityti prieš atsakydamas į klausimą ar atlikdamas laboratorinį darbą. Kontrolinio darbo režime - negali naudotis pateikiama enciklopedija, atsakius į klausimą, nerodoma, ar atsakė teisingai; kol neatsakytas bent vienas klausimas, negali atlikti laboratorinio darbo; gali grįžti ir pasitaisyti, kiek nori kartų, tik kol yra tame pačiame laboratorinio darbo atlikimo etape. Po laboratorinio darbo pateikiama rezultatų lentelė, kurioje išvardijami visi šiame darbe atsakinėti klausimai, nurodant, į kuriuos klausimus atsakė teisingai, į kuriuos - ne. Rezultatai gali būti  išsiunčiami el. paštu.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>experiment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/saugi-chemija/download/topic_3/scorm_3.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">SCORM</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="lt">Chemija</string>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3352_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/saugi-chemija/grotuvas_3.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

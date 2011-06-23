@@ -1,0 +1,307 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/41213</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>41213</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>757_SCORM</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:757</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>757</entry>
+          </identifier>
+          <title>
+            <string language="lt">Metų laikai</string>
+            <string language="en">The Seasons</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Šia tema siekiama padėti vaikams suprasti metų laikų kaitą ir cikliškumą; drauge mokomasi atpažinti svarbiausius požymius, būdingus skirtingiems metų laikams. Mokomasi pasirinkti sezonui ir oro sąlygoms tinkančią aprangą. Matydamas ir suvokdamas, kaip keičiasi metų laikai, vaikas ima suvokti laiko tėkmę, nuolatinį keitimąsi, kaitą. Šiai temai įsisavinti vaikas turėtų atlikti užduotis, pateiktas temos UŽDUOČIŲ VAIKAMS skyrelyje. Jas atlikus, skyrelyje PASIŪLYMAI PAPILDOMAI VEIKLAI pateikiama keletas rekomendacijų, kaip papildyti užduotis keletu praktinių veiklų.</string>
+          </description>
+          <keyword>
+            <string language="lt">metų laikai</string>
+            <string language="lt">apranga</string>
+            <string language="lt">pasaulio pažinimas</string>
+            <string language="lt">spec. ugdymas</string>
+            <string language="en">Special needs education</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Violeta Jonynienė
+N:Jonynienė;Violeta;;;
+  
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Natalija Ignatova
+N:Ignatova;Natalija;;;
+  
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-12-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-12-12</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:757</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>757</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Dalia Antanavičienė
+N:Antanavičienė;Dalia;;;
+  
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-12</dateTime>
+            </date>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:00:54.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>guide</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>glossary</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-9</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">Su autorinėmis teisėmis. MO galima kopijuoti, platinti, demonstruoti tik nekomerciniais tikslais. Kitos teisės: Lietuvos bendrojo lavinimo mokykloms</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/MO/Spec/755_SCORM.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">Ankstesne nuotolinio mokymo kurso „Pasaulio pažinimas I ir II klasės“ dalis - „Sveika, balta žiemuže“</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/MO/Spec/758_SCORM.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">Kita nuotolinio mokymo kurso „Pasaulio pažinimas I ir II klasės“ dalis - „Visiems reikalingi namai“</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/doc/VMA/backups2/atsarginee_kopija-pazinimas.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">Nuotolinis mokymo kursas „Pasaulio pažinimas I ir II klasės“</string>
+            </description>
+          </resource>
+        </relation>
+        <annotation>
+          <date>
+            <dateTime>2009-04-10</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="lt">Gamtos mokslai</string>
+                <string language="en">Natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>757_SCORM</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v2004</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/Spec/757_SCORM.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>757_IMSCC</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/CC/pasaulio_spec/757CC.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

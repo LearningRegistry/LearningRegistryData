@@ -1,0 +1,457 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225637</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225637</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-88885</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://presence-litterature.cndp.fr/index.php?id=106</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://presence-litterature.cndp.fr/index.php?id=106</entry>
+          </identifier>
+          <title>
+            <string language="fre">Rousseau</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier consacré à Jean jacques Rousseau : séquences pédagogiques sur le « Discours sur l'origine et les fondements de l'inégalité parmi les hommes » (6 séances) ; actualité de l'auteur ; activités en classe autour de la « Lettre à d'Alembert sur les spectacles » ; ressources (bibliographie, sitographie).</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">18e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Langanay, André
+N:Langanay, André
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Abirached, Robert
+N:Abirached, Robert
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Chaumat, David
+N:Chaumat, David
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-88885</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-88885</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-03-23T15:16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-10-28T11:04</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:45:12.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Crédits
+
+Directeur de la publication
+Patrick Dion
+Directeur général du SCÉRÉN - CNDP
+
+Maîtrise d'ouvrage
+CNDP
+Département Arts et Culture
+Service national des productions imprimées et numériques
+
+Maîtrise d'œuvre
+CNDP
+Service national des productions imprimées et numériques
+
+Conception ergonomique et éditoriale
+CNDP
+Hélène Waysbord - Département Arts et Culture
+Maud Gailliard - Département Arts et Culture
+
+Chef de projet
+Samuel Baluret - Service national des productions imprimées et numériques
+
+Conception graphique
+CNDP
+Benoit Chartron - Service national des productions imprimées et numériques
+
+Réalisation technique
+CNDP
+François Thibaud - Service national des productions imprimées et numériques
+
+Hébergeur
+SCÉRÉN - CNDP
+Division des systèmes d'information
+
+ 
+
+Droit de propriété intellectuelle
+
+
+- Droits réservés
+La présentation et le contenu du site http://www.presence-litterature.cndp.fr constituent des œuvres protégées par la législation française et internationale relative à la propriété intellectuelle. Les éléments de fond protégeables tels que les textes, les photographies, les données, les graphiques, les vidéos, les images…, ainsi que les éléments de forme (choix, plan, disposition des matières, organisation des données…) sont la propriété du CNDP voire sont exploitées par celui-ci avec l’accord des détenteurs de droits pour le monde entier. En vertu de cette propriété, le CNDP est le seul à pouvoir exercer ses droits sur ces différents éléments. Conformément à l’article L.122-4 du Code de Propriété Intellectuelle, toute reproduction ou représentation, partielle ou totale, sur quelque support que ce soit, ne peut être faite sans le consentement préalable du CNDP, il en est de même pour la traduction, l’adaptation, la transformation, l’arrangement ou la reproduction par un art ou procédé quelconque.
+
+
+- Les exceptions générales
+Conformément à l’article L.122-5, les œuvres présentes sur ce site ne peuvent être utilisées que dans un cadre privé et non exclusif par tout utilisateur du site. Ceci signifie que tout utilisateur a le droit de reproduire pour stockage sur un ordinateur monoposte aux fins de représentation sur un écran unique et de reproduction, en un exemplaire unique pour copie de sauvegarde ou impression papier. Chaque utilisateur peut effectuer des reproductions sur papier et sur support électronique dans la mesure où celles-ci ressortent du domaine de la copie privée à usage non collectif. Tout autre usage est soumis à autorisation préalable et expresse du CNDP. Ces autorisations doivent être sollicitées par écrit, par voie postale, à l’adresse :
+M. le Directeur général
+Département Arts et Culture
+SCÉRÉN-CNDP
+@4 avenue du Futuroscope Téléport 1
+BP 80158 86961 Futuroscope cedex France
+ou par un courriel adressé à samuel.baluret(at)cndp.fr .
+
+
+Toute reproduction, rediffusion ou commercialisation totale ou partielle de la présentation originale du site et de son contenu, auprès des tiers non autorisés et sous quelque forme que ce soit est strictement interdite. La violation de ces dispositions impératives expose le contrevenant aux peines civiles et pénales prévues par la loi. Le Centre national de documentation pédagogique (CNDP) ne saurait être tenu pour responsable des usages et exploitations illicites qui seraient le fait d’utilisateurs non autorisés.
+
+- L’exception particulière d’exploitation et d’utilisation en classe
+Un usage public gratuit et collectif des œuvres présentes sur ce site, qu’il s’agisse de reproduction sur support papier ou  de reproduction et de représentation par voie de projection publique sur support électronique est autorisé. Cependant, cette exploitation des œuvres est exclusivement accordée pour un usage en classe s’inscrivant dans le cadre d’activités pédagogiques.
+
+- Sanctions
+Les formes d’exploitation non autorisées ci-dessus seront constitutives de contrefaçon. La violation de ces dispositions impératives expose le contrevenant, et toutes personnes responsables, aux peines pénales et civiles prévues par les dispositions légales et réglementaires françaises.
+
+
+• Bases de données
+Le CNDP, en tant qu’auteur et producteur de cette base de données, est titulaire de de droits d’auteur sur la forme et sur le contenu de celle-ci ainsi que de droits relevant du « producteur de la base de données ». Ainsi, conformément à l’article L.342-1 du Code de la Propriété Intellectuelle sur la base de données, le CNDP interdit l’extraction par transfert permanent ou temporaire sur tous supports, par tous moyens, et sous quelque forme que ce soit de la totalité ou d’une partie substantielle du contenu de ce site, sauf si ces opérations sont effectuées à des fins purement privées, ou d’information, ou pédagogiques. Le CNDP n’autorise pas la réutilisation, par la mise à disposition du public quelle qu’en soit la forme, la totalité ou une partie seulement du contenu du site ou de chacun des éléments le constituant.
+
+De plus et conformément aux lois sur le droit d’auteur, tous les éléments relevant de l’interface graphique ainsi que les contenus protégés par le droit d’auteur présents sur le site sont la propriété du CNDP ou ont été légalement acquis en ce sens. Dès lors, toute reproduction, représentation, modification, réutilisation voire commercialisation par de tiers non autorisés de ces créations protégées seront sanctionnables sur le terrain de la contrefaçon, la concurrence déloyale ou le parasitisme.
+
+
+• Vidéos
+Les vidéos mises en ligne sur le site Internet http://www.presence-litterature.cndp.fr ne peuvent être reproduites sans l’autorisation du producteur de la vidéo tel que le dispose l’article L.215-1 alinéa 2 du Code de propriété intellectuelle. L’utilisateur du site ne peut mettre à la disposition du public par vente, échange ou louage les vidéos mises en ligne sur le site, seuls le CNDP et les coproducteurs des vidéos sont aptes à le faire. Ainsi, par exemple, le téléchargement afin de diffusion publique est interdit, seuls le CNDP et ses coproducteurs peuvent exercer ce droit.
+
+
+• Liens Hypertextes
+Le site Internet du CNDP peut proposer de nombreux liens qui pointent vers d’autres sites, ceux du réseau SCÉRÉN, des sites officiels mais aussi vers des sites qui présentent un intérêt documentaire et/ou pédagogique du secteur de l’internet, de l’audiovisuel, des médias etc.
+
+Le site Internet du CNDP autorise la mise en place d’un lien hypertexte pointant vers son contenu ou pointant sur le contenu d’un site externe sous réserve de :
+- ne pas utiliser la technique du lien profond, c'est-à-dire que les pages du site lié ne doivent pas être imbriquées à l'intérieur des pages d'un autre site, mais accessible par l’ouverture d’une fenêtre et présentant clairement à l’utilisateur le changement de site par l’affichage de l’adresse URL du site lié ;
+- mentionner la source qui pointera grâce à un lien hypertexte directement sur le contenu visé. Les informations utilisées ne doivent l'être qu'à des fins personnelles, associatives ou professionnelles ; toute utilisation à des fins commerciales ou publicitaires est exclue.
+
+Cette autorisation est expressément interdite sur une ou des pages du site du CNDP lorsque le ou les site(s) liant sont des sites Internet diffusant des informations à caractère polémique, pornographique, xénophobe ou pouvant, dans une plus large mesure porter atteinte à la sensibilité du plus grand nombre. Pour d'autres utilisations, veuillez nous consulter (samuel.baluret(at)cndp.fr).
+
+Le CNDP n’est pas responsable des liens susceptibles de pointer sur son site. Les liens mis en place depuis ce site vers des sites extérieurs ne sauraient engager la responsabilité du CNDP, ni celle du directeur de publication et/ou de sa rédaction vis-à-vis des contenus desdits sites ou de quelconque dysfonctionnement d’un lien.
+
+
+• Marques et logos
+Les marques et logos sont la propriété du CNDP. Toute reproduction ou utilisation sans l’accord préalable du CNDP engagerait la responsabilité de l’utilisateur et constituerait une contrefaçon sanctionnée par les peines prévues à l’article L.335-2, L.713-2, L.713-3 et L.716-1 du code de la propriété intellectuelle. Seules les reproductions et utilisations des marques et logos présents sur le site aux fins exclusives d’information pédagogique peuvent être effectuées.
+
+
+• Données personnelles
+Les informations nominatives communiquées par l’utilisateur au CNDP sont exclusivement utilisées pour le service de ses différentes lettres d’information électroniques. Aucune de ces informations ne sera transmise ou cédée à un tiers.
+
+L’utilisateur dispose d’un droit d’accès, de rectification et d’opposition aux données qui le concernent auprès du correspondant informatique et libertés (CIL) dont les coordonnées suivent. Pour exercer ce droit, il suffit d’écrire à :
+Par voie postale :
+CNDP
+M. Philippe GAUVIN
+Correspondant informatique et libertés
+Téléport 1 - Bâtiment @4
+Avenue du Futuroscope - BP 80158
+86961 FUTUROSCOPE Cedex
+
+Par courriel :
+cil[at]cndp.fr
+
+Le CNDP se réserve le droit de supprimer les inscriptions liées à une adresse électronique invalide ou à un serveur restant sans réponse pendant trois jours consécutifs.
+
+
+• Données statistiques
+Le CNDP mesure le nombre de visites, le nombre de pages vues, des utilisateurs de son site, et leur fréquence de retour.
+Pour cela, des témoins de connexion (« cookies ») sont activés.
+Vous pouvez refuser ces témoins de connexion ou les supprimer sans que cela ait une quelconque influence sur votre navigation dans le site.
+Le CNDP analyse également la fréquentation de son site à partir des données de connexion. Les adresses IP relatives aux consultations effectuées ne sont pas conservées plus de 24 heures.
+
+
+• Contacter le CNDP
+Il est toujours possible d’adresser un courrier postal au directeur général du CNDP ou un courriel au webmestre : samuel.baluret(at)cndp.fr (français)</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.artsculture.education.fr</entry>
+            </identifier>
+            <description>
+              <string language="fre">Site arts et culture</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr</entry>
+            </identifier>
+            <description>
+              <string language="fre">Site du CNDP</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECFRA</id>
+              <entry>
+                <string language="fre">français</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>39061</id>
+              <entry>
+                <string language="fre">théâtre</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>39248</id>
+              <entry>
+                <string language="fre">Rousseau, Jean-Jacques : 1712-1778</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>40878</id>
+              <entry>
+                <string language="fre">philosophie</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>45402</id>
+              <entry>
+                <string language="fre">littérature</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>440.71</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://presence-litterature.cndp.fr/index.php?id=106</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

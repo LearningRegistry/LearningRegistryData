@@ -1,0 +1,383 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225535</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225535</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-89978</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.noe-tv.net/</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.noe-tv.net/</entry>
+          </identifier>
+          <title>
+            <string language="fre">Noé-tv</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Nouvelle Offre Educative Télévisuelle par Internet, Noé-tv est une plate-forme de diffusion de vidéos à vocation pédagogique et culturelle, conçue et réalisée par le Centre Départemental de Documentation Pédagogique du Doubs. Noé-tv présente deux collections : Images de Franche-Comté (vidéos documentaires issues de la production audiovisuelle régionale) et Numéric'art (oeuvres d'art-vidéo réalisées de 1989 à nos jours). Noé-tv permet à chacun de visualiser, télécharger et extraire les séquences utiles d'une vidéo pour les intégrer à un cours, à un exposé. Les vidéos sont accessibles gratuitement et sont libérées de droit pour un usage éducatif non commercial.</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">Franche-Comté : région</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de Franche-Comté
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:Communauté d'agglomération du Pays de Montbéliard
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2007-04-12T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-89978</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-89978</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de Franche-Comté
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-05-24T10:53</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-06-01T08:51</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:47:54.91Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Elève en autonomie</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">© CRDP de Franche-Comté - 2007
+L’ensemble de ce site relève de la législation française et internationale sur le droit d’auteur et la propriété intellectuelle. Tous les droits de reproduction sont réservés, y compris à l’égard des documents téléchargeables et autres représentations. Toute reproduction du site Noé-tv du CRDP de Franche-Comté/CDDP du Doubs – même partielle et quel qu’en soit le format ou le support - est strictement interdite sans autorisation écrite préalable, sauf pour un usage privé sans aucune visée commerciale. Dans ce cas, l’intégrité des documents reproduits devra être respectée c’est-à-dire qu’aucune modification ne sera apportée. L’établissement de tout lien hypertexte pointant vers le site Internet Noé-tv est soumis au même régime. La technique du lien profond est interdite, les pages du site Noé-tv ne doivent pas être imbriquées à l’intérieur des pages d’un autre site.
+Responsabilité : En tout état de cause, la responsabilité du CRDP de Franche-Comté/CDDP du Doubs ne saurait être retenue en cas de préjudice direct ou indirect résultant de l’usage de son site et de l’utilisation des données et informations qui y sont mises en ligne. En particulier, le CRDP de Franche-Comté/CDDP du Doubs décline toute responsabilité à l’égard de tout dommage lié à l’utilisation des liens hypertextes mis en ligne sur son site et à la consultation des sites auxquels ils renvoient. Il est expressément rappelé que le CRDP de Franche-Comté/CDDP du Doubs n’a aucun contrôle ni aucune responsabilité sur le contenu de ces sites. Il incombe donc à chaque internaute de prendre les précautions nécessaires afin de s’assurer que le site sélectionné pour son usage n’est pas infesté de virus ou autre parasite de nature destructive.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRIARTVIS</id>
+              <entry>
+                <string language="fre">le regard et le geste - arts visuels</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRIEHU</id>
+              <entry>
+                <string language="fre">découvrir le monde - éducation humaine</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECAPL</id>
+              <entry>
+                <string language="fre">arts plastiques</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECCAV</id>
+              <entry>
+                <string language="fre">cinéma et audiovisuel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECGEO</id>
+              <entry>
+                <string language="fre">géographie (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHIS</id>
+              <entry>
+                <string language="fre">histoire (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECSES</id>
+              <entry>
+                <string language="fre">SES sciences économiques et sociales</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECSVT</id>
+              <entry>
+                <string language="fre">SVT sciences de la vie et de la Terre</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECTEC</id>
+              <entry>
+                <string language="fre">technologie</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRISCI</id>
+              <entry>
+                <string language="fre">découvrir le monde - éducation scientifique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GT</id>
+              <entry>
+                <string language="fre">enseignement secondaire - voies générale et technologique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VP</id>
+              <entry>
+                <string language="fre">enseignement secondaire - voie professionnelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>ES</id>
+              <entry>
+                <string language="fre">enseignement supérieur</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC2</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 2</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 3</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>38490</id>
+              <entry>
+                <string language="fre">télévision éducative</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>43778</id>
+              <entry>
+                <string language="fre">oeuvre artistique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>46561</id>
+              <entry>
+                <string language="fre">Franche-Comté : région</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>371.335</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.noe-tv.net/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
