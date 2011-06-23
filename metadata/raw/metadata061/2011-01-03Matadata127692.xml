@@ -1,0 +1,333 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/92594</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>92594</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8494c82d-ac10-4f4d-b37f-6b916bc171ab</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Sorozatok vizsgálata</string>
+            <string language="en-US">Examining Sequences</string>
+            <string language="x-mt-de">Überprüfende Reihenfolgen</string>
+            <string language="x-mt-fr">Ordres Examinants</string>
+            <string language="x-mt-pt">Seqüências Examinando</string>
+            <string language="x-mt-it">Sequenze Esaminanti</string>
+            <string language="x-mt-el">Εξέταση των ακολουθιών</string>
+            <string language="x-mt-es">Secuencias Que examinan</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Korlátosság, monotonitás</string>
+            <string language="en-US">Boundedness, monotonicity</string>
+          </description>
+          <keyword>
+            <string language="en-US">series</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">oscillating series</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Boundedness, monotonicity</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Boundedness, monotonicity</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Boundedness, monotonicity</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Boundedness, monotonicity</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Boundedness, monotonicity</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Boundedness, monotonicity</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Serie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">oszillierende Serie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">série</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">série d'oscillation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">série</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">série oscilando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">serie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">serie oscillante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σειρά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταλαντεμένος σειρά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">serie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">monotonity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">boundedness</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">serie oscilante</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8494c82d-ac10-4f4d-b37f-6b916bc171ab</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:25:50.64Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>22bf8fbc-e60a-4859-8d11-d3c1de5e2aa0</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4e5050dc-8d3a-4e06-9ef9-0ed34eda9d46</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e7173ae3-5c98-4a2c-8d1d-3db3d57f337e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c7bccb95-9500-4fe7-8b2b-8da70384ebc2</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f839caa2-817f-4b23-81f9-925edaaf8489</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e077ab12-8460-44c3-a9fd-2679a930ed7a</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8494c82d-ac10-4f4d-b37f-6b916bc171ab</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8494c82d-ac10-4f4d-b37f-6b916bc171ab-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/84/94/8494c82d-ac10-4f4d-b37f-6b916bc171ab_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
