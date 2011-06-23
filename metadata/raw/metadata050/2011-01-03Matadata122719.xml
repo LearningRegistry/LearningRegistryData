@@ -1,0 +1,463 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/937042607</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>937042607</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>94efc064-32e1-4c78-a493-4e50bbad03aa</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:94efc064-32e1-4c78-a493-4e50bbad03aa</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>94efc064-32e1-4c78-a493-4e50bbad03aa</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Földrengések</string>
+            <string language="en-US">Earthquakes</string>
+            <string language="x-mt-de">Erdbeben</string>
+            <string language="x-mt-fr">Tremblements de terre</string>
+            <string language="x-mt-pt">Terremotos</string>
+            <string language="x-mt-it">Terremoti</string>
+            <string language="x-mt-el">Σεισμοί</string>
+            <string language="x-mt-es">Terremotos</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A földrengések okai, a földrengés erejének mérése</string>
+            <string language="en-US">The Reasons of Earthquakes, Reasons of Earthquakes, Measuring the Force of Earthquake</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">földrengés</string>
+            <string language="en-US">earthquake</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">epicentrum</string>
+            <string language="en-US">epicentre</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hipocentrum</string>
+            <string language="en-US">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">Szent András-törésvonal</string>
+            <string language="en-US">San Andreas fault</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">rengéshullám</string>
+            <string language="en-US">shockwave</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">szeizmográf</string>
+            <string language="en-US">seismograph</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">Mercalli-skála</string>
+            <string language="en-US">Mercalli scale</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">Richter-skála</string>
+            <string language="en-US">Richter scale</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Die Gründe von Erdbeben, Gründe von Erdbeben, 
+die Kraft des Erdbebens messend</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les raisons des tremblements de terre, raisons des
+tremblements de terre, mesurant la force du tremblement de terre</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As razões dos terremotos, razões dos terremotos,
+medindo a força do terremoto</string>
+          </description>
+          <description>
+            <string language="x-mt-it">I motivi dei terremoti, motivi dei terremoti, 
+misuranti la forza del terremoto</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι λόγοι των σεισμών, λόγοι των σεισμών, που μετρούν 
+τη δύναμη του σεισμού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las razones de terremotos, razones de terremotos, 
+midiendo la fuerza del terremoto</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Erdbeben</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Epicentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">San Andreas Störung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Shockwave</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Seismograph</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mercalli Skala</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Richterskala</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tremblement de terre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">épicentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Défaut de San Andreas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">onde de choc</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sismographe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Échelle de Mercalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Échelle de Richter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">terremoto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">epicentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Falha do San Andreas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">shockwave</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">seismograph</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Escala de Mercalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Escala de Richter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">terremoto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">epicentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Difetto di San Andreas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">shockwave</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sismografo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scala di Mercalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scala di Richter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σεισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίκεντρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βλάβη SAN Ανδρέας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">shockwave</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">seismograph</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κλίμακα Mercalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κλίμακα Richter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">terremoto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">epicentro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hypocentre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Incidente del San Andreas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">onda de choque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sismógrafo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Escala de Mercalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Escala de Richter</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:94efc064-32e1-4c78-a493-4e50bbad03aa</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>94efc064-32e1-4c78-a493-4e50bbad03aa</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:17:33.23Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>95948b29-d62c-4b80-ade8-c0d08ebdadd8</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1839e05d-61ee-4ccc-b09f-771217e7ab29</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>311ca6c9-319f-44cd-90cf-6051b1ea2a49</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d0985c82-97a0-4996-879c-ee87fab34da3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>0ddfc36b-b26a-4d1e-9d32-6930f20a06a1</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>414e40c9-71c1-4d5e-99d1-5dab9d77227c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>06b5cf54-e1fc-40ad-aa14-f18ee6a765c6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4117b134-d183-42c9-9748-5786f319bbe4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2945c904-1397-442f-881a-f3527a33e498</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d37d9ed9-de7a-48ce-b74b-e5fb8b59d5a0</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>0f65c805-d42b-4686-b17f-7399e4157273</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>68e63ab4-428a-44f3-86f2-9744ccdfd5b6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1853bc5c-6a23-45e3-a051-0db399686080</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b20afc78-2b2a-4395-ae51-a8ba19b11018</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>94efc064-32e1-4c78-a493-4e50bbad03aa-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>94efc064-32e1-4c78-a493-4e50bbad03aa-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=94efc064-32e1-4c78-a493-4e50bbad03aa</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>94efc064-32e1-4c78-a493-4e50bbad03aa-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>94efc064-32e1-4c78-a493-4e50bbad03aa-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/94/ef/94efc064-32e1-4c78-a493-4e50bbad03aa_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

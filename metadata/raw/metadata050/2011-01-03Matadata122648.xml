@@ -1,0 +1,325 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/89552</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>89552</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>f9d620ca-d759-492c-b213-43d7b216ccea</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:f9d620ca-d759-492c-b213-43d7b216ccea</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>f9d620ca-d759-492c-b213-43d7b216ccea</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A Naprendszer holdjai</string>
+            <string language="en-US">The Moons Of The Solar System</string>
+            <string language="x-mt-de">Die Monde Des Solarsystems</string>
+            <string language="x-mt-fr">Les Lunes du Système Solaire</string>
+            <string language="x-mt-pt">As Luas Do Sistema Solar</string>
+            <string language="x-mt-it">Le Lune Del Sistema Solare</string>
+            <string language="x-mt-el">Τα φεγγάρια του ηλιακού συστήματος</string>
+            <string language="x-mt-es">Las Lunas De la Sistema Solar</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A Hold, a Galilei-holdak, a Titán és a Triton alapvető jellemzőinek bemutatása</string>
+            <string language="en-US">Presentation of the Basic Characteristics of the Moon, the Galilean Moons, the Titan and the Triton</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">Hold</string>
+            <string language="en-US">Moon</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">Titán</string>
+            <string language="en-US">Titanium</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">óriáshold</string>
+            <string language="en-US">giant moon</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Darstellung der grundlegenden Eigenschaften des 
+Mondes, der galiläischen Monde, des Titan und des Tritons</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présentation des caractéristiques de base de la
+lune, des lunes galiléennes, du Titan et du Triton</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Apresentação das características básicas da 
+lua, das luas galilean, do Titan e do Triton</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Presentazione delle caratteristiche di base della
+luna, delle lune galilean, del Titan e del Tritone</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Παρουσίαση των βασικών χαρακτηριστικών του φεγγαριού, 
+των galilean φεγγαριών, του τιτάνα και triton</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Presentación de las características básicas de
+la luna, de las lunas galileas, del Titán y del Tritón</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Mond</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Titan</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">riesiger Mond</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Lune</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Titane</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">lune géante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Lua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Titânio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lua gigante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Luna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Titanio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">luna gigante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φεγγάρι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τιτάνιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γιγαντιαίο φεγγάρι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Luna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Titanio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">luna gigante</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:f9d620ca-d759-492c-b213-43d7b216ccea</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>f9d620ca-d759-492c-b213-43d7b216ccea</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:54:18.84Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>aad16cbf-6275-4e45-b867-7ccfc855a91b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b8d999dc-a2ef-4ef9-a6f1-be16c708047f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>19722535-e191-4abe-84c6-1cf4925a223e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1a879f74-8067-4f27-afff-7858c65d25c4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ff4d8b1c-c2c6-47c3-bb33-c8f2ff507521</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f7ef4fd8-dc04-407c-a4b6-53e14f706d45</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>551fc53e-43f0-49ad-bbd5-37906297820c</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>f9d620ca-d759-492c-b213-43d7b216ccea-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>f9d620ca-d759-492c-b213-43d7b216ccea-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=f9d620ca-d759-492c-b213-43d7b216ccea</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>f9d620ca-d759-492c-b213-43d7b216ccea-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>f9d620ca-d759-492c-b213-43d7b216ccea-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/f9/d6/f9d620ca-d759-492c-b213-43d7b216ccea_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,281 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/220345</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>220345</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:0f1906c7-4310-4936-9ddd-f212813a7ff3</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Közlekedés a lépcsőkön</string>
+            <string language="en-US">Passing on the stairs</string>
+            <string language="x-mt-de">Überschreiten auf die Treppe</string>
+            <string language="x-mt-fr">Dépassement sur les escaliers</string>
+            <string language="x-mt-pt">Passagem nas escadas</string>
+            <string language="x-mt-it">Passando sulle scale</string>
+            <string language="x-mt-el">Να δώσει τα σκαλοπάτια</string>
+            <string language="x-mt-es">El pasar en las escaleras</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A lépcsőn fölfelé a jobb oldalon, lefelé a bal oldalon közlekednek a gyerekek</string>
+            <string language="en-US">On the stairs children passing up on the right hand side and down on the left hand side</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">A lépcsőkön érdemes óvatosan közlekedni</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU"> A lépcsőn fölfelé a jobb oldalon, lefelé a bal oldalon közlekednek a gyerekek</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">iskola</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">épület</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">helyiség</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">lépcső</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Auf den Treppe Kindern, die oben auf die rechte 
+Seite und unten auf die linke Seite überschreiten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Sur les enfants d'escaliers passant vers le haut 
+du côté droit et vers le bas du côté de main gauche</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Nas crianças das escadas que passam acima no lado
+de mão direita e para baixo no lado da mão esquerda</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Sui bambini delle scale che passano in su dal lato
+destro e giù dal lato della mano sinistra</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Στα παιδιά σκαλοπατιών που δίνουν επάνω τη δεξιά 
+πλευρά και κάτω στην αριστερή πλευρά</string>
+          </description>
+          <description>
+            <string language="x-mt-es">En los niños de las escaleras que pasan para 
+arriba en la cara derecha y abajo en la cara de la mano izquierda</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-23T03:00:16.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:0f1906c7-4310-4936-9ddd-f212813a7ff3</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2010-02-23T03:00:16.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:04:19.42Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en-US">sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en-US">natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=0f1906c7-4310-4936-9ddd-f212813a7ff3</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-WebNormal</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-WebNormal-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/0f1906c7-4310-4936-9ddd-f212813a7ff3/1/7/ResourceNormal/k1696.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-Thumbnail</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>thumbnail</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>0f1906c7-4310-4936-9ddd-f212813a7ff3-Thumbnail-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/0f1906c7-4310-4936-9ddd-f212813a7ff3/1/7/ResourcePreview/k1696.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
