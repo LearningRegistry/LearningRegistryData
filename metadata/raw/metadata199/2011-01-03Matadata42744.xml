@@ -1,0 +1,85 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209603</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209603</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+          </identifier>
+          <title>
+            <string language="et">Kursuse tutvustus</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Kursuse tutvustus</string>
+          </description>
+          <keyword>
+            <string language="et">DigiTiiger</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:49:25.41Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=1-3ea7623b1c974c6812651c604814c1bb2afcf0ff</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

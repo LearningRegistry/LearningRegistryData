@@ -1,0 +1,210 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/87112</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>87112</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+          </identifier>
+          <title>
+            <string language="et">Pendel</string>
+            <string language="en">Pendulum</string>
+            <string language="x-mt-de">Pendel</string>
+            <string language="x-mt-fr">Pendule</string>
+            <string language="x-mt-pt">Pêndulo</string>
+            <string language="x-mt-it">Pendolo</string>
+            <string language="x-mt-el">Εκκρεμές</string>
+            <string language="x-mt-es">Péndulo</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Pendel</string>
+            <string language="en">Pendulum</string>
+          </description>
+          <keyword>
+            <string language="et">mehaaniline võnkumine</string>
+            <string language="et">Füüsika</string>
+            <string language="en">Models</string>
+            <string language="en">Physics</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Pendel</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pendule</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Pêndulo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Pendolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εκκρεμές</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Péndulo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Modelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Modèles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Modelos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Modelli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μοντέλα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Modelos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Märtinson;Elmo;;;
+FN:Elmo Märtinson
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:44:24.33Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">17 - 18</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>bdf621417a66dea43e0b2d77f93547e3cff8d77d</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=bdf621417a66dea43e0b2d77f93547e3cff8d77d</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

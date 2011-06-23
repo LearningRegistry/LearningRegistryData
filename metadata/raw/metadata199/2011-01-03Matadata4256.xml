@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78053</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78053</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40b268ae-930c-4448-2b28-154857b6d637#1#5</entry>
+          </identifier>
+          <title>
+            <string language="hu">Magyar mitológia</string>
+            <string language="en">hungarian mythology</string>
+            <string language="x-mt-de">ungarische Mythologie</string>
+            <string language="x-mt-fr">mythologie hongroise</string>
+            <string language="x-mt-pt">mythology hungarian</string>
+            <string language="x-mt-it">mitologia ungherese</string>
+            <string language="x-mt-el">ουγγρική μυθολογία</string>
+            <string language="x-mt-es">mitología húngara</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Magyar mitológia</string>
+            <string language="en">hungarian mythology</string>
+          </description>
+          <keyword>
+            <string language="hu">világfa,  sámán,  avar mitológia,  </string>
+            <string language="en">saman tree, saman, avar mythology</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">ungarische Mythologie</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">mythologie hongroise</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">mythology hungarian</string>
+          </description>
+          <description>
+            <string language="x-mt-it">mitologia ungherese</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ουγγρική μυθολογία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">mitología húngara</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">saman Baum, saman, avar Mythologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">arbre saman, mythologie saman et avar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">árvore saman, mythology saman, avar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">albero saman, mitologia saman e avar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">saman δέντρο, saman, avar μυθολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">árbol saman, mitología saman, avar</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">13-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78053</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40b268ae-930c-4448-2b28-154857b6d637&amp;v=1&amp;b=5</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
