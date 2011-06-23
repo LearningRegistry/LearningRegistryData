@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104984</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104984</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101481</entry>
+          </identifier>
+          <title>
+            <string language="en">Skylab: A Home Above Our Home Planet</string>
+            <string language="x-mt-de">Skylab: Ein Haus Über Unserem 
+Hauptplaneten</string>
+            <string language="x-mt-fr">Le Skylab : Une Maison Au-dessus de Notre 
+Planète À la maison</string>
+            <string language="x-mt-pt">Skylab: Uma HOME Acima De Nosso Planeta 
+Home</string>
+            <string language="x-mt-it">Skylab: Una Sede Sopra Il Nostro Pianeta 
+Domestico</string>
+            <string language="x-mt-el">Skylab: Μια "Οικία" επάνω από τον πλανήτη 
+"Οικιαών μας</string>
+            <string language="x-mt-es">Skylab: Un Hogar Sobre Nuestro Planeta 
+Casero</string>
+          </title>
+          <description>
+            <string language="en">The history of America's first space station Skylab. For more information see: http://www.nasa.gov</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die Geschichte der ersten Raumstation Amerikas 
+Skylab. Zu mehr Information sehen Sie: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'histoire de la première station spatiale de 
+l'Amérique le Skylab. Pour plus d'information voyez : 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O history estação de espaço Skylab de América 
+da primeira. Para mais informação veja: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La storia della prima stazione di spazio 
+dell'America Skylab. Per le più informazioni veda: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η ιστορία του πρώτου διαστημικού σταθμού skylab της
+Αμερικής. Για περισσότερες πληροφορίες δείτε: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La historia de la primera estación espacial de 
+América Skylab. Para más información vea: 
+http://www.nasa.gov</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:NASA
+FN:NASA
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101481</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104984</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/skylab-a-home-above-our-home-planet</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

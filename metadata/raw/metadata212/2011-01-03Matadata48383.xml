@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104904</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104904</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209995</entry>
+          </identifier>
+          <title>
+            <string language="en">Simple Circuit</string>
+            <string language="x-mt-de">Einfacher Stromkreis</string>
+            <string language="x-mt-fr">Circuit Simple</string>
+            <string language="x-mt-pt">Circuito Simples</string>
+            <string language="x-mt-it">Circuito Semplice</string>
+            <string language="x-mt-el">Απλό κύκλωμα</string>
+            <string language="x-mt-es">Circuito Simple</string>
+          </title>
+          <description>
+            <string language="en">This is an activity for circuit testing. This object is also designed for presentation via Windows-based hand-held devices.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Dieses ist eine Aktivität für die Satzprüfung. 
+Diese Nachricht ist auch für Darstellung über Windows-basierte
+Handeinheiten bestimmt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">C'est une activité pour le test de circuit. 
+Cet objet est également conçu pour la présentation par 
+l'intermédiaire des dispositifs tenus dans la main windows-based.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta é uma atividade para testar de circuito. 
+Este objeto é projetado também para a apresentação através 
+dos dispositivos hand-held windows-based.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ciò è un'attività per la prova di circuito. 
+Questo oggetto egualmente è progettato per la presentazione via
+i dispositivi tenuti in mano windows-based.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό είναι μια δραστηριότητα για τη δοκιμή 
+κυκλωμάτων. Αυτό το αντικείμενο σχεδιάζεται επίσης για την 
+παρουσίαση μέσω των βασισμένων στα WINDOWS φορητών συσκευών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esto es una actividad para la prueba de circuito. 
+Este objeto también se diseña para la presentación vía los 
+dispositivos hand-held windows-based.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:HELEN CHU
+FN:HELEN CHU
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DR. DANIEL CHURCHILL
+FN:DR. DANIEL CHURCHILL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209995</entry>
+          </identifier>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Custom License</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104904</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/simple-circuit</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108190</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108190</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770201877</entry>
+          </identifier>
+          <title>
+            <string language="en">Jumanji</string>
+            <string language="x-mt-de">Jumanji</string>
+            <string language="x-mt-fr">Jumanji</string>
+            <string language="x-mt-pt">Jumanji</string>
+            <string language="x-mt-it">Jumanji</string>
+            <string language="x-mt-el">Jumanji</string>
+            <string language="x-mt-es">Jumanji</string>
+          </title>
+          <description>
+            <string language="en">After reading the electronic version of the Jumanji book, please take this quiz to test your knowledge and understanding.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Nach dem Ablesen der elektronischen Version des 
+Jumanji Buches, nehmen Sie bitte diesen Quiz, um Ihr Wissen und 
+Verstehen zu prüfen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Après lecture de la version électronique du 
+livre de Jumanji, prenez s'il vous plaît ce jeu pour tester la votre 
+connaissance et arrangement.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Após ter lido a versão eletrônica do livro de 
+Jumanji, faça exame por favor deste quiz para testar seus 
+conhecimento e compreensão.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dopo la lettura della versione elettronica del 
+libro di Jumanji, prenda prego questo quiz per verificare la vostri 
+conoscenza e capire.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μετά από να διαβάσει την ηλεκτρονική έκδοση του 
+βιβλίου Jumanji, παρακαλώ πάρτε αυτόν τον διαγωνισμό γνώσεων 
+για να εξετάσετε τη γνώση και την κατανόησή σας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Después de leer la versión electrónica del 
+libro de Jumanji, tome por favor este concurso para probar su 
+conocimiento y entender.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:PAMELA PAQUETTE
+FN:PAMELA PAQUETTE
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770201877</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108190</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/jumanji</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

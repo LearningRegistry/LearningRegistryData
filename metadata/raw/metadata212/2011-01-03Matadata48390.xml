@@ -1,0 +1,152 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106198</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106198</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210260</entry>
+          </identifier>
+          <title>
+            <string language="en">Triads</string>
+            <string language="x-mt-de">Dreier</string>
+            <string language="x-mt-fr">Triades</string>
+            <string language="x-mt-pt">Tríades</string>
+            <string language="x-mt-it">Triadi</string>
+            <string language="x-mt-el">Τριάδες</string>
+            <string language="x-mt-es">Tríadas</string>
+          </title>
+          <description>
+            <string language="en">Triads are basic three-note chords built of thirds. They can be in root position, first inversion, or second inversion.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Dreier sind die grundlegenden Dreianmerkung 
+Akkorde, die von den an dritter Stelle aufgebaut werden. Sie 
+können in der Wurzelposition, in der ersten Umstellung oder in der 
+zweiten Umstellung sein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les triades sont les cordes de base de trois-note 
+construites des troisièmement. Elles peuvent être en position 
+de racine, première inversion, ou deuxième inversion.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As tríades são cordas básicas da três-nota 
+construídas dos em terceiro lugar. Podem estar na posição da 
+raiz, no primeiro inversion, ou no segundo inversion.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Le triadi sono corde di base della tre-nota 
+costruite dei terzo. Possono essere nella posizione della 
+radice, nella prima inversione, o nella seconda inversione.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι τριάδες είναι βασικές χορδές τρεις-σημειώσεων που 
+χτίζονται των τρίτων. Μπορούν να είναι στη θέση ρίζας, την
+πρώτη αντιστροφή, ή τη δεύτερη αντιστροφή.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las tríadas son acordes básicos de la tres-nota 
+construidos de tercero. Pueden estar en la posición de la 
+raíz, la primera inversión, o la segunda inversión.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210260</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106198</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/triads</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

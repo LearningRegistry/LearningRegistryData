@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103770</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103770</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209324</entry>
+          </identifier>
+          <title>
+            <string language="en">Guitar Lesson 3: The G String</string>
+            <string language="x-mt-de">Guitarre Lektion 3: Die G Zeichenkette</string>
+            <string language="x-mt-fr">Leçon 3 De Guitare : La Chaîne de 
+caractères de G</string>
+            <string language="x-mt-pt">Lição 3 Da Guitarra: A Corda De G</string>
+            <string language="x-mt-it">Lezione 3 Del Guitar: La Stringa Di G</string>
+            <string language="x-mt-el">Μάθημα 3 κιθάρων: Η συμβολοσειρά γ</string>
+            <string language="x-mt-es">Lección 3 De la Guitarra: La Cadena De G</string>
+          </title>
+          <description>
+            <string language="en">Introduces the G string and notes of varying time lengths.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Stellt die G Zeichenkette und die Anmerkungen der 
+unterschiedlichen Zeitlängen vor.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente la chaîne de caractères de G et les 
+notes des longueurs variables de temps.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz a corda de G e as notas de comprimentos 
+variando do tempo.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce la stringa di G e le note delle 
+lunghezze di variazione di tempo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει τη συμβολοσειρά γ και τις σημειώσεις των 
+ποικίλων χρονικών μηκών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce la cadena de G y las notas de las 
+longitudes del tiempo que varían.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209324</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>103770</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/guitar-lesson-3-the-g-string</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

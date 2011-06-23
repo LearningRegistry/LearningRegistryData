@@ -1,0 +1,152 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104290</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104290</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208972</entry>
+          </identifier>
+          <title>
+            <string language="en">Standing Waves and Musical Instruments</string>
+            <string language="x-mt-de">Stehende Wellen und Musikinstrumente</string>
+            <string language="x-mt-fr">Vagues se tenantes et instruments musicaux</string>
+            <string language="x-mt-pt">Ondas estando e instrumentos musicais</string>
+            <string language="x-mt-it">Onde levantesi in piedi e strumenti musicali</string>
+            <string language="x-mt-el">Μόνιμα κύματα και μουσικά όργανα</string>
+            <string language="x-mt-es">Ondas que están paradas e instrumentos musicales</string>
+          </title>
+          <description>
+            <string language="en">For middle school and up, an explanation of how standing waves in musical instruments produce sounds with particular pitches and timbres.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Für mittlere Schule und up, eine Erklärung von, 
+wie stehende Wellen in den Musikinstrumenten Töne mit bestimmten 
+Taktabständen und timbres produzieren.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pour le collège et levez, une explication de la 
+façon dont les vagues se tenantes dans des instruments musicaux 
+produisent des bruits avec les lancements et les timbres 
+particuliers.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Para a escola média e levante, uma explanação de
+como as ondas estando em instrumentos musicais produzem sons com 
+passos e timbres particulares.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Per la scuola centrale ed aumenti, una spiegazione 
+di come le onde levantesi in piedi in strumenti musicali producono i 
+suoni con i passi ed i timbres particolari.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Για τη δευτεροβάθμια εκπαίδευση και επάνω, μια εξήγηση
+για το πώς τα μόνιμα κύματα στα μουσικά όργανα παράγουν τους 
+ήχους με τις ιδιαίτερες πίσσες και τις χροιές.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Para la escuela media y suba, una explicación de 
+cómo las ondas que están paradas en instrumentos musicales producen 
+sonidos con las echadas y los timbres determinados.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208972</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104290</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/standing-waves-and-musical-instruments</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78038</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78038</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>8f7a9ed9-e0e9-4cdc-9dbb-cdef8c12dcb9#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hun lovas</string>
+            <string language="en">Hun horseman</string>
+            <string language="x-mt-de">Hunnereiter</string>
+            <string language="x-mt-fr">Cavalier d'hun</string>
+            <string language="x-mt-pt">Horseman do hun</string>
+            <string language="x-mt-it">Horseman del hun</string>
+            <string language="x-mt-el">Ιππέας Hun</string>
+            <string language="x-mt-es">Jinete del hun</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Hun lovas (430)</string>
+            <string language="en">Hun horseman (430)</string>
+          </description>
+          <keyword>
+            <string language="hu">Attila kápás nyereg asszimmetrikus íj,  </string>
+            <string language="en">Attila pomel saddle asymmetrical bow</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Hunnereiter (430)</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cavalier d'hun (430)</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Horseman do hun (430)</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Horseman del hun (430)</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ιππέας Hun (430)</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Jinete del hun (430)</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Asymetrischer Bogen des Attila pomel Sattels</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arc asymétrique de selle de pomel d'Attila</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Curva asymmetrical da sela do pomel de Attila</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arco asimmetrico della sella del pomel di Attila</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ασυμμετρικό τόξο σελών Attila pomel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Arqueamiento asimétrico de la montura del pomel de 
+Attila</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78038</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8f7a9ed9-e0e9-4cdc-9dbb-cdef8c12dcb9&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

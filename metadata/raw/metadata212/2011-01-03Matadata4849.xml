@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74715</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74715</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>dd4270c2-e5a6-4b6d-8d07-6e337fdff87c#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Pesti Vígadó</string>
+            <string language="en">Vigadó of Pest</string>
+            <string language="x-mt-de">Vigadó der Plage</string>
+            <string language="x-mt-fr">Vigadó de parasite</string>
+            <string language="x-mt-pt">Vigadó do pest</string>
+            <string language="x-mt-it">Vigadó del parassita</string>
+            <string language="x-mt-el">Vigadσ του παρασίτου</string>
+            <string language="x-mt-es">Vigadó del parásito</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">zenei intézmény</string>
+            <string language="en">Musical institution</string>
+          </description>
+          <keyword>
+            <string language="hu">hangverseny,  romantikus,  romantika,  Feszl Frigyes,  </string>
+            <string language="en">concert, Romanticist, Romanticism, Frigyes Fesztl</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Musikalische Anstalt</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Établissement musical</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Instituição musical</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Istituzione musicale</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μουσικό όργανο</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Institución musical</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Konzert, Romanticist, Romantik, Frigyes Fesztl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">concert, Romanticist, Romantisme, Frigyes Fesztl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">concert, Romanticist, Romanticism, Frigyes Fesztl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">concerto, Romanticist, Romanticism, Frigyes Fesztl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συναυλία, Romanticist, ρομαντισμός, Frigyes Fesztl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">concierto, Romanticist, Romanticismo, Frigyes Fesztl</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74715</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=dd4270c2-e5a6-4b6d-8d07-6e337fdff87c&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

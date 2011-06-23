@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107496</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107496</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101366</entry>
+          </identifier>
+          <title>
+            <string language="en">How Much Water Do We Use?</string>
+            <string language="x-mt-de">Wieviel Wasser Benutzen Wir?</string>
+            <string language="x-mt-fr">Combien d'Eau Utilisons-nous ?</string>
+            <string language="x-mt-pt">Quanto Água Nós Usamos?</string>
+            <string language="x-mt-it">Quanta Acqua Usiamo?</string>
+            <string language="x-mt-el">Πόσο Water Do We Use;</string>
+            <string language="x-mt-es">¿Cuánto Agua Utilizamos?</string>
+          </title>
+          <description>
+            <string language="en">What is our water budget? Studying watersheds is one way to understand how much water we use.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Was ist unser Wasseretat? Das Studieren von von 
+Wasserscheiden ist Einweg, zu verstehen, wieviel Wasser wir benutzen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Quel est notre budget de l'eau ? Étudier des lignes
+de partage est à sens unique pour comprendre combien d'eau nous 
+utilisons.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Que é nosso orçamento da água? Estudar watersheds
+é de sentido único compreender quanto água nós usamos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Che cosa è il nostro preventivo dell'acqua? 
+Studiare gli spartiacque è unidirezionale capire quanta acqua 
+usiamo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ποιος είναι ο προϋπολογισμός ύδατός μας; Η 
+μελέτη των υδροκριτών είναι ένας τρόπος να καταλάβει πόσο ύδωρ
+χρησιμοποιούμε.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Cuál es nuestro presupuesto del agua? Estudiar 
+líneas divisoria de las aguas es unidireccional entender cuánto agua
+utilizamos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CUAHSI-DK
+FN:CUAHSI-DK
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101366</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107496</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/how-much-water-do-we-use</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

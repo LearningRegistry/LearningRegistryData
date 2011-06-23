@@ -1,0 +1,154 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105122</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105122</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202566</entry>
+          </identifier>
+          <title>
+            <string language="en">Why I Am Me Timeline</string>
+            <string language="x-mt-de">Warum Ich Ich Timeline Bin</string>
+            <string language="x-mt-fr">Pourquoi Je Suis Moi Chronologie</string>
+            <string language="x-mt-pt">Porque Eu Sou Mim Timeline</string>
+            <string language="x-mt-it">Perchè Sono Me Timeline</string>
+            <string language="x-mt-el">Γιατί είμαι εγώ υπόδειξη ως προς το χρόνο</string>
+            <string language="x-mt-es">Porqué Soy Yo Timeline</string>
+          </title>
+          <description>
+            <string language="en">Student develops a timeline that correlates personal life events with world events. Research and bibliographic skills are incorporated.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer entwickelt ein timeline, das 
+persönliche Lebenfälle mit Weltfällen aufeinander bezieht. 
+Forschung und bibliographische Fähigkeiten werden enthalten.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'étudiant développe une chronologie qui corrèle 
+des événements de vie personnels avec des événements du monde. 
+La recherche et les qualifications bibliographiques sont 
+incorporées.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O estudante desenvolve um timeline que correlacione
+eventos de vida pessoais com os eventos do mundo. A pesquisa e 
+as habilidades bibliographic são incorporadas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'allievo sviluppa un timeline che correla i 
+curriculum personali personali con gli eventi del mondo. La 
+ricerca e le abilità bibliografiche sono comprese.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο σπουδαστής αναπτύσσει μια υπόδειξη ως προς το χρόνο 
+που συσχετίζει τα προσωπικά γεγονότα ζωής με τα παγκόσμια 
+γεγονότα. Η έρευνα και οι βιβλιογραφικές δεξιότητες 
+ενσωματώνονται.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El estudiante desarrolla un timeline que 
+correlacione acontecimientos de vida personales con acontecimientos 
+del mundo. Se incorporan la investigación y las habilidades 
+bibliográficas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:RITA BRIGGS
+FN:RITA BRIGGS
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202566</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105122</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/why-i-am-me-timeline</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
