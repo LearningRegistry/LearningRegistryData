@@ -1,0 +1,55 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "werkopdracht", 
+        "ophanging", 
+        "uitzettingsco\u00ebffici\u00ebnt", 
+        "buisbewerking", 
+        "stalen", 
+        "buizen", 
+        "duim", 
+        "buisdiameter", 
+        "vlampijp", 
+        "stoompijp", 
+        "fitting", 
+        "precisiebuis", 
+        "DIN", 
+        "pijpverbinding", 
+        "flend", 
+        "koppeling", 
+        "lasverbinding", 
+        "lasbocht", 
+        "beugel", 
+        "klemverbinding", 
+        "soldeerverbinding", 
+        "leiding", 
+        "flens", 
+        "voorlasflens", 
+        "flensafmeting", 
+        "montage", 
+        "pijpfitten", 
+        "draadkoppeling"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/207348</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>207348</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:3390</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:3390</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>3390</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Buizenboek deel 1 tot 5 + werkboekjes</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Volledige cursus pijpfitten en buisbewerking, bruikbaar voor TV als ondersteuning voor de praktijkopleiding. Deze cursus omvat vijf delen met drie werkboekjes die gedurende twee uur per week gedurende een heel schooljaar bruikbaar zijn.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">werkopdracht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ophanging</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">uitzettingsco\u00ebffici\u00ebnt</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">buisbewerking</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stalen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">buizen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">duim</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">buisdiameter</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vlampijp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stoompijp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">fitting</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">precisiebuis</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">DIN</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">pijpverbinding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">flend</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">koppeling</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lasverbinding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lasbocht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">beugel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">klemverbinding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">soldeerverbinding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">leiding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">flens</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">voorlasflens</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">flensafmeting</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">montage</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">pijpfitten</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">draadkoppeling</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>3</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2007-09-21T15:01:57.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:willy vermaelen\r\nFN:willy vermaelen \r\nEMAIL;TYPE=INTERNET: \r\nORG: willy vermaelen\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:3390</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>3390</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-01-11T22:01:57.53Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>course</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>vocational education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">16-17</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <date>\r\n            <dateTime>2009-02-21</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>1370</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>3390</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.klascement.net/nieuws/3390/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/nieuws/3390/?ref=aspect"
+}
