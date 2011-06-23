@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73683</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73683</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>b48b485b-1224-41ed-a99e-30c94561e6cc#1#5</entry>
+          </identifier>
+          <title>
+            <string language="hu">Teljesítmény, hatásfok</string>
+            <string language="en">efficiency</string>
+            <string language="x-mt-de">Leistungsfähigkeit</string>
+            <string language="x-mt-fr">efficacité</string>
+            <string language="x-mt-pt">eficiência</string>
+            <string language="x-mt-it">risparmio di temi</string>
+            <string language="x-mt-el">αποδοτικότητα</string>
+            <string language="x-mt-es">eficacia</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Teljesítmény, hatásfok</string>
+            <string language="en">efficiency</string>
+          </description>
+          <keyword>
+            <string language="hu">munka,  teljesítmény,  hatásfok,  </string>
+            <string language="en">work, efficiency, effect</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Leistungsfähigkeit</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">efficacité</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">eficiência</string>
+          </description>
+          <description>
+            <string language="x-mt-it">risparmio di temi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">αποδοτικότητα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">eficacia</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Arbeit, Leistungsfähigkeit, Effekt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travail, efficacité, effet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trabalho, eficiência, efeito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lavoro, risparmio di temi, effetto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εργασία, αποδοτικότητα, επίδραση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">trabajo, eficacia, efecto</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">14-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73683</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b48b485b-1224-41ed-a99e-30c94561e6cc&amp;v=1&amp;b=5</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

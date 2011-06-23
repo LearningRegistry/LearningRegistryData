@@ -1,0 +1,416 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33845</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33845</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/3181</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3181</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3181</entry>
+          </identifier>
+          <title>
+            <string language="ca">El Pollet</string>
+            <string language="en">The chicken</string>
+            <string language="x-mt-de">Das Huhn</string>
+            <string language="x-mt-fr">Le poulet</string>
+            <string language="x-mt-pt">A galinha</string>
+            <string language="x-mt-it">Il pollo</string>
+            <string language="x-mt-el">Το κοτόπουλο</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">Joc d'exercitació per al domini del ratolí. Conté un laberint per on s'ha de menar un pollet fins arribar al costat de la seva mare.</string>
+            <string language="en">Game for exercising skill with mouse. Pupil must lead a chicken through a maze to its mother.</string>
+          </description>
+          <keyword>
+            <string language="ca">atenció</string>
+            <string language="en">attention</string>
+            <string language="es">atención</string>
+          </keyword>
+          <keyword>
+            <string language="ca">orientació</string>
+            <string language="en">gear</string>
+          </keyword>
+          <keyword>
+            <string language="ca">percepció</string>
+            <string language="en">perception</string>
+            <string language="es">percepción</string>
+          </keyword>
+          <keyword>
+            <string language="ca">habilitat</string>
+            <string language="en">skill</string>
+            <string language="es">habilidad</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Spiel für die Ausübung von von Fähigkeit mit 
+Maus. Pupille muß ein Huhn durch ein Labyrinth zu seiner Mutter
+führen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Jeu pour exercer la compétence avec la souris. 
+La pupille doit mener un poulet par un labyrinthe à sa mère.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Jogo para exercitar a habilidade com rato. A
+pupila deve conduzir a uma galinha através de um maze a sua matriz.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gioco per esercitare abilità con il mouse. 
+La pupilla deve condurre un pollo tramite un labirinto alla 
+relativa madre.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Παιχνίδι για την άσκηση της ικανότητας με το ποντίκι. 
+Ο μαθητής πρέπει να οδηγήσει ένα κοτόπουλο μέσω ενός 
+λαβυρίνθου στη μητέρα του.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Aufmerksamkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahnrad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vorstellung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fähigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">attention</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">perception</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compétence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atenção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">engrenagem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">percepção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">habilidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">attenzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ingranaggio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">percezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">abilità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσοχή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εργαλείο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αντίληψη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ικανότητα</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:edu365
+N:edu365
+EMAIL;TYPE=INTERNET:
+ORG:edu365
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:edu365.cat/Moulanda
+N:edu365.cat/Moulanda
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-06-10</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3181</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3181</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:amatas3
+N:amatas3
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-02-02</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:msala1
+N:msala1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-06-10</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jmari12
+N:jmari12
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-06-10</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jcrayfor
+N:jcrayfor
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-08</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T21:59:53.28Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">3-6</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H5M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">No es permet un ús comercial de l'obra original ni de les possibles obres derivades, la distribució de les quals s'ha de fer amb una llicència igual a la que regula l'obra original.</string>
+            <string language="x-t-cc">CC: Reconeixement - NoComercial - CompartirIgual (by-nc-sa)</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/es/deed.ca</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>7839</id>
+              <entry>
+                <string language="ca">Habilitats motrius</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7841</id>
+              <entry>
+                <string language="ca">Lateralitat: espai i temps</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>114</id>
+              <entry>
+                <string language="ca">atenció</string>
+                <string language="en">attention</string>
+                <string language="es">atención</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>534</id>
+              <entry>
+                <string language="ca">orientació</string>
+                <string language="en">gear</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>959</id>
+              <entry>
+                <string language="ca">percepció</string>
+                <string language="en">perception</string>
+                <string language="es">percepción</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1188</id>
+              <entry>
+                <string language="ca">habilitat</string>
+                <string language="en">skill</string>
+                <string language="es">habilidad</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/3181</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu365.cat/infantil/jocs/pollet.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
