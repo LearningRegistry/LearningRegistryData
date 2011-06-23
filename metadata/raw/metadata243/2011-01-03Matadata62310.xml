@@ -1,0 +1,206 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/230149</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>230149</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:926</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:926</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>926</entry>
+          </identifier>
+          <title>
+            <string language="nl">Overhoor : Gratis overhoorprogramma</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Gratis programma waarmee de leerkracht zelf gemakkelijk en snel digitale werkblaadjes kan maken en wijzigen.  Vervolgens kunnen de werkblaadjes geladen worden om zo ingevuld te worden door de leerling. Allerlei zaken die uit het hoofd geleerd moeten worden zoals buitenlandse woorden, feiten, of wat je er ook maar mee wilt overhoren, kunnen met dit programma getraind en overhoord worden.  De bediening is zeer eenvoudig. Je typt eerst zelf (eenmalig) de te overhoren vragen en bijbehorende antwoorden in. Je mag helemaal zelf bepalen waar die vragen over gaan. Vervolgens sla je deze op in een bestand. Je kunt ook op deze site kijken of iemand anders jouw lijstje al heeft ingevoerd en deze dan downloaden.  Het programma kan je vervolgens op meerdere manieren overhoren: * Training: Hierbij neem je het antwoord in gedachten en controleer je jezelf door op de spatie te drukken. * Meerkeuze: Naast het juiste antwoord toont het programma nog 3 antwoorden en wordt jouw keuze gecontroleerd. * Invullen: Het antwoord volledig invullen, waarbij het programma ook spellingsfouten kan herkennen.</string>
+          </description>
+          <keyword>
+            <string language="nl">ICT zonder beperkingen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leren leren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leerzorg</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-10-30T13:26:41.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:926</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:926</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-22T10:20:46.28Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>martine devoogdt</entity>
+          <date>
+            <dateTime>2005-08-28</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>926</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>926</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/926/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

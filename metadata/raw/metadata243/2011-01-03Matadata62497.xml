@@ -1,0 +1,223 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209376</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209376</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:2528</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:2528</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>2528</entry>
+          </identifier>
+          <title>
+            <string language="nl">Proefjes.nl</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze site heeft als doel kinderen kennis te laten maken met natuurwetenschappen. Voor de proefjes die aan bod komen, zijn alleen huis-tuin-en-keuken spullen nodig. 
+
+Elk proefje is stap voor stap uitgeschreven. Naast een eenvoudige uitleg is er ook een uitgebreide uitleg voor wie net iets meer wil weten. De proefjes worden zo goed mogelijk beschreven en zijn in principe veilig. Je vindt er de ook de mogelijkheid om de werkbladen en antwoordbladen van elk proefje te downloaden.
+
+Verschillende thema's komen aan bod: lucht, water, licht, geluid, elektriciteit, vuur, voelen, proeven, e.a.
+
+Voorbeelden van proefjes:
+- Hoe maak ik een regenboog?
+- Kun je zelf een onzichtbaar gas maken?
+- Kun je gemengd peper en zout weer uit elkaar halen?
+- Hoe maak je elektriciteit?
+-...
+ 
+Naast de proefjes zelf, zijn er ook een aantal lessen uitgewerkt: o.a. over luchtdruk, water en zeep, geluid, zintuigen, en eieren...
+
+Men verzorgt workshops voor pabostudenten over het doen van proefjes in de klas in het basisonderwijs. Verder staat men ook in voor begeleiding en stages voor academische studenten met een exacte studie bij een educatieve of maatschappelijke stage over proefjes.</string>
+          </description>
+          <keyword>
+            <string language="nl">natuurwetenschappen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">krachten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">natuurkennis</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Chemie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">proef</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:2528</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:2528</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:58:24.85Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-17</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Ilse Schrijvers</entity>
+          <date>
+            <dateTime>2010-02-22</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>2528</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>2528</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/2528/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

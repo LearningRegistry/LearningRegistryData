@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77582</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77582</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40ded16b-f1bf-4c24-8ea1-57a820a60fb5#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mengs: Paris megkisértése</string>
+            <string language="en">Mengs: temptation of Paris</string>
+            <string language="x-mt-de">Mengs: Versuchung von Paris</string>
+            <string language="x-mt-fr">Mengs : tentation de Paris</string>
+            <string language="x-mt-pt">Mengs: temptation de Paris</string>
+            <string language="x-mt-it">Mengs: tentazione di Parigi</string>
+            <string language="x-mt-el">Mengs: πειρασμός του Παρισιού</string>
+            <string language="x-mt-es">Mengs: tentación de París</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">klasszicista festmény</string>
+            <string language="en">classicist painting</string>
+          </description>
+          <keyword>
+            <string language="hu">bécsi klasszicizmus,  klasszicizmus,  </string>
+            <string language="en">vienesse classicism, classicism</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">classicist Anstrich</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">peinture de classique</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">pintura do classicist</string>
+          </description>
+          <description>
+            <string language="x-mt-it">pittura di classicist</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ζωγραφική κλασικιστών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">pintura del classicist</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">vienesse classicism, classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">classicism de vienesse, classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">classicism do vienesse, classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">classicism del vienesse, classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vienesse classicism, classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">classicism del vienesse, classicism</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77582</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40ded16b-f1bf-4c24-8ea1-57a820a60fb5&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

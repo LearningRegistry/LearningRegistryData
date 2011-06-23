@@ -1,0 +1,188 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/207144</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>207144</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:10810</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10810</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10810</entry>
+          </identifier>
+          <title>
+            <string language="nl">Waarnemingen.be</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Op deze site kan je natuurwaarnemingen invoeren, beheren en delen met anderen. Het is een initiatief van Natuurpunt Studie vzw en de Stichting Natuurinformatie.  Op deze manier wil de site inzicht verschaffen in de natuurrijkdom van Vlaanderen.Je kan je waarnemingen ingeven onder vier categorieën: vogels, zoogdieren, amfibieën en reptielen, dagvlinders. Alles gebeurt op vrijwillige basis. Je kan er ook je foto's kwijt.Voordeel is dat de informatie heel actueel is. Wil je graag zeehondjes zien aan onze Belgische kust? Surf even naar Waarnemingen.be, bekijk de laatste waarneming en je krijgt meteen een precieze locatie (Google maps), omschrijving en eventueel extra informatie.Gebruikers van waarnemingen.be die in het bezit zijn van een PDA met gps of een touchscreen gsm met GPS en voorzien van Windows Mobile kunnen gegevens in het veld invoeren met het programma Wnpda. De positie van jouw waarneming wordt dan meteen opgeslagen, en thuis kan je je gegevens uploaden naar je profiel op waarnemingen.be</string>
+          </description>
+          <keyword>
+            <string language="nl">reptiel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vlinder</string>
+          </keyword>
+          <keyword>
+            <string language="nl">amfibie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dier</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zeldzame dieren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zoogdier</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vogel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">waarneming</string>
+          </keyword>
+          <keyword>
+            <string language="nl">natuur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">fauna en flora</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-01-14T09:44:27.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:vzw Natuurpunt
+FN:vzw Natuurpunt 
+EMAIL;TYPE=INTERNET: 
+ORG: vzw Natuurpunt
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10810</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10810</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T21:45:38.08Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>10810</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/10810/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
