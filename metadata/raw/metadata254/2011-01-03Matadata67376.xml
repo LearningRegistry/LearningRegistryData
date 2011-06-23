@@ -1,0 +1,221 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/233885</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>233885</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:4002</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4002</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4002</entry>
+          </identifier>
+          <title>
+            <string language="nl">Dia : Vectorgebaseerd tekenprogramma</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dia is een vectorgebaseerd tekenprogramma, met sterke ondersteuning voor het maken van diagrammen (grafen). Grafen zijn een aaneenschakeling van 'objecten' verbonden met 'pijlen'. Dia heeft een bibliotheek van voorgemaakte objectvormen in heel wat verschillende domeinen: stroomdiagrammen, UML-modellen (Unified Modeling Language), elektrische en computernetwerken, elektronische en hydraulische schakelingen, en nog vele andere. De standaardvormen van diagrammen hebben allemaal een aantal knooppunten waaraan pijlen vastgeklikt kunnen worden, zodanig dat de verbindingen behouden blijven als delen van een diagram verplaatst worden. Dia biedt een rijke verzameling aan mogelijke pijlpunten aan, en de afmetingen van pijlen en pijlpunten zijn makkelijk aan te passen aan de wensen van de gebruiker. Eén van de meest actieve ontwikkelingen binnen Dia is de ondersteuning voor de UML standaard, die redelijk populair is geworden bij programmeurs. De UML-vormen in Dia bieden velden aan om de standaard UML-informatie in op te geven (methoden, attributen, enz.). Dia gebruikt een open standaardformaat (svg, Scalable Vector Graphics) om tekeningen om te slaan. Het programma kan ook tekeningen uitvoeren naar vectorformaten (eps, pdf) en bitmatformaten (bijv. png). Op die manier kunnen Dia-figuren naadloos gebruikt worden in massa's andere vrije software programma's die dit soort open formaten kunnen importeren. Gebruikers kunnen de beschikbare bibliotheken van objectvormen uitbreiden door met Dia SVG-bestanden van de gewenste nieuwe vormen te maken.</string>
+          </description>
+          <keyword>
+            <string language="nl">diagram</string>
+          </keyword>
+          <keyword>
+            <string language="nl">chart</string>
+          </keyword>
+          <keyword>
+            <string language="nl">schema</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vector</string>
+          </keyword>
+          <keyword>
+            <string language="nl">grafen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">stroomdiagram</string>
+          </keyword>
+          <keyword>
+            <string language="nl">UML-model</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Unified</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Modeling</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Language</string>
+          </keyword>
+          <keyword>
+            <string language="nl">openbron</string>
+          </keyword>
+          <keyword>
+            <string language="nl">opensource</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2007-10-24 12:21:13</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-10-24T12:21:13.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Alexander Larsson
+FN:Alexander Larsson 
+EMAIL;TYPE=INTERNET: 
+ORG: Alexander Larsson
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:4002</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:4002</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:43:43.47Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Leerlingen en leerkrachten kunnen snel met Dia uit de voeten om diagrammen te maken. De gebruikersinterface is eenvoudig en intuïtief, want Dia heeft weinig toeters en bellen. 
+
+Hoewel de nadruk van de ontwikkelaars op een aantal technische domeinen ligt (UML, elektronische diagrammen) zal Dia waarschijnlijk het meest van pas komen bij de aanmaak van stroomschema's en maps allerhande waarin veel verbindingen en pijlen nodig zijn.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>650</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>4002</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>4002</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/4002/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

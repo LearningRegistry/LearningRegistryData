@@ -1,0 +1,202 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/208548</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>208548</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:2132</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:2132</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>2132</entry>
+          </identifier>
+          <title>
+            <string language="nl">Canon  : Cultuurcel</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze website gaat uit van het departement Onderwijs. Ze wil in een open creatieve leeromgeving leerlingen, leerkrachten en vormingsmedewerkers op een actieve manier in contact brengen met kunst en cultuur. 
+
+Ze leggen op verschillende manieren linken tussen beide werelden. Er worden workshops, studiedagen, projecten, publicaties en acties i.v.m. kunst en cultuur georganiseerd, om te bewerkstelligen dat deze thema's een vaste plek krijgen in de school en de lessen. Bedoeling is ook de culturele wereld kennis te laten maken met de mogelijkheden van het onderwijs.
+
+Belangrijk is dat ook lesmateriaal gratis wordt aangereikt, volgens verschillende  leergebieden, onderwijsniveaus, organisaties en/of kunstenaars.</string>
+          </description>
+          <keyword>
+            <string language="nl">workshops</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kunstenaar</string>
+          </keyword>
+          <keyword>
+            <string language="nl">cultureel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Kunst</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:2132</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:2132</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:02:01.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Wanneer je de link lesmateriaal aanklikt, krijg je heel concrete tips om lessen uit te werken rond kunst en cultuur op school.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>74</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>2132</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>2132</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/2132/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
