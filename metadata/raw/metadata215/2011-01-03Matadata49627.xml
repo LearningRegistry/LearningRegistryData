@@ -1,0 +1,307 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/201232</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>201232</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/8647</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/8647</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/8647</entry>
+          </identifier>
+          <title>
+            <string language="ca">Els oficis</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">Projecte d'activitats JClic al voltant dels diversos oficis: afilador, ballarina, forner, modista, nedador, perruquera</string>
+          </description>
+          <keyword>
+            <string language="ca">treball</string>
+            <string language="en">job</string>
+          </keyword>
+          <keyword>
+            <string language="ca">professió</string>
+            <string language="en">profession</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">31-07-2002</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:JClic
+N:JClic
+EMAIL;TYPE=INTERNET:
+ORG:JClic
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Bernadette Inglada Berengueres
+N:Bernadette Inglada Berengueres
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2000-06-02</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/8647</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/8647</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mcasaus2
+N:mcasaus2
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-06-04</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mcasaus2
+N:mcasaus2
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-06-04</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpicas
+N:jpicas
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-06-04</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T22:27:35.22Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">3-8</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT1H0M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">No es permet un ús comercial de l'obra original ni de les possibles obres derivades, la distribució de les quals s'ha de fer amb una llicència igual a la que regula l'obra original.</string>
+            <string language="x-t-cc">CC: Reconeixement - NoComercial - CompartirIgual (by-nc-sa)</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/es/deed.ca</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>2314</id>
+              <entry>
+                <string language="ca">Medi econòmic</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>2315</id>
+              <entry>
+                <string language="ca">Treball i activitats econòmiques</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7855</id>
+              <entry>
+                <string language="ca">Exploració de l'entorn</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>8657</id>
+              <entry>
+                <string language="ca">Descoberta d'un mateix i descoberta dels altres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>8888</id>
+              <entry>
+                <string language="ca">Social i ciutadana</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>690</id>
+              <entry>
+                <string language="ca">treball</string>
+                <string language="en">job</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1033</id>
+              <entry>
+                <string language="ca">professió</string>
+                <string language="en">profession</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/8647</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://clic.xtec.net/db/act_ca.jsp?id=1457</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
