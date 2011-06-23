@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77987</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77987</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e0bdb998-e186-4bd1-8f3a-586dc68791e4#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Szakasz hossza- helyvektorok</string>
+            <string language="en">Length of segment - place vectors</string>
+            <string language="x-mt-de">Länge des Segments - plazieren Sie Vektoren</string>
+            <string language="x-mt-fr">Longueur de segment - placez les vecteurs</string>
+            <string language="x-mt-pt">Comprimento do segmento - coloque vetores</string>
+            <string language="x-mt-it">Lunghezza del segmento - disponga i vettori</string>
+            <string language="x-mt-el">Μήκος του τμήματος μνήμης - τοποθετήστε τα διανύσματα</string>
+            <string language="x-mt-es">Longitud del segmento - ponga los vectores</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Szakasz hosszúságának kiszámítását szemléltető ábra.</string>
+            <string language="en">Illustration demonstrating the computation of segment's length.</string>
+          </description>
+          <keyword>
+            <string language="hu">11. osztály,  kép,  </string>
+            <string language="en">11. class,  picture,   </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung, die das Übertragen auf Lochkarten der
+Segmentlänge zeigt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Illustration démontrant le calcul de la longueur
+du segment.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Ilustração que demonstra a computação do 
+comprimento de segmento.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione che dimostra il calcolo della 
+lunghezza del segmento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Απεικόνιση που καταδεικνύει τον υπολογισμό του μήκους 
+του τμήματος μνήμης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ilustración que demuestra el cómputo de la 
+longitud de segmento.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">11. Kategorie, Abbildung,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">11. classe, image,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">11. classe, retrato,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">11. codice categoria, immagine,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">11, κλάση, εικόνα,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">11. clase, cuadro,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77987</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e0bdb998-e186-4bd1-8f3a-586dc68791e4&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
