@@ -1,0 +1,52 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Romulus", 
+        "romein", 
+        "Rome", 
+        "Remus", 
+        "Caesar", 
+        "legioen", 
+        "Nero", 
+        "heerwegen", 
+        "keizerrijk", 
+        "tempel", 
+        "Pantheon", 
+        "thermen", 
+        "amfitheater", 
+        "Colosseum", 
+        "gladiator", 
+        "huurkazerne", 
+        "insula", 
+        "woonhuis", 
+        "domus", 
+        "toga", 
+        "stola", 
+        "aquaduct", 
+        "pompei", 
+        "vesuvius", 
+        "Ambiorix"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/113425</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>113425</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:10229</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:10229</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>10229</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">De Romeinen</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">In dit leerlingenboekje vind je allerlei informatie terug over de Romeinen:De geboorte van RomeJulius CaesarEen leger van taaie rakkersEnkele beroemde keizersRomeinen leggen heerwegen aanEen hemel vol godenOntspanning in de thermenHet ColosseumKind zijn in RomeWonen in RomeAan tafelDe Romeinse modeBouwen en techniekPompe\u00ef, de verloren stadDe Romeinen in onze streken</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">Romulus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">romein</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Rome</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Remus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Caesar</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">legioen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Nero</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">heerwegen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">keizerrijk</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tempel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Pantheon</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">thermen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">amfitheater</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Colosseum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gladiator</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">huurkazerne</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">insula</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">woonhuis</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">domus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">toga</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stola</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">aquaduct</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">pompei</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vesuvius</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Ambiorix</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <version>\r\n            <string language=\"nl\">2008-11-22 10:16:35</string>\r\n          </version>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-11-24T10:18:36.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Hanne Roz\u00e9\r\nFN:Hanne Roz\u00e9 \r\nEMAIL;TYPE=INTERNET: \r\nORG: Hanne Roz\u00e9\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:10229</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:10229</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T15:32:08.68Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <technical>\r\n          <format>application/zip</format>\r\n        </technical>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>course</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">10-13</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <entity>an Peeters</entity>\r\n          <date>\r\n            <dateTime>2009-07-04</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>978</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>10229</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>10229</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/10229/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/10229/?ref=aspect"
+}
