@@ -1,0 +1,337 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/235597</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>235597</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>3367_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3367</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3367</entry>
+          </identifier>
+          <title>
+            <string language="lt">Elektros srovės magnetinis laukas apie tiesų laidininką</string>
+            <string language="en">The Magnetic Field Around a Wire</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Elektrinė grandinė, kurioje dvi poros laidų. Vienoje porų srovės kryptis sutampa, kitoje yra priešinga. Srovės stiprį ir kryptį galima keisti ir stebėti laidų sąveiką iš šono ir stebint laidų pjūvį.Kitoje scenoje tiesus laidininkas, kuriuo teka elektros srovė (kryptį ir srovės stiprį galima keisti), rodomas elektronų judėjimas, magnetinės indukcijos linijos, magnetinės indukcijos vektorius. Iliustruota dešiniosios rankos taisyklė.</string>
+          </description>
+          <keyword>
+            <string language="lt">Elektros srovė</string>
+            <string language="lt">magnetinis laukas</string>
+            <string language="lt">dešinės rankos taisyklė</string>
+            <string language="en">right hand rule</string>
+            <string language="en">magnetic field</string>
+            <string language="en">Electric current</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>networked</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="lt">1</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Rigonda Skorulskienė
+N:Skorulskienė;Rigonda;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-12-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo informacinių technologijų centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>educational validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>graphical designer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jurga Kurtinaitienė
+N:Kurtinaitienė;Jurga;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Inify“
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3367</entry>
+          </identifier>
+          <identifier>
+            <catalog>LT ELEKTROMAG 9-10</catalog>
+            <entry>3367</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:13:01.49Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <description>
+            <string language="lt">1 scena skirta iliustruoti dviejų laidų, kuriais teka srovė, sąveiką. Elektrinėje grandinėje yra dvi poros laidų, kur vienoje porų srovės kryptis sutampa, o kitoje yra priešinga. Srovės stiprį ir kryptį galima keisti ir stebėti laidų sąveiką iš šono ir stebint laidų pjūvį.2 scenoje yra tiesaus laidininko, kuriuo teka srovė, fragmentas. Reikėtų atkreipti dėmesį į elektronų animuotą judėjimą, kuris yra priešingas srovės krypčiai. Keičiant įtampą, keičiasi srovės stipris ir magnetinis laukas apie laidininką, o pakeitus srovės kryptį, keičiasi ir magnetinio lauko linijų kryptis. 3 scena papildo antrą dešinės rankos taisykle. Scenoje tiesus laidininkas, kuriuo teka elektros srovė. Srovę galima įjungti/išjungti. Išjungus srovę, rankos ir magnetinio lauko linijų (jų tiesiog nėra) įjungti negalima. Įjungus srovę, galima įsijungti magnetinio lauko linijas su magnetinėmis rodyklėmis ir vektoriumi B. Dešinioji ranka įjungiama/išjungiama atskirai nuo magnetinių lauko linijų, o tai labai patogu ruošiant mokiniams užduotis.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/MO/Fizika/27_SCORM.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">SCORM</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.emokykla.lt/MO/Fizika/27_CC.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">IMS Common Cartridge</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="lt">Fizika</string>
+                <string language="en">Physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3367_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/fizika9-10/fobjects/view/27/#up</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3367_SCORM</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v2004</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/Fizika/27_SCORM.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3367_IMSCC</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.emokykla.lt/MO/Fizika/27_CC.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

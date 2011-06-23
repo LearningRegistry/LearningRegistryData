@@ -1,0 +1,290 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/203074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>203074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>3354_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3354</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>3354</entry>
+          </identifier>
+          <title>
+            <string language="lt">Stiklo gamyba</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Mokiniai atilikdami virtualų gamybos procesą nustatys, kokios žaliavos yra būtinos geram stiklui pagaminti, kokie priedai suteikia stiklui spalvą, atsparumą karščiui, ko reikia įdėti, kad būtų pagamintas krištolas.</string>
+          </description>
+          <keyword>
+            <string language="lt">stiklas; smėlis; klintys; soda; krištolas; termoatsparus stiklas; boro oksidas; švino(II) oksidas; vario(II) oksidas; vario(I) oksidas;bario oksidas;chromo(III) oksidas; kobalto(II) oksidas; nikelio(II) oksidas; silicio dioksidas</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="lt">1</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Regina Kaušienė
+N:Kaušienė;Regina;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-12-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>educational validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>graphical designer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jurga Kurtinaitienė
+N:Kurtinaitienė;Jurga;;;
+  
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Terra IT“
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:3354</entry>
+          </identifier>
+          <identifier>
+            <catalog>LT SAUGCH 9-10</catalog>
+            <entry>3354</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:13:01.01Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Gamyboje naudojama nemažai tokių medžiagų apie kurių chemines savybes mokomąsi chemijos pamokose. Atlikti virtualią stiklo gamybą galima toje kurso (pamokos) vietoje, kur kalbama apie silikatų technologiją, klinčių naudojimą praktikoje ar sodos pritaikymą. Verta prieš tokį darbą aptarti antrinių žaliavų pakartotinį naudojimą (informacija apie tai pateikta enciklopedijos straipsnelyje), pramoninės gamybos ypatumus. Enciklopedijos straipsnelyje yra pateikta ir daugiau teorinės-informacinės medžiagos, kurią mokiniai gali studijuoti ir savarankiškai. Prieš laboratorinį darbą atsakydami į testo forma pateiktus 3 klausimus, jie pasitikrins savo teorines žinias. O kokios medžiagos būtinos geram stiklui pagaminti, kokių jų reikia įvairiarūšiui stiklui gauti - mokiniai galės patys surasti. Darbas užbaigiamas apibendrinant rezultatus mokinio atsiskaitymo lape ir atsakant į 3 testo forma pateiktus klausimus, susijusius su gautais eksperimento metu pastebėjimais. Mokytojas gali vertinimui darbą gauti elektronine forma (mokiniai užpildo prisegtą Word dokumentą ir atsiunčia el. paštu) arba atspausdintame lape (jei darbą atliko per pamoką klasėje - tokiu atveju prieš pamoką atsiskaitymo lapą patartina atspausdinti ir padalinti mokiniams).</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>experiment</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/saugi-chemija/download/topic_5/scorm_5.zip</entry>
+            </identifier>
+            <description>
+              <string language="lt">SCORM</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="lt">Chemija</string>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>3354_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/saugi-chemija/grotuvas_5.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

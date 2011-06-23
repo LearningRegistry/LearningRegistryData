@@ -1,0 +1,277 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/203518</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>203518</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-LTLOM-id</catalog>
+    <entry>2876_LRE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:2876</entry>
+          </identifier>
+          <identifier>
+            <catalog>LTLOM</catalog>
+            <entry>2876</entry>
+          </identifier>
+          <title>
+            <string language="lt">Maisto kelias</string>
+          </title>
+          <language>lt</language>
+          <description>
+            <string language="lt">Kiekvienas kelias turi pradžią ir pabaigą. Maisto kelionė virškinamuoju kanalu prasideda burnoje. Susipažinę su šiuo demonstraciniu objektu, išsiaiškinsite, kokie organai dalyvauja maisto virškinimo procese.</string>
+          </description>
+          <keyword>
+            <string language="lt">virškinamasis kanalas, burna, stemplė, skrandis, plonoji žarna</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>1</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="lt">1</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Genovaitė Vitalienė
+N:Vitalienė;Genovaitė;;;
+  
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-04-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-12-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>educational validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:Švietimo plėtotės centras
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-12-29</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:lom.emokykla.lt:2876</entry>
+          </identifier>
+          <identifier>
+            <catalog>Gamta ir žmogus 5-6</catalog>
+            <entry>2876</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:   
+N: ; ;;;
+ ORG:UAB „Šviesa“
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-10</dateTime>
+            </date>
+          </contribute>
+          <language>lt</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ITC
+N:ITC
+ORG:ITC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:08:00.30Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>expositive</value>
+          </interactivityType>
+          <description>
+            <string language="lt">Šį MO galima naudoti mokant vaikus tyrinėti virškinimo organus ir bendrais bruožais nusakyti jų paskirtį.</string>
+          </description>
+          <language>lt</language>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>demonstration</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-12</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="lt">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/gamta5-6</entry>
+            </identifier>
+            <description>
+              <string language="lt">Integruotas gamtos mokslų kursas 5-6 klasėms</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/gamta5-6/moscorm.php?id=813</entry>
+            </identifier>
+            <description>
+              <string language="lt">Mokymosi objektas pateikiamas SCORM formatu</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hasformat</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://mkp.emokykla.lt/gamta5-6/mozip.php?id=813</entry>
+            </identifier>
+            <description>
+              <string language="lt">Mokymosi objektas pateikiamas ZIP formatu</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="lt">LRE Tezaurai</string>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="lt">Gamtos mokslai</string>
+                <string language="en">Natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-LTLOM-id</catalog>
+      <entry>2876_LRE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://mkp.emokykla.lt/gamta5-6/lt/mo/813</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
