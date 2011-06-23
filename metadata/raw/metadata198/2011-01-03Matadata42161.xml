@@ -1,0 +1,210 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/84962</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>84962</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+          </identifier>
+          <title>
+            <string language="et">Vesi</string>
+            <string language="en">water</string>
+            <string language="x-mt-de">Wasser</string>
+            <string language="x-mt-fr">l'eau</string>
+            <string language="x-mt-pt">água</string>
+            <string language="x-mt-it">acqua</string>
+            <string language="x-mt-el">ύδωρ</string>
+            <string language="x-mt-es">agua</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Vesi</string>
+            <string language="en">water</string>
+          </description>
+          <keyword>
+            <string language="et">vesi</string>
+            <string language="et">Keemia</string>
+            <string language="en">water</string>
+            <string language="en">chemistry</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Wasser</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">l'eau</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">água</string>
+          </description>
+          <description>
+            <string language="x-mt-it">acqua</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ύδωρ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">agua</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wasser</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Chemie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'eau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chimie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">água</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chemistry</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acqua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">chimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ύδωρ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">química</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Reinhold;Eda;;;
+FN:Eda Reinhold
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:42:08.70Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">15 - 16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=f0e0eee08a73c06697a5d3dbf964cb5f91c64d8d</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

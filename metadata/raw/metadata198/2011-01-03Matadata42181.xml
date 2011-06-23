@@ -1,0 +1,210 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/86569</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>86569</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+          </identifier>
+          <title>
+            <string language="et">Jalgrattamatk veekogu äärde</string>
+            <string language="en">Bike trip to water</string>
+            <string language="x-mt-de">Fahrradreise zum Wasser</string>
+            <string language="x-mt-fr">Voyage de vélo à l'eau</string>
+            <string language="x-mt-pt">Desengate da bicicleta à água</string>
+            <string language="x-mt-it">Viaggio della bici ad acqua</string>
+            <string language="x-mt-el">Ταξίδι ποδηλάτων στο ύδωρ</string>
+            <string language="x-mt-es">Viaje de la bici al agua</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Jalgrattamatk veekogu äärde</string>
+            <string language="en">Bike trip to water</string>
+          </description>
+          <keyword>
+            <string language="et">Kiirus</string>
+            <string language="et">Füüsika</string>
+            <string language="en">speed</string>
+            <string language="en">physics</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Fahrradreise zum Wasser</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Voyage de vélo à l'eau</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desengate da bicicleta à água</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Viaggio della bici ad acqua</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ταξίδι ποδηλάτων στο ύδωρ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Viaje de la bici al agua</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">velocidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Kuusma;Liivi;;;
+FN:Liivi Kuusma
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:37:27.79Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">17 - 19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>6badb3b99f7e767b0cac1348e015d65db513f910</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=6badb3b99f7e767b0cac1348e015d65db513f910</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

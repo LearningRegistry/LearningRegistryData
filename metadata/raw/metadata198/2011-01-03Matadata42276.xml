@@ -1,0 +1,190 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/84726</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>84726</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>150d9de9d82dbe074538175aedce617b229d20aa</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:150d9de9d82dbe074538175aedce617b229d20aa</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>150d9de9d82dbe074538175aedce617b229d20aa</entry>
+          </identifier>
+          <title>
+            <string language="et">Kunst teos ja keskkond</string>
+            <string language="en">Art, work of art and enviroment</string>
+            <string language="x-mt-de">Kunst, Kunstwerk und enviroment</string>
+            <string language="x-mt-fr">Art, oeuvre d'art et enviroment</string>
+            <string language="x-mt-pt">Arte, trabalho de arte e enviroment</string>
+            <string language="x-mt-it">Arte, opera d'arte ed enviroment</string>
+            <string language="x-mt-el">Τέχνη, έργο της τέχνης και enviroment</string>
+            <string language="x-mt-es">Arte, obra de arte y enviroment</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Kunst teos ja keskkond</string>
+            <string language="en">Art, work of art and enviroment</string>
+          </description>
+          <keyword>
+            <string language="et">Kunstiõpetus</string>
+            <string language="en">Art</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Kunst, Kunstwerk und enviroment</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Art, oeuvre d'art et enviroment</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Arte, trabalho de arte e enviroment</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Arte, opera d'arte ed enviroment</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τέχνη, έργο της τέχνης και enviroment</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Arte, obra de arte y enviroment</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kunst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Art</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Arte</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Allsalu;Vano;;;
+FN:Vano Allsalu
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:150d9de9d82dbe074538175aedce617b229d20aa</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>150d9de9d82dbe074538175aedce617b229d20aa</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:37:09.41Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">-1 - 9999</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>91</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>150d9de9d82dbe074538175aedce617b229d20aa</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=150d9de9d82dbe074538175aedce617b229d20aa</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

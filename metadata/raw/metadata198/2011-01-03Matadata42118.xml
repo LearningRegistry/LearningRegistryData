@@ -1,0 +1,196 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/84597</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>84597</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:c6e2ac45e211bf59725af9e7e12ff2f4be936558</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>c6e2ac45e211bf59725af9e7e12ff2f4be936558</entry>
+          </identifier>
+          <title>
+            <string language="et">Pillid</string>
+            <string language="en">Instruments</string>
+            <string language="x-mt-de">Instrumente</string>
+            <string language="x-mt-fr">Instruments</string>
+            <string language="x-mt-pt">Instrumentos</string>
+            <string language="x-mt-it">Strumenti</string>
+            <string language="x-mt-el">Όργανα</string>
+            <string language="x-mt-es">Instrumentos</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Lisamaterjal keelpillide õpetamisel</string>
+            <string language="en">Extra-material of stringed instruments teaching</string>
+          </description>
+          <keyword>
+            <string language="et">Muusikaõpetus</string>
+            <string language="et">Muusikaajalugu III kooliastmele</string>
+            <string language="en">Music history for third school grade</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Extra-Material von stringed das 
+Instrumentunterrichten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">le Supplémentaire-matériel de stringed 
+l'enseignement d'instruments</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">o Extra-material de stringed ensinar dos 
+instrumentos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">il Supplementare-materiale di stringed 
+l'istruzione degli strumenti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το πρόσθετος-υλικό η διδασκαλία οργάνων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">el Adicional-material de la enseñanza de los 
+instrumentos de cuerda</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musikgeschichte für dritten Schulegrad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Histoire de musique pour la troisième catégorie 
+d'école</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">History da música para a terceira classe da escola</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Storia di musica per il terzo grado della scuola</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ιστορία μουσικής για την τρίτη σχολική τάξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Historia de la música para el tercer grado de la 
+escuela</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:en Instruments
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:c6e2ac45e211bf59725af9e7e12ff2f4be936558</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>c6e2ac45e211bf59725af9e7e12ff2f4be936558</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T20:57:24.05Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">13-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>guide</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>858</id>
+            </taxon>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>84597</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=c6e2ac45e211bf59725af9e7e12ff2f4be936558</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
