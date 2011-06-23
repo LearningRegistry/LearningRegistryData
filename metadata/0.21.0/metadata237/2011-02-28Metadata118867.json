@@ -1,0 +1,40 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "prezentacja", 
+        " matematyka", 
+        " gimnazjum", 
+        " uk\u0142ad r\u00f3wna\u0144", 
+        " metoda rozwi\u0105zania uk\u0142adu", 
+        " uk\u0142ad oznaczony", 
+        " nieoznaczony", 
+        " sprzeczny", 
+        " rozwi\u0105zanie uk\u0142adu", 
+        " liczba rozwi\u0105za\u0144 uk\u0142adu r\u00f3wna\u0144", 
+        " Matematyka", 
+        " Gimnazjum", 
+        " Prezentacje multimedialne"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/21168</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>21168</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>scholaris</catalog>\r\n            <entry>scholaris43999</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"pl\">Rozwi\u0105zywanie oznaczonych, nieoznaczonych i sprzecznych uk\u0142ad\u00f3w r\u00f3wna\u0144 (lekcja 3)</string>\r\n          </title>\r\n          <language>pl</language>\r\n          <keyword>\r\n            <string language=\"pl\">prezentacja</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> matematyka</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> gimnazjum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> uk\u0142ad r\u00f3wna\u0144</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> metoda rozwi\u0105zania uk\u0142adu</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> uk\u0142ad oznaczony</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> nieoznaczony</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> sprzeczny</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> rozwi\u0105zanie uk\u0142adu</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> liczba rozwi\u0105za\u0144 uk\u0142adu r\u00f3wna\u0144</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Matematyka</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Gimnazjum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Prezentacje multimedialne</string>\r\n          </keyword>\r\n        </general>\r\n        <educational>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>learner</value>\r\n          </intendedEndUserRole>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-LRE\">13-15</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licences/by-nc-nd/2.5</string>\r\n            <string language=\"en\">Attribution Non-commercial No Derivatives (by-nc-nd)</string>\r\n          </description>\r\n        </rights>\r\n        <metaMetadata>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nfn:\r\nn:\r\norg:Scholaris\r\nversion:3.0\r\nend:vcard</entity>\r\n          </contribute>\r\n          <language>pl</language>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>21168</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.scholaris.pl/cms/index.php/resources/2449.html</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.scholaris.pl/cms/index.php/resources/2449.html"
+}
