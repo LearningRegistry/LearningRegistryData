@@ -1,0 +1,29 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "\u00e9mission de gaz carbonique", 
+        "CO2"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/23872</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>23872</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>CSI</catalog>\r\n            <entry>00005</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"fr\">Cycle du gaz carbonique</string>\r\n          </title>\r\n          <language>fr</language>\r\n          <description>\r\n            <string language=\"fr\">L'\u00e9l\u00e8ve peut comparer le fonctionnement du cycle du gaz carbonique dans le pass\u00e9, de nos jours, et dans 100 ans.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"fr\">\u00e9mission de gaz carbonique</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"fr\">CO2</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nversion:3.0\r\nn:eduMedia\r\nfn:eduMedia\r\norg:eduMedia\r\nend:vcard</entity>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nversion:3.0\r\nn:Cit\u00e9 des sciences et de l'industrie\r\nfn:Cit\u00e9 des sciences et de l'industrie\r\norg:Cit\u00e9 des sciences et de l'industrie\r\nend:vcard</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <language>fr</language>\r\n        </metaMetadata>\r\n        <educational>\r\n          <language>fr</language>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>demonstration</value>\r\n          </learningResourceType>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>simulation</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">9-12</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"fr\">Tous droits r\u00e9serv\u00e9s</string>\r\n          </description>\r\n        </rights>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>23872</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.cite-sciences.fr/parrainage/animations/Fr/cycleCarbone.htm</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.cite-sciences.fr/parrainage/animations/Fr/cycleCarbone.htm"
+}
