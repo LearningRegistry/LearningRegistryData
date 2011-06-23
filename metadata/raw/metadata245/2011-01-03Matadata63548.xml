@@ -1,0 +1,219 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/228022</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>228022</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:2336</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:2336</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>2336</entry>
+          </identifier>
+          <title>
+            <string language="nl">Dichter in het web</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze site biedt een interactieve wandeling langs een aantal Nederlandstalige gedichten, en is bedoeld voor middelbare scholieren in de bovenbouw of 3de graad.
+
+Dit is een initiatief van Poetry International, en werd financieel ondersteund door de Stichting Lezen en het Ministerie van OCenW, projectgroep cultuur en school. 
+
+Het idee achter deze site is middelbare scholieren de gelegenheid geven dieper in een aantal geselecteerd gedichten door te dringen. 
+Daartoe wordt een aantal instrumenten aangereikt: achtergrondteksten, foto's, animaties, muziek- en geluidsfragmenten en interactieve opdrachten die in de klas, in de mediatheek of thuis kunnen worden bekeken en beluisterd.</string>
+          </description>
+          <keyword>
+            <string language="nl">beluisteren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">poezie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gedicht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">literatuur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">poezie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Louis Stiller
+FN:Louis Stiller 
+EMAIL;TYPE=INTERNET:dirk@klascement.net 
+ORG: Louis Stiller
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:2336</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:2336</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:58:39.55Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-17</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Rondom de website 'Dichter in het web' kun je poëzielessen organiseren. Daarbij kun je er voor kiezen om de computer en het internet een plaats in de les te geven, of om de leerlingen zelf de website te laten bekijken. 
+
+Je vindt een aantal voorbeelden van dergelijke lessen.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>364</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>2336</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>2336</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/2336/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

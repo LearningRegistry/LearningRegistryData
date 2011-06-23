@@ -1,0 +1,173 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/208634</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>208634</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:13626</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:13626</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>13626</entry>
+          </identifier>
+          <title>
+            <string language="nl">Geometry Calculator 1.2</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Geometry Calculator is een programma om de omtrek te berekenen van cirkels, rechthoeken, vierkanten, driehoeken, evenals de oppervlakte en de inhoud van kubussen, prisma's, cylinders, pyramides, kegels en bollen. Het resultaat van de berekening kan zowel in Engelse als in metrieke eenheden worden weergegeven.</string>
+          </description>
+          <keyword>
+            <string language="nl">oppervlakte</string>
+          </keyword>
+          <keyword>
+            <string language="nl">inhoud</string>
+          </keyword>
+          <keyword>
+            <string language="nl">veelhoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ruimtefiguur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">omtrek</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2009-06-29T16:05:20.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Stephen Weeks
+FN:Stephen Weeks 
+EMAIL;TYPE=INTERNET: 
+ORG: Stephen Weeks
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:13626</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>13626</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T21:43:02.15Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-13</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>13626</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/13626/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

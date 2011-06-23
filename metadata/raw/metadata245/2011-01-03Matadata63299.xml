@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/204797</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>204797</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5720</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5720</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5720</entry>
+          </identifier>
+          <title>
+            <string language="nl">Sortfix : Relevante zoektermen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Sortfix helpt je bij het kiezen van relevante zoektermen bij een zoekopdracht. Stel dat je zoekt naar onderwijs, dan krijg je extra zoektermen in het vizier zoals 'algemeen voortgezet', 'researchcentrum', ... Deze termen kun je slepen naar "add to search" of "remove", waardoor je zoekvraag aangepast wordt. Soms gebruiken leerlingen minder geschikte zoektermen en Sortfix kan stimuleren om creatiever te denken. Meteen leren de leerlingen nadenken over hoe ze een vraag stellen. Deze site zou ik gebruiken in lessen waar geleerd wordt over zoeken op internet, of in taallessen, waarbij de leerling nadenkt over wat hij zelf zou plaatsen in powerwords, enzoverder...De site is nog in volle ontwikkeling, een zoekterm als kinderen levert nog niks op, terwijl natuurlijk het Engelse 'children' meer oplevert. Bij de opties kan je instellen hoeveel powerwords moeten aangeleverd worden. </string>
+          </description>
+          <keyword>
+            <string language="nl">internet</string>
+          </keyword>
+          <keyword>
+            <string language="nl">opzoeken</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zoeken op internet</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ICT</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-29T16:56:14.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5720</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5720</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:28:43.72Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Als je leerlingen laat zoeken op internet, kan je hen eerst vragen om een woordwolk te maken of powerwords aan te geven zodat ze de meest geschikte zoekterm vinden.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5720</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5720</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5720/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
