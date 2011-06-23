@@ -1,0 +1,50 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "frame", 
+        "fietslicht", 
+        "bagagedrager", 
+        "fietsbel", 
+        "fietsketting", 
+        "reflector", 
+        "rem", 
+        "versnelling", 
+        "Dunlop", 
+        "luchtband", 
+        "zadel", 
+        "Starly", 
+        "Starley", 
+        "spaak", 
+        "tandrad", 
+        "wiel", 
+        "v\u00e9locip\u00e8de", 
+        "pedaal", 
+        "trapfiets", 
+        "spatbord,", 
+        "Macmillan", 
+        "draisine", 
+        "loopfiets"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/114109</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>114109</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:D3689</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>D3689</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Geschiedenis van de fiets.</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Een werkblad over de fiets samen met informatie over de delen van de fiets en de geschiedenis van de fiets op leerkrachtenniveau.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">frame</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">fietslicht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bagagedrager</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">fietsbel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">fietsketting</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">reflector</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">rem</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">versnelling</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Dunlop</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">luchtband</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zadel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Starly</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Starley</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">spaak</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tandrad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">wiel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">v\u00e9locip\u00e8de</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">pedaal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">trapfiets</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">spatbord,</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Macmillan</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">draisine</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">loopfiets</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>3</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2009-02-09T19:05:26.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Yannick Sneyers\r\nFN:Yannick Sneyers \r\nEMAIL;TYPE=INTERNET: \r\nORG: Yannick Sneyers\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:D3689</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>D3689</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>LRE.roleMetaValues</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2009-03-31T09:35:04.10Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>open activity</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">8-13</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <entity>Vicky De Proft</entity>\r\n          <date>\r\n            <dateTime>2008-01-23</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>978</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>114109</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>application/zip</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.klascement.net/nieuws/3689/</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/nieuws/3689/"
+}
