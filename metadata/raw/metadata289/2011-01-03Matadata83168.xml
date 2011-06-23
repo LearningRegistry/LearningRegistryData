@@ -1,0 +1,345 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/70163</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>70163</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120678</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120678</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120678</entry>
+          </identifier>
+          <title>
+            <string language="sl">Določitev notranje  upornosti voltmetra in ampermetra</string>
+            <string language="en">Find the internal resistance of voltmeter and ammeter</string>
+            <string language="x-mt-de">Finden Sie den internen Widerstand des Voltmeters
+und des Amperemeters</string>
+            <string language="x-mt-fr">Trouvez la résistance interne du voltmètre et 
+de l'ampèremètre</string>
+            <string language="x-mt-pt">Encontre a resistência interna do voltímetro e 
+do amperímetro</string>
+            <string language="x-mt-it">Trovi la resistenza interna del voltmetro e 
+dell'amperometro</string>
+            <string language="x-mt-el">Βρείτε την εσωτερική αντίσταση του βολτόμετρου και του
+αμπερόμετρου</string>
+            <string language="x-mt-es">Encuentre la resistencia interna del voltímetro 
+y del amperímetro</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Z volt in ampermetrom merimo tokokrog pri tem pa zaradi notranje upornosti vplivamo na sam tokokrog.</string>
+            <string language="en">The voltmeter and ammeter are used to measure a circuit but due to their internal resistance they are effecting the results.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">voltmeter</string>
+            <string language="en">voltmeter</string>
+          </keyword>
+          <keyword>
+            <string language="sl">ampermeter</string>
+            <string language="en">ammeter</string>
+          </keyword>
+          <keyword>
+            <string language="sl">enosmerni tok</string>
+            <string language="en">direct current</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der Voltmeter und der Amperemeter werden benutzt,
+um einen Stromkreis zu messen aber wegen ihres internen Widerstandes, 
+den sie die Resultate bewirken.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le voltmètre et l'ampèremètre sont utilisés 
+pour mesurer un circuit mais en raison de leur résistance interne 
+qu'ils effectuent les résultats.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O voltímetro e o amperímetro são usados medir 
+um circuito mas  devido a sua resistência que interna está efetuando
+os resultados.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il voltmetro e l'amperometro sono utilizzati per 
+misurare un circuito ma dovuto la loro resistenza che interna stanno 
+effettuando i risultati.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">_ ο βολτόμετρο και αμπερόμετρο είμαι χρησιμοποιώ να 
+μετρώ ένας κύκλωμα αλλά λόγω τους εσωτερικός αντίσταση αυτός 
+είμαι επηρεάζω ο αποτέλεσμα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El voltímetro y el amperímetro se utilizan para
+medir un circuito pero  debido a su resistencia interna que están 
+efectuando los resultados.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Voltmeter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Amperemeter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gleichstrom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">voltmètre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ampèremètre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">courant continu</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">voltímetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amperímetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">corrente direta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">voltmetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">amperometro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">corrente continua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βολτόμετρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αμπερόμετρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άμεσο ρεύμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">voltímetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">amperímetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">corriente directa</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Anne J. Cox
+N:J. Cox;Anne;;;
+ORG:Eckerd College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120678</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120678</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:12:13.82Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>417</id>
+              <entry>
+                <string language="sl">elektronika</string>
+                <string language="en">electronics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120678</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120678:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/circuits/dc_circuits/prob30_8.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

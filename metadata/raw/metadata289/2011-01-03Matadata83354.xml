@@ -1,0 +1,287 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/69713</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>69713</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:notna_gradiva/140009</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:notna_gradiva/140009</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:notna_gradiva/140009</entry>
+          </identifier>
+          <title>
+            <string language="sl">Notna gradiva - Sanctus</string>
+            <string language="en">Music Notes - Sanctus</string>
+            <string language="x-mt-de">Musik-Anmerkungen - Sanctus</string>
+            <string language="x-mt-fr">Notes de Musique - Sanctus</string>
+            <string language="x-mt-pt">Notas Da Música - Sanctus</string>
+            <string language="x-mt-it">Note Di Musica - Sanctus</string>
+            <string language="x-mt-el">Σημειώσεις μουσικής - Sanctus</string>
+            <string language="x-mt-es">Notas De la Música - Sanctus</string>
+          </title>
+          <language>la</language>
+          <description>
+            <string language="sl">"Sanctus" je naslov maše z liturgičnim besedilom. Uglasbil jo je Štefan Mauri.</string>
+            <string language="en">"Sanctus" is the title of mass with liturgical lyric. The music way composed by Štefan Mauri.</string>
+          </description>
+          <keyword>
+            <string language="sl">orgle</string>
+            <string language="sl">organ</string>
+          </keyword>
+          <keyword>
+            <string language="sl">zbor</string>
+            <string language="sl">choir</string>
+          </keyword>
+          <keyword>
+            <string language="sl">maša</string>
+            <string language="sl">mass</string>
+          </keyword>
+          <keyword>
+            <string language="sl">mešani zbor</string>
+            <string language="sl">mixed choir</string>
+          </keyword>
+          <keyword>
+            <string language="sl">liturgično besedilo</string>
+            <string language="sl">liturgical lyric</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">"Sanctus" ist der Titel Masse mit liturgical 
+Lyrik. Die Musikmethode bestanden durch?tefan Mauri.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">"Sanctus" est le titre de la masse avec le lyrique
+liturgique. La voie de musique composée par Mauri ?tefan.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">"Sanctus" é o título da massa com lyric 
+liturgical. A maneira da música composta por Mauri?tefan.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">"Sanctus" è il titolo di massa con lyric 
+liturgical. Il modo di musica composto da Mauri?tefan.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">"Sanctus" είναι ο τίτλος της μάζας με το 
+λειτουργικό λυρικό ποίημα. Ο τρόπος μουσικής που 
+συντίθεται από τον ?tefan Mauri.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">"Sanctus" es el título de la masa con lírica 
+litúrgica. La manera de la música compuesta por Mauri?tefan.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Janko Harej
+N:Janko Harej;;;;
+ORG:TŠC Nova Gorica
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:liturgično besedilo
+N:liturgično besedilo;;;;
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Štefan Mauri
+N:Štefan Mauri;;;;
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:notna_gradiva/140009</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:notna_gradiva/140009</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-30T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-30T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:26:21.42Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+              <entry>
+                <string language="sl">glasba</string>
+                <string language="en">music</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>770</id>
+              <entry>
+                <string language="sl">besedilo pesmi</string>
+                <string language="en">lyrics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1368</id>
+              <entry>
+                <string language="sl">vokalna glasba</string>
+                <string language="en">vocal music</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:notna_gradiva/140009</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:notna_gradiva/140009:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos.fri.uni-lj.si/notna_gradiva/sanctus.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

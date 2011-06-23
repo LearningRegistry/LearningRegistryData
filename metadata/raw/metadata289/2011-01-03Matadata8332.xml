@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75408</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75408</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40d562ac-099c-40d7-24c4-d59f95a555ba#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Párosítás</string>
+            <string language="en">Pairing</string>
+            <string language="x-mt-de">Paarung</string>
+            <string language="x-mt-fr">Appareillement</string>
+            <string language="x-mt-pt">Emparelhar-se</string>
+            <string language="x-mt-it">Accoppiamento</string>
+            <string language="x-mt-el">Ένωση</string>
+            <string language="x-mt-es">El emparejar</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Feladat: párosítás</string>
+            <string language="en">Exercise: pairing</string>
+          </description>
+          <keyword>
+            <string language="hu">karoling,  </string>
+            <string language="en">Carolingian</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Übung: Paarung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Exercice : appareillement</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Exercício: emparelhar-se</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Esercitazione: accoppiamento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ασκηση: ένωση</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ejercicio: el emparejar</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Carolingian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Carolingian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Carolingian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Carolingian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Carolingian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Carolingian</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Szegedi Tudományegyetem, Kísérleti Fizikai Tanszék, Szakmódszertani Csoport
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75408</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40d562ac-099c-40d7-24c4-d59f95a555ba&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

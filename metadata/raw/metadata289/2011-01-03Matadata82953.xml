@@ -1,0 +1,422 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227729</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227729</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>aspect:evizus_sl/10002</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:evizus_sl/10002</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:evizus_sl/10002</entry>
+          </identifier>
+          <title>
+            <string language="sl">Osnove računalniške grafike</string>
+            <string language="en">Introduction to computer graphics</string>
+            <string language="x-mt-de">Einleitung in eine Computergraphiken</string>
+            <string language="x-mt-fr">Introduction à l'infographie</string>
+            <string language="x-mt-pt">Introdução aos gráficos de computador</string>
+            <string language="x-mt-it">Introduzione ai grafici di calcolatore</string>
+            <string language="x-mt-el">Εισαγωγή στην ηλεκτρονική γραφιστική</string>
+            <string language="x-mt-es">Introducción a los gráficos de ordenador</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">V tem poglavju bomo spoznali osnovne pojme s področja računalniške grafike. Najprej bomo govorili o vektorski in rastrski grafiki ter spoznali razliko med njima. Potem si bomo podrobneje ogledali dvodimenzionalno grafiko ter transformacije, ki jih lahko uporabljamo nad 2D objekti na ravnini. Korak naprej je trodimenzionalna grafika in modeliranje trodimenzionalnih objektov, njihove transformacije v prostoru, različni pogledi na prostor in projekcije ter nenazadnje tudi animacija 3D objektov. Spoznali bomo tudi nekaj osnov o barvah in barvnih modelih.</string>
+            <string language="en">In this chapter, basic concepts of computer graphics are introduced. Vector and raster graphics are described first, as well as the main differences between the two of them, followed by two-dimensional graphics and plane transformations on 2D objects. A step further is three-dimensional graphics and modeling of three-dimensional objects, their transformation in space, different views and projections, and also animation of 3D objects. Some basic concepts on colors and color models are introduced in the end.</string>
+          </description>
+          <keyword>
+            <string language="sl">evizus</string>
+            <string language="en">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="sl">računalniška grafika</string>
+            <string language="en">computer graphics</string>
+          </keyword>
+          <keyword>
+            <string language="sl">slika</string>
+            <string language="en">image</string>
+          </keyword>
+          <keyword>
+            <string language="sl">animacija</string>
+            <string language="en">animation</string>
+          </keyword>
+          <keyword>
+            <string language="sl">3d</string>
+            <string language="en">3d</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">In diesem Kapitel werden Grundmodelle der 
+Computergraphiken eingeführt. Vektor und Rastergraphiken werden
+zuerst, sowie die Hauptunterschiede zwischen den zwei von ihnen 
+beschrieben, folgten von den zweidimensionalen Graphiken und von den 
+flachen Transformationen auf 2D Nachrichten. Ein weiterer 
+Jobstep ist dreidimensionale Graphiken und Formung der 
+dreidimensionalen Nachrichten, ihre Transformation im Platz, 
+unterschiedliche Ansichten und Projektionen und auch Animation der 
+Nachrichten 3D. Einige Grundmodelle auf Farben und Farbe 
+Modellen werden im Ende eingeführt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">En ce chapitre, des concepts de base de 
+l'infographie sont présentés. Le vecteur et les infographies 
+par quadrillage sont décrits d'abord, aussi bien que les différences
+principales entre les deux d'entre eux, ont suivi des graphiques 
+bidimensionnels et des transformations plates sur les 2D objets. 
+Une étape autre est les graphiques tridimensionnels et modeler 
+des objets tridimensionnels, leur transformation dans l'espace, les 
+différentes vues et projections, et également l'animation des objets
+3D. Quelques concepts de base sur des couleurs et des modèles 
+de couleur sont présentés à la fin.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Neste capítulo, os conceitos básicos de 
+gráficos de computador são introduzidos. O vetor e os 
+gráficos da quadriculação são descritos primeiramente, as.well.as 
+as diferenças principais entre os dois deles, seguiram por gráficos 
+bidimensionais e por transformações planas em 2D objetos. Uma 
+etapa mais adicional é gráficos tridimensionais e modelar de objetos
+tridimensionais, sua transformação no espaço, vistas e projeções 
+diferentes, e também animation dos objetos 3D. Alguns conceitos
+básicos em cores e em modelos da cor são introduzidos na 
+extremidade.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">In questo capitolo, i concetti di base dei 
+grafici di calcolatore sono introdotti. Il vettore ed i grafici 
+della trama sono descritti in primo luogo, così come le differenze 
+principali fra i due di loro, sono seguito dai grafici bidimensionali 
+e dalle trasformazioni piane sui 2D oggetti. Un punto ulteriore 
+è grafici tridimensionali e modellistica degli oggetti 
+tridimensionali, la loro trasformazione nello spazio, viste e 
+proiezioni differenti ed anche animazione degli oggetti 3D. 
+Alcuni concetti di base sui colori e sui modelli di colore sono 
+introdotti alla fine.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σε αυτό το κεφάλαιο, οι βασικές έννοιες της 
+ηλεκτρονικής γραφιστικής εισάγονται. Το διάνυσμα και η 
+γραφική παράσταση ράστερ περιγράφονται πρώτα, καθώς επίσης και 
+οι βασικές διαφορές μεταξύ των δύο από τους, ακολουθούμενος από
+τους δισδιάστατους μετασχηματισμούς γραφικής παράστασης και 
+αεροπλάνων 2D στα αντικείμενα. Ένα βήμα περαιτέρω είναι
+τρισδιάστατη γραφική παράσταση και διαμόρφωση των τρισδιάστατων 
+αντικειμένων, ο μετασχηματισμός τους κατά τις διαστημικές, 
+διαφορετικές όψεις και τις προβολές, και επίσης ζωτικότητα των 
+τρισδιάστατων αντικειμένων. Μερικές βασικές έννοιες στα 
+μοντέλα χρωμάτων και χρώματος εισάγονται στο τέλος.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">En este capítulo, los conceptos básicos de los 
+gráficos de ordenador se introducen. El vector y los gráficos 
+de la trama se describen primero, así como las diferencias 
+principales entre los dos de ellos, siguieron por los gráficos de dos
+dimensiones y las transformaciones planas en los 2.os objetos. 
+Un paso de progresión más futuro es gráficos tridimensionales
+y el modelar de objetos tridimensionales, su transformación en 
+espacio, diversas vistas y proyecciones, y también animación de los 
+objetos 3D. Algunos conceptos básicos en colores y modelos del 
+color se introducen en el extremo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Computergraphiken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bild</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Animation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">3d</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">infographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">image</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">animation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">3d</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gráficos de computador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">imagem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">animation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">3d</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grafici di calcolatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">immagine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">animazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">3d</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρονική γραφιστική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εικόνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ζωτικότητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τρισδιάστατος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">evizus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gráficos de ordenador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">imagen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">animación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">3d</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Matej Prepelič
+N:Prepelič;Matej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Alenka Kavčič
+N:Kavčič;Alenka;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-04-28</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:evizus_sl/10002</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:evizus_sl/10002</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-23</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-23T17:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:59:20.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/deed.sl</string>
+            <string language="sl">Creative Commons - Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 2.5</string>
+            <string language="en">Creative Commons - Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>251</id>
+              <entry>
+                <string language="sl">računalnik</string>
+                <string language="en">computer</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>254</id>
+              <entry>
+                <string language="sl">računalniška grafika</string>
+                <string language="en">computer graphics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>252</id>
+              <entry>
+                <string language="sl">računalniška aplikacija</string>
+                <string language="en">computer application</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:evizus_sl/10002:scorm</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v1p2</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:evizus_sl/10002:scorm:item</entry>
+      </identifier>
+      <location>
+        <uri>http://lgm.fri.uni-lj.si/jernejj/evizus/scorm/rac_sl_grafika.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:evizus_sl/10002:cc</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:evizus_sl/10002:cc:item</entry>
+      </identifier>
+      <location>
+        <uri>http://lgm.fri.uni-lj.si/jernejj/evizus/cc/rac_sl_grafika.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

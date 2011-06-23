@@ -1,0 +1,320 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/70496</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>70496</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120679</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120679</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120679</entry>
+          </identifier>
+          <title>
+            <string language="sl">Določitev notranje  upornosti baterije v vezju</string>
+            <string language="en">Find internal resistance of battery in a network</string>
+            <string language="x-mt-de">Interner Widerstand der Entdeckung der Batterie in
+einem Netz</string>
+            <string language="x-mt-fr">Résistance interne de trouvaille de batterie dans
+un réseau</string>
+            <string language="x-mt-pt">Resistência interna do achado da bateria em uma 
+rede</string>
+            <string language="x-mt-it">Resistenza interna del ritrovamento della batteria
+in una rete</string>
+            <string language="x-mt-el">Βρείτε την εσωτερική αντίσταση της μπαταρίας σε ένα 
+δίκτυο</string>
+            <string language="x-mt-es">Resistencia interna del hallazgo de la batería en
+una red</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">V tokokrogu z idealnimi instrumenti uporabimo baterijo z notranjo upornostjo.</string>
+            <string language="en">Ideal instruments are used to measure a circuit powered by battery with it's internal resistance.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">notranja upornost baterij</string>
+            <string language="en">battery's internal resistance</string>
+          </keyword>
+          <keyword>
+            <string language="sl">enosmerni tok</string>
+            <string language="en">direct current</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ideale Instrumente werden benutzt, um einen 
+Stromkreis zu messen, der durch Batterie mit ihr angeschaltet wird, 
+ist interner Widerstand.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Des instruments idéaux sont utilisés pour 
+mesurer un circuit actionné par la batterie avec elle est résistance
+interne.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os instrumentos ideais são usados medir um 
+circuito powered pela bateria com ela são resistência interna.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli strumenti ideali sono utilizzati per misurare 
+un circuito alimentato dalla batteria con esso è resistenza interna.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τα ιδανικά όργανα χρησιμοποιούνται για να μετρήσουν 
+ένα κύκλωμα που τροφοδοτείται από την μπαταρία με το είναι 
+εσωτερική αντίσταση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los instrumentos ideales se utilizan para medir un
+circuito accionado por la batería con ella son resistencia interna.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">interner Widerstand der Batterie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gleichstrom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la résistance interne de la batterie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">courant continu</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">resistência interna da bateria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">corrente direta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resistenza interna della batteria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">corrente continua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εσωτερική αντίσταση μπαταρίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άμεσο ρεύμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">resistencia interna de la batería</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">corriente directa</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Anne J. Cox
+N:J. Cox;Anne;;;
+ORG:Eckerd College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120679</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120679</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:12:13.89Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>417</id>
+              <entry>
+                <string language="sl">elektronika</string>
+                <string language="en">electronics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120679</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120679:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/circuits/dc_circuits/prob30_9.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
