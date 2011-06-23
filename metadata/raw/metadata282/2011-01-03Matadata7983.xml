@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75887</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75887</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>85216090-2a93-4c7c-bcee-eb478a04d3e8#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Bárányfelhők a Duna felett</string>
+            <string language="en">fleecy cloud above Danube</string>
+            <string language="x-mt-de">fleecy Wolke über Donau</string>
+            <string language="x-mt-fr">nuage cotonneux au-dessus de Danube</string>
+            <string language="x-mt-pt">nuvem fleecy acima de Danúbio</string>
+            <string language="x-mt-it">nube fleecy sopra il Danubio</string>
+            <string language="x-mt-el">μαλλιαρό σύννεφο επάνω από Δούναβη</string>
+            <string language="x-mt-es">nube lanosa sobre Danubio</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Bárányfelhők a Duna felett</string>
+            <string language="en">fleecy cloud above Danube</string>
+          </description>
+          <keyword>
+            <string language="hu">párolgás,  lecsapódás,  </string>
+            <string language="en">evaporation-precipitation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">fleecy Wolke über Donau</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">nuage cotonneux au-dessus de Danube</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">nuvem fleecy acima de Danúbio</string>
+          </description>
+          <description>
+            <string language="x-mt-it">nube fleecy sopra il Danubio</string>
+          </description>
+          <description>
+            <string language="x-mt-el">μαλλιαρό σύννεφο επάνω από Δούναβη</string>
+          </description>
+          <description>
+            <string language="x-mt-es">nube lanosa sobre Danubio</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Verdampfung-Niederschlag</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">évaporation-précipitation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">evaporação-precipitação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">evaporazione-precipitazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εξάτμιση-πτώση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">evaporacio'n-precipitacio'n</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75887</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=85216090-2a93-4c7c-bcee-eb478a04d3e8&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

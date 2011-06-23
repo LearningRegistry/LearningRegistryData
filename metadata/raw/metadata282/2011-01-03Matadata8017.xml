@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74061</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74061</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>b8e6e2f0-ebb5-4df0-89e8-4f8c599c573d#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">A reneszánsz hangszeres zene</string>
+            <string language="en">The Renaissance instrumental music</string>
+            <string language="x-mt-de">Die instrumentelle Musik der Renaissance</string>
+            <string language="x-mt-fr">La musique instrumentale de la Renaissance</string>
+            <string language="x-mt-pt">A música instrumental do renascimento</string>
+            <string language="x-mt-it">La musica strumentale di rinascita</string>
+            <string language="x-mt-el">Η οργανική μουσική αναγέννησης</string>
+            <string language="x-mt-es">La música instrumental del renacimiento</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">9-10. reneszánsz, hangszeres, instrumentális</string>
+            <string language="en">p. 9-10 Renaissance, instrumental</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, reneszánsz, hangszer, hangszeres</string>
+            <string language="en">music, Renaissance, instrument, instrumental</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P., 9-10 Renaissance, instrumentell</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">p. la Renaissance de 9-10, instrumentale</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">p. renascimento de 9-10, instrumental</string>
+          </description>
+          <description>
+            <string language="x-mt-it">p. rinascita di 9-10, strumentale</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. αναγέννηση 9-10, οργανική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">p. renacimiento de 9-10, instrumental</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, Renaissance, Instrument, instrumentell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, la Renaissance, instrument, instrumental</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, renascimento, instrumento, instrumental</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, rinascita, strumento, strumentale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, αναγέννηση, όργανο, οργανικό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, renacimiento, instrumento, instrumental</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">14-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74061</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b8e6e2f0-ebb5-4df0-89e8-4f8c599c573d&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
