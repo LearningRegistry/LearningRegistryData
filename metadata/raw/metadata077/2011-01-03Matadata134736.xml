@@ -1,0 +1,204 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/101058</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>101058</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>177ab440-2c31-450b-b606-a59fd660ef0e</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:177ab440-2c31-450b-b606-a59fd660ef0e</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>177ab440-2c31-450b-b606-a59fd660ef0e</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Gerincsérült vákumágyra helyezése</string>
+            <string language="en-US">Laying a Patient with Spinal Injury on a Vacuum Bed</string>
+            <string language="x-mt-de">Legen eines Patienten mit spinaler Verletzung auf 
+ein Vakuumbett</string>
+            <string language="x-mt-fr">Pose d'un patient présentant des dommages 
+spinaux sur un lit de vide</string>
+            <string language="x-mt-pt">Colocando um paciente com ferimento spinal em uma
+cama do vácuo</string>
+            <string language="x-mt-it">Ponendo un paziente con la ferita spinale su una 
+base di vuoto</string>
+            <string language="x-mt-el">Τοποθέτηση ενός ασθενή με το νωτιαίο τραυματισμό σε 
+ένα κενό κρεβάτι</string>
+            <string language="x-mt-es">Poner a un paciente con lesión espinal en una 
+cama del vacío</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A sérült ellátása</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T19:01:47.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:177ab440-2c31-450b-b606-a59fd660ef0e</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>177ab440-2c31-450b-b606-a59fd660ef0e</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T19:01:47.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:25:16.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>583</id>
+              <entry>
+                <string language="en-US">health education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>177ab440-2c31-450b-b606-a59fd660ef0e-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>177ab440-2c31-450b-b606-a59fd660ef0e-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=177ab440-2c31-450b-b606-a59fd660ef0e</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>177ab440-2c31-450b-b606-a59fd660ef0e-WebNormal</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>177ab440-2c31-450b-b606-a59fd660ef0e-WebNormal-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/177ab440-2c31-450b-b606-a59fd660ef0e/1/4/ResourceNormal/15.JPG</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

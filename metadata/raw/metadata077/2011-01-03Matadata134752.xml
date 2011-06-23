@@ -1,0 +1,388 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/65627861</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>65627861</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:b91c8bc4-1383-4a3d-9a68-212ad20ccf22</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Vízgőztartalom és a hozzákapcsolódó jelenségek</string>
+            <string language="en-US">The Water Vapour Content And The Related Phenomena</string>
+            <string language="x-mt-de">Der Wasserdampf-Inhalt Und Die In Verbindung 
+stehenden Phänomene</string>
+            <string language="x-mt-fr">Le Contenu de Vapeur d'eau et Les Phénomènes 
+Relatifs</string>
+            <string language="x-mt-pt">O Índice Do Vapor De Água E Os Fenômenos 
+Relacionados</string>
+            <string language="x-mt-it">Il Soddisfare Del Vapore acqueo Ed I Fenomeni 
+Relativi</string>
+            <string language="x-mt-el">Η περιεκτικότητα σε υδρατμό και τα σχετικά φαινόμενα</string>
+            <string language="x-mt-es">El Contenido Del Vapor de agua Y Los Fenómenos 
+Relacionados</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Vízgőztartalom, felhőképződés, ködképződés.</string>
+            <string language="en-US">Water Vapour Content, Cloud Formation, Fog Formation</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">légkör</string>
+            <string language="en-US">atmosphere</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">vízgőztartalom</string>
+            <string language="en-US">water vapour content</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">felhő</string>
+            <string language="en-US">cloud</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">köd</string>
+            <string language="en-US">fog</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">pára</string>
+            <string language="en-US">vapour</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">páratartalom</string>
+            <string language="en-US">humidity</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Wasserdampf-Inhalt, Wolke Anordnung, 
+Nebel-Anordnung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Contenu de Vapeur d'eau, Formation de Nuage, 
+Formation de Brouillard</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Índice Do Vapor De Água, Formação Da Nuvem, 
+Formação Da Névoa</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Soddisfare Del Vapore acqueo, Formazione Della 
+Nube, Formazione Della Nebbia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Περιεκτικότητα σε υδρατμό, σχηματισμός σύννεφων, 
+σχηματισμός ομίχλης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Contenido Del Vapor de agua, Formación De la 
+Nube, Formación De la Niebla</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Atmosphäre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wasserdampfinhalt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wolke</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Nebel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Dampf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Feuchtigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'atmosphère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">contenu de vapeur d'eau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nuage</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">brouillard</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vapeur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">humidité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atmosfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">índice do vapor de água</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nuvem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">névoa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vapor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">umidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atmosfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">soddisfare del vapore acqueo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nube</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nebbia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vapore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">umidità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ατμόσφαιρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιεκτικότητα σε υδρατμό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύννεφο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ομίχλη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ατμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υγρασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">atmósfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">contenido del vapor de agua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">nube</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">niebla</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vapor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">humedad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:b91c8bc4-1383-4a3d-9a68-212ad20ccf22</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:14:02.82Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>bde047e0-3c52-44d2-8cd1-1e892a2e318b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>abb150f3-fe74-4903-bb46-a476354aec8a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>8edaaebb-e49d-4009-a58d-75dc97bbdb97</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>8ab364cb-ccf5-4979-b72c-558c1a6de902</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>00f61aed-da87-4199-a690-827f55533e61</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b91c8bc4-1383-4a3d-9a68-212ad20ccf22</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>b91c8bc4-1383-4a3d-9a68-212ad20ccf22-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/b9/1c/b91c8bc4-1383-4a3d-9a68-212ad20ccf22_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

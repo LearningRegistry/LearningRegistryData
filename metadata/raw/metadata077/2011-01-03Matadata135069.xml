@@ -1,0 +1,339 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/99490</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>99490</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>f6349213-b449-4078-a340-d073361666e9</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:f6349213-b449-4078-a340-d073361666e9</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>f6349213-b449-4078-a340-d073361666e9</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Szakasz hossza, felezőpontja</string>
+            <string language="en-US">The Length And Middle-Point Of Section</string>
+            <string language="x-mt-de">Die Länge Und Der Mittler-Punkt Des Kapitels</string>
+            <string language="x-mt-fr">La Longueur et Le Moyen-Point de la Section</string>
+            <string language="x-mt-pt">O Comprimento E O Médio-Ponto Da Seção</string>
+            <string language="x-mt-it">La Lunghezza Ed Il Centrale-Punto Della Sezione</string>
+            <string language="x-mt-el">Το μήκος και το μέσος-σημείο του τμήματος</string>
+            <string language="x-mt-es">La Longitud Y La Medio-Punta De la Sección</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Szakasz hosszának, felezőpontjának meghatározása, példák</string>
+            <string language="en-US">Definition of length and middle-point of section, examples</string>
+          </description>
+          <keyword>
+            <string language="en-US">line segment</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">length of line segment</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">distance</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">geometry</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Definition der Länge und des Mittlerpunktes des 
+Kapitels, Beispiele</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Définition de longueur et de moyen-point de 
+section, exemples</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Definição do comprimento e do médio-ponto da 
+seção, exemplos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Definizione della lunghezza e del centrale-punto 
+della sezione, esempi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθορισμός του μήκους και μέσος-σημείο του τμήματος, 
+παραδείγματα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Definición de la longitud y de la medio-punta de
+la sección, ejemplos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Strich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Länge von Strich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne segment</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">longueur de ligne segment</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">distance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">comprimento da linha segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">distância</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lunghezza della riga segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">distanza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τμήμα μνήμης γραμμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μήκος του τμήματος μνήμης γραμμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απόσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">longitud de la línea segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">distancia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">geometría</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:f6349213-b449-4078-a340-d073361666e9</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>f6349213-b449-4078-a340-d073361666e9</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:28:29.90Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>71fd6caa-b343-4d21-a787-8a4d38492d6f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a11e6e71-db65-495d-a147-6c0fd6ef6b73</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4bd421ae-54f9-491b-8a14-d6f1977becfd</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>10b1ad59-0336-4dce-8016-bee40111f99c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>18e97bef-ceff-4faf-b8f6-f696f5ad9cba</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e390711c-3e1a-4943-a289-5bb0e0049390</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>f6349213-b449-4078-a340-d073361666e9-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>f6349213-b449-4078-a340-d073361666e9-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=f6349213-b449-4078-a340-d073361666e9</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>f6349213-b449-4078-a340-d073361666e9-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>f6349213-b449-4078-a340-d073361666e9-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/f6/34/f6349213-b449-4078-a340-d073361666e9_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
