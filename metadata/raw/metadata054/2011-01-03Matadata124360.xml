@@ -1,0 +1,343 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/99548</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>99548</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:acc54c8a-d71c-4332-9069-c813a7df0f5b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Vektorok összeadása, kivonása, szorzás számokkal</string>
+            <string language="en-US">Addition, Extraction Of Vectors, Multiplication With Numbers</string>
+            <string language="x-mt-de">Hinzufügung, Extraktion Von Vektoren, Vermehrung
+Mit Zahlen</string>
+            <string language="x-mt-fr">Ajout, Extraction des Vecteurs, Multiplication 
+Avec des Nombres</string>
+            <string language="x-mt-pt">Adição, Extração Dos Vetores, Multiplicação
+Com Números</string>
+            <string language="x-mt-it">Aggiunta, Estrazione Dei Vettori, Moltiplicazione
+Con I Numeri</string>
+            <string language="x-mt-el">Προσθήκη, εξαγωγή των διανυσμάτων, πολλαπλασιασμός με 
+τους αριθμούς</string>
+            <string language="x-mt-es">Adición, Extracción De Vectores, 
+Multiplicación Con Números</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Műveletek helyvektorokkal</string>
+            <string language="en-US">Operations with position vectors</string>
+          </description>
+          <keyword>
+            <string language="en-US">location vector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">direction vector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">sum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">addition</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Operationen mit Position Vektoren</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Exécutions avec des vecteurs de position</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Operações com os vetores da posição</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Funzionamenti con i vettori di posizione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Διαδικασίες με τα διανύσματα θέσης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Operaciones con vectores de la posición</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Standortvektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Richtung Vektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Summe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hinzufügung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur d'emplacement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur de direction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">somme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ajout</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor da posição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor do sentido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">soma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">adição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore di posizione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore di senso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">somma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aggiunta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα θέσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα κατεύθυνσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσθήκη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector de la localización</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector de la dirección</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">suma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">adición</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:acc54c8a-d71c-4332-9069-c813a7df0f5b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:22:17.55Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a31fe074-b076-4410-a649-d37e49ba4329</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5bbc2265-59ce-4daa-9ddb-4a2f2f27c321</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e23c69ae-7391-4827-9eb9-2f83a091d2d3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>616aa44b-cbd6-497b-ab3b-21e6da4e89f3</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b702ce1f-7a03-4e32-904f-f456d5014570</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>8d2cc9d4-34f4-4f60-b413-dc372aea6782</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5aa89c99-1d8f-4456-b901-6cafd1c4c55a</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=acc54c8a-d71c-4332-9069-c813a7df0f5b</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>acc54c8a-d71c-4332-9069-c813a7df0f5b-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/ac/c5/acc54c8a-d71c-4332-9069-c813a7df0f5b_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
