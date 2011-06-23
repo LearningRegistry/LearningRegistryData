@@ -1,0 +1,271 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/140308</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>140308</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.12680</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.12680</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.12680</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Wetterfilm Europa - sichtbares Licht</string>
+          </title>
+          <description>
+            <string language="de-DE">Wie entstehen die Filme ?
+
+Die Filme entstehen durch Aneinanderreihung von einzelnen Bildern, ähnlich einem Daumenkino.
+
+Die Bilder werden alle Viertelstunde vom Satelliten 'Meteosat Second Generation' (MSG) aufgenommen.
+
+Sie enthalten viele Spektralbereiche, um besonders Wasserdampf, Vegetation und andere Informationen darzustellen. Diese Rohbilder werden von der EUMETSAT (www.eumetsat.de) aufbereitet und als Datenstrom über die Flotte der Eutelsat-Satelliten verschickt.
+
+Die Empfangsanlage in Kiel Rönne empfängt die Einzelbilder und wandelt die Bilder der letzten Tage in Videosequenzen um. 
+
+Wie oft werden die Filme aktualisiert ?
+
+In der Regel werden alle Filme viertelstündlich aktualisiert, immer dann, wenn ein neues Bild von EUMETSAT verschickt wurde. 
+
+Warum sind die Bilder immer 1 bis 2 Stunden alt?
+
+Sind sie (normalerweise) nicht. Das eingeblendete Datum/Uhrzeit ist in Weltzeit (UTC/GMT).
+
+Diese Zeitangabe ist im Sommer 2 Stunden hinter der Mitteleuropäischen Sommerzeit (MESZ) her, im Winter eine Stunde hinter der Mitteleuropäischen Zeit (MEZ): UTC = MEZ - 1 = MESZ - 2</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">Lernen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">entdeckendes Lernen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Naturwissenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Klima</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">klimatisches Phänomen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Meteorologie</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Umwelt</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Wetter</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Satellit</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Wetterkarte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Geographie</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en-US">1.0.2006-04-20</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. IQSH
+n:IQSH;N.
+email;type=intern:n..iqsh@unknown
+end:vcard</entity>
+            <date>
+              <dateTime>2006-04-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.12680.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.12680.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2006-04-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:25:55.72Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Urheberrechte liegen beim Autor / bei der Autorin.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.12680</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>video/x-msvideo</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://filmserver.dummyhost.de/filme/EU_vis.avi</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
