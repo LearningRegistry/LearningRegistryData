@@ -1,0 +1,29 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Tekstit\u00f6\u00f6tlus", 
+        "Informaatika"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/209575</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>209575</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>1</catalog>\r\n    <entry>1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:ait.opetaja.ee:1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>1</catalog>\r\n            <entry>1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"et\">Kujundamine tekstiredaktoriga MS Word</string>\r\n          </title>\r\n          <language>et</language>\r\n          <description>\r\n            <string language=\"et\">Kujundamine tekstiredaktoriga MS Word</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"et\">Tekstit\u00f6\u00f6tlus</string>\r\n            <string language=\"et\">Informaatika</string>\r\n          </keyword>\r\n        </general>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:ait.opetaja.ee:1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>1</catalog>\r\n            <entry>1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Tallinn University\r\nN:Tallinn University\r\nORG:Tallinn University\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-25T23:46:52.08Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>1</catalog>\r\n      <entry>1-a1b9bfea5661f54acc5de60da94e948df49deabc</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=1-a1b9bfea5661f54acc5de60da94e948df49deabc</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&id=1-a1b9bfea5661f54acc5de60da94e948df49deabc"
+}
