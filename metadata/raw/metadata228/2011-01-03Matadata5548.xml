@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74890</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74890</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>40bb3519-47e0-4019-2bbc-b52604bd129b#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">holland sajtok</string>
+            <string language="en">Dutch cheese</string>
+            <string language="x-mt-de">Holländischer Käse</string>
+            <string language="x-mt-fr">Fromage de Hollande</string>
+            <string language="x-mt-pt">Queijo holandês</string>
+            <string language="x-mt-it">Formaggio olandese</string>
+            <string language="x-mt-el">Ολλανδικό τυρί</string>
+            <string language="x-mt-es">Queso de Holanda</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Hollandia</string>
+            <string language="en">the Netherlands</string>
+          </description>
+          <keyword>
+            <string language="hu">holland sajtok, Hollandia, sajt, fénykép</string>
+            <string language="en">Dutch cheese, the Netherlands, cheese, photo</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">die Niederlande</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">les Pays Bas</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">os Países Baixos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">i Paesi Bassi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">οι Κάτω Χώρες</string>
+          </description>
+          <description>
+            <string language="x-mt-es">los Países Bajos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Holländischer Käse, die Niederlande, Käse, Foto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Fromage de Hollande, les Pays Bas, fromage, photo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Queijo holandês, os Países Baixos, queijo, foto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Formaggio olandese, Paesi Bassi, formaggio, foto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ολλανδικό τυρί, οι Κάτω Χώρες, τυρί, φωτογραφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Queso de Holanda, los Países Bajos, queso, foto</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74890</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=40bb3519-47e0-4019-2bbc-b52604bd129b&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

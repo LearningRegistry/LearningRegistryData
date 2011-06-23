@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/72932</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>72932</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>651c17d4-2055-4f7a-b5b8-22a7319e0e3b#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A Kreml</string>
+            <string language="en">The Kremlin</string>
+            <string language="x-mt-de">Das Kremlin</string>
+            <string language="x-mt-fr">Kremlin</string>
+            <string language="x-mt-pt">O Kremlin</string>
+            <string language="x-mt-it">Il Kremlin</string>
+            <string language="x-mt-el">Το Κρεμλίνο</string>
+            <string language="x-mt-es">El Kremlin</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A Kreml egyik tornya a moszkvai Vörös téren</string>
+            <string language="en">One of the towers of the Kremlin in Red Square in Moscow</string>
+          </description>
+          <keyword>
+            <string language="hu">Moszkva,  </string>
+            <string language="en">Moscow</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Einer der Aufsätze des Kremlin im roten Quadrat 
+in Moskau</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une des tours de Kremlin dans la place rouge à
+Moscou</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma das torres do Kremlin no quadrado vermelho em
+Moscow</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una delle torrette del Kremlin nel quadrato rosso 
+a Mosca</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας από τους πύργους του Κρεμλίνου στην κόκκινη 
+πλατεία στη Μόσχα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una de las torres del Kremlin en cuadrado rojo en
+Moscú</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Moskau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Moscou</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Moscow</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Mosca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μόσχα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Moscú</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>72932</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=651c17d4-2055-4f7a-b5b8-22a7319e0e3b&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
