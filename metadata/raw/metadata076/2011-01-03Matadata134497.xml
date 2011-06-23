@@ -1,0 +1,403 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93964</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93964</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:a79c7475-336f-410f-b8a4-bdc0d45278cd</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Függvényjellemzők: szélsőérték</string>
+            <string language="en-US">Function Characteristics: Extreme points</string>
+            <string language="x-mt-de">Funktion Eigenschaften: Extreme Punkte</string>
+            <string language="x-mt-fr">Caractéristiques de Fonction : Points 
+extrêmes</string>
+            <string language="x-mt-pt">Características Da Função: Pontos 
+extremos</string>
+            <string language="x-mt-it">Caratteristiche Di Funzione: Punti estremi</string>
+            <string language="x-mt-el">Χαρακτηριστικά λειτουργίας: Ακραία σημεία</string>
+            <string language="x-mt-es">Características De la Función: Puntas 
+extremas</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="en-US">Function characteristics: extremum</string>
+          </description>
+          <keyword>
+            <string language="en-US">functions</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">extreme</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">maximum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">minimum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">local maximum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">local minimum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">global maximum</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">global minimum</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Funktion Eigenschaften: Extremum</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Caractéristiques de fonction : extremum</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Características da função: extremum</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Caratteristiche di funzione: estremo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Χαρακτηριστικά λειτουργίας: extremum</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Características de la función: extremum</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Funktionen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">extrem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Maximum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Minimum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">lokales Maximum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">lokales Minimum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">globales Maximum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">globales Minimum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonctions</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">extrême</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">maximum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minimum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">maximum local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minimum local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">maximum global</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minimum global</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">funções</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">extremo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">máximo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mínimo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">máximo local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mínimo local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">máximo global</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mínimo global</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzioni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">estremo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">massimo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">minimo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">massimo locale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">minimo locale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">massimo globale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">minimo globale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ακραίος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέγιστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ελάχιστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τοπικό μέγιστο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τοπικό ελάχιστο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σφαιρικό μέγιστο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σφαιρικό ελάχιστο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">funciones</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">extremo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">máximo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mínimo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">máximo local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mínimo local</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">máximo global</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mínimo global</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:a79c7475-336f-410f-b8a4-bdc0d45278cd</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:33:40.53Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>227fe4f4-646a-41ef-bb99-c4ca835c72a8</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6a538aa4-01fd-44a3-be6e-9288f1e93246</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a79c7475-336f-410f-b8a4-bdc0d45278cd</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>a79c7475-336f-410f-b8a4-bdc0d45278cd-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/a7/9c/a79c7475-336f-410f-b8a4-bdc0d45278cd_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
