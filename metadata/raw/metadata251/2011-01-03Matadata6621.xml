@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/374786153</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>374786153</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>44783357-f8cf-4061-b3b0-ab0a8aa21a7a#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mozart életútja</string>
+            <string language="en">The walk of life of Mozart</string>
+            <string language="x-mt-de">Der Bezirk von Mozart</string>
+            <string language="x-mt-fr">Le secteur de Mozart</string>
+            <string language="x-mt-pt">A caminhada de vida de Mozart</string>
+            <string language="x-mt-it">Il settore di Mozart</string>
+            <string language="x-mt-el">Το κοινωνικό στρώμα Μότσαρτ</string>
+            <string language="x-mt-es">La caminata de la vida de Mozart</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Mozart útjai</string>
+            <string language="en">The journeys of Mozart</string>
+          </description>
+          <keyword>
+            <string language="hu">Salzburg,  Bécs,  bécsi klasszicizmus,  </string>
+            <string language="en">Salzburg, Vienna, Viennese classicism</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Reisen von Mozart</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les voyages de Mozart</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As viagens de Mozart</string>
+          </description>
+          <description>
+            <string language="x-mt-it">I viaggi di Mozart</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τα ταξίδια Μότσαρτ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los viajes de Mozart</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Salzburg, Wien, Wiener classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Salzbourg, Vienne, classicism viennois</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Salzburg, Viena, classicism viennese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Salisburgo, Vienna, classicism viennese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Σάλτζμπουργκ, Βιέννη, βιενέζικο classicism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Salzburg, Viena, classicism vienés</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>374786153</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=44783357-f8cf-4061-b3b0-ab0a8aa21a7a&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
