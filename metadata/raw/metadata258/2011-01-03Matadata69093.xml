@@ -1,0 +1,223 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205116</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205116</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1506</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1506</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1506</entry>
+          </identifier>
+          <title>
+            <string language="nl">Auto 7 : Hoofdrekenen tot 1000</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Toine van Broekhoven schreef dit programma voor groep 7 in Nederland, het vijfde leerjaar in Vlaanderen. Het programma vertoont heel veel gelijkenissen met Auto 6, alleen wordt er niet langer expliciet geoefend op de maal- en de deeltafels en is het optellen en aftrekken van kommagetallen toegevoegd.  Aangezien het optellen en aftrekken van eenvoudige kommagetallen reeds leerstof is voor het Vlaamse vierde leerjaar, kan het programma hier ook vroeger gebruikt worden.  In totaal zijn er 26 soorten oefeningen waarop afzonderlijk, in specifieke combinaties of in totaal kan geoefend worden. Je kan, indien gewenst, een bepaalde oefentijd instellen.  Iedere speler geeft aan het begin van de sessie zijn naam in waardoor een eventuele hoge score in de top 10 kan verschijnen.</string>
+          </description>
+          <keyword>
+            <string language="nl">vermenigvuldigen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">deeltafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">maaltafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">optellen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">aftrekken</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">som</string>
+          </keyword>
+          <keyword>
+            <string language="nl">min</string>
+          </keyword>
+          <keyword>
+            <string language="nl">plus</string>
+          </keyword>
+          <keyword>
+            <string language="nl">delen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">aftrekking</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kommagetal</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2007-10-12T13:57:45.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Toine van Broekhoven
+FN:Toine van Broekhoven 
+EMAIL;TYPE=INTERNET: 
+ORG: Toine van Broekhoven
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:1506</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:1506</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:06:07.06Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1506</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>1506</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/1506/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
