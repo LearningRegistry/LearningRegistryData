@@ -1,0 +1,514 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/30750</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>30750</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9676</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9676</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Försäljning</string>
+            <string language="en">Sale</string>
+            <string language="x-mt-de">Verkauf</string>
+            <string language="x-mt-fr">Vente</string>
+            <string language="x-mt-pt">Venda</string>
+            <string language="x-mt-it">Vendita</string>
+            <string language="x-mt-el">Πώληση</string>
+            <string language="x-mt-es">Venta</string>
+          </title>
+          <description>
+            <string language="sv">Försäljningens olika delsystem.Modul 4 - Administration och Regler.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">The sale's different part systems.
+
+Module 4 - administration and rules.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">marknadsföring</string>
+            <string language="sv">delsystem</string>
+            <string language="sv">offert</string>
+            <string language="sv">anbud</string>
+            <string language="sv">säljresa</string>
+            <string language="sv">mässa</string>
+            <string language="sv">annons</string>
+            <string language="sv">orderbekräftelse</string>
+            <string language="sv">leverans</string>
+            <string language="sv">restorder</string>
+            <string language="sv">kreditkoll</string>
+            <string language="sv">kundreskontra</string>
+            <string language="sv">betalning</string>
+            <string language="en">economy</string>
+            <string language="en">marketing</string>
+            <string language="en">part systems</string>
+            <string language="en">offert</string>
+            <string language="en">offers</string>
+            <string language="en">säljresa</string>
+            <string language="en">trade fair</string>
+            <string language="en">ad</string>
+            <string language="en">order acknowledgment</string>
+            <string language="en">delivery</string>
+            <string language="en">rest order</string>
+            <string language="en">credit control</string>
+            <string language="en">customer ledger</string>
+            <string language="en">payment</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Das unterschiedliche Teil systems.Module 4 des 
+Verkaufes - Leitung und rules.Is eingeschlossen in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La pièce différente systems.Module 4 de la 
+vente - gestion et rules.Is inclus dans FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A peça diferente systems.Module 4 da venda - 
+administração e rules.Is incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La parte differente systems.Module 4 della 
+vendita - gestione e rules.Is inclusi in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η διαφορετική ενότητα 4 συστημάτων μερών της πώλησης 
+- η διοίκηση και οι κανόνες συμπεριλαμβάνονται σε 
+FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La diversa pieza systems.Module 4 de la venta - 
+administración y rules.Is incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Marketing</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Teilsysteme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Angebote</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">säljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschäftsmesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Anzeige</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ordnung Quittung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Anlieferung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Restordnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kreditkontrolle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kunde Hauptbuch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahlung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">systèmes de partie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">offres</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">säljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">foire commerciale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">annonce</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accusé de réception de commande</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la livraison</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande de repos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande de degré de solvabilité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">registre de client</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">paiement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">marketing</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistemas da parte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ofertas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">säljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">feira de comércio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">anúncio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">reconhecimento da ordem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">entrega</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ordem do descanso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">controle de crédito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">livro-razão do cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pagamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vendita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sistemi della parte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">offerte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">säljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fiera commerciale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">annuncio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riconoscimento di ordine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">consegna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ordine di resto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">controllo di accreditamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">registro del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pagamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μάρκετινγκ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συστήματα μερών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσφορές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">sδljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εμπορική έκθεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αγγελία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναγνώριση κατάταξης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παράδοση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατάταξη υπολοίπου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πιστωτικός έλεγχος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καθολικό πελατών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληρωμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">comercialización</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistemas de la parte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">offert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ofertas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">säljresa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">feria comercial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">anuncio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">acuse de recibo de la orden</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">salida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">orden del resto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">control de crédito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">libro mayor del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pago</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9676</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9676</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:20:18.15Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>30750</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9676</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
