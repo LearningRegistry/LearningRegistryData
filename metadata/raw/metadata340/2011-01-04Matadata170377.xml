@@ -1,0 +1,138 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82511</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82511</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>59864</entry>
+          </identifier>
+          <title>
+            <string language="hu">Próba és instrukció</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Ez az anyag az óravázlat feltöltéséről szól, nem használtam hozzá más digitális forrást, cask a Calibrate LRE elnevezésű portált. URL: http://calibrate.eun.org/merlin/index.cfm</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Marta;;;
+FN:Marta Hunya
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>59864</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Marta;;;
+FN:Marta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-08</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">20-U</string>
+            <string language="hu">&gt; 20</string>
+          </typicalAgeRange>
+          <description>
+            <string language="hu">A kulcsszavak kiválasztása a legnehezebb, mert az utasítások nyelve angol. 
+
+Ha egy olyanra kattintasz, ami előtt + van, akkor az kinyílik, újabb alkategóriák jelennek meg. Ha valamelyikre a jobb oldali listában kattintasz, az megjelenik a bal felső sarokban. Ekkor (ha nem akarsz többet) kattints a done (kész), ha nem jó, akkor a delete (töröl) szóra.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>342</id>
+              <entry>
+                <string language="hu">felfedezéses tanulás</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82511</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/HU_Hunya_2007-11-08_8:11:02.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

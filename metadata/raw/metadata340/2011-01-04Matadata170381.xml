@@ -1,0 +1,233 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82905</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82905</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15549</entry>
+          </identifier>
+          <title>
+            <string language="it">Lingue Europee</string>
+            <string language="en">European Languages</string>
+            <string language="x-mt-de">Europäische Sprachen</string>
+            <string language="x-mt-fr">Langues Européennes</string>
+            <string language="x-mt-pt">Línguas Européias</string>
+            <string language="x-mt-el">Ευρωπαϊκές γλώσσες</string>
+            <string language="x-mt-es">Lenguajes Europeos</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Le stesse semplici frasi espresse in diverse lingue Europee; si colleghino le frasi con le rispettive nazioni.</string>
+            <string language="en">The same basic sentence said in different European languages,learners have to match it with its respective country.</string>
+          </description>
+          <keyword>
+            <string language="it">gioco</string>
+            <string language="en">fun</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der gleiche grundlegende Programmsatz sagte in 
+den unterschiedlichen europäischen Sprachen, Anfänger müssen es mit
+seinem jeweiligen Land zusammenbringen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La même phrase de base a indiqué dans 
+différentes langues européennes, étudiants doivent l'apparier avec 
+son pays respectif.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A mesma sentença básica disse em línguas 
+européias diferentes, learners tem que combiná-la com seu país 
+respectivo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η ίδια βασική πρόταση που λέεται στις διαφορετικές 
+ευρωπαϊκές γλώσσες, αρχάριοι πρέπει να τον ταιριάξει με την 
+αντίστοιχη χώρα της.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La misma sentencia básica dijo en diversos 
+lenguajes europeos, principiantes tiene que corresponderla con con su 
+país respectivo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Spaß</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amusement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">divertimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διασκέδαση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">diversión</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Buijten;Corinne;;;
+FN:Corinne Buijten
+ORG:null
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15549</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Buijten Salles;Corinne;;;
+FN:Corinne Buijten Salles
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-07</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Natt;Carlo;;;
+FN:Carlo Natt
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">U-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>238</id>
+              <entry>
+                <string language="en">communication</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>835</id>
+              <entry>
+                <string language="en">modern languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82905</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/corinne/lgs/LO_on_languages_page1.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

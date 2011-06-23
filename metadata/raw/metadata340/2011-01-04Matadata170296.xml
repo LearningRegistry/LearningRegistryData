@@ -1,0 +1,179 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82729</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82729</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4829</entry>
+          </identifier>
+          <title>
+            <string language="hu">Felületi hullámok</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az interaktív modellben egy vízfelszínen kelthetünk hullámokat. Megfigyelhetjük ezek interferenciáját, valamint falról történő visszaverődésüket. A tananyag animációi megmagyarázzák, hogyan keletkeznek a felületi hullámok, és mi az, ami bennük terjed.
+</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4829</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Márta;;;
+FN:Márta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-05-02</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>hu</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="hu">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="hu">tudomány</string>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="hu">fizika</string>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82729</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.digitalbrain.com/celebrate/community/celebrate/resources/Hungary/fizika/Feluleti%20hullamok/home/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

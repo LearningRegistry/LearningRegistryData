@@ -1,0 +1,196 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82807</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82807</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>58625</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az ideális gázok állapotváltozásainak értelmezés</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A kinetikus gázmodell segítségével értelmezzük az állapotváltozásokat.
+Ehhez felhasználjuk a
+Interactive Physics Simulations 
+http://phet.colorado.edu/new/index.php
+oldalról a “Gas Properties” nevű animációt.
+</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Priszlingerné;Ferencné;;;
+FN:Ferencné Priszlingerné
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>58625</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Priszlingerné;Ferencné;;;
+FN:Ferencné Priszlingerné
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-06</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-18</string>
+            <string language="hu">16-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="hu">Az óra időpontja: 2007.október 24.
+Tanulók létszáma: 38 
+
+Munkaforma: Frontális osztálymunka ( nagyon jó lehetőséget adna a téma és az interaktív animáció a csoportmunkára, de ilyen nagy létszámú osztály nem fér el az informatika teremben.)
+
+Előzmények:
+Az előző órán modelleztük az ideális gázokat. A kinetikus gázmodell alapján levezettük, hogy az ideális gázok nyomása mitől függ.
+
+
+Az óra leírása:
+
+Számonkérés:
+Az óra elején röviden átismételjük az előző órán tanultakat. 1-2 tanuló szóban felel.
+A feleléshez kivetítjük projektorral az ideális gázokhoz talált animációt, s a felelő ezen magyarázhatja el a modell lényegét.
+
+Az óra anyagának feldolgozása:
+
+Az animáción lerögzíthetők a térfogat,a hőmérséklet vagy a nyomás értékek, ezért könnyen beállíthatók és vizsgálhatók a következő állapotváltozások:
+
+a/  izochor (V állandó, n állandó)
+Lerögzítjük a térfogatot, melegítjük a gázt, nézzük a nyomásváltozást. 
+Milyen törvényt ismertünk erre az állapotváltozásra? Hogyan magyarázható a modellel Gay-Lussac II.törvénye? Vizsgáljuk a részecskék mozgását, megnézzük hogyan változik az átlagos mozgási energiájuk (erre is van lehetőség az animációban). A képlet ( a kinetikus gázelmélet alapegyenlete, amt az előző órán tanultunk) alapján mit mondhatunk ekkor a nyomásról?
+
+b/  izoterm (T állandó, n állandó)
+Lerögzítjük a hőmérsékletet növeljük a gáz térfogatát, nézzük, a nyomásváltozást. 
+Milyen törvényt ismertünk erre az állapotváltozásra? Megnézzük a részecskék átlagos mozgási energiáját s vizsgáljuk hogyan változik a részecskék térfogategységre eső száma. A képlet alapján mit mondhatunk a nyomásról?
+Hogyan magyarázható a modellel a Boyle-Mariotte törvény?
+
+c/  izobár (p állandó, n állandó)
+Lerögzítjük a nyomást, megbeszéljük, hogy mitől lesz a gáz nyomása állandó (szabadon mozoghat az elmozdítható oldal) mekkora ez a nyomás. Melegítjük a gázt, s megnézzük hogyan változik a térfogata.
+Vizsgáljuk a részecskék mozgását, nézzük hogyan változik az átlagos mozgási energiájuk, s a térfogategységre jutó számuk. Hogyan magyaráható a modellel Gay-Lussac I. törvénye?
+
+Összegzés:
+Az óra végén még egyszer áttekintjük, összefoglaljuk, hogy a kinetikus gázmodellel mit és hogyan tudtunk vizsgálni. Mikor használható jól egy modell. Külön kiemeljük, hogy golyó alakú tömegpontnak képzeltük el a gázrészecskéket, mert a következő órákon a szabadsági fok tanulásánál ez ismét előkerül.
+
+Értékelés: Az óra végén értékelem az osztály munkáját, külön kiemelve a legaktívabban közreműködő tanulókat.
+Házi feladat: A modell alapján meg kell vizsgálni, hogy milyen módon lehet egy adott tömegű gáz hőmérsékletét növelni? 
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+              <entry>
+                <string language="hu">tanulás</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>342</id>
+              <entry>
+                <string language="hu">felfedezéses tanulás</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1310</id>
+              <entry>
+                <string language="hu">termodinamika</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1141</id>
+              <entry>
+                <string language="hu">természettudományos nevelés</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82807</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/HU_Priszlingerné_2007-11-06_7:11:46.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

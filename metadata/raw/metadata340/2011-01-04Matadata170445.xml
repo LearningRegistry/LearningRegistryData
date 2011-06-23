@@ -1,0 +1,183 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82694</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82694</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15259</entry>
+          </identifier>
+          <title>
+            <string language="bg">Ако искаш да пътуваш сигурно</string>
+          </title>
+          <language>bg</language>
+          <description>
+            <string language="bg">Учебен модул от типа "попълни пропуснатата дума". 
+В приятна, игрова форма учениците се запознават с някои от общочовешките им права, свързани с безопасното пътуване в чужбина.</string>
+          </description>
+          <keyword>
+            <string language="bg">чоешки права</string>
+          </keyword>
+          <keyword>
+            <string language="bg">валиден паспорт</string>
+          </keyword>
+          <keyword>
+            <string language="bg">безопасно пътуване в чужбина</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ананиева;Анна ;;;
+FN:Анна  Ананиева
+ORG:138 СОУ, София, България
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Атанасова;Николета;;;
+FN:Николета Атанасова
+ORG:Софийски Университет, Психология
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15259</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ananieva;Ani;;;
+FN:Ani Ananieva
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>bg</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-20</string>
+            <string language="bg">15-20</string>
+          </typicalAgeRange>
+          <description>
+            <string language="bg">Учениците първо трябва да прочетат текста, свързан с някои от човешките права за безопасно пътуване в чужбина. След това, в теста, участниците търсят точната дума за попълване в празното поле, а ако се затрудняват, могат да ползват помощта на синоними или на подсказвани букви. При всяка помощ обаче те губят точки от крайния си резултат.След попълването на всяка страница ученикът проверява общия си сбор точки.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>735</id>
+              <entry>
+                <string language="en">leisure activities</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1316</id>
+              <entry>
+                <string language="en">tourism</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1332</id>
+              <entry>
+                <string language="en">travel</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82694</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/anna-bis/LOAnimus0.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

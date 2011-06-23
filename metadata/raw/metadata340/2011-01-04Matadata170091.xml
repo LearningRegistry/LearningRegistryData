@@ -1,0 +1,197 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82615</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82615</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15611</entry>
+          </identifier>
+          <title>
+            <string language="it">Diritti nell'Unione Europea (cruciverba)</string>
+            <string language="en">Rights in the European Union (crosswords)</string>
+            <string language="x-mt-de">Rechte im europäischen Anschluß 
+(Kreuzworträtsel)</string>
+            <string language="x-mt-fr">Droites dans l'union européenne (mots croisé)</string>
+            <string language="x-mt-pt">Direitas na união européia (crosswords)</string>
+            <string language="x-mt-el">Δικαιώματα στην Ευρωπαϊκή Ένωση (σταυρόλεξα)</string>
+            <string language="x-mt-es">Las derechas en la unión europea (crucigramas)</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Apprendere gli articoli dei nostri Diritti comuni nell'Unione Europea attraverso cruciverba.</string>
+            <string language="en">Learning the articles of our common Rights in the EU through crosswords.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Lernen der Artikel unserer geläufigen Rechte im 
+EU durch Kreuzworträtsel.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Étude des articles de nos droites communes dans 
+l'EU par des mots croisé.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Aprendendo os artigos de nossas direitas comuns 
+no EU através dos crosswords.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εκμάθηση των άρθρων των κοινών δικαιωμάτων μας στην ΕΕ
+μέσω των σταυρόλεξων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Aprender los artículos de las nuestras derechas 
+comunes en el EU a través de crucigramas.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Fonseca;Isabel;;;
+FN:Isabel Fonseca
+ORG:EBI c/ JI Sophia de Mello Breyner
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15611</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Fonseca;Isabel;;;
+FN:Isabel Fonseca
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-11</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Congedo;Fiorenza;;;
+FN:Fiorenza Congedo
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-07</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="en">14-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Gli alunni dovrebbero provare per primo l'esercizio di collegamento sui Diritti nell'Unione Europea in modo da essere informati sugli articoli.</string>
+            <string language="en">Students should first try the matching exercise Rights in the EU, in order to get acquainted with the articles.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>612</id>
+              <entry>
+                <string language="en">human rights</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82615</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/isabel5/1dignity.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

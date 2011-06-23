@@ -1,0 +1,286 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82878</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82878</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>1801</entry>
+          </identifier>
+          <title>
+            <string language="no">Batterier</string>
+            <string language="en">Batteries</string>
+            <string language="x-mt-de">Batterien</string>
+            <string language="x-mt-fr">Batteries</string>
+            <string language="x-mt-pt">Baterias</string>
+            <string language="x-mt-it">Batterie</string>
+            <string language="x-mt-el">Μπαταρίες</string>
+            <string language="x-mt-es">Baterías</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Illustrasjon som viser forskjellige batteri-koblinger (serie, paralell). Lær hvor mye spenning (V) og ampere timer (Ah) de forskjellige koblingene gir.</string>
+            <string language="en">An illustration that shows the different battery connections( serie,parallel) Learn how much voltage (V)and ampere(AH) the different connections give.</string>
+          </description>
+          <keyword>
+            <string language="no">batterier</string>
+            <string language="en">batteries</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Eine Abbildung, die das unterschiedliche Batterie 
+connections(serie zeigt, Ähnlichkeit) erlernen, wieviel Spannung 
+(V)and ampere(AH), das die unterschiedlichen Anschlüsse geben.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une illustration qui montre le serie différent de
+connections(de batterie, le parallèle) apprennent combien de tension 
+(ampere(AH) de V)and que les différentes connexions donnent.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma ilustração que mostre o serie diferente do 
+connections(da bateria, a paralela) aprendem quanto tensão 
+(ampere(AH) que de V)and as conexões diferentes dão.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un'illustrazione che mostra il serie differente 
+del connections(della batteria, il parallelo) imparano quanta tensione
+(ampere(AH) che di V)and i collegamenti differenti danno.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια απεικόνιση που εμφανίζει διαφορετική μπαταρία 
+connections($l*serie, παράλληλος) μαθαίνει πόσο αμπέρ (AH) 
+τάσης (V)and οι διαφορετικές συνδέσεις δίνουν.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una ilustración que muestra el diverso serie del 
+connections(de la batería, el paralelo) aprenden cuánto voltaje 
+(ampere(AH) de V)and que las diversas conexiones dan.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Batterien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">batteries</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">baterias</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">batterie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μπαταρίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">baterías</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>1801</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-18</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-16</string>
+            <string language="no">12-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>413</id>
+              <entry>
+                <string language="en">electricity</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82878</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/BatterierXL.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82825</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82825</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>57298</entry>
+          </identifier>
+          <title>
+            <string language="de">Reisen</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">CALIBRATE: Goethe-Institut
+URL: http://www.goethe.de/z/jetzt/dejberuf.htm</string>
+          </description>
+          <keyword>
+            <string language="de">Reisen</string>
+          </keyword>
+          <keyword>
+            <string language="de">Traumurlaub</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pajtókné Tari;Ilona;;;
+FN:Ilona Pajtókné Tari
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>57298</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pajtókné Tari;Ilona;;;
+FN:Ilona Pajtókné Tari
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-31</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">17-18</string>
+            <string language="de">17-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Der Computer soll in der Schule im Unterricht integriert werden. Er kann bei der Entwicklung verschiedenen Fertigkeiten eingesetzt werden. 
+
+Ziel dieser Stunde ist Hörfertigkeit entwickeln. Die Schüler herunterladen verschiedene Hörtexte vom Internet, sie hören sie an und bekommen dazu Aufgaben. 
+
+Als Einstieg in die Stunde lösen die Schüler ein Kreuzrätsel im Thema Reisen auf der Homepage von Goethe-Institut. Diese Aufgabe machen die Schüler in Partnerarbeit. Bei dieser Aufgabe sind die in das Kreuzrätsel zu schreibenden Wörter und die Wortdefinitionen gegeben. 
+
+Dann können die Schüler einen Hörtext hören, in der sich zwei Reiseverkehrskauffrauen vorstellen, die in den folgenden Hörtexten über ihre Reisemöglichkeiten und ihren Traumurlaub reden. Nach der Vorstellung der zwei Reiseverkehrskauffrauen arbeiten die Schüler mit dem Hörtext Verreisen Sie mehr als andere? Zum Text kann ein Übungsblatt mit 4-5 item gefertigt werden, das in Einzelarbeit gelöst werden kann.
+
+Dann wird ein Assoziogramm geschaffen, in dem Mittelpunkt Traumurlaub steht. Es wird in Gruppenarbeit gemacht und wird in Plenum kontrolliert. Es folgt Aufgabe 2 auf der Homepage von Goethe-Institut. Die Schüler können darüber diskutieren, wie der Traumurlaub der Reiseverkehrskauffrauen aussehen würde. Danach wird der Text zweimal abgespielt und die dazu gehörende Aufgabe korrigiert. Diesem Text hört noch ein Hördiktat zu. Diese Aufgabe finde ich schwer, wenn die Schüler nicht schnell tippen können, deshalb würde ich ihnen erlauben, die Wörter zuerst ins Heft zu schreiben und dann einzutippen. 
+
+Diese Texte und Aufgaben sind didaktisch sehr gut aufgebaut, weil die Schüler globales, selektives und detailliertes Hören üben können. </string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>835</id>
+              <entry>
+                <string language="de">modern nyelvek</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>548</id>
+              <entry>
+                <string language="de">német nyelv</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82825</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/HU_Pajtókné Tari_2007-10-31_11:10:56.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,265 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82619</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82619</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15601</entry>
+          </identifier>
+          <title>
+            <string language="it">Fiumi in Europa</string>
+            <string language="en">Rivers in Europe</string>
+            <string language="x-mt-de">Flüsse in Europa</string>
+            <string language="x-mt-fr">Fleuves en Europe</string>
+            <string language="x-mt-pt">Rios em Europa</string>
+            <string language="x-mt-el">Ποταμοί στην Ευρώπη</string>
+            <string language="x-mt-es">Ríos en Europa</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Questo Learning Object aiuta gli studenti a ricordare i nomi di alcuni fiumi europei.</string>
+            <string language="en">This LO helps students remeber the names of some European rivers.</string>
+          </description>
+          <keyword>
+            <string language="it">rivers</string>
+            <string language="en">rivers</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Dieses NIEDRIGE Hilfen Kursteilnehmer remeber die 
+Namen von einigen europäischen Flüssen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce BAS remeber d'étudiants d'aides les noms de 
+quelques fleuves européens.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este remeber BAIXO dos estudantes das ajudas os 
+nomes de alguns rios europeus.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το LO βοηθά τους σπουδαστές remeber τα 
+ονόματα μερικών ευρωπαϊκών ποταμών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este remeber BAJO de los estudiantes de las ayudas
+los nombres de algunos ríos europeos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Flüsse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fleuves</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποταμοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ríos</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Šavli;Viljenka;;;
+FN:Viljenka Šavli
+ORG:Osnovna šola Solkan, Slovenija
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15601</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:savli;VILJENKA;;;
+FN:VILJENKA savli
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-11</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Congedo;Fiorenza;;;
+FN:Fiorenza Congedo
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-06</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Possiamo usare questo LO come esercizio interattivo di autovalutazione in cui gli alunni collegano i nomi dei fiumi alle figure.</string>
+            <string language="en">We can use this LO as a selfassessment interactive exercise where students match the names of the rivers with pictures.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>189</id>
+              <entry>
+                <string language="en">Central and Eastern Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1390</id>
+              <entry>
+                <string language="en">Western Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1383</id>
+              <entry>
+                <string language="en">watercourse</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82619</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/vili/rivers/rivers_europe_names_m.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

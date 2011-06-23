@@ -1,0 +1,258 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82579</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82579</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15222</entry>
+          </identifier>
+          <title>
+            <string language="it">Stati candidati /richiedenti dell'UE e loro bandiere</string>
+            <string language="en">EU Candidate/Applicant States and Their Flags</string>
+            <string language="x-mt-de">EU Candidate/Applicant Zustände und ihre 
+Markierungsfahnen</string>
+            <string language="x-mt-fr">États de l'EU Candidate/Applicant et leurs 
+indicateurs</string>
+            <string language="x-mt-pt">Estados do EU Candidate/Applicant e suas 
+bandeiras</string>
+            <string language="x-mt-el">Υποψήφιος της ΕΕ/υποψήφια κράτη και οι σημαίες τους</string>
+            <string language="x-mt-es">Estados del EU Candidate/Applicant y sus 
+indicadores</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Questo è un esercizio di abbinamento, con limite di tempo e feed back rapido, sugli Stati candidati /richiedenti dell'UE e loro bandiere corrispondenti.</string>
+            <string language="en"> This is a matching exercise (with a time limit and rapid feedback) about the EU candidate/applicant states and their corresponding flags</string>
+          </description>
+          <description>
+            <string language="x-mt-de"> Dieses ist eine zusammenpassende Übung (mit 
+einer Grenzzeit und einem schnellen Feedback) über die Zustände des 
+EUS candidate/applicant und ihre entsprechenden Markierungsfahnen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr"> C'est un exercice assorti (avec un délai et un 
+feedback rapide) au sujet des états de l'EU candidate/applicant et de
+leurs indicateurs correspondants</string>
+          </description>
+          <description>
+            <string language="x-mt-pt"> Este é um exercício combinando (com um limite 
+de tempo e um feedback rápido) sobre os estados do EU 
+candidate/applicant e suas bandeiras correspondentes</string>
+          </description>
+          <description>
+            <string language="x-mt-el"> Αυτό είναι μια ταιριάζοντας με άσκηση (με ένα 
+χρονικό όριο και μια γρήγορη ανατροφοδότηση) για τον υποψήφιο της
+ΕΕ/τα υποψήφια κράτη και τις αντίστοιχες σημαίες τους</string>
+          </description>
+          <description>
+            <string language="x-mt-es"> Esto es un ejercicio que corresponde con (con un 
+límite de tiempo y un feedback rápido) sobre los estados del EU 
+candidate/applicant y sus indicadores correspondientes</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Silter;Andreea;;;
+FN:Andreea Silter
+ORG:null
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15222</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Silter;Andreea ;;;
+FN:Andreea  Silter
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-23</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-19</string>
+            <string language="en">11-19</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Obiettivo:- gli alunni dimostreranno conoscenza degli Stati candidati /richiedenti dell'UE e loro bandiere corrispondenti. Metodo didattico: lettura attiva ( leggere e svolgere un esercizio interattivo) e feedback rapido. Strumento di presentazione dei contenuti: pagina web( testo, grafica e link). Strumento di valutazione: esercizio di abbinamento, con limite di tempo e feedback rapido</string>
+            <string language="en">Objective: 
+- pupils will demonstrate knowledge of the EU candidate/applicant states and their corresponding flags
+
+Teaching method: active learning (reading + doing an interactive exercise)  and rapid feedback
+
+Content presentation tool: web page (text, graphics and hyperlinks) with the EU candidate/applicant states and their corresponding flags
+
+Assessment tool: matching exercise with a time limit and rapid feedback</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>229</id>
+              <entry>
+                <string language="en">cognitive development</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>213</id>
+              <entry>
+                <string language="en">civics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="en">English language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>456</id>
+              <entry>
+                <string language="en">evaluation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1168</id>
+              <entry>
+                <string language="en">self-evaluation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>667</id>
+              <entry>
+                <string language="en">interactive material</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82579</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/sa/cit/applicantstatesflags.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

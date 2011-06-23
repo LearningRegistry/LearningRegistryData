@@ -1,0 +1,204 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82426</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82426</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15550</entry>
+          </identifier>
+          <title>
+            <string language="it">Eventi fondamentali per l'Europa</string>
+            <string language="en">Key Facts about Europe</string>
+            <string language="x-mt-de">Schlüsseltatsachen über Europa</string>
+            <string language="x-mt-fr">Faits principaux sur l'Europe</string>
+            <string language="x-mt-pt">Fatos chaves sobre Europa</string>
+            <string language="x-mt-el">Βασικά γεγονότα για την Ευρώπη</string>
+            <string language="x-mt-es">Hechos dominantes sobre Europa</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Esercizi che tendono a colmare le lacune sugli avvenimenti principali dell'Unione Europea.</string>
+            <string language="en">Gap-fill exercise about basic facts about the European Union.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Abstand-füllen Sie Übung über grundlegende 
+Tatsachen über den europäischen Anschluß.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Intervalle-remplissez exercice au sujet des faits
+de base sur l'union européenne.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Abertura-encha o exercício sobre fatos básicos 
+sobre a união européia.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ασκηση χάσμα-αφθονίας για τα βασικά γεγονότα για την 
+Ευρωπαϊκή Ένωση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Boquete-llene el ejercicio sobre hechos básicos 
+sobre la unión europea.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Buijten;Corinne;;;
+FN:Corinne Buijten
+ORG:null
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15550</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Buijten Salles;Corinne;;;
+FN:Corinne Buijten Salles
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-07</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Natt;Carlo;;;
+FN:Carlo Natt
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-14</string>
+            <string language="en">11-14</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="en">English language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82426</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/corinne/key-facts/key_facts.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

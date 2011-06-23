@@ -1,0 +1,266 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82410</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82410</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15354</entry>
+          </identifier>
+          <title>
+            <string language="de">Umweltpolitik der Europäischen Union</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Ein Schwerpunkt der Europäischen Politik ist der Umweltschutz. In dieser Übung wird dieser Politikbereich vorgestellt. Eine kleine Übung zu verschiedenen Sprachen der EU kann auflockern.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane;;;
+FN:Christiane Bodammer
+ORG:BBS OHZ
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15354</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane;;;
+FN:Christiane Bodammer
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>de</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="de">14-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Die Übung eignet sich vor allem zur Überprüfung erworbenen Wissens zu Umweltproblemen und den Umweltzielen der EU.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>388</id>
+              <entry>
+                <string language="de">Erziehung zur nachhaltigen Entwicklung</string>
+                <string language="en">education for sustainable development</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>431</id>
+              <entry>
+                <string language="de">Umwelterziehung</string>
+                <string language="en">environmental education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>451</id>
+              <entry>
+                <string language="de">europäische Dimension</string>
+                <string language="en">European dimension</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>223</id>
+              <entry>
+                <string language="de">Klima</string>
+                <string language="en">climate</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>424</id>
+              <entry>
+                <string language="de">Energie</string>
+                <string language="en">energy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>430</id>
+              <entry>
+                <string language="de">Umwelt</string>
+                <string language="en">environment</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>432</id>
+              <entry>
+                <string language="de">Umweltschutz</string>
+                <string language="en">environmental protection</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>385</id>
+              <entry>
+                <string language="de">Ökosystem</string>
+                <string language="en">ecosystem</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1090</id>
+              <entry>
+                <string language="de">erneuerbare Energie</string>
+                <string language="en">renewable energy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>377</id>
+              <entry>
+                <string language="de">Ökologie</string>
+                <string language="en">ecology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1002</id>
+              <entry>
+                <string language="de">Verschmutzung</string>
+                <string language="en">pollution</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1379</id>
+              <entry>
+                <string language="de">Abfallwirtschaft</string>
+                <string language="en">waste management</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>671</id>
+              <entry>
+                <string language="de">internationale Organisation</string>
+                <string language="en">international organisation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="de">Europäische Union</string>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>450</id>
+              <entry>
+                <string language="de">Europäische Kommission</string>
+                <string language="en">European Commission</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string language="de">Sprachen</string>
+                <string language="en">languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>708</id>
+              <entry>
+                <string language="de">Fachsprache</string>
+                <string language="en">language for special purposes</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82410</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/gausepohl/eu-umweltpolitik/umwelt.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

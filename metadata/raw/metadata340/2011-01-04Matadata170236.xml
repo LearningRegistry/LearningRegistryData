@@ -1,0 +1,281 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/1923337224</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>1923337224</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2028</entry>
+          </identifier>
+          <title>
+            <string language="no">Organer - Quiz</string>
+            <string language="en">Organs-Quiz</string>
+            <string language="x-mt-de">Organ-Quiz</string>
+            <string language="x-mt-fr">Organe-Jeu</string>
+            <string language="x-mt-pt">Órgão-organs-Quiz</string>
+            <string language="x-mt-it">Organo-Quiz</string>
+            <string language="x-mt-el">Όργανο-διαγωνισμός γνώσεων</string>
+            <string language="x-mt-es">O'rgano-Concurso</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Hvor mye kan du om organene i kroppen vår? klarer du alle riktig på et forsøk?</string>
+            <string language="en">What do you know about the organs in our body? Can you get all questions correct on one attempt?</string>
+          </description>
+          <keyword>
+            <string language="no">organer</string>
+            <string language="en">Organs</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Was kennen Sie über die Organe in unserem 
+Körper? Können Sie alle Fragen korrekt erhalten auf einem 
+Versuch?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Que connaissez-vous les organes dans notre corps 
+? Pouvez-vous obtenir toutes les questions correctes sur une 
+tentative ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Que você sabe sobre os órgãos em nosso corpo? 
+Pode você começar todas as perguntas corretas em uma 
+tentativa?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Che cosa conoscete circa gli organi nel nostro 
+corpo? Potete ottenere tutte le domande corrette su un 
+tentativo?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τι ξέρετε για τα όργανα στο σώμα μας; Μπορείτε 
+να πάρετε όλες τις ερωτήσεις σωστές σε μια προσπάθεια;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Qué usted sabe sobre los órganos en nuestro 
+cuerpo? ¿Puede usted conseguir todas las preguntas correctas en 
+una tentativa?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Organe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Organes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Órgãos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Organi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Όργανα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Órganos</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2028</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-12</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="no">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string language="en">biology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>610</id>
+              <entry>
+                <string language="en">human biology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>1923337224</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/quiz_slider_organer.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

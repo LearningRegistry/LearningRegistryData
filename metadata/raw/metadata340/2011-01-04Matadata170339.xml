@@ -1,0 +1,261 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82483</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82483</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14698</entry>
+          </identifier>
+          <title>
+            <string language="de">Ordnen Sie das Land auf der Landkarte richtig zu</string>
+            <string language="en">Match a country to the correct map</string>
+            <string language="x-mt-fr">Appariez un pays à la carte correcte</string>
+            <string language="x-mt-pt">Combine um país ao mapa correto</string>
+            <string language="x-mt-it">Abbini un paese al programma corretto</string>
+            <string language="x-mt-el">Ταιριάξτε με μια χώρα το σωστό χάρτη</string>
+            <string language="x-mt-es">Corresponda con un país a la correspondencia 
+correcta</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="de">Lernen Sie die Geografie der Europäischen Union - Landkarten und Namen der Länder in Europa</string>
+            <string language="en">Learn about the geography of the European Union - maps and names of the countries in Europe</string>
+          </description>
+          <keyword>
+            <string language="de">EU-Länder</string>
+            <string language="en">EU countries</string>
+          </keyword>
+          <description>
+            <string language="x-mt-fr">Renseignez-vous sur la géographie de l'union 
+européenne - des cartes et des noms des pays en Europe</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Aprenda sobre a geografia da união européia - 
+mapas e nomes dos países em Europa</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Impari circa la geografia di Unione Europea - 
+programmi e nomi dei paesi in Europa</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μάθετε για τη γεωγραφία της Ευρωπαϊκής Ένωσης - 
+χάρτες και ονόματα των χωρών στην Ευρώπη</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Aprenda sobre la geografía de la unión europea 
+- las correspondencias y los nombres de los países en Europa</string>
+          </description>
+          <keyword>
+            <string language="x-mt-fr">Pays d'EU</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Países do EU</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Paesi di UE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χώρες της ΕΕ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Países del EU</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Šavli;Viljenka;;;
+FN:Viljenka Šavli
+ORG:Osnovna Šola Solkan, Slovenija
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14698</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:savli;VILJENKA;;;
+FN:VILJENKA savli
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-04-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-18</string>
+            <string language="en">10-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>249</id>
+              <entry>
+                <string language="en">compulsory education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>547</id>
+              <entry>
+                <string language="en">geopolitical areas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>189</id>
+              <entry>
+                <string language="en">Central and Eastern Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>893</id>
+              <entry>
+                <string language="en">Nordic countries</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1390</id>
+              <entry>
+                <string language="en">Western Europe</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82483</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/sv/vaja/evropa.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

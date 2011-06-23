@@ -1,0 +1,189 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82519</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82519</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15344</entry>
+          </identifier>
+          <title>
+            <string language="de">Rechtsakte der EU</string>
+            <string language="en">Legal-files of the EU</string>
+            <string language="x-mt-fr">Légal-fichiers de l'EU</string>
+            <string language="x-mt-pt">Legal-limas do EU</string>
+            <string language="x-mt-it">Legale-archivi dell'UE</string>
+            <string language="x-mt-el">Νομικός-αρχεία της ΕΕ</string>
+            <string language="x-mt-es">Legal-ficheros del EU</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Die verschiedenen Rechtsakte der EU werden erläutert. Außerdem ist die Übung zu den verschiedenen Gremien mit der Bezeichnung "Rat" integriert.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane;;;
+FN:Christiane Bodammer
+ORG:BBS OHZ
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15344</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Bodammer;Christiane;;;
+FN:Christiane Bodammer
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>de</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-19</string>
+            <string language="de">15-19</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Die verschiedenen Rechtsakte der EU können erarbeitet werden, bzw. Kenntnisse können überprüft werden. Ergänzend kann die Sicherheit im Umgang mit Gremienbezeichnungen am Beispiel "Rat" überprüft werden.</string>
+            <string language="en">The different legal-acts of the EC can be developed, as well as knowledge can be checked. Additionally the certainty can be checked "council" in the contact with Gremienbezeichnungen at the example.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>671</id>
+              <entry>
+                <string language="de">internationale Organisation</string>
+                <string language="en">international organisation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>275</id>
+              <entry>
+                <string language="de">Europarat</string>
+                <string language="en">Council of Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="de">Europäische Union</string>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>733</id>
+              <entry>
+                <string language="de">Gesetzgebung</string>
+                <string language="en">legislation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>453</id>
+              <entry>
+                <string language="de">Europapolitik</string>
+                <string language="en">European policy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82519</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/gausepohl/eu-rate/RechtsakteEU.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

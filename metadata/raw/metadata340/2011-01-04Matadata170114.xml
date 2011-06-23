@@ -1,0 +1,312 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/769596717</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>769596717</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2121</entry>
+          </identifier>
+          <title>
+            <string language="no">Tyngdepunkt</string>
+            <string language="en">centre of gravity</string>
+            <string language="x-mt-de">Schwerpunkt</string>
+            <string language="x-mt-fr">centre de la gravité</string>
+            <string language="x-mt-pt">centro de gravidade</string>
+            <string language="x-mt-it">centro di gravità</string>
+            <string language="x-mt-el">κέντρο βάρους</string>
+            <string language="x-mt-es">centro de gravedad</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Hvor er tyngdepunktet? Hvordan varierer dette ved plassering og vekt?</string>
+            <string language="en">Where is the centre of gravity ? How does placement and weight affect it?</string>
+          </description>
+          <keyword>
+            <string language="no">tyngdepunkt</string>
+            <string language="en">centre of gravity</string>
+          </keyword>
+          <keyword>
+            <string language="no">balanse</string>
+            <string language="en">balance</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Wo ist der Schwerpunkt? Wie beeinflußt 
+Plazierung und Gewicht ihn?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Où est le centre de la gravité ? Comment 
+le placement et le poids l'affecte-t-ils ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Onde é o centro da gravidade? Como a 
+colocação e o peso o afetam?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dove è il centro di gravità? Come la 
+disposizione ed il peso lo interessa?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πού είναι το κέντρο βάρους; Πώς η τοποθέτηση 
+και το βάρος έχουν επιπτώσεις σε τον;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Dónde está el centro de gravedad? ¿Cómo
+la colocación y el peso lo afecta?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Schwerpunkt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Balance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">centre de la gravité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">équilibre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">centro de gravidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">contrapeso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">centro di gravità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">equilibrio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κέντρο βάρους</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισορροπία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">centro de gravedad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">balance</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2121</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-16</string>
+            <string language="no">12-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>769596717</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/Tyngdepunkt.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

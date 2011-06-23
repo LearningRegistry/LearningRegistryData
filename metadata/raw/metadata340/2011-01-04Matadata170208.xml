@@ -1,0 +1,252 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82692</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82692</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14478</entry>
+          </identifier>
+          <title>
+            <string language="it">I diritti del cittadino per lavorare, muoversi e studiare</string>
+            <string language="en">Citizen's rights to work, to move and to learn</string>
+            <string language="x-mt-de">Rechte des Bürgers zu arbeiten, zu bewegen und zu
+erlernen</string>
+            <string language="x-mt-fr">Les droits du citoyen de travailler, se déplacer
+et apprendre</string>
+            <string language="x-mt-pt">Direitas do cidadão trabalhar, mover-se e 
+aprender</string>
+            <string language="x-mt-el">Δικαιώματα πολίτη στην εργασία, για να κινηθεί και για
+να μάθει</string>
+            <string language="x-mt-es">Las derechas del ciudadano de trabajar, de 
+moverse y de aprender</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Webquiz con 3 diversi tipi di esercizi ( domande miste con collegamenti, completamenti ed esercizi di abbinamento) riguardo ai diritti dei cittadini europei.</string>
+            <string language="en">Webquiz with 3 different types of exercises (mixed questions with links, gap-fill and matching exercise)about EU citizen's rights</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Webquiz mit 3 unterschiedlichen Typen Übungen 
+(Mischfragen mit Links, Rechte des Abstand-füllen und paßt 
+exercise)about EU-Bürgers zusammen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Webquiz avec 3 types différents d'exercices (les
+questions mélangées avec des liens, les droits du citoyen d'EU 
+d'exercise)about intervalle-remplissent et d's'assortissent</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Webquiz com 3 tipos diferentes de exercícios (as
+perguntas misturadas com ligações, direitas do cidadão do EU do 
+exercise)about abertura-se enchem e combinar</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Webquiz με 3 διαφορετικούς τύπους ασκήσεων (μικτές
+ερωτήσεις με τις συνδέσεις, την χάσμα-αφθονία και τα ταιριάζοντας
+με exercise)about δικαιώματα του πολίτη της ΕΕ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Webquiz con 3 diversos tipos de ejercicios (las 
+preguntas mezcladas con conexiones, las derechas del ciudadano del EU 
+del exercise)about boquete-llenan y el corresponder con</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:Kuressaare Gymnasium
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14478</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-20</string>
+            <string language="en">14-20</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Viene creato un oggetto di apprendimento per studenti che studiano storia ed educazione civica. Gli esercizi possono essere usati separatamente oppure insieme in lezioni frontali o in ambienti e-learning per verifica sugli studenti o per autovalutazione. Durata degli esercizi- 20 minuti. Gli studenti rivedranno la loro conoscenza in merito ai diritti di cittadino europeo e sulla libertà di movimento, di lavoro e di studio e potranno trovare altre informazioni su questi argomenti. Questo LO consiste in tre parti: 1) utile conoscenza per giovani europei : è un quiz con 10 diverse domande ( domande miste + alcuni collegamenti) per dare la possibilità agli studenti di autovalutare le proprie conoscenze sull'Europa all'interno dell'Anno per la Mobilità dei lavoratori del 2006. 2) Libertà di movimento e lavoro : esercizi di completamento con 5 frasi + collegamenti. 3) Progetti elearning - esercizi di abbinamento con 5 loghi di diversi progetti elearning ( il logo è anche un link) per motivare gli studenti a trovare altre informazioni riguardo a progetti interessanti. 3 esercizi sono connessi ad una pagina di contenuto con Hot Potatoes Masher. </string>
+            <string language="en">Learning object is created for students who are learning history and civics. Exercises can be used separetely or together in ordinary lessons or in e-learning environments for student testing or for self-control.
+Duration for exercises - 20 minutes.
+Students will revise their knowledge about EU citizen’s rights and about freedom of moving, working and learning and they can find more information about those topics.
+This LO consist from 3 parts:
+1)	Useful Knowledges for Young Europeans:  is quiz with 10 different questions (mix question types + some links) to give possibility to students for self-control knowledges about EU in the frame of 2006 - Year for Workers’ Mobility.
+2)	Freedom of Movement and Work: gap-fill exercise with 5 sentences + links 
+3)	Elearning projects- matching exercise with 5 logos of different elearning projects (logo is also a link)- to motivate students to find more information about interesting projects. 
+3 exercises are combined with Hot Potatoes Masher to one contentpage.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>215</id>
+              <entry>
+                <string language="en">civil rights</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1099</id>
+              <entry>
+                <string language="en">rights</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>174</id>
+              <entry>
+                <string language="en">career education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82692</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/vm/maidu/home.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

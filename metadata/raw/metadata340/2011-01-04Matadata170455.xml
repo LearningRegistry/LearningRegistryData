@@ -1,0 +1,324 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82572</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82572</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>1540</entry>
+          </identifier>
+          <title>
+            <string language="fi">Numbers - Numeropeli</string>
+            <string language="en">Numbers</string>
+            <string language="x-mt-de">Zahlen</string>
+            <string language="x-mt-fr">Nombres</string>
+            <string language="x-mt-pt">Números</string>
+            <string language="x-mt-it">Numeri</string>
+            <string language="x-mt-el">Αριθμοί</string>
+            <string language="x-mt-es">Números</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="fi">Aihio harjoittaa lukusanoja uudella, pelimäisellä tavalla. Tehtävässä on viisi vaihetta, joihin kone arpoo aina erisuuruiset lukusanat harjoiteltavaksi. Tehtävä kehittää erityisesti kirjoitetun numeron ja sen lausumisen yhteyden tunnistamista.
+
+Oppilaan tehtävänä on tunnistaa äänen perusteella oikeat lukusanat. Ruudun alalaidassa on viisi puhekuplaa, joista kaikista kuuluu eri luku. Oppilaan tulee raahata peräkkäiset lukusanat ruudulla jo valmiina näkyvän lukusanan jatkoksi. Tarkoituksena on muodostaa kolmen peräkkäisen luvun kokonaisuus. Ohjelma tunnistaa oikean luvun automaattisesti ja lukitsee sen paikoilleen. Väärästä siirrosta ohjelma siirtyy seuraavaan vaiheeseen.</string>
+            <string language="en">In this task the numbers are practised in a new way by playing a game. There are five phases in the task and the numbers practised are allotted. The task improves the student’s ability to identify the connection between the written number and its pronunciation. The task is to identify the correct numbers on the basis of the sound. There are five balloons at the bottom of the screen with the sound of a different number. The student has to add the successive numbers on the screen to the number that can already be seen. The idea is to create a system of three successive numbers. The programme identifies the correct number automatically and locks it. If the student gives the wrong answer the programme moves on to the next phase.</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">In dieser Aufgabe werden die Zahlen in einer neuen
+Methode geübt, indem man ein Spiel spielt. Es gibt fünf Phasen
+in der Aufgabe und die geübten Zahlen werden zugeteilt. Die 
+Aufgabe verbessert die student?s Fähigkeit, den Anschluß zwischen 
+der schriftlichen Zahl und seinem Aussprache zu kennzeichnen. 
+Die Aufgabe ist, die korrekten Zahlen auf der Grundlage von den 
+Ton zu kennzeichnen. Es gibt fünf Ballone am unteren 
+Bildschirmrand mit dem Ton einer anderen Zahl. Der 
+Kursteilnehmer muß die aufeinanderfolgenden Zahlen auf dem Bildschirm
+der Zahl hinzufügen, die bereits gesehen werden kann. Die Idee 
+ist, ein System von drei aufeinanderfolgenden Zahlen zu erstellen. 
+Das Programm kennzeichnet die korrekte Zahl automatisch und die 
+Verriegelungen es. Wenn der Kursteilnehmer die falsche Antwort 
+gibt, bewegt das Programm an auf das folgende einteilen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">En cela chargez les nombres sont 
+pratiqués d'une nouvelle voie en jouant un jeu. Il y a cinq 
+phases dans le charger et les nombres pratiqués sont répartis. 
+Le charger améliore la capacité de student?s d'identifier 
+la connexion entre le nombre écrit et sa prononciation. Le 
+charger doit identifier les nombres corrects sur la base du bruit.
+Il y a cinq ballons au bas de l'écran avec le bruit d'un nombre
+différent. L'étudiant doit ajouter les nombres successifs sur 
+l'écran au nombre qui peut déjà être vu. L'idée est de 
+créer un système de trois nombres successifs. Le programme 
+identifie le nombre correct automatiquement et des serrures il. 
+Si l'étudiant donne la réponse fausse le programme se déplace
+en fonction au prochain mettent en phase.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Nesta tarefa os números são praticados em uma 
+maneira nova jogando um jogo. Há cinco fases na tarefa e os 
+números praticados são distribídos. A tarefa melhora a 
+abilidade dos student?s de identificar a conexão entre o número 
+escrito e sua pronunciação. A tarefa é identificar os 
+números corretos na base do som. Há cinco balões no fundo da 
+tela com o som de um número diferente. O estudante tem que 
+adicionar os números sucessivos na tela ao número que pode já ser 
+visto. A idéia é criar um sistema de três números 
+sucessivos. O programa identifica o número correto 
+automaticamente e fechamentos ele. Se o estudante der a resposta
+errada o programa move-se sobre para o seguinte phase.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">In questa operazione i numeri si esercitano in in 
+un nuovo modo giocando un gioco. Ci sono cinque fasi 
+nell'operazione ed i numeri esercitati in sono assegnati. 
+L'operazione migliora la capacità degli student?s di 
+identificare il collegamento fra il numero scritto e la relativa 
+pronuncia. L'operazione è di identificare i numeri corretti in 
+base al suono. Ci sono cinque aerostati alla parte inferiore 
+dello schermo con il suono di un numero differente. L'allievo 
+deve aggiungere i numeri successivi sullo schermo al numero che può 
+già essere visto. L'idea è creare un sistema di tre numeri 
+successivi. Il programma identifica automaticamente il numero 
+corretto e le serrature esso. Se l'allievo dà la risposta 
+errata il programma si muove sopra verso il seguente mette.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σε αυτήν την στοιχειώδη εργασία οι αριθμοί ασκούνται 
+με έναν νέο τρόπο με το παιχνίδι ενός παιχνιδιού. 
+Υπάρχουν πέντε φάσεις στη στοιχειώδη εργασία και οι 
+αριθμοί που ασκούνται διανέμονται. Η στοιχειώδης εργασία 
+βελτιώνει τη δυνατότητα student?s να προσδιοριστεί η σύνδεση 
+μεταξύ του γραπτού αριθμού και της προφοράς της. Η 
+στοιχειώδης εργασία είναι να προσδιοριστούν οι σωστοί αριθμοί 
+βάσει του ήχου. Υπάρχουν πέντε μπαλόνια στο κατώτατο 
+σημείο της οθόνης με τον ήχο ενός διαφορετικού αριθμού. Ο 
+σπουδαστής πρέπει να προσθέσει τους διαδοχικούς αριθμούς στην 
+οθόνη στον αριθμό που μπορεί ήδη να δει. Η ιδέα
+είναι να δημιουργηθεί ένα σύστημα τριών διαδοχικών αριθμών. 
+Το πρόγραμμα προσδιορίζει το σωστό αριθμό αυτόματα και τον 
+κλειδώνει. Εάν ο σπουδαστής δίνει τη λανθασμένη απάντηση 
+το πρόγραμμα κινείται προς την επόμενη φάση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">En esta tarea los números son practicados de una
+nueva manera jugando un juego. Hay cinco fases en la tarea y los
+números practicados se asignan. La tarea mejora la capacidad de
+los student?s de identificar la conexión entre el número escrito y 
+su pronunciación. La tarea es identificar los números 
+correctos en base del sonido. Hay cinco globos en el fondo de la
+pantalla con el sonido de un diverso número. El estudiante 
+tiene que agregar los números sucesivos en la pantalla al número que
+puede ser considerado ya. La idea es crear un sistema de tres 
+números sucesivos. El programa identifica el número correcto 
+automáticamente y los bloqueos él. Si el estudiante da la 
+respuesta incorrecta el programa se mueve encendido al siguiente pone 
+en fase.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;National Board of Education, Finland
+FN:National Board of Education, Finland
+ORG:National Board of Education, Finland
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;National Board of Education, Finland
+FN:National Board of Education, Finland
+ORG:National Board of Education, Finland
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>1540</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Juho;Helminen;;;
+FN:Helminen Juho
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2003-12-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Byholm;Tea;;;
+FN:Tea Byholm
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Byholm;Tea;;;
+FN:Tea Byholm
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-12</dateTime>
+            </date>
+          </contribute>
+          <language>fi</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">9-13</string>
+            <string language="fi">9-13</string>
+          </typicalAgeRange>
+          <description>
+            <string language="fi">Englannin kielen lukusanojen harjoittelu; ääntämis- ja kirjoitusasun yhdistäminen</string>
+            <string language="en">Practicing the numbers in English, combining the written and the spoken form of the word</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string language="fi">kielet</string>
+                <string language="en">languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>710</id>
+              <entry>
+                <string language="fi">kielten opetus</string>
+                <string language="en">language teaching</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>131</id>
+              <entry>
+                <string language="fi">perustaidot</string>
+                <string language="en">basic skills</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="fi">englannin kieli</string>
+                <string language="en">English language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82572</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/demoportal/CO3.exe</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

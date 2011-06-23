@@ -1,0 +1,413 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82670</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82670</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15302</entry>
+          </identifier>
+          <title>
+            <string language="de">Eine Entdeckungsreise durch Europa</string>
+            <string language="it">Un viaggio alla scoperta dell'Europa</string>
+          </title>
+          <language>en</language>
+          <language>de</language>
+          <description>
+            <string language="de">Die Schüler sind eingeladen, eine Entdeckungsreise anzutreten durch die politische Landschaft Europas. Sie lernen dazu über die politischen Organisationen, über die EU und ihre Organe, über die Kandidatenländer und auch über jene Länder, die wohl geographisch in Europa liegen, aber nicht zur EU gehören.</string>
+            <string language="it">Gli studenti sono invitati a partire per un viaggio alla scoperta degli aspetti politici del Continente Europeo. Imparano notizie sulle organizzazioni politiche, sull'UE e i suoi organismi, sui paesi candidati e anche su ogni stato, che si trova geograficamente in Europa, ma non fa parte dell'UE.</string>
+          </description>
+          <keyword>
+            <string language="de">Staaten Europas</string>
+            <string language="it">Stati Europei</string>
+          </keyword>
+          <keyword>
+            <string language="de">EU-Mitgliedsstaaten</string>
+            <string language="it">Stati membri dell'UE</string>
+          </keyword>
+          <keyword>
+            <string language="de">EU-Kandidatenländer</string>
+            <string language="it">Stati candidati all'UE</string>
+          </keyword>
+          <keyword>
+            <string language="de">Nicht-EU-Länder</string>
+            <string language="it">Stati non membri dell'UE</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:VBS-HAKIII Schoenborngasse
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15302</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-28</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-15</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-15</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-15</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-15</dateTime>
+            </date>
+          </contribute>
+          <language>de</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>counsellor</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-U</string>
+            <string language="de">&gt; 15</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Die Lernenden können ihr Wissen über Europa erweitern und vertiefen. Viele wissen vermutlich noch nicht, welche Staaten nicht in der EU sind - das kann sich jetzt ändern.</string>
+            <string language="it">I discenti possono condividere e approfondire la loro conoscenza dell'Europa. Molti probabilmente non sanno quali stati sono nell'UE - questo ora può cambiare.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="de">Europa</string>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>189</id>
+              <entry>
+                <string language="de">Mittel- und Osteuropa</string>
+                <string language="en">Central and Eastern Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>893</id>
+              <entry>
+                <string language="de">Nordische Länder</string>
+                <string language="en">Nordic countries</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1390</id>
+              <entry>
+                <string language="de">Westeuropa</string>
+                <string language="en">Western Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49</id>
+              <entry>
+                <string language="de">Albanien</string>
+                <string language="en">Albania</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>135</id>
+              <entry>
+                <string language="de">Weißrussland</string>
+                <string language="en">Belarus</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>152</id>
+              <entry>
+                <string language="de">Bosnien-Herzegowina</string>
+                <string language="en">Bosnia and Herzegovina</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>162</id>
+              <entry>
+                <string language="de">Bulgarien</string>
+                <string language="en">Bulgaria</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>289</id>
+              <entry>
+                <string language="de">Kroatien</string>
+                <string language="en">Croatia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>308</id>
+              <entry>
+                <string language="de">Tschechische Republik</string>
+                <string language="en">Czech Republic</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>439</id>
+              <entry>
+                <string language="de">Estland</string>
+                <string language="en">Estonia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>616</id>
+              <entry>
+                <string language="de">Ungarn</string>
+                <string language="en">Hungary</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>714</id>
+              <entry>
+                <string language="de">Lettland</string>
+                <string language="en">Latvia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>759</id>
+              <entry>
+                <string language="de">Litauen</string>
+                <string language="en">Lithuania</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>837</id>
+              <entry>
+                <string language="de">Moldau</string>
+                <string language="en">Moldova</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>992</id>
+              <entry>
+                <string language="de">Polen</string>
+                <string language="en">Poland</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1109</id>
+              <entry>
+                <string language="de">Rumänien</string>
+                <string language="en">Romania</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1191</id>
+              <entry>
+                <string language="de">Slowakei</string>
+                <string language="en">Slovakia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1193</id>
+              <entry>
+                <string language="de">Slowenien</string>
+                <string language="en">Slovenia</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1335</id>
+              <entry>
+                <string language="de">Türkei</string>
+                <string language="en">Turkey</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1341</id>
+              <entry>
+                <string language="de">Ukraine</string>
+                <string language="en">Ukraine</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1419</id>
+              <entry>
+                <string language="de">Jugoslawien</string>
+                <string language="en">Yugoslavia</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82670</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/ps/expl/index_de.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,353 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/2094433496</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>2094433496</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2082</entry>
+          </identifier>
+          <title>
+            <string language="no">Solenergi</string>
+            <string language="en">solar energy</string>
+            <string language="x-mt-de">Solarenergie</string>
+            <string language="x-mt-fr">énergie solaire</string>
+            <string language="x-mt-pt">energia solar</string>
+            <string language="x-mt-it">energia solare</string>
+            <string language="x-mt-el">ηλιακή ενέργεια</string>
+            <string language="x-mt-es">energía solar</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Hvordan kan solstrålene benyttes til å produsere elektrisk kraft?
+Hva skjer hvis det er overskyet eller om natten?</string>
+            <string language="en">How can we use the sunbeams to produce electrical power? What happens if it is cloudy or after sunset.</string>
+          </description>
+          <keyword>
+            <string language="no">solenergi</string>
+            <string language="en">solar energy</string>
+          </keyword>
+          <keyword>
+            <string language="no">solcellepanel</string>
+            <string language="en">solar panel</string>
+          </keyword>
+          <keyword>
+            <string language="no">solinnstråling</string>
+            <string language="en">solaraccessibility.</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Wie können wir die Sunbeams benutzen, um 
+elektrische Energie zu produzieren? Was geschieht, wenn es oder 
+nach Sonnenuntergang bewölkt ist.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Comment pouvons-nous employer les rayons de soleil pour
+produire le courant électrique ? Ce qui se produit s'il est 
+nuageux ou après coucher du soleil.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Como podemos nós usar os sunbeams produzir a 
+potência elétrica? O que acontece se for cloudy ou após o por
+do sol.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Come possiamo usare i raggi di sole per produrre 
+la corrente elettrica? Che cosa accade se è nuvoloso o dopo il 
+tramonto.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πώς μπορούμε να χρησιμοποιήσουμε τις ηλιαχτίδες για να
+παραγάγουμε την ηλεκτρική δύναμη; Αυτό που συμβαίνει εάν 
+είναι νεφελώδες ή μετά από το ηλιοβασίλεμα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Cómo podemos utilizar los rayos de sol para 
+producir corriente eléctrica? Qué sucede si está nublado o 
+después de puesta del sol.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Solarenergie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Solarpanel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">solaraccessibility.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">énergie solaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">panneau solaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">solaraccessibility.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">energia solar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">painel solar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">solaraccessibility.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">energia solare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pannello solare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">solaraccessibility.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλιακή ενέργεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλιακή επιτροπή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">solaraccessibility.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">energía solar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">panel solar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">solaraccessibility.</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2082</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="no">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1350</id>
+              <entry>
+                <string language="en">universe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>563</id>
+              <entry>
+                <string language="en">greenhouse effect</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>410</id>
+              <entry>
+                <string language="en">electrical energy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>2094433496</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/norsk/animasjoner/NMfag/solkraftXL.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

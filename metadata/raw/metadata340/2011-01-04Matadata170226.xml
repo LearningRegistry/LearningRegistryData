@@ -1,0 +1,301 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82431</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82431</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15599</entry>
+          </identifier>
+          <title>
+            <string language="it">Fiumi in Europa</string>
+            <string language="en">Rivers in Europe</string>
+            <string language="x-mt-de">Flüsse in Europa</string>
+            <string language="x-mt-fr">Fleuves en Europe</string>
+            <string language="x-mt-pt">Rios em Europa</string>
+            <string language="x-mt-el">Ποταμοί στην Ευρώπη</string>
+            <string language="x-mt-es">Ríos en Europa</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Questo è un LO riguardante i fiumi in Europa. E' un esercizio di collegamento con immagini dei fiumi e carte geografiche dei paesi.</string>
+            <string language="en">Here we have an LO about rivers in Europe. It's a matching exercise with images of the rivers and maps of the countries.</string>
+          </description>
+          <keyword>
+            <string language="it">fiumi</string>
+            <string language="en">rivers</string>
+          </keyword>
+          <keyword>
+            <string language="it">carte geografiche</string>
+            <string language="en">maps</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Hier haben wir ein NIEDRIGES über Flüsse in 
+Europa. Es ist eine zusammenpassende Übung mit Bildern der 
+Flüsse und der Karten der Länder.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ici nous avons un BAS au sujet des fleuves en 
+Europe. C'est un exercice assorti avec des images des fleuves et
+des cartes des pays.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Aqui nós temos um BAIXO sobre rios em Europa. É 
+um exercício combinando com imagens dos rios e dos mapas dos 
+países.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εδώ έχουμε ένα LO για τους ποταμούς στην Ευρώπη. 
+Είναι μια ταιριάζοντας με άσκηση με τις εικόνες των ποταμών
+και των χαρτών των χωρών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Aquí tenemos un BAJO sobre los ríos en Europa. 
+Es un ejercicio que corresponde con con las imágenes de los 
+ríos y de las correspondencias de los países.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Flüsse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Karten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fleuves</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cartes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mapas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποταμοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χάρτες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ríos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">correspondencias</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Šavli;Viljenka;;;
+FN:Viljenka Šavli
+ORG:Osnovna šola Solkan, Slovenija
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15599</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:savli;VILJENKA;;;
+FN:VILJENKA savli
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-11</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Congedo;Fiorenza;;;
+FN:Fiorenza Congedo
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-05</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Possiamo utilizzare questo LO  dopo aver appreso circa la posizione geografica dei paesi e dei fiumi europei . E' di auto per l'allievo che desidera ripassare le proprie conoscenze concernenti le problematiche geografiche in riferimento ai fiumi.</string>
+            <string language="en">We can use this LO after learning about geographical view of the European countries and rivers. It helps students to revise knowledge about the gographical issues about rivers.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1390</id>
+              <entry>
+                <string language="en">Western Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>189</id>
+              <entry>
+                <string language="en">Central and Eastern Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>424</id>
+              <entry>
+                <string language="en">energy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>430</id>
+              <entry>
+                <string language="en">environment</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>874</id>
+              <entry>
+                <string language="en">natural resources</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82431</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/vili/rivers/rivers_europe_m.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

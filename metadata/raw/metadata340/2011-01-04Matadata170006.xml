@@ -1,0 +1,292 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82768</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82768</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15162</entry>
+          </identifier>
+          <title>
+            <string language="it">L'Unione Europea e la sua anima musicale</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Questo oggetto di apprendimento (LO)  è un cruciverba da completare e costituisce un valido ausilio per i docenti per l’insegnamento  di quanto l’Unione Europea ha in comune in ambito musicale. I nomi dei compositori, delle danze e degli strumenti musicali che fanno parte del patrimonio culturale comune e che più ci rappresentano vengono presentati  in una cornice che vede le definizioni spaziare da quanto simboleggia le austere sfumature nordiche, a quanto rappresenta i toccanti ritmi del Sud del nostro multicolore continente. Gli studenti potranno cliccare sul tasto “Controlla” per vedere se le loro risposte sono giuste. Se non riescono a procedere, c’è un tasto “Suggerimento” che permetterà loro di  ottenere una lettera. Per proseguire, i ragazzi dovranno cliccare sui numeri della griglia per leggere la definizione chiave.  
+Il cruciverba mira a monitorare la conoscenza degli studenti sull’anima musicale dell’Unione Europea, chiedendo loro di dare soluzioni alle seguenti dodici definizioni: 
+
+
+1.	il cognome del compositore tedesco che scrisse il famoso Clavicembalo ben Temperato;
+2.	il cognome del compositore ungherese autore delle Danze Ungheresi e della celebre “Ninna Nanna”
+3.	il nome di un canto malinconico portoghese tipico;
+4.	il  nome della patria di Fryderyk Chopin
+5.	il cognome di un musicista italiano che visse al tempo di Mozart;
+6.	il cognome del compositore dell’Inno dell’Unione Europea;
+7.	il cognome del compositore famoso per le sue “Polacche”:
+8.	lo strumento  a fiato tipico scozzese
+9.	l’affascinante danza spagnola che utilizza ventagli e nacchere per sottolineare il movimento delle braccia;
+10.	il canto e la danza greci, particolarmente caratteristici dell’isola di Creta;
+11.	il cognome del compositore austriaco nato a Salisburgo il 27 gennaio, 1756 
+12.	il cognome del compositore dell’Aida, dell’Ernani e del Falstaff.
+</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Prof. Noemi;;;
+FN:Prof. Noemi Lusi
+ORG:Italy
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15162</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Noemi;;;
+FN:Noemi Lusi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-21</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>it</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>manager</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>counselor</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-U</string>
+            <string language="it">&gt; 11</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Approccio Pedagogico
+Fascia d’età:  11-25
+Tempo     : 45 minutes.
+Procedimento :
+
+gli studenti possono lavorare individualmente, in coppia o in gruppi da 3 o 4. Leggeranno prima tutte le definizioni una volta, e poi cominceranno a rispondere utilizzando i tasti di controllo e suggerimento se hanno bisogno di aiuto. Questo oggetto di apprendimento può essere utilizzato da altri insegnanti in molti modi diversi dipendentemente dal loro contesto, il loro obiettivo, la fascia d’età del gruppo, le conoscenze di base, il numero degli studenti che compongono la classe, il numero dei computers nel  laboratorio,  il tempo a disposizione etc. 
+
+
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="it">cittadinanza</string>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>220</id>
+              <entry>
+                <string language="it">musica classica</string>
+                <string language="en">classical music</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>593</id>
+              <entry>
+                <string language="it">storia della musica</string>
+                <string language="en">history of music</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>664</id>
+              <entry>
+                <string language="it">musica strumentale</string>
+                <string language="en">instrumental music</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>857</id>
+              <entry>
+                <string language="it">compositore di musica</string>
+                <string language="en">music composer</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>858</id>
+              <entry>
+                <string language="it">educazione musicale</string>
+                <string language="en">music education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>862</id>
+              <entry>
+                <string language="it">strumento musicale</string>
+                <string language="en">musical instrument</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>309</id>
+              <entry>
+                <string language="it">danza</string>
+                <string language="en">dance</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>499</id>
+              <entry>
+                <string language="it">cultura popolare</string>
+                <string language="en">folk culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>500</id>
+              <entry>
+                <string language="it">canzone popolare</string>
+                <string language="en">folk song</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="it">cultura</string>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>298</id>
+              <entry>
+                <string language="it">patrimonio culturale</string>
+                <string language="en">cultural heritage</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>299</id>
+              <entry>
+                <string language="it">identità culturale</string>
+                <string language="en">cultural identity</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>300</id>
+              <entry>
+                <string language="it">integrazione culturale</string>
+                <string language="en">cultural integration</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>302</id>
+              <entry>
+                <string language="it">pluralismo culturale</string>
+                <string language="en">cultural pluralism</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82768</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/noemi6-it/lo6-it.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

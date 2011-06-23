@@ -1,0 +1,318 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/1962029938</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>1962029938</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2135</entry>
+          </identifier>
+          <title>
+            <string language="no">Mannens underliv - spill</string>
+            <string language="en">Male abdomen-game</string>
+            <string language="x-mt-de">Männliches Abdomen-Spiel</string>
+            <string language="x-mt-fr">Abdomen-jeu mâle</string>
+            <string language="x-mt-pt">Abdômen-jogo masculino</string>
+            <string language="x-mt-it">Addome-gioco maschio</string>
+            <string language="x-mt-el">Αρσενικό κοιλία-παιχνίδι</string>
+            <string language="x-mt-es">Abdomen-juego masculino</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Et lite spill om mannens underliv. Klarer du å sette riktig navn på alle organene?</string>
+            <string language="en">A quick game about the male abdomen.Can you name all the organs correctly?</string>
+          </description>
+          <keyword>
+            <string language="no">mannens underliv</string>
+            <string language="en">male abdomen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Ein schnelles Spiel über den Mann abdomen.Can 
+benennen Sie alle Organe richtig?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un jeu rapide au sujet du mâle abdomen.Can vous 
+nommez tous les organes correctement ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um jogo rápido sobre o macho abdomen.Can você 
+nomeia todos os órgãos corretamente?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un gioco rapido circa il maschio abdomen.Can 
+chiamate correttamente tutti gli organi?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα γρήγορο παιχνίδι για την αρσενική κοιλία μπορεί 
+εσείς να ονομάσει όλα τα όργανα σωστά;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Un juego rápido sobre el varón abdomen.Can 
+usted nombra todos los órganos correctamente?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">männliches Abdomen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">abdomen mâle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">abdômen masculino</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">addome maschio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αρσενική κοιλία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">abdomen masculino</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2135</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-13</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="no">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string language="en">biology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>62</id>
+              <entry>
+                <string language="en">anatomy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>609</id>
+              <entry>
+                <string language="en">human anatomy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>610</id>
+              <entry>
+                <string language="en">human biology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>582</id>
+              <entry>
+                <string language="en">health</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>583</id>
+              <entry>
+                <string language="en">health education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>1962029938</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/Underliv_mann_spill.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

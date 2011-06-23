@@ -1,0 +1,207 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82935</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82935</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15610</entry>
+          </identifier>
+          <title>
+            <string language="it">I nostri valori comuni</string>
+            <string language="en">Our Common Values</string>
+            <string language="x-mt-de">Unsere Common-Werte</string>
+            <string language="x-mt-fr">Nos Valeurs de Terrain communal</string>
+            <string language="x-mt-pt">Nossos Valores Da Terra comum</string>
+            <string language="x-mt-el">Οι κοινές τιμές μας</string>
+            <string language="x-mt-es">Nuestros Valores Del Campo común</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Analizzare  i valori presentati dagli insegnanti myEurope di diversi paesi. Non importa da dove veniamo, i valori sono universali e indispensabili per vivere nella società.</string>
+            <string language="en">Exploring the values presented by myEUROPE teachers from different countries. No matter where we come from, values are universal and indispensable for living in society.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Das Erforschen der Werte stellte sich durch 
+myEUROPE Lehrer aus unterschiedlichen Ländern dar. Egal wo wir 
+von kommen, sind Werte allgemeinhin und Indispensable für das Leben 
+in der Gesellschaft.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Explorer les valeurs a présenté par des 
+professeurs de myEUROPE de différents pays. N'importe où nous 
+venons de, les valeurs sont universelles et nécessaire pour vivre 
+dans la société.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Explorar os valores apresentou-se por professores 
+do myEUROPE dos países diferentes. Não importa onde nós vimos
+de, os valores são universais e indispensable para viver na 
+sociedade.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ερευνώντας τις τιμές που παρουσιάζονται από τους 
+δασκάλους myEUROPE από τις διαφορετικές χώρες. 
+Οπουδήποτε και να προερχόμαστε από, οι τιμές είναι 
+καθολικές και αναπόφευκτες για τη διαβίωση στην κοινωνία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Explorar los valores presentó por los profesores 
+del myEUROPE de diversos países. No importa dónde venimos de, 
+los valores son universales e indispensable para vivir en sociedad.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Fonseca;Isabel ;;;
+FN:Isabel  Fonseca
+ORG:EBI c/ JI Sophia de Mello Breyner
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15610</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Fonseca;Isabel;;;
+FN:Isabel Fonseca
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-11</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Congedo;Fiorenza;;;
+FN:Fiorenza Congedo
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-05</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-16</string>
+            <string language="en">12-16</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">I valori possono essere illustrati nello stimolare esempi da parte degli alunni. Situazioni di role-play possono essere create dagli alunni. Ogni valore può essere illustrato.</string>
+            <string language="en">The Values can be explored while elliciting examples from students. 
+Role-play situations can be made up by students.
+Each value can be illustrated.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1357</id>
+              <entry>
+                <string language="en">value system</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82935</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/isabel2/cv1.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

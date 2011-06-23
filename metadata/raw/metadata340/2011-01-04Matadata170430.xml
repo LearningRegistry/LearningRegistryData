@@ -1,0 +1,278 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82695</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82695</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4343</entry>
+          </identifier>
+          <title>
+            <string language="no">Kvadratrot</string>
+            <string language="en">Square root</string>
+            <string language="x-mt-de">Quadratwurzel</string>
+            <string language="x-mt-fr">Racine carrée</string>
+            <string language="x-mt-pt">Raiz quadrada</string>
+            <string language="x-mt-it">Radice quadrata</string>
+            <string language="x-mt-el">Τετραγωνική ρίζα</string>
+            <string language="x-mt-es">Raíz cuadrada</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Øv på å finne kvaratroten til tall.</string>
+            <string language="en">Practise finding the square root.</string>
+          </description>
+          <keyword>
+            <string language="no">kvadratrot</string>
+            <string language="en">square root</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Üben Sie, die Quadratwurzel zu finden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pratiquez trouver la racine carrée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Pratique encontrar a raiz quadrada.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Esercitisi in trovare la radice quadrata.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πρακτική που βρίσκει την τετραγωνική ρίζα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Practique el encontrar de la raíz cuadrada.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Quadratwurzel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">racine carrée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">raiz quadrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">radice quadrata</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τετραγωνική ρίζα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">raíz cuadrada</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4343</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-02-27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-31</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-31</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="no">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>791</id>
+              <entry>
+                <string language="en">meadow</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>88</id>
+              <entry>
+                <string language="en">arithmetic</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>170</id>
+              <entry>
+                <string language="en">calculation</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82695</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/norsk/animasjoner/matematikk/kvadratrot/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

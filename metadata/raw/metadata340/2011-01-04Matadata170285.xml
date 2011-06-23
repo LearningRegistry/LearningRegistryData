@@ -1,0 +1,153 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82863</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82863</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>37563</entry>
+          </identifier>
+          <title>
+            <string language="de">Erweitern von Brüchen</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Erweitern von Brüchen
+URL: http://www.lehrer-online.de/brueche-erweitern.php?sid=37296452118191451919358935896200
+</string>
+          </description>
+          <keyword>
+            <string language="de">Brüche Erweitern</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Schachner;Karin;;;
+FN:Karin Schachner
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>37563</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Schachner;Karin;;;
+FN:Karin Schachner
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-28</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-14</string>
+            <string language="de">12-14</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Die Schülerinnen und Schüler sollen
+•	erkennen, dass für eine Bruchzahl unterschiedliche Darstellungen möglich sind.
+•	durch Experimentieren das Erweitern eines Bruchs visuell erfahren.
+•	das Erweitern eines Bruchs durch das Multiplizieren von Zähler und Nenner mit der gleichen Zahl selbstständig entdecken.
+•	die erworbenen Kenntnisse über das Erweitern von Brüchen auf unterschiedliche Beispiele anwenden.
+Die geometrische Veranschaulichung des Erweiterns anhand der Verfeinerung der Unterteilung eines gegebenen Rechtecks wird mithilfe von GeoGebra realisiert. Neben der dynamischen Veranschaulichungs- und Experimentierumgebung bietet die Unterrichtseinheit eine javascript-basierte algebraische Übungsmöglichkeit zur Individualisierung und Differenzierung des Unterrichts. Eine zusätzliche, nicht zu unterschätzende, Motivation während dieser Übungs- und Vertiefungsphase bietet ein Wettbewerb, bei dem die Schülerinnen und Schüler die von Ihnen erreichte Punktzahl in eine Bestenliste eintragen können. Jede Schülerin und jeder Schüler arbeiten an einem eigenen Computer.
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>852</id>
+              <entry>
+                <string language="de">multimediales Material</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>667</id>
+              <entry>
+                <string language="de">interaktives Material</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82863</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/Lesson_ Plan_Erweitern_Bruechel.pdf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

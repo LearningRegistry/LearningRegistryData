@@ -1,0 +1,248 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82834</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82834</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>16102</entry>
+          </identifier>
+          <title>
+            <string language="en">Symbols of the Euro</string>
+            <string language="fr">Les symboles de l'Euro</string>
+            <string language="x-mt-de">Symbole des Euro</string>
+            <string language="x-mt-pt">Símbolos do euro</string>
+            <string language="x-mt-it">Simboli dell'Euro</string>
+            <string language="x-mt-el">Σύμβολα του ευρώ</string>
+            <string language="x-mt-es">Símbolos del Euro</string>
+          </title>
+          <language>fr</language>
+          <description>
+            <string language="en">A small game to learn the symbols from our euros and our national or European culture.</string>
+            <string language="fr">Un petit jeu pour apprendre les symboles de nos euros et notre culture nationale ou européenne.</string>
+          </description>
+          <keyword>
+            <string language="en">the euro area symbol currency representation</string>
+            <string language="fr">zone euro symbole monnaie représentation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ein kleines Spiel, zum der Symbole von unseren 
+Euro und von unserer nationalen oder europäischen Kultur zu
+erlernen.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um jogo pequeno para aprender os símbolos de 
+nossos euros e de nossa cultura nacional ou européia.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un piccolo gioco per imparare i simboli dai nostri
+euro e dalla nostra coltura nazionale o europea.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα μικρό παιχνίδι για να μάθει τα σύμβολα από τα 
+ευρώ μας και τον εθνικό ή ευρωπαϊκό πολιτισμό μας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un juego pequeño para aprender los símbolos de 
+nuestros euros y de nuestra cultura nacional o europea.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">die Eurobereich Symbol-Währungdarstellung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">a respresentação euro da moeda corrente do símbolo da área</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la rappresentazione di valuta di simbolo di zona di 
+euro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">η αντιπροσώπευση νομίσματος συμβόλων περιοχής του ευρώ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">la representación de la modernidad del símbolo del área del 
+euro</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Franck;Le cars;;;
+FN:Le cars Franck
+ORG:Lycée Camus Nimes France
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>16102</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Le-Cars;Franck;;;
+FN:Franck Le-Cars
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-07-16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:suciu;raluca;;;
+FN:raluca suciu
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:suciu;raluca;;;
+FN:raluca suciu
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <language>fr</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-20</string>
+            <string language="fr">12-20</string>
+          </typicalAgeRange>
+          <description>
+            <string language="en">A small game to understand the bound between the national and European identity  across our currency</string>
+            <string language="fr">Un petit jeu pour comprendre le lien entre l'identité nationale et européenne au travers notre monnaie.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>697</id>
+              <entry>
+                <string language="en">knowledge</string>
+                <string language="fr">connaissance</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+                <string language="fr">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="en">culture</string>
+                <string language="fr">culture</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82834</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/flc/sym/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,224 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82581</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82581</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15578</entry>
+          </identifier>
+          <title>
+            <string language="de">Berühmte Europäer/innen</string>
+            <string language="en">Famous europeans</string>
+            <string language="x-mt-fr">Européens célèbres</string>
+            <string language="x-mt-pt">Europeus famosos</string>
+            <string language="x-mt-it">Europei famosi</string>
+            <string language="x-mt-el">Οι διάσημοι Ευρωπαίοι</string>
+            <string language="x-mt-es">Europeos famosos</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="de">Lernobjekt mit Multimedia Hachette erstellt: Berühmte Persönlichkeiten und Ereignisse aus der Geschichte Europas - erkenne das Bild oder das Ereignis.</string>
+            <string language="en">Learning object made with Multimedia Hachette: Famous persons and events from history of Europe- recognize the picture or event.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Objet d'étude fait avec des multimédia Hachette 
+: Les personnes célèbres et les événements de l'histoire de 
+l'Europe identifient l'image ou l'événement.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Objeto de aprendizagem feito com multimedia 
+Hachette: As pessoas famosas e os eventos do history de Europa 
+reconhecem o retrato ou o evento.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Oggetto imparante fatto con le multimedia 
+Hachette: Le persone famose e gli eventi da storia di Europa 
+riconoscono l'immagine o l'evento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το αντικείμενο εκμάθησης έκανε με τα πολυμέσα 
+Hachette: Διάσημα πρόσωπα και γεγονότα από την ιστορία 
+της Ευρώπης - αναγνωρίστε την εικόνα ή το γεγονός.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Objeto que aprende hecho con las Multimedias 
+Hachette: Las personas famosas y los acontecimientos de la 
+historia de Europa reconocen el cuadro o el acontecimiento.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:Kuressaare Gymnasium
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15578</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-18</string>
+            <string language="en">10-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Übung über Europäische Geschichte, berühmte Persönlichkeiten - nützlich für Geschichte und Politische Bildung, zum Selbstlernen.</string>
+            <string language="en">Exercise about European history,  famous persons - usable in history or civics lessons with student self-control</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>590</id>
+              <entry>
+                <string language="en">history</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82581</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/maidu/lobe1/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

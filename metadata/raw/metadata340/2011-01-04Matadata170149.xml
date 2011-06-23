@@ -1,0 +1,211 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82780</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82780</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14338</entry>
+          </identifier>
+          <title>
+            <string language="it">Cosa sai della UE?</string>
+            <string language="en">What do you know about the EU?</string>
+            <string language="x-mt-de">Was kennen Sie über das EU?</string>
+            <string language="x-mt-fr">Que connaissez-vous l'EU ?</string>
+            <string language="x-mt-pt">Que você sabe sobre o EU?</string>
+            <string language="x-mt-el">Τι ξέρετε για την ΕΕ;</string>
+            <string language="x-mt-es">¿Qué usted sabe sobre el EU?</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Un quiz interattivo che testa la conoscenza della Unione Europea.</string>
+            <string language="en">An interactive quiz testing knowledge of the European Union.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Ein prüfenwissen des interaktiven Quiz des europäischen 
+Anschlußes.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une connaissance de test de jeu interactif de l'union 
+européenne.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um conhecimento testando do quiz interativo da união 
+européia.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια διαλογική εξεταστική γνώση διαγωνισμοου γνώσεων 
+της Ευρωπαϊκής Ένωσης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un conocimiento de prueba del concurso interactivo de la 
+unión europea.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:Westminster Under School
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14338</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">U-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Il quiz interattivo funziona meglio con Internet Explorer, Mozilla e Opera, non funziona con Safari.</string>
+            <string language="en">This interactive quiz works best in Internet Explorer, Mozilla and Opera.
+It doesn't work in Safari.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82780</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/03/patricia-bis/europe-quiz/new.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

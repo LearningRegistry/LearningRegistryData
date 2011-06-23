@@ -1,0 +1,281 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82481</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82481</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15319</entry>
+          </identifier>
+          <title>
+            <string language="it">Storia delle invenzioni europee</string>
+            <string language="en">History of European inventions</string>
+            <string language="x-mt-de">Geschichte der europäischen Erfindungen</string>
+            <string language="x-mt-fr">Histoire des inventions européennes</string>
+            <string language="x-mt-pt">History de invenções européias</string>
+            <string language="x-mt-el">Ιστορία των ευρωπαϊκών εφευρέσεων</string>
+            <string language="x-mt-es">Historia de invenciones europeas</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Questo LO valuta se lo studente conosce da dove provengono gli inventori, di quale paese sono.</string>
+            <string language="en">This LO tests if students know where the inventors come from, what country they are from.</string>
+          </description>
+          <keyword>
+            <string language="it">inventori</string>
+            <string language="en">inventors</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Aus dieses NIEDRIGE Tests, wenn wissen 
+Kursteilnehmer, wohin die Erfinder kommen von, welchem Land sie sind.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce BAS essais si les étudiants savent d'où les 
+inventeurs viennent, de quel pays ils sont.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este testes BAIXOS se os estudantes souberem de 
+aonde os inventores vêm, que país são.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το LO εξετάζει εάν οι σπουδαστές ξέρουν όπου
+οι εφευρέτες προέρχονται από, ποια χώρα είναι από.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este pruebas BAJAS si los estudiantes saben de 
+adónde los inventores vienen, qué país son.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Erfinder</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">inventeurs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">inventores</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εφευρέτες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">inventores</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Šavli;Viljenka;;;
+FN:Viljenka Šavli
+ORG:Osnovna šola Solkan, Slovenija
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15319</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:savli;VILJENKA;;;
+FN:VILJENKA savli
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-28</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Dopo aver ricercato i dati sulle invenzioni in Europa, potete usare questo LO per controllare la conoscenza sul paese di origine degli inventori. Si tratta di un esercizio interattivo che abbina gli inventori al paese di provenienza.</string>
+            <string language="en">After searching the data about inventions in Europe you can use this LO to check the knowledge about the inventors origin. It's an interactive exercise with maching the inventors with the proper country.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1292</id>
+              <entry>
+                <string language="en">technology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>464</id>
+              <entry>
+                <string language="en">experiment</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>298</id>
+              <entry>
+                <string language="en">cultural heritage</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>590</id>
+              <entry>
+                <string language="en">history</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>677</id>
+              <entry>
+                <string language="en">invention</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82481</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/sv/inventions/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

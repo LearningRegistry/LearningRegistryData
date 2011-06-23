@@ -1,0 +1,161 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82647</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82647</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>37561</entry>
+          </identifier>
+          <title>
+            <string language="de">Lineare FunktionQuadratwurzel</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Quadratwurzel
+URL: http://www.zum.de/dwu/hp-math.htm#Wurzeln
+</string>
+          </description>
+          <keyword>
+            <string language="de">Quadratwurzel</string>
+          </keyword>
+          <keyword>
+            <string language="de">Reelle Zahlen</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Schachner;Karin;;;
+FN:Karin Schachner
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>37561</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Schachner;Karin;;;
+FN:Karin Schachner
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-28</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+            <string language="de">14-15</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Arbeiten mit Zahlen und Maßen
+      - durch zusammenfassendes Betrachten das Zahlenverständnis
+        vertiefen,
+      - anhand einfacher Beispiele erkennen, dass es
+        Rechensituationen gibt, die nicht mit Hilfe der rationalen
+        Zahlen lösbar sind,
+      - Näherungswerte oder Schranken für irrationale Zahlen angeben
+        können, auch unter Verwendung elektronischer Hilfsmittel,
+      - bei Anwendungen Überlegungen zur sinnvollen Genauigkeit
+        anstellen.
+Die Schülerinnen und Schüler der 8.Schulstufe arbeiten wöchentlich eine Unterrichtseinheit am Computer. Vor dieser Unterrichtseinheit wurde die Quadratwurzel, ihre grafische Darstellung am Zahlenstrahl, die Annäherungsmethode durch Intervallschachtelung und die Rechengesetze eingeführt. In dieser Unterrichtseinheit dienten diese drill &amp;amp; practise Aufgaben auf der oben genannten Internetseite zur Festigung und Übung. Die Schülerinnen arbeiteten selbständig im eigenen Tempo und sich selbst evaluierend.
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>852</id>
+              <entry>
+                <string language="de">multimediales Material</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>667</id>
+              <entry>
+                <string language="de">interaktives Material</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82647</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/Lesson_ Plan_Quadratwurzel.pdf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

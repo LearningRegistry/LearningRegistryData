@@ -1,0 +1,216 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/1153787606</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>1153787606</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14320</entry>
+          </identifier>
+          <title>
+            <string language="it">Unione Europea</string>
+            <string language="en">European Union</string>
+            <string language="x-mt-de">Europäischer Anschluß</string>
+            <string language="x-mt-fr">Union Européenne</string>
+            <string language="x-mt-pt">União Européia</string>
+            <string language="x-mt-el">Ευρωπαϊκή Ένωση</string>
+            <string language="x-mt-es">Unión Europea</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Cruciverba per verificare la conoscenza della Unione Europea e della cittadinanza</string>
+            <string language="en">Crossword to test knowledge of the European Union and citizenship</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Kreuzworträtsel, zum des Wissens des 
+europäischen Anschlußes und der Staatsbürgerschaft zu prüfen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Mots croisé pour tester la connaissance de 
+l'union et de la citoyenneté européennes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Crossword para testar o conhecimento da união e 
+do citizenship europeus</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σταυρόλεξο για να εξετάσει τη γνώση της Ευρωπαϊκής 
+Ένωσης και της υπηκοότητας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Crucigrama para probar el conocimiento de la 
+unión y de la ciudadanía europeas</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:Westminster Under School
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14320</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:McLean;Patricia;;;
+FN:Patricia McLean
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">U-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Un cruciverba interattivo riguardo alla cittadinanza dell' Unione Europea</string>
+            <string language="en">An interactive crossword about citizenship of the European Union</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>1153787606</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/pat1/citizenship.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

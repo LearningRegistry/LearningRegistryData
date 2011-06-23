@@ -1,0 +1,286 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82613</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82613</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15718</entry>
+          </identifier>
+          <title>
+            <string language="it">Lego</string>
+            <string language="en">Lego</string>
+            <string language="x-mt-de">Lego</string>
+            <string language="x-mt-fr">Lego</string>
+            <string language="x-mt-pt">Lego</string>
+            <string language="x-mt-el">Lego</string>
+            <string language="x-mt-es">Lego</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Lego è un esercizio di completamento sull'invenzione del Lego</string>
+            <string language="en">Lego is a fill in the gap exercise about the Lego invention.</string>
+          </description>
+          <keyword>
+            <string language="it">invenzione</string>
+            <string language="en">invention</string>
+          </keyword>
+          <keyword>
+            <string language="it">mattoncini Lego</string>
+            <string language="en">lego blocks</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Lego ist ausfüllen die Abstand Übung über die 
+Lego Erfindung.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Lego est un compléter l'exercice d'intervalle au
+sujet de l'invention de Lego.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Lego é uma suficiência no exercício da 
+abertura sobre a invenção de Lego.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το Lego είναι μια αφθονία στην άσκηση χάσματος για 
+την εφεύρεση Lego.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Lego es un completar el ejercicio del boquete 
+sobre la invención de Lego.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Erfindung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">lego Blöcke</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">invention</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">blocs de lego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">invenção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">blocos do lego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εφεύρεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ομάδες δεδομένων lego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">invención</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bloques del lego</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Šavli;Viljenka;;;
+FN:Viljenka Šavli
+ORG:Osnovna šola Solkan, Slovenija
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15718</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:savli;VILJENKA;;;
+FN:VILJENKA savli
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>author</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">13-18</string>
+            <string language="en">13-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Questo LO può essere usato per imparare sulle invenzioni in Europa in senso più ampio. Gli studenti hanno bisogno di leggere dei testi sulle invenzioni come primo passo, e poi di usare il test per fare pratica e autovalutare la loro conoscenza su alcune invenzioni. Esso valuta anche il lessico della lingua inglese</string>
+            <string language="en">This LO can be used after learning about inventions in Europe in a wider sense. Students need to read texts about the inventions as such first and than use it to practice and selfasses the knowledge about certain inventions. It aslo asseses English vocabulary.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>96</id>
+              <entry>
+                <string language="en">art technique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1292</id>
+              <entry>
+                <string language="en">technology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>324</id>
+              <entry>
+                <string language="en">design</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>595</id>
+              <entry>
+                <string language="en">history of technology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82613</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/vili15-06/inventions/intro_inventions.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

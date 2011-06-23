@@ -1,0 +1,279 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/784521753</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>784521753</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>2153</entry>
+          </identifier>
+          <title>
+            <string language="no">Kurvediagram</string>
+            <string language="en">A graph</string>
+            <string language="x-mt-de">Ein Diagramm</string>
+            <string language="x-mt-fr">Un graphique</string>
+            <string language="x-mt-pt">Um gráfico</string>
+            <string language="x-mt-it">Un grafico</string>
+            <string language="x-mt-el">Μια γραφική παράσταση</string>
+            <string language="x-mt-es">Un gráfico</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Tast inn tall og få ut et kurvediagram.</string>
+            <string language="en">Type numbers and get a graph.</string>
+          </description>
+          <keyword>
+            <string language="no">kurve</string>
+            <string language="en">curve</string>
+          </keyword>
+          <keyword>
+            <string language="no">kurvediagram</string>
+            <string language="en">graph</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Schreiben Sie Zahlen und erhalten Sie ein 
+Diagramm.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Tapez les nombres et obtenez un graphique.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Datilografe números e comece um gráfico.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Digiti i numeri ed ottenga un grafico.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι αριθμοί τύπων και παίρνουν μια γραφική παράσταση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Pulse los números y consiga un gráfico.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kurve</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Diagramm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">courbe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">graphique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">curva</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gráfico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">curva</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grafico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καμπύλη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραφική παράσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">curva</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gráfico</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>2153</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-31</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-30</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-18</string>
+            <string language="no">10-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1242</id>
+              <entry>
+                <string language="en">statistics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>784521753</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/norsk/animasjoner/matematikk/statkurve/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

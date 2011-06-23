@@ -1,0 +1,297 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82595</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82595</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15163</entry>
+          </identifier>
+          <title>
+            <string language="it">Gergo europeo</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Questo oggetto di apprendimento è un cruciverba da completare che mira ad insegnare agli studenti come le istituzioni dell’U.E. ed i media spesso si esprimano attraverso espressioni e sostantivi di “gergo europeo”. E’ strutturato in modo tale da mettere alla prova i ragazzi per vedere se conoscono il significato delle parole, se ne comprendono pienamente il significato ed aiuta a consolidare la loro conoscenza sull’argomento. Gli studenti potranno cliccare su “Controlla” per vedere se le loro risposte sono corrette. Se non riescono a proseguire, c’è un tasto “Suggerimento” cui possono ricorrere per ottenere una lettera aggiuntiva. Per procedere, devono cliccare sul numero della griglia per leggere la definizione chiave.
+
+Il cruciverba permette di effettuare un test di conoscenza sul “Gergo europeo”, chiedendo agli studenti di individuare i seguenti termini: 
+1.	Sovranazionale
+2.	Intergovernativo
+3.	Eurobarometro
+4.	DG
+5.	Benchmarking
+6.	SEE
+7.	Stakeholder 
+8.	Nove (giorno di maggio in cui si celebra la Festa dell’Europa)
+9.	Vertice 
+10.	Trasparenza
+11.	Eurolandia
+12.	EFTA</string>
+          </description>
+          <keyword>
+            <string language="it">gergo europeo</string>
+          </keyword>
+          <keyword>
+            <string language="it">termini specifici in ambito europeo</string>
+          </keyword>
+          <keyword>
+            <string language="it">sigle</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Prof. Noemi;;;
+FN:Prof. Noemi Lusi
+ORG:Italy
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15163</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lusi;Noemi;;;
+FN:Noemi Lusi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-21</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <language>it</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>manager</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>counsellor</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>educational administration</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>policy making</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-U</string>
+            <string language="it">&gt; 14</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Obiettivi Pedagogici e Didattici
+
+Gli studenti si avvicinano o consolidano la conoscenza relativa al “gergo europeo” che è un nuovo modo di riferirsi alle questioni dell’Unione Europea.
+
+ Approccio pedagogico
+Fascia di età: 14-25
+Tempo     : 45 minuti.
+
+Procedimento
+gli studenti possono lavorare individualmente, in coppia o in gruppi da 3 o 4. Leggeranno prima tutte le definizioni una volta e poi cominceranno a rispondere utilizzando i tasti di controllo e suggerimento se hanno bisogno di aiuto. Questo oggetto di apprendimento può essere utilizzato da altri insegnanti in molti modi diversi dipendentemente dal loro contesto, il loro obiettivo, la fascia d’età del gruppo, le conoscenze di base, il numero degli studenti che compongono la classe, il numero dei computers nel  laboratorio,  il tempo a disposizione etc.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>239</id>
+              <entry>
+                <string language="it">competenza comunicativa</string>
+                <string language="en">communicative competence</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>238</id>
+              <entry>
+                <string language="it">comunicazione</string>
+                <string language="en">communication</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>127</id>
+              <entry>
+                <string language="it">attività di sensibilizzazione</string>
+                <string language="en">awareness-raising activities</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>672</id>
+              <entry>
+                <string language="it">relazioni internazionali</string>
+                <string language="en">international relations</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>671</id>
+              <entry>
+                <string language="it">organizzazione internazionale</string>
+                <string language="en">international organisation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="it">cultura</string>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>302</id>
+              <entry>
+                <string language="it">pluralismo culturale</string>
+                <string language="en">cultural pluralism</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="it">Unione Europea</string>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>450</id>
+              <entry>
+                <string language="it">Commissione Europea</string>
+                <string language="en">European Commission</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>452</id>
+              <entry>
+                <string language="it">Parlamento Europeo</string>
+                <string language="en">European Parliament</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82595</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/02/noemi7/it/lo7-it.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,254 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82741</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82741</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15403</entry>
+          </identifier>
+          <title>
+            <string language="it">Quiz sull'Unione europea</string>
+            <string language="en">Quiz on the European Union</string>
+            <string language="x-mt-de">Quiz auf dem europäischen Anschluß</string>
+            <string language="x-mt-fr">Jeu sur l'union européenne</string>
+            <string language="x-mt-pt">Quiz na união européia</string>
+            <string language="x-mt-el">Διαγωνισμός γνώσεων στην Ευρωπαϊκή Ένωση</string>
+            <string language="x-mt-es">Concurso en la unión europea</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Quanto bene conosci alcuni dei suoi simboli?</string>
+            <string language="en">How well do you know some of its symbols?</string>
+          </description>
+          <keyword>
+            <string language="it">bandiera</string>
+            <string language="en">flag</string>
+          </keyword>
+          <keyword>
+            <string language="it">euro</string>
+            <string language="en">euro</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Wie gut wissen Sie einige seiner Symbole?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">À quel point savez-vous certains de ses symboles
+?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Como bem você sabe alguns de seus símbolos?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πόσο καλά ξέρετε μερικά από τα σύμβολά της;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Usted sabe cómo bien algunos de sus símbolos?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Markierungsfahne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Euro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">indicateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">euro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bandeira</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">euro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημαία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ευρο-</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">indicador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">euro</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Byholm;Tea;;;
+FN:Tea Byholm
+ORG:null
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15403</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Byholm;Tea;;;
+FN:Tea Byholm
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-05-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+            <string language="en">&gt; 12</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Dopo aver studiato le 12 lezioni sull'Unione Europea, puoi procedere con il primo quiz per scoprire cosa hai imparato</string>
+            <string language="en">After studying the 12 lessons on the European Union you can proseed to this first quiz find out what you have learned.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82741</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/tea-bis/our/quizsymbolsjqz.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

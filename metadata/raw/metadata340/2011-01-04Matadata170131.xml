@@ -1,0 +1,267 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82555</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82555</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4811</entry>
+          </identifier>
+          <title>
+            <string language="it">Teorema di Thales</string>
+            <string language="en">Thales-theorem</string>
+            <string language="x-mt-de">Thales-Theorem</string>
+            <string language="x-mt-fr">Thales-theorem</string>
+            <string language="x-mt-pt">Thales-thales-theorem</string>
+            <string language="x-mt-el">Τχαλες-θεώρημα</string>
+            <string language="x-mt-es">Thales-teorema</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Dopo aver posto una domanda possiamo pervenire alla tesi di Thales. Una apposita animazione interattiva convincerà l'utilizzatore della giustezza della tesi. Anche il programma dimostra la tesi.</string>
+            <string language="en">After putting a question we can reach the Thales-thesis. A proper interactive animation will convince the user of the rightness of this thesis. The curriculum proves the thesis, too</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Nachdem wir eine Frage gesetzt haben, können wir 
+die Thales-These erreichen. Eine korrekte interaktive Animation 
+überzeugt den Benutzer der Richtigkeit dieser These. Der 
+Lehrplan prüft die These, auch</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Après avoir posé une question nous pouvons 
+atteindre le Thales-thesis. Une animation interactive 
+appropriée convaincra l'utilisateur de l'exactitude de cette thèse. 
+Le programme d'études prouve la thèse, aussi</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Após ter posto uma pergunta nós podemos 
+alcançar o Thales-thales-thesis. Um animation interativo 
+apropriado convencerá o usuário do rightness deste thesis. O 
+curriculum prova o thesis, demasiado</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μετά από να θέσουμε ένα ερώτημα μπορούμε να 
+φθάσουμε στην τχαλες-διατριβή. Μια κατάλληλη διαλογική 
+ζωτικότητα θα πείσει το χρήστη rightness αυτής της διατριβής. 
+Το πρόγραμμα σπουδών αποδεικνύει τη διατριβή, επίσης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Después de poner una pregunta podemos alcanzar 
+la Thales-tesis. Una animación interactiva apropiada 
+convencerá a utilizador de la exactitud de esta tesis. El plan 
+de estudios prueba la tesis, también</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Talma Média
+FN:Talma Média
+ORG:Talma Média
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4811</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Márta;;;
+FN:Márta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-05-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="en">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>791</id>
+              <entry>
+                <string language="en">meadow</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82555</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.digitalbrain.com/celebrate/community/celebrate/resources/Hungary/maths/Thales-theorem/home/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

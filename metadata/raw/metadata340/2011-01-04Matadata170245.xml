@@ -1,0 +1,235 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82713</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82713</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15621</entry>
+          </identifier>
+          <title>
+            <string language="de">Reise mit dem Flugzeug durch die EU</string>
+            <string language="en">Travel around European Union by plane</string>
+            <string language="x-mt-fr">Voyage autour d'union européenne en l'avion</string>
+            <string language="x-mt-pt">Curso em torno da união européia pelo plano</string>
+            <string language="x-mt-it">Corsa intorno ad Unione Europea in aereo</string>
+            <string language="x-mt-el">Ταξίδι γύρω από την Ευρωπαϊκή Ένωση με το αεροπλάνο</string>
+            <string language="x-mt-es">Recorrido alrededor de la unión europea en plano</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="de">Ein interaktives Programm zum Finden europäischer Städte.</string>
+            <string language="en">An interactive program for finding the correct places of several european cities.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un programme interactif pour trouver les endroits 
+corrects de plusieurs villes européennes.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um programa interativo para encontrar os lugares 
+corretos de diversas cidades européias.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un programma interattivo per l'individuazione dei 
+posti corretti di parecchie città europee.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα διαλογικό πρόγραμμα για τις σωστές θέσεις 
+διάφορων ευρωπαϊκών πόλεων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un programa interactivo para encontrar los lugares
+correctos de varias ciudades europeas.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Gálik;Zoltán;;;
+FN:Zoltán Gálik
+ORG:Comenius University, Bratislava, Slovakia
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15621</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Galik;Zoltan;;;
+FN:Zoltan Galik
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-U</string>
+            <string language="en">&gt; 8</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Die SchülerInnen müssen die richtigen Orte aus über 50 verschiedenen Städten auf der Landkarte Europas finden. Sie reisen durch Europa, indem sie die Europäischen Städte anklicken.</string>
+            <string language="en">Pupils will have to find the proper places for more than 50 different towns and cities on the map of Europe. They will travel around Europe by clicking the European Cities.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1318</id>
+              <entry>
+                <string language="en">town</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1332</id>
+              <entry>
+                <string language="en">travel</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82713</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/zoltan/last/travel/en/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

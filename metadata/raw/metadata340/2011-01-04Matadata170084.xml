@@ -1,0 +1,284 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82532</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82532</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4188</entry>
+          </identifier>
+          <title>
+            <string language="it">Organi - puzzle</string>
+            <string language="en">Organs - puzzle</string>
+            <string language="x-mt-de">Organe - Puzzlespiel</string>
+            <string language="x-mt-fr">Organes - puzzle</string>
+            <string language="x-mt-pt">Órgãos - enigma</string>
+            <string language="x-mt-el">Όργανα - γρίφος</string>
+            <string language="x-mt-es">Órganos - rompecabezas</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Un puzzle sugli organi del corpo umano. Sei in grado di collocare correttamente tutti gli organi?</string>
+            <string language="en">A puzzle about the hman organs. Do you manage to place all the parts right?</string>
+          </description>
+          <keyword>
+            <string language="it">organi</string>
+            <string language="en">organs</string>
+          </keyword>
+          <keyword>
+            <string language="it">organi umani</string>
+            <string language="en">human organs</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Ein Puzzlespiel über die hman Organe. 
+Handhaben Sie, alle Teile nach rechts zu plazieren?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un puzzle au sujet des organes hman. 
+Parvenez-vous à placer toutes les pièces bien ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um enigma sobre os órgãos hman. Você 
+controla colocar para a direita todas as peças?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας γρίφος για τα hman όργανα. Κατορθώνετε 
+να τοποθετήσετε όλα τα μέρη δεξιά;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un rompecabezas sobre los órganos hman. 
+¿Usted maneja poner todas las piezas a la derecha?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Organe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">menschliche Organe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">organes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">organes humains</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">órgãos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">órgãos humanos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">όργανα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανθρώπινα όργανα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">órganos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">órganos humanos</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4188</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-02-19</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Natt;Carlo;;;
+FN:Carlo Natt
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-07</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">13-18</string>
+            <string language="en">13-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string language="en">biology</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>610</id>
+              <entry>
+                <string language="en">human biology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82532</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/english/animations/science/organer_puslespill.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

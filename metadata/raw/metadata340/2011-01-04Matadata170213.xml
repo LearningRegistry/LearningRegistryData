@@ -1,0 +1,243 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82806</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82806</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4801</entry>
+          </identifier>
+          <title>
+            <string language="it">Esperimento di Mendel</string>
+            <string language="en">Experiment by Mendel</string>
+            <string language="x-mt-de">Experiment durch Mendel</string>
+            <string language="x-mt-fr">Expérience par Mendel</string>
+            <string language="x-mt-pt">Experiência por Mendel</string>
+            <string language="x-mt-el">Πείραμα από το Mendel</string>
+            <string language="x-mt-es">Experimento de Mendel</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Nel modello interattivo  può essere duplicato il famoso esperimento con i piselli con il quale Mendel scoprì la genetica dominante-recessiva. Il programma interpreta il meccanismo genetico.</string>
+            <string language="en">In the interactive model the well-known experiment with peas can be duplicated by which Mendel discovered the dominant-recessive genetics. The curriculum interpretes the mechanism of genetics</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Im interaktiven Modell kann das weithin bekannte 
+Experiment mit Erbsen kopiert werden, durch die Mendel die 
+dominierend-rückläufige Genetik entdeckte. Die Lehrplan 
+interpretes die Einheit von Genetik</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dans le modèle interactif on peut reproduire 
+l'expérience bien connue avec les pois par lesquels Mendel a 
+découvert la génétique dominant-récessive. Les interpretes 
+de programme d'études le mécanisme de la génétique</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">No modelo interativo a experiência well-known com
+ervilhas pode ser duplicada por que Mendel descobriu o genetics 
+dominante-dominant-recessive. Os interpretes do curriculum o 
+mecanismo do genetics</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Στο διαλογικό μοντέλο το γνωστό πείραμα με τα 
+μπιζέλια μπορεί να αναπαραχθεί από τα οποία ο Mendel 
+ανακάλυψε την κυρίαρχος-υπολειπόμενη γενετική. Το πρόγραμμα
+σπουδών interpretes ο μηχανισμός της γενετικής</string>
+          </description>
+          <description>
+            <string language="x-mt-es">En el modelo interactivo el experimento bien 
+conocido con los guisantes puede ser duplicado por los cuales Mendel 
+descubrió la genética dominante-recesiva. Los interpretes del 
+plan de estudios el mecanismo de la genética</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4801</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Márta;;;
+FN:Márta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-05-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-16</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="en">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string language="en">biology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82806</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.digitalbrain.com/celebrate/community/celebrate/resources/Hungary/biology/Experiment%20by%20Mendel/home/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

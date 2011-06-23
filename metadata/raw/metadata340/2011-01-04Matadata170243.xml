@@ -1,0 +1,346 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82518</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82518</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14420</entry>
+          </identifier>
+          <title>
+            <string language="it">Cittadinanza</string>
+            <string language="en">Citizenship</string>
+            <string language="x-mt-de">Staatsbürgerschaft</string>
+            <string language="x-mt-fr">Citoyenneté</string>
+            <string language="x-mt-pt">Citizenship</string>
+            <string language="x-mt-el">Υπηκοότητα</string>
+            <string language="x-mt-es">Ciudadanía</string>
+          </title>
+          <language>en</language>
+          <language>de</language>
+          <description>
+            <string language="it">Gli allievi studiano sia sulla cittadinanza in generale, che sulla cittadinanza europea. Inoltre, si discute della situazione speciale e difficile delle persone senza cittadinanza.</string>
+            <string language="en">Students learn about citizenship in general, as well as about EU citizenship. Furthermore, the special and difficult situation of people without citizenship is discussed.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer erlernen über Staatsbürgerschaft
+im allgemeinen, sowie über EU-Staatsbürgerschaft. Ausserdem 
+wird die spezielle und schwierige Situation der Leute ohne 
+Staatsbürgerschaft behandelt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants se renseignent sur la citoyenneté
+en général, aussi bien qu'environ la citoyenneté d'EU. En 
+outre, la situation spéciale et difficile des personnes sans 
+citoyenneté est discutée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes aprendem sobre o citizenship no 
+general, as.well.as sobre o citizenship do EU. Além disso, a 
+situação especial e difícil dos povos sem citizenship é discutida.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές μαθαίνουν για την υπηκοότητα γενικά, 
+καθώς επίσης και για την υπηκοότητα της ΕΕ. Επιπλέον, η 
+ειδική και δύσκολη κατάσταση των ανθρώπων χωρίς υπηκοότητα 
+συζητείται.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes aprenden sobre ciudadanía en 
+general, así como sobre ciudadanía del EU. Además, la 
+situación especial y difícil de la gente sin ciudadanía se discute.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:VBS-HAKIII Schoenborngasse
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14420</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-U</string>
+            <string language="en">&gt; 16</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Incoraggiare gli studenti a considerare con attenzione le spiegazioni in merito alla cittadinanza ed alla cittadinanza europea prima di continuare con le Webquest. In seguito, non dovrebbero dimenticare di dare uno sguardo ai siti web menzionati nel Résumé.</string>
+            <string language="en">Encourage students, to study the explanations ábout citizenship in general and in the EU carefully, before they continue with the Webquests. Afterwards, they should also not forget to have a look at the websites mentioned in the Résumé.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>213</id>
+              <entry>
+                <string language="en">civics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>441</id>
+              <entry>
+                <string language="en">ethics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1099</id>
+              <entry>
+                <string language="en">rights</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>215</id>
+              <entry>
+                <string language="en">civil rights</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>612</id>
+              <entry>
+                <string language="en">human rights</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>277</id>
+              <entry>
+                <string language="en">country</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>555</id>
+              <entry>
+                <string language="en">government</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>661</id>
+              <entry>
+                <string language="en">institution</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>694</id>
+              <entry>
+                <string language="en">judicial system</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>733</id>
+              <entry>
+                <string language="en">legislation</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1197</id>
+              <entry>
+                <string language="en">social discrimination</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1199</id>
+              <entry>
+                <string language="en">social integration</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1203</id>
+              <entry>
+                <string language="en">social problem</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1206</id>
+              <entry>
+                <string language="en">social system</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1240</id>
+              <entry>
+                <string language="en">state</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>453</id>
+              <entry>
+                <string language="en">European policy</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>716</id>
+              <entry>
+                <string language="en">law</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82518</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/ps/citizenship/index_en.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

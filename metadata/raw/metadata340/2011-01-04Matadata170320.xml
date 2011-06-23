@@ -1,0 +1,219 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82611</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82611</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14799</entry>
+          </identifier>
+          <title>
+            <string language="de">Estland und die EU</string>
+            <string language="en">Estonia and EU</string>
+            <string language="x-mt-fr">l'Estonie et l'EU</string>
+            <string language="x-mt-pt">Estónia e EU</string>
+            <string language="x-mt-it">L'Estonia e UE</string>
+            <string language="x-mt-el">Εσθονία και ΕΕ</string>
+            <string language="x-mt-es">Estonia y EU</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="de">Ein Lernobjekt, erstellt mit Netquiz Pro, 5 unterschiedliche Übungen</string>
+            <string language="en">Learning object made with Netquiz Pro, 5 exercises of different types</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Objet d'étude fait avec Netquiz pro, 5 exercices 
+de différents types</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Objeto de aprendizagem feito com o Netquiz pro, 5
+exercícios de tipos diferentes</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Oggetto imparante fatto con Netquiz pro, 5 
+esercitazioni dei tipi differenti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αντικείμενο εκμάθησης που γίνεται με Netquiz υπέρ, 
+5 ασκήσεις των διαφορετικών τύπων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Objeto que aprende hecho con Netquiz favorable, 5
+ejercicios de diversos tipos</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:Kuressaare Gymnasium
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14799</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Varik;Maidu;;;
+FN:Maidu Varik
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-04-23</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-27</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="en">12-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">Quiz mit 5 verschiedenen Übungen (falsch-richtig, Lückentext, Landkarte) für Geschichte und Politische Bildung</string>
+            <string language="en">Quiz with 5 different exercises (right or wrong, fill gaps, find on the map)- for students in history or civics lessons</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>268</id>
+              <entry>
+                <string language="en">contemporary history</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>452</id>
+              <entry>
+                <string language="en">European Parliament</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82611</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/04/maidu/euroopa/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
