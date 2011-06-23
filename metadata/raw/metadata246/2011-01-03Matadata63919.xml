@@ -1,0 +1,174 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/233417</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>233417</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5001</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5001</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5001</entry>
+          </identifier>
+          <title>
+            <string language="nl">Studiedag : Evenwicht tussen draaglast en draagkracht</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Eekhoutcentrum organiseert op 21 mei 2008 een studiedag onder de titel Werken met een grim- of een glimlach, een studiedag over het deugddoende evenwicht tussen draagkracht en draaglast. Plaats: K.U.Leuven Campus Kortrijk (Kulak). Een plenum door Marleen Borzée en een heleboel workshops van timemanagement tot Djembé. Surf naar www.eekhoutcentrum.be voor meer info en voor on-line-inschrijving.</string>
+          </description>
+          <keyword>
+            <string language="nl">stress</string>
+          </keyword>
+          <keyword>
+            <string language="nl">studiedag</string>
+          </keyword>
+          <keyword>
+            <string language="nl">evenwicht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zelfzorg</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>initiator</value>
+            </role>
+            <date>
+              <dateTime>2009-03-23T10:36:01.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Marcella Deneve
+FN:Marcella Deneve 
+EMAIL;TYPE=INTERNET: 
+ORG: Marcella Deneve
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5001</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5001</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:32:56.61Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5001</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5001</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5001/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

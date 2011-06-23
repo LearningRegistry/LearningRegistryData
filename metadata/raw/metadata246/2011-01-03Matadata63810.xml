@@ -1,0 +1,183 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/232361</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>232361</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:12352</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:12352</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>12352</entry>
+          </identifier>
+          <title>
+            <string language="nl">JClic : Supportsite</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">JClic (of JavaClic) is een programma voor het aanmaken en uitvoeren van allerhande oefeningen: meerkeuzevragen, kruiswoordraadsels, open vragen, puzzels, associatievragen tot automatisch gegenereerde rekenoefeningen&amp;hellip; met de klemtoon op het multimediale: het integreren van beeld (statisch of bewegend) en geluid is een sterke kant van het programma. De oefeningen of activiteiten worden meestal niet apart aangeboden, maar verzameld in een project in een welbepaalde volgorde.JClic is een Open Source project en werkt zowel op Linux, Max OS X, Solaris als Windows. Het Ministry of Education of the Government of Catalonia brengt de software uit onder de GNU General Public License (GPL), wat betekent dat iedereen de software gratis mag gebruiken, verspreiden en zelfs aanpassen onder bepaalde voorwaarden. JClic is de nieuwe versie van Clic, dat reeds in 1992 van start ging. De oefeningen uit de oude versie kunnen probleemloos overgenomen worden in de nieuwe versie.</string>
+          </description>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">interactief</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ontwikkelen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">multimediaal</string>
+          </keyword>
+          <keyword>
+            <string language="nl">java</string>
+          </keyword>
+          <keyword>
+            <string language="nl">platform</string>
+          </keyword>
+          <keyword>
+            <string language="nl">open standard</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-04-01T09:42:06.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Catalaans Departement Onderwijs
+FN:Catalaans Departement Onderwijs 
+EMAIL;TYPE=INTERNET: 
+ORG: Catalaans Departement Onderwijs
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:12352</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:12352</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T14:54:09.25Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>12352</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>12352</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/12352/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
