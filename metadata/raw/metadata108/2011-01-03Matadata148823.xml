@@ -1,0 +1,189 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/24931</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>24931</entry>
+  </identifier>
+  <identifier>
+    <catalog>LS</catalog>
+    <entry>10101</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:10101</entry>
+          </identifier>
+          <identifier>
+            <catalog>LS</catalog>
+            <entry>10101</entry>
+          </identifier>
+          <title>
+            <string language="sv">Min Kompis Undrar</string>
+          </title>
+          <language>sv</language>
+          <description>
+            <string language="sv">En sida om sex och samlevnad, där ungdomar delar med sig av &lt;a href="http://www.minkompisundrar.nu/index.php?option=com_content&amp;task=view&amp;id=46&amp;Itemid=35"&gt;egna erfarenheter&lt;/a&gt;. Det finns även mycket &lt;a href="http://www.minkompisundrar.nu/index.php?option=com_content&amp;task=view&amp;id=45&amp;Itemid=34"&gt;fakta&lt;/a&gt; inom området. Läs om heterosexualitet, homosexualitet med mera. Här finns även lärarmaterial med diskussionsfrågor kring ämnet sex och samlevnad i skolan, samt ett länkbibliotek. Sidan är gjord av studenter vid Växjö universitet.</string>
+          </description>
+          <keyword>
+            <string language="sv">sexualitet</string>
+          </keyword>
+          <keyword>
+            <string language="sv">sexualkunskap</string>
+          </keyword>
+          <keyword>
+            <string language="sv">könssjukdomar</string>
+          </keyword>
+          <keyword>
+            <string language="sv">tonåringar</string>
+          </keyword>
+          <keyword>
+            <string language="sv">abort</string>
+          </keyword>
+          <keyword>
+            <string language="sv">preventivmedel</string>
+          </keyword>
+          <keyword>
+            <string language="sv">relationer</string>
+          </keyword>
+          <keyword>
+            <string language="sv">samlevnad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:MSU (the Swedish Link Library)
+N:MSU (the Swedish Link Library)
+ORG:MSU (the Swedish Link Library)
+EMAIL;TYPE=internet:tomas@minkompisundrar.nu
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-lre">13-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nd/2.5/se/</string>
+            <string language="sv">Erkännande-Inga bearbetningar 2.5 Sverige</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>801</id>
+              <entry>
+                <string language="en">medicine</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:10101-1</entry>
+          </identifier>
+          <identifier>
+            <catalog>LS</catalog>
+            <entry>10101-1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Taawo;Alma
+FN:Alma Taawo
+ORG:MSU
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2007-09-25T00:03:37.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T17:05:07.67Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>LS</catalog>
+      <entry>10101</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.minkompisundrar.nu/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

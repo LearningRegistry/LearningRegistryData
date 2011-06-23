@@ -1,0 +1,195 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/29334</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>29334</entry>
+  </identifier>
+  <identifier>
+    <catalog>IML-MMB</catalog>
+    <entry>528196</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:528196</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>528196</entry>
+          </identifier>
+          <title>
+            <string language="sv">Samba</string>
+            <string language="en">Samba</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="sv">Intensiv dans i karnevalståget i Rio de Janeiro.</string>
+            <string language="en">Intense dancing in the carnival parade in Rio de Janeiro.</string>
+          </description>
+          <keyword>
+            <string language="sv">karneval</string>
+            <string language="en">carnival</string>
+          </keyword>
+          <keyword>
+            <string language="sv">kostym</string>
+            <string language="en">suit</string>
+          </keyword>
+          <keyword>
+            <string language="sv">Rio de janeiro</string>
+            <string language="en">Rio de Janeiro</string>
+          </keyword>
+          <keyword>
+            <string language="sv">dans</string>
+            <string language="en">dance</string>
+          </keyword>
+          <keyword>
+            <string language="sv">Rio</string>
+            <string language="en">Rio</string>
+          </keyword>
+          <keyword>
+            <string language="sv">samba</string>
+            <string language="en">samba</string>
+          </keyword>
+          <keyword>
+            <string language="sv">brasilien</string>
+            <string language="en">brasilien</string>
+          </keyword>
+          <keyword>
+            <string language="sv">dräkt</string>
+            <string language="en">suit</string>
+          </keyword>
+          <keyword>
+            <string language="sv">fest</string>
+            <string language="en">party</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:MSU
+FN:MSU
+ORG:MSU
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>632</id>
+              <entry>
+                <string language="en">image</string>
+                <string language="sv">bild</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:528196-1</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>528196-1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Iselow;Mikael
+FN:Mikael Iselow
+ORG:MMB
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2008-07-03T01:41:09.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>sv</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T05:47:24.95Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>IML-MMB</catalog>
+      <entry>528196</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://vix.iml.umu.se/mmb/528196.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
