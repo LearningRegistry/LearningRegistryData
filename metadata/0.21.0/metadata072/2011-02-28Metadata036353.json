@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "l\u00e4sa", 
+        "read", 
+        "bibliotek", 
+        "library", 
+        "b\u00f6cker", 
+        "books", 
+        "studera", 
+        "study", 
+        "gelesen", 
+        "Bibliothek", 
+        "B\u00fccher", 
+        "Studie", 
+        "lu", 
+        "biblioth\u00e8que", 
+        "livres", 
+        "\u00e9tude", 
+        "lido", 
+        "biblioteca", 
+        "livros", 
+        "estudo", 
+        "colto", 
+        "libreria", 
+        "libri", 
+        "studio", 
+        "\u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5", 
+        "\u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7", 
+        "\u03b2\u03b9\u03b2\u03bb\u03af\u03b1", 
+        "\u03bc\u03b5\u03bb\u03ad\u03c4\u03b7", 
+        "le\u00eddo", 
+        "biblioteca", 
+        "libros", 
+        "estudio"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/25510</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>25510</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>522630</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522630</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522630</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Bibliotek</string>\r\n            <string language=\"en\">Library</string>\r\n            <string language=\"x-mt-de\">Bibliothek</string>\r\n            <string language=\"x-mt-fr\">Biblioth\u00e8que</string>\r\n            <string language=\"x-mt-pt\">Biblioteca</string>\r\n            <string language=\"x-mt-it\">Libreria</string>\r\n            <string language=\"x-mt-el\">\u0392\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7</string>\r\n            <string language=\"x-mt-es\">Biblioteca</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Tv\u00e5 ungdomar studerar i ett bibliotek.</string>\r\n            <string language=\"en\">Two youths study in a library.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">l\u00e4sa</string>\r\n            <string language=\"en\">read</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">bibliotek</string>\r\n            <string language=\"en\">library</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">b\u00f6cker</string>\r\n            <string language=\"en\">books</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">studera</string>\r\n            <string language=\"en\">study</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Studie mit zwei Jugend in einer Bibliothek.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">\u00c9tude des deux jeunesse dans une biblioth\u00e8que.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Estudo de duas juventudes em uma biblioteca.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Uno studio delle due giovent\u00f9 in una libreria.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u039c\u03b5\u03bb\u03ad\u03c4\u03b7 \u03b4\u03cd\u03bf \u03bd\u03b5\u03bf\u03bb\u03b1\u03b9\u03ce\u03bd \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Estudio de dos juventudes en una biblioteca.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">gelesen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Bibliothek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">B\u00fccher</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Studie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">lu</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">biblioth\u00e8que</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">livres</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">\u00e9tude</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">lido</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">biblioteca</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">livros</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">estudo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">colto</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">libreria</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">libri</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">studio</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b4\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b2\u03b9\u03b2\u03bb\u03af\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03bc\u03b5\u03bb\u03ad\u03c4\u03b7</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">le\u00eddo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">biblioteca</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">libros</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">estudio</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522630-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522630-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:39:38.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:47:26.49Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>522630</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/522630.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/522630.jpg"
+}
