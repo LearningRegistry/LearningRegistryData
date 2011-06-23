@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75525</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75525</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>50e4d3c7-7189-418a-998e-fc6a10f5af82#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mária Terézia</string>
+            <string language="en">Maria Terezia</string>
+            <string language="x-mt-de">Maria Terezia</string>
+            <string language="x-mt-fr">Maria Terezia</string>
+            <string language="x-mt-pt">Maria Terezia</string>
+            <string language="x-mt-it">Maria Terezia</string>
+            <string language="x-mt-el">Μαρία Terezia</string>
+            <string language="x-mt-es">Maria Terezia</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Mária Terézia</string>
+            <string language="en">Maria Terezia</string>
+          </description>
+          <keyword>
+            <string language="hu">történelem, Mária Terézia, festmény</string>
+            <string language="en">history, Maria Terezia, painting</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Maria Terezia</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Maria Terezia</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Maria Terezia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Maria Terezia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μαρία Terezia</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Maria Terezia</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geschichte, Maria Terezia, malend</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histoire, Maria Terezia, peignant</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">history, Maria Terezia, pintando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">storia, Maria Terezia, verniciante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορία, Μαρία Terezia, ζωγραφική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">historia, Maria Terezia, pintando</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75525</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=50e4d3c7-7189-418a-998e-fc6a10f5af82&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
