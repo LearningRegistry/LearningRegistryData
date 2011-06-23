@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77077</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77077</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e46ad5ec-0acf-488d-8bad-07b13af307fa#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az idegsejt szerkezete</string>
+            <string language="en">The structure of neuron</string>
+            <string language="x-mt-de">Die Struktur des Neurons</string>
+            <string language="x-mt-fr">La structure du neurone</string>
+            <string language="x-mt-pt">A estrutura do neurônio</string>
+            <string language="x-mt-it">La struttura del neurone</string>
+            <string language="x-mt-el">Η δομή του νευρώνα</string>
+            <string language="x-mt-es">La estructura de la neurona</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Egy idegsejt felépítését bemutató rajz</string>
+            <string language="en">Drawing about a neuron's structure</string>
+          </description>
+          <keyword>
+            <string language="hu">idegsejt,  axon,  neuron,  dendrit,  velőshüvely,  </string>
+            <string language="en">neuron, axon, neuron, dendrite, medullary seath</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Zeichnen über die Struktur eines Neurons</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dessin au sujet de la structure d'un neurone</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenhar sobre a estrutura de um neurônio</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dissipando circa la struttura del neurone</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχεδιασμός για τη δομή ενός νευρώνα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El trazar sobre la estructura de una neurona</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Neuron, Axon, Neuron, Dendrite, medulläres seath</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">neurone, axone, neurone, dendrite, seath médullaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">neurônio, axon, neurônio, dendrite, seath medullary</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">neurone, assone, neurone, dendrite, seath midollare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">νευρώνας, νευρίτης, νευρώνας, δενδρίτης, μυελώδες seath</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">neurona, axon, neurona, dendrita, seath medular</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77077</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e46ad5ec-0acf-488d-8bad-07b13af307fa&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
