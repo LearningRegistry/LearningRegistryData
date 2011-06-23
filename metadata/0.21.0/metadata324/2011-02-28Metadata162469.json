@@ -1,0 +1,55 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "fauna en flora", 
+        "milieueducatie", 
+        "Bornem", 
+        "fort", 
+        "winter", 
+        "vleermuis", 
+        "overwinteren", 
+        "natuurpunt", 
+        "vochtig", 
+        "klimaat", 
+        "zomer", 
+        "kazemat", 
+        "soldaat", 
+        "klam", 
+        "kil", 
+        "stalactiet", 
+        "stalagmiet", 
+        "winterslaap", 
+        "paren", 
+        "nachtdier", 
+        "donker", 
+        "zien", 
+        "radar", 
+        "echo", 
+        "tuin", 
+        "bos", 
+        "spouwmuur", 
+        "beschermd"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/233705</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>233705</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:19264</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:19264</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>19264</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Vleermuizen</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">GREEN Z TV: Natuurlijk\r\nWebteevee biedt gratis online natuurtelevisie. Ofwel speciaal voor het web gemaakte clipjes, ofwel een selectie van op televisie uitgezonden programma&amp;rsquo;s, rubriekjes of items. Dankzij de steun van partners kunnen ze dit gratis aanbieden.\r\nVoor het lifestyleprogramma Trendiez op RTV maakten ze wekelijks het natuurrubriekje Natuurlijk! Ze geven een natuurtip of benaderen een natuurgebied vanuit een originele hoek. In samenwerking met het Agentschap voor Natuur en Bos en Inverde.\r\nDe vleermuizen maken zich stilaan klaar om naar hun winterverblijf te verhuizen en slapend de winter door te brengen. En omdat ze op rust en privacy gesteld zijn, kiezen ze wel eens voor een fort. Het Fort van Bornem bijvoorbeeld. Natuurlijk!\r\nEen productie van greenz.tv in samenwerking met het Agentschap voor Natuur en Bos.\r\nMet dank aan Geert De Kockere.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">fauna en flora</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">milieueducatie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Bornem</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">fort</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">winter</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vleermuis</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">overwinteren</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">natuurpunt</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vochtig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">klimaat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zomer</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kazemat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">soldaat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">klam</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kil</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stalactiet</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stalagmiet</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">winterslaap</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">paren</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">nachtdier</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">donker</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zien</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">radar</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">echo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tuin</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bos</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">spouwmuur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">beschermd</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <version>\r\n            <string language=\"nl\">2010-01-29 00:29:10</string>\r\n          </version>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-01-29T00:29:10.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:KlasCement\r\nFN:KlasCement \r\nEMAIL;TYPE=INTERNET:info@klascement.net \r\nORG: KlasCement\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:19264</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:19264</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-27T06:02:46.49Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>video</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>special education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>higher education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>continuing education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">6-U</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>978</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>19264</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>19264</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/19264/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/19264/?ref=aspect"
+}
