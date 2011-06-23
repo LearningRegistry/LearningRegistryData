@@ -1,0 +1,313 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/55351</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>55351</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_391</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_391</entry>
+          </identifier>
+          <title>
+            <string language="es">Función derivada</string>
+            <string language="en">Derivative</string>
+            <string language="x-mt-de">Ableitung</string>
+            <string language="x-mt-fr">Dérivé</string>
+            <string language="x-mt-pt">Derivative</string>
+            <string language="x-mt-it">Derivato</string>
+            <string language="x-mt-el">Παράγωγο</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">unidad didáctica que desarrolla mediante simulaciones el concepto de derivada. Se estudia su definición, propiedades, procedimientos de cálculo y aplicaciones al estudio de la variación de una función real de variable real.</string>
+            <string language="en">teaching unit which uses simulations to study the concept of derivative: definition, properties, calculation and applications to the study of the variation of a real-valued function of a real variable.</string>
+          </description>
+          <keyword>
+            <string language="es">función compuesta</string>
+            <string language="en">composite function</string>
+          </keyword>
+          <keyword>
+            <string language="es">tasa de variación media</string>
+            <string language="en">mean rate of variation</string>
+          </keyword>
+          <keyword>
+            <string language="es">derivada</string>
+            <string language="en">derivative</string>
+          </keyword>
+          <keyword>
+            <string language="es">reglas de derivadas</string>
+            <string language="en">properties of derivatives</string>
+          </keyword>
+          <keyword>
+            <string language="es">función</string>
+            <string language="en">function</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">unterrichtende Maßeinheit welcher Gebrauch 
+Simulationen, das Konzept der Ableitung zu studieren: 
+Definition, Eigenschaften, Berechnung und Anwendungen auf der 
+Studie der Variante einer Realwertfunktion einer realen Variable.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">unité d'enseignement quelles utilisations 
+simulations d'étudier le concept du dérivé : définition, 
+propriétés, calcul et applications à l'étude de la variation d'une
+fonction à valeurs réelles d'une vraie variable.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">unidade ensinando que usos simulações estudar o
+conceito do derivative: definição, propriedades, cálculo e 
+aplicações ao estudo da variação de uma função real-valued de 
+uma variável real.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">unità d'istruzione quali usi simulazioni 
+studiare il concetto del derivato: definizione, proprietà, 
+calcolo ed applicazioni allo studio sulla variazione di una funzione 
+real-valued di una variabile reale.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">μονάδα διδασκαλίας που χρησιμοποιεί τις προσομοιώσεις 
+για να μελετήσει την έννοια του παραγώγου: καθορισμός, 
+ιδιότητες, υπολογισμός και εφαρμογές στη μελέτη της παραλλαγής 
+μιας real-valued λειτουργίας μιας πραγματικής μεταβλητής.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">zusammengesetzte Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mittelkurs der Variante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ableitung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Eigenschaften der Ableitungen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonction composée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cadence moyenne de variation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dérivé</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">propriétés des dérivés</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">função composta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa média da variação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">derivative</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">propriedades dos derivatives</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">função</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzione composita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tasso medio di variazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">derivato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proprietà dei derivati</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύνθετη λειτουργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημάνετε το ποσοστό παραλλαγής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παράγωγο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιδιότητες των παραγώγων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Ángel Cabezudo Bueno
+N:Ángel Cabezudo Bueno
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_391</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_391</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:15:38.63Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>789</id>
+              <entry>
+                <string>análisis matemático</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>55351</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Funcion_derivada/derivada_indice.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

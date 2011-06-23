@@ -1,0 +1,382 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225776</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225776</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-130424</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.crdp-montpellier.fr/themadoc/traces/index.htm</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.crdp-montpellier.fr/themadoc/traces/index.htm</entry>
+          </identifier>
+          <title>
+            <string language="fre">Les indices et traces d’animaux</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier comprenant une partie documentaire et une partie pédagogique. Définitions (empreinte, trace, indice); mise en perspective du thème par rapport aux programmes scolaires (cycles 2 et 3, classe de 6ème); informations scientifiques (les indices d'une activité animale, l'identification d'une empreinte, les différents indices - nourriture, excréments, habitat, pelotes de réjection, crânes et mandibules...); fiches pédagogiques ; complément documentaire (sites internet, bibliographie, glossaire).</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>1</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie de Montpellier
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Pic, Franck
+N:Pic, Franck
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Bompieyre, Jean-Paul
+N:Bompieyre, Jean-Paul
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Thorez, Florence
+N:Thorez, Florence
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2007-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-130424</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-130424</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie de Montpellier
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-04-18T16:22</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-01-28T23:25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:58:10.89Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Droits d'auteur et de propriété
+Le dossier ainsi que son contenu dont l'éditeur détient, en propre ou sous licence, les droits de propriété intellectuelle, sont protégés par le Code de la propriété intellectuelle et les traités internationaux en matière de droits d'auteur.
+Les éléments constitutifs, les textes, les illustrations graphiques, photographiques, sonores, vidéographiques, logiciels, et leur présentation restent ainsi la propriété exclusive de l'éditeur du dossier et/ou de ses auteurs.
+Par conséquent, l'utilisateur de « Thém@doc » et de chacun des éléments de son contenu se doit de respecter les dispositions de la licence exposées ci-après. 
+
+Licence d'utilisation
+L'éditeur concède à l'utilisateur le droit, non exclusif, d'utiliser le contenu de « Thém@doc » pour son usage privé, c'est-à-dire le droit de le représenter sur un seul ordinateur à la fois, de le mémoriser et/ou de l'imprimer à seule fin d'information ou d'exploitation personnelles.
+Dans le cadre d'activités d'enseignement, l'éditeur concède aux établissements d'enseignement et à leurs enseignants un droit d'usage collectif ou individuel, qui autorise une représentation sur plusieurs ordinateurs reliés en réseau ou non, la mémorisation et l'impression, en respectant les mentions d'origine et de copyright prévues et affichées par l'éditeur du dossier.
+Toute utilisation commerciale est interdite. Toute autre utilisation que celle liée à l'enseignement et dans les conditions décrites ci-dessus, notamment l'extraction en vue d'une exploitation éditoriale ainsi qu'une diffusion par duplication ou mise en réseau, partielle ou totale, sans l'autorisation écrite et préalable de l'éditeur ou des ayants droit, est interdite et relèverait du délit de contrefaçon. Les contrevenants s'exposent aux sanctions civiles et pénales prévues par la loi.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.crdp-montpellier.ff</entry>
+            </identifier>
+            <description>
+              <string language="fre">Site du CRDP de l'Académie de Montpellier</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECSVT</id>
+              <entry>
+                <string language="fre">SVT sciences de la vie et de la Terre</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRISCI</id>
+              <entry>
+                <string language="fre">découvrir le monde - éducation scientifique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>PEPE</id>
+              <entry>
+                <string language="fre">formation des professeurs des écoles</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PEPL</id>
+              <entry>
+                <string language="fre">formation des professeurs des lycées et collèges</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>36923</id>
+              <entry>
+                <string language="fre">SVT</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>41810</id>
+              <entry>
+                <string language="fre">protection de la nature</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44085</id>
+              <entry>
+                <string language="fre">outil pédagogique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>47870</id>
+              <entry>
+                <string language="fre">image fixe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>48920</id>
+              <entry>
+                <string language="fre">écosystème</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49205</id>
+              <entry>
+                <string language="fre">empreinte animale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51907</id>
+              <entry>
+                <string language="fre">démarche didactique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>52776</id>
+              <entry>
+                <string language="fre">bibliographie</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>372</id>
+            </taxon>
+            <taxon>
+              <id>373</id>
+            </taxon>
+            <taxon>
+              <id>591.5</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.crdp-montpellier.fr/themadoc/traces/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

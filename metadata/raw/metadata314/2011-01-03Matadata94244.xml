@@ -1,0 +1,360 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225787</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225787</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-129780</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.musagora.education.fr/muses/default.htm</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.musagora.education.fr/muses/default.htm</entry>
+          </identifier>
+          <title>
+            <string language="fre">Les Muses</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier du site Musagora consacré aux Muses, personnages de la mythologie grecque, médiatrices entre les dieux et les hommes. Il présente les origines et la composition du groupe, et les fonctions respectives de chaque muse. Il étudie la présence des muses dans la littérature et la philosophie grecques, et dans la littérature moderne. Il propose une étude des représentations iconographiques. Le dossier contient une bibliographie et des activités pédagogiques. Il est disponible en français, anglais et grec.</string>
+          </description>
+          <keyword>
+            <string language="fre">Muses</string>
+          </keyword>
+          <coverage>
+            <string language="fre">Grèce ancienne</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:Educnet
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-06-01T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-06-01T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2001-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Valentin, Danièle
+N:Valentin, Danièle
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2001-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-129780</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-129780</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-04-03T17:12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-20T10:22</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:56:58.64Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">© - Ministère de l'Éducation nationale, de l'Enseignement supérieur et de la Recherche Service des technologies et des systèmes d'information - SDTICE</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://musagora.education.fr/default.htm</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hastranslation</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.musagora.education.fr/muses/english.htm</entry>
+            </identifier>
+            <description>
+              <string language="fre">Dossier sur les Muses disponible en anglais</string>
+            </description>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>hastranslation</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.musagora.education.fr/muses/grec.htm</entry>
+            </identifier>
+            <description>
+              <string language="fre">Dossier sur les Muses disponible en grec</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECHAR</id>
+              <entry>
+                <string language="fre">histoire des arts</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHIS</id>
+              <entry>
+                <string language="fre">histoire (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLAN</id>
+              <entry>
+                <string language="fre">langue ancienne</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>40723</id>
+              <entry>
+                <string language="fre">personnage mythologique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>292.08</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.musagora.education.fr/muses/default.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

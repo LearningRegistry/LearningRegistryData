@@ -1,0 +1,348 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225551</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225551</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-86630</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.crdp-montpellier.fr/ressources/examens/consultation/</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.crdp-montpellier.fr/ressources/examens/consultation/</entry>
+          </identifier>
+          <title>
+            <string language="fre">Base nationale des sujets d'examens de l'enseignement professionnel</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Service proposant un accès à distance aux sujets numérisés des baccalauréats professionnels, DTS et BTS ainsi qu'à un choix de sujets académiques ou interacadémiques pour les CAP, BEP, BP, BT, MC (sujets tels qu'ils ont été donnés aux candidats, éventuellement accompagnés des corrigés ayant servi aux examinateurs).</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>1</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP du Languedoc-Roussillon
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-86630</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-86630</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie de Montpellier
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-24T13:01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-27T15:16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:41:28.40Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Elève en autonomie</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien vers les informations diffusées par www.crdp-montpellier.fr
+En revanche, les pages de www.crdp-montpellier.fr ne doivent pas être imbriquées à l’intérieur des pages d’un autre site.
+Le CRDP de l'académie de Montpellier dispose d'une note relative aux droits associés aux sujets d'examens eux-mêmes (à demander au centre de documentation de cet établissement).</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.crdp-montpellier.fr/</entry>
+            </identifier>
+            <description>
+              <string language="fre">Site du CRDP de l'Académie de Montpellier</string>
+            </description>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>TEC</id>
+              <entry>
+                <string language="fre">domaines et spécialités de l'enseignement technologique, professionnel, agricole</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECGEO</id>
+              <entry>
+                <string language="fre">géographie (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHIS</id>
+              <entry>
+                <string language="fre">histoire (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECMAT</id>
+              <entry>
+                <string language="fre">mathématiques (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECPHY</id>
+              <entry>
+                <string language="fre">physique-chimie</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECAAP</id>
+              <entry>
+                <string language="fre">arts appliqués</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECFRA</id>
+              <entry>
+                <string language="fre">français</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLVE</id>
+              <entry>
+                <string language="fre">langue vivante étrangère</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>VP</id>
+              <entry>
+                <string language="fre">enseignement secondaire - voie professionnelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>VPLY</id>
+              <entry>
+                <string language="fre">voie professionnelle : lycée</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>48348</id>
+              <entry>
+                <string language="fre">diplôme</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49327</id>
+              <entry>
+                <string language="fre">enseignement professionnel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49331</id>
+              <entry>
+                <string language="fre">enseignement secondaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>49799</id>
+              <entry>
+                <string language="fre">examen</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>373</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.crdp-montpellier.fr/ressources/examens/consultation/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

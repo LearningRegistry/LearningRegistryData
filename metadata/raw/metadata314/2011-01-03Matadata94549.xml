@@ -1,0 +1,249 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/68486</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>68486</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020506</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020506</entry>
+          </identifier>
+          <title>
+            <string language="es">Los orígenes</string>
+            <string language="en">The origins</string>
+            <string language="x-mt-de">Die Ursprung</string>
+            <string language="x-mt-fr">Les origines</string>
+            <string language="x-mt-pt">As origens</string>
+            <string language="x-mt-it">Le origini</string>
+            <string language="x-mt-el">Η προέλευση</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Breve texto explicativo de los orígenes de Roma con actividad, imágenes ilustrativas, ventanas desplegables y enlaces al glosario.</string>
+            <string language="en">Brief text on the origins of Rome including an activity, illustrative images, pop up windows and links to a glossary.</string>
+          </description>
+          <keyword>
+            <string language="es">orígenes</string>
+            <string language="en">origins</string>
+          </keyword>
+          <keyword>
+            <string language="es">Roma</string>
+            <string language="en">Rome</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Kurzer Text auf den Ursprung von Rom 
+einschließlich eine Aktivität, illustrative Bilder, knallen oben 
+Fenster und Links zu einem Glossar.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le bref texte sur les origines de Rome comprenant
+une activité, images d'illustration, sautent vers le haut des 
+fenêtres et des liens à un glossaire.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O texto breve nas origens de Roma including uma 
+atividade, imagens ilustrativas, estala acima janelas e ligações a 
+um glossário.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il breve testo sulle origini di Roma compreso 
+un'attività, immagini illustrative, schiocca in su le finestre ed i 
+collegamenti ad un glossario.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το συνοπτικό κείμενο στην προέλευση της Ρώμης 
+συμπεριλαμβανομένης μιας δραστηριότητας, επεξηγηματικές εικόνες, 
+σκάει επάνω τα Windows και τις συνδέσεις με ένα γλωσσάρι.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Ursprung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">origines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Rome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">origens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">origini</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προέλευση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ρώμη</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jesús María Quílez Bielsa\,Alfredo Ortega Martínez
+N:Jesús María Quílez Bielsa,Alfredo Ortega Martínez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020506</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020506</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:57.65Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>712</id>
+              <entry>
+                <string>latín</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1108</id>
+              <entry>
+                <string>historia romana</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>68486</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/latin/esl141ca2.php</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

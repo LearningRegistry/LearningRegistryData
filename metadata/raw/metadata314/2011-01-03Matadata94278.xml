@@ -1,0 +1,289 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225589</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225589</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-87427</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://crdp.ac-amiens.fr/picar/data/accueil_claudel.htm</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://crdp.ac-amiens.fr/picar/data/accueil_claudel.htm</entry>
+          </identifier>
+          <title>
+            <string language="fre">Claudel à Villeneuve-sur-Fère</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">A visiter, la maison de Camille et Paul Claudel à Villeneuve-sur-Fère (dans le département de l'Aisne). Les activités se font dans ces lieux et dans le village, ainsi que sur le site de la Hottée du Diable. Des exemples d'activités pédagogiques sont proposés  : parcours pédagogiques, séquences (l'arbre claudélien...), ressources documentaires et travaux d'élèves.</string>
+          </description>
+          <keyword>
+            <string language="fre">maison d'écrivain</string>
+          </keyword>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">20e siècle</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie d'Amiens
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Petit, Delphine
+N:Petit, Delphine
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-87427</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-87427</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de l'académie d'Amiens
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-18T09:33</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-01-20T11:58</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:42:41.55Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Les ressources mises en ligne par le CRDP de l’académie d’Amiens sont en accès libre et gratuit mais les coûts de connexion et d'accès restent à la charge du consultant. Il est interdit de monnayer, sous quelque forme que ce soit, la consultation des dossiers. La libre consultation de données du site est subordonnée à l'acceptation par la personne consultante des présentes conditions d'usage et de la licence ci-après.  Droits d'auteur et de propriété. Les dossiers ainsi que leurs contenus dont le CRDP de l’académie d’Amiens détient, en propre ou sous licence, l’ensemble des droits, sont protégés par le Code de la propriété intellectuelle et les traités internationaux en matière de protection des oeuvres. Les éléments constitutifs, les textes, les illustrations graphiques, photographiques, sonores, vidéographiques, logiciels, et leur présentation restent ainsi la propriété exclusive du CRDP de l’académie d’Amiens du dossier et/ou de ses auteurs.  Par conséquent, l'utilisateur des ressources se doit de respecter les dispositions de la licence exposée ci-après.  Licence d'utilisation. Le CRDP de l’académie d’Amiens concède à l'utilisateur le droit, non exclusif, d'utiliser le contenu du site pour son usage privé, c'est-à-dire le droit de le représenter sur un seul ordinateur à la fois, de le mémoriser et/ou de l'imprimer à seule fin d'information ou d'exploitation personnelles. Dans le cadre d'activités d'enseignement, le CRDP de l’académie d’Amiens concède aux établissements d'enseignement et à leurs enseignants un droit d'usage collectif ou individuel, qui autorise une représentation sur plusieurs ordinateurs reliés en réseau ou non, la mémorisation et l'impression, en respectant les mentions d'origine et de copyright prévues et affichées par le CRDP de l’académie d’Amiens. Toute utilisation commerciale est interdite. Toute autre utilisation que celle liée à l'enseignement et dans les conditions décrites ci-dessus, notamment l'extraction en vue d'une exploitation éditoriale ainsi qu'une diffusion par duplication ou mise en réseau, partielle ou totale, hors de l’établissement sans l'autorisation écrite et préalable du CRDP de l’académie d’Amiens, est interdite et relèverait du délit de contrefaçon. Les contrevenants s'exposent aux sanctions civiles et pénales prévues par la loi.  Exonération de responsabilité du CRDP. Malgré toute l'attention portée aux informations citées, le CRDP de l’académie d’Amiens ne saurait être tenu responsable en cas d'erreur et/ou d'omission. Le CRDP de l’académie d’Amiens n'est tenu à aucune obligation de mise à jour du contenu des dossiers (qui portent la date de leur dernière mise à jour). Le CRDP de l’académie d’Amiens ou ses fournisseurs ne pourront être tenus pour responsables des dommages directs, indirects ou fortuits résultant de l'accès au site ou de l'utilisation du contenu des données notamment en cas de survenue de virus.  Liens hypertextes. Les ressources mises en lignes par le CRDP de l’académie d’Amiens renvoient à d'autres sites Internet au moyen de liens. Malgré tout le soin apporté à la sélection et au contrôle des informations liées, le CRDP de l’académie d’Amiens ne saurait être tenu responsable des contenus de ces sites notamment en ce qu'ils pourraient évoluer ou apparaître comme non actualisés ou comme contraires à la réglementation. L'établissement de liens vers une ressource du CRDP de l’académie d’Amiens sans autorisation de celui-ci est admis, à condition que ce lien ouvre une nouvelle fenêtre de navigateur. Toutefois, le CRDP de l’académie d’Amiens se réserve le droit de demander le retrait d'un lien s'il l'estime non conforme à sa politique éditoriale et d’engager des poursuites en cas de refus.  Si l'accès aux pages contenant un lien sur un dossier du CRDP de l’académie d’Amiens n'est pas gratuit, la création de ce lien doit être préalablement soumise à l’obtention d’une autorisation expresse et par écrit (y compris par échange de courriels) du CRDP de l’académie d’Amien</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECFRA</id>
+              <entry>
+                <string language="fre">français</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>36582</id>
+              <entry>
+                <string language="fre">Aisne : département</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>48946</id>
+              <entry>
+                <string language="fre">écrivain</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>50501</id>
+              <entry>
+                <string language="fre">Claudel, Paul : 1868-1955</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>840</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://crdp.ac-amiens.fr/picar/data/accueil_claudel.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

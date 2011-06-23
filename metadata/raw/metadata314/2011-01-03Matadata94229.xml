@@ -1,0 +1,344 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225697</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225697</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-84658</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://crdp.ac-bordeaux.fr/bardou/default.htm?loc=0</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://crdp.ac-bordeaux.fr/bardou/default.htm?loc=0</entry>
+          </identifier>
+          <title>
+            <string language="fre">Mémoires d'Aquitaine : patrimoine iconographique régional</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Le fonds BARDOU est issu du travail du photographe du Centre Régional de Documentation Pédagogique d'Aquitaine, Pierre BARDOU. Celui-ci a réalisé durant de nombreuses années des reportages à des fins éditoriales ou patrimoniales. Ce fonds comporte plus de 10 000 prises de vue accessibles par un formulaire de recherche (thématique, géographique, chronologique, plein texte). Il constitue un véritable patrimoine iconographique régional. Les thématiques proposées : botanique, culture, économie, géographie, géologie, histoire, architecture.</string>
+          </description>
+          <coverage>
+            <string language="fre">histoire</string>
+          </coverage>
+          <coverage>
+            <string language="fre">Aquitaine : région</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Aquitaine
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-11T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:CRDP (Aquitaine)
+N:CRDP (Aquitaine)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Bardou, Pierre
+N:Bardou, Pierre
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-84658</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-84658</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Aquitaine
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-03T14:21</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-06T09:53</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:36:16.12Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Ce site est un outil de recherches. Il est possible de télécharger ou imprimer les visuels et leurs notices. Les images sont volontairement proposées en basse définition pour permettre une impression sur imprimante domestique uniquement. Les images et leurs notices sont strictement réservées à un usage pédagogique dans le cadre de la classe ou à un usage privé. Toute reproduction à vocation commerciale, éditoriale doit faire l'objet d'une demande écrite adressée au CRDP et d'un accord écrit du CRDP.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://crdp.ac-bordeaux.fr</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECHAR</id>
+              <entry>
+                <string language="fre">histoire des arts</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHIS</id>
+              <entry>
+                <string language="fre">histoire (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECSVT</id>
+              <entry>
+                <string language="fre">SVT sciences de la vie et de la Terre</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GT</id>
+              <entry>
+                <string language="fre">enseignement secondaire - voies générale et technologique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PEPL</id>
+              <entry>
+                <string language="fre">formation des professeurs des lycées et collèges</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>40492</id>
+              <entry>
+                <string language="fre">patrimoine culturel</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>43154</id>
+              <entry>
+                <string language="fre">monument</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>45330</id>
+              <entry>
+                <string language="fre">lieu historique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>46966</id>
+              <entry>
+                <string language="fre">gisement fossilifère</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>48487</id>
+              <entry>
+                <string language="fre">document photographique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>911.447 1</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://crdp.ac-bordeaux.fr/bardou/default.htm?loc=0</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,238 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/65899</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>65899</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020106</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020106</entry>
+          </identifier>
+          <title>
+            <string language="es">La historia del griego</string>
+            <string language="en">The history of Greek</string>
+            <string language="x-mt-de">Die Geschichte des Griechen</string>
+            <string language="x-mt-fr">L'histoire du Grec</string>
+            <string language="x-mt-pt">O history do grego</string>
+            <string language="x-mt-it">La storia di Greco</string>
+            <string language="x-mt-el">Η ιστορία των ελληνικών</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Recorrido por las etapas más importantes de la historia de la lengua griega.</string>
+            <string language="en">A journey through the most important stages of the history of the Greek language.</string>
+          </description>
+          <keyword>
+            <string language="es">griego</string>
+            <string language="en">Greek</string>
+          </keyword>
+          <keyword>
+            <string language="es">historia</string>
+            <string language="en">history</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Eine Reise durch die wichtigsten Stadien der 
+Geschichte der griechischen Sprache.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un voyage par les étapes les plus importantes de 
+l'histoire de la langue grecque.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma viagem através dos estágios os mais 
+importantes do history da língua grega.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un viaggio attraverso le fasi più importanti 
+della storia della lingua greca.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα ταξίδι μέσω των σημαντικότερων σταδίων της 
+ιστορίας της ελληνικής γλώσσας.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Griechisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Grec</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histoire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Grego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">history</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Greco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">storia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ελληνικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Luis Miguel Orbaneja García\,Jesús María Quílez Bielsa
+N:Luis Miguel Orbaneja García,Jesús María Quílez Bielsa
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020106</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020106</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:39.27Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>218</id>
+              <entry>
+                <string>griego antiguo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>65899</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc323ca4.php</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

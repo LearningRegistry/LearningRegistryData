@@ -1,0 +1,331 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/53650</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>53650</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_402</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_402</entry>
+          </identifier>
+          <title>
+            <string language="es">Tasa de variación media</string>
+            <string language="en">Average rate of change</string>
+            <string language="x-mt-de">Durchschnittliche Änderungsgeschwindigkeit</string>
+            <string language="x-mt-fr">Cadence de changement moyenne</string>
+            <string language="x-mt-pt">Taxa de mudança média</string>
+            <string language="x-mt-it">Tasso di cambiamento medio</string>
+            <string language="x-mt-el">Μέσο ποσοστό αλλαγής</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">unidad didáctica que desarrolla mediante simulaciones el concepto de tasa de variación media de una función en un intervalo. Se relaciona este concepto con el de velocidad media de un móvil.</string>
+            <string language="en">teaching unit which uses simulations to explain the concept of mean rate of variation of a function in an interval, with its relation to the speed of a moving object.</string>
+          </description>
+          <keyword>
+            <string language="es">velocidad media</string>
+            <string language="en">average speed</string>
+          </keyword>
+          <keyword>
+            <string language="es">velocidad</string>
+            <string language="en">velocity</string>
+          </keyword>
+          <keyword>
+            <string language="es">intervalo</string>
+            <string language="en">interval</string>
+          </keyword>
+          <keyword>
+            <string language="es">móvil</string>
+            <string language="en">moving object</string>
+          </keyword>
+          <keyword>
+            <string language="es">tasa de variación media</string>
+            <string language="en">mean rate of variation</string>
+          </keyword>
+          <keyword>
+            <string language="es">función</string>
+            <string language="en">function</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">unterrichtende Maßeinheit welcher Gebrauch 
+Simulationen, das Konzept des Mittelkurses der Variante einer Funktion
+in einem Abstand, mit seiner Relation der Geschwindigkeit einer 
+beweglichen Nachricht zu erklären.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">unité d'enseignement quelles utilisations 
+simulations d'expliquer le concept de la cadence moyenne de la 
+variation d'une fonction dans un intervalle, avec sa relation à la 
+vitesse d'un objet mobile.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">unidade ensinando que usos simulações explicar 
+o conceito da taxa média da variação de uma função em um 
+intervalo, com sua relação à velocidade de um objeto movente.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">unità d'istruzione quali usi simulazioni 
+spiegare il concetto del tasso medio di variazione di una funzione in 
+un intervallo, con il relativo rapporto alla velocità di un oggetto 
+commovente.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">μονάδα διδασκαλίας που χρησιμοποιεί τις προσομοιώσεις 
+για να εξηγήσει την έννοια του μέσου ποσοστού παραλλαγής μιας 
+λειτουργίας σε ένα διάστημα, με τη σχέση της με την ταχύτητα 
+ενός κινούμενου αντικειμένου.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">durchschnittliche Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bewegliche Nachricht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mittelkurs der Variante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse moyenne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">intervalle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">objet mobile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cadence moyenne de variation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade média</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">intervalo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">objeto movente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa média da variação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">função</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità media</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">intervallo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">oggetto commovente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tasso medio di variazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέση ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κινούμενο αντικείμενο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημάνετε το ποσοστό παραλλαγής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Miguel García Reyes
+N:Miguel García Reyes
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_402</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_402</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:15:44.31Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>789</id>
+              <entry>
+                <string>análisis matemático</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>53650</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Tasa_variacion_media/index_TVM.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

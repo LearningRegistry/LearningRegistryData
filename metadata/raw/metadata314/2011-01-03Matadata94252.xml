@@ -1,0 +1,395 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225702</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225702</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-92484</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.cndp.fr/themadoc/le_chaos/presentation.htm</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.cndp.fr/themadoc/le_chaos/presentation.htm</entry>
+          </identifier>
+          <title>
+            <string language="fre">Le chaos déterministe</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier « Thém@doc » sur l'étude du chaos, un domaine de la science à part entière qui a envahi depuis une trentaine d'années l'ensemble des champs de la connaissance. Le dossier présente les concepts clés et différentes approches du sujet en mathématiques, en physique et en biologie. Des fiches d'activités pour les professeurs et les élèves sont mises à disposition pour les niveaux premières, terminales et classes préparatoires scientifiques.</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-09-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Krivine, Hubert
+N:Krivine, Hubert
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-09-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Treiner, Jacques
+N:Treiner, Jacques
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2007-09-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Sykes, Cécile
+N:Sykes, Cécile
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2007-09-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-92484</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-92484</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17T14:28</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-18T10:30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:50:46.98Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Droits d'auteur et de propriété
+Le dossier ainsi que son contenu dont l'éditeur détient, en propre ou sous licence, les droits de propriété intellectuelle, sont protégés par le Code de la propriété intellectuelle et les traités internationaux en matière de droits d'auteur.
+Les éléments constitutifs, les textes, les illustrations graphiques, photographiques, sonores, vidéographiques, logiciels, et leur présentation restent ainsi la propriété exclusive de l'éditeur du dossier et/ou de ses auteurs.
+Par conséquent, l'utilisateur de « Thém@doc » et de chacun des éléments de son contenu se doit de respecter les dispositions de la licence exposées ci-après.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr/thémadoc</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>SECMAT</id>
+              <entry>
+                <string language="fre">mathématiques (enseignement secondaire)</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECPHY</id>
+              <entry>
+                <string language="fre">physique-chimie</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECSVT</id>
+              <entry>
+                <string language="fre">SVT sciences de la vie et de la Terre</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GTLY1R</id>
+              <entry>
+                <string language="fre">1re</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLYTR</id>
+              <entry>
+                <string language="fre">terminale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>ESCP</id>
+              <entry>
+                <string language="fre">enseignement supérieur : CPGE classe préparatoire aux grandes écoles</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>36817</id>
+              <entry>
+                <string language="fre">système solaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>36923</id>
+              <entry>
+                <string language="fre">SVT</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>42410</id>
+              <entry>
+                <string language="fre">mathématique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>42454</id>
+              <entry>
+                <string language="fre">mécanique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>43509</id>
+              <entry>
+                <string language="fre">neurone</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>43913</id>
+              <entry>
+                <string language="fre">ordre et désordre : physique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>48219</id>
+              <entry>
+                <string language="fre">déterminisme</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>550</id>
+            </taxon>
+            <taxon>
+              <id>570</id>
+            </taxon>
+            <taxon>
+              <id>510</id>
+            </taxon>
+            <taxon>
+              <id>530</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.cndp.fr/themadoc/le_chaos/presentation.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

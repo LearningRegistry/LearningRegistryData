@@ -1,0 +1,249 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/64930</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>64930</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020113</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020113</entry>
+          </identifier>
+          <title>
+            <string language="es">Reconoce nombres en griego</string>
+            <string language="en">Recognition of Greek names</string>
+            <string language="x-mt-de">Anerkennung der griechischen Namen</string>
+            <string language="x-mt-fr">Identification des noms grecs</string>
+            <string language="x-mt-pt">Recognition dos nomes gregos</string>
+            <string language="x-mt-it">Riconoscimento dei nomi greci</string>
+            <string language="x-mt-el">Αναγνώριση των ελληνικών ονομάτων</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Este ejercicio nos muestra nombres propios habituales en nuestra lengua escritos en alfabeto griego para que el alumno los reconozca y deduzca de las equivalencias algunas normas fonéticas del griego clásico.</string>
+            <string language="en">This exercise shows common Spanish names written with the characters of the Greek alphabet in order for the students to recognise the names and deduce some of the phonetic rules of Ancient Greek from the equivalences.</string>
+          </description>
+          <keyword>
+            <string language="es">griego</string>
+            <string language="en">Greek</string>
+          </keyword>
+          <keyword>
+            <string language="es">nombres</string>
+            <string language="en">nouns</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Übung zeigt die geläufigen spanischen 
+Namen, die mit den Zeichen des griechischen Alphabetes damit die 
+Kursteilnehmer geschrieben werden, um die Namen zu erkennen und einige
+der Lautrichtlinien des alten Griechen von den Gleichwertigkeiten 
+abzuleiten.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cet exercice montre des noms espagnols communs 
+écrits avec les caractères de l'alphabet grec afin les étudiants 
+pour identifier les noms et pour déduire certaines des règles 
+phonétiques du Grec antique des équivalences.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este exercício mostra os nomes espanhóis comuns
+escritos com os caráteres do alfabeto grego para que os estudantes 
+para reconhecer os nomes e para deduzir algumas das réguas fonéticas
+do grego antigo das equivalências.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa esercitazione mostra i nomi spagnoli 
+comuni scritti con i caratteri dell'alfabeto greco nell'ordine per gli
+allievi per riconoscere i nomi e per dedurre alcune delle regole 
+fonetiche di Greco antico dalle equivalenze.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η άσκηση εμφανίζει κοινά ισπανικά ονόματα που 
+γράφονται με τους χαρακτήρες του ελληνικού αλφάβητου για οι 
+σπουδαστές αναγνωρίζουν τα ονόματα και συνάγουν μερικών από τους
+φωνητικούς κανόνες των αρχαίων ελληνικών από τις ισοδυναμίες.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Griechisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gegenstandswörter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Grec</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">noms</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Grego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">substantivos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Greco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nomi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ελληνικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ουσιαστικά</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Luis Miguel Orbaneja García\,Jesús María Quílez Bielsa
+N:Luis Miguel Orbaneja García,Jesús María Quílez Bielsa
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020113</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020113</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:44.95Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>218</id>
+              <entry>
+                <string>griego antiguo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>64930</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc323ej01.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

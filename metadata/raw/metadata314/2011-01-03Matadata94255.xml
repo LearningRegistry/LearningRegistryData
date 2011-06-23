@@ -1,0 +1,366 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225622</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225622</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-82083</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.ac-nancy-metz.fr/petitspoetes/</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.ac-nancy-metz.fr/petitspoetes/</entry>
+          </identifier>
+          <title>
+            <string language="fre">Le Grand Atelier des Petits Poètes</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Espace de rencontre, d'expression, d'échange et de mutualisation autour de la Poésie francophone à l'école. Site structuré autour de dix espaces thématiques qui permettent de lire et de diffuser des poèmes produits en classe, de participer à des projets d'écriture poétique, de proposer des outils d'enseignement et de découvrir ceux des autres, de profiter de témoignages d'enseignants et de poètes, de bénéficier de conseils bibliographiques, de trouver idées et supports pour des jeux de création et d'écriture. Liste de diffusion dédiée au site : http://listes.ac-nancy-metz.fr/wws/info/petits.poetes</string>
+          </description>
+          <keyword>
+            <string language="fre">poésie</string>
+          </keyword>
+          <keyword>
+            <string language="fre">francophonie</string>
+          </keyword>
+          <keyword>
+            <string language="fre">jeux écriture poétique</string>
+          </keyword>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de Lorraine
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-09-27T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Aubertin, Jean-Pierre
+N:Aubertin, Jean-Pierre
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-82083</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-82083</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP de Lorraine
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-04-26T09:56</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-16T14:33</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:35:06.74Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Elève en autonomie</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">La mise en ligne de données (textes, images…) sur un site internet ne signifie en rien l'abandon des droits qui leur sont attachés.
+
+Ainsi, aucune des données présentées sur Le Grand Atelier des Petits Poètes (poèmes, illustrations, documents des élèves, des enseignants, des poètes partenaires ou des responsables du site), N'EST LIBRE DE DROITS.
+
+Merci de contacter le webmestre (rubrique en bas à droite de la page d'accueil du site) pour toute information complémentaire.
+
+Les poèmes d'enfants notamment, restent leur entière propriété : en aucun cas le GRAND ATELIER ne donnera, à leur place, à un tiers quel qu'il soit, un accord pour les utiliser. Ce type de demande doit donc être adressé aux auteurs eux-mêmes sans l'autorisation desquels les poèmes ne pourront être ni dupliqués ni exploités dans un cadre autre que strictement privé.
+
+Avant d'utiliser des informations de ce site, demandez-en donc l'autorisation en précisant le contexte et les conditions de l'exploitation que vous comptez en faire.
+
+La Culture du Partage qui anime ce site implique le respect de la législation et celui des droits des auteurs - petits ou grands !</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.ac-nancy-metz.fr</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRIART</id>
+              <entry>
+                <string language="fre">la sensibilité, l'imagination, la création - éducation artistique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRILAN</id>
+              <entry>
+                <string language="fre">langage et langue française - éducation littéraire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECFLE</id>
+              <entry>
+                <string language="fre">FLE français langue étrangère</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAEAC</id>
+              <entry>
+                <string language="fre">éducation artistique et culturelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTICB2I</id>
+              <entry>
+                <string language="fre">B2i brevet informatique et internet</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PRIB2I</id>
+              <entry>
+                <string language="fre">B2i brevet informatique et internet (école)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EPEM</id>
+              <entry>
+                <string language="fre">école maternelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EP</id>
+              <entry>
+                <string language="fre">école primaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO6E</id>
+              <entry>
+                <string language="fre">6e</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO5E</id>
+              <entry>
+                <string language="fre">5e</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>41172</id>
+              <entry>
+                <string language="fre">poésie</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>808.1</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.ac-nancy-metz.fr/petitspoetes/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

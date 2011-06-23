@@ -1,0 +1,238 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/60237</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>60237</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020401</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020401</entry>
+          </identifier>
+          <title>
+            <string language="es">Los géneros literarios</string>
+            <string language="en">Literary genres</string>
+            <string language="x-mt-de">Literarische Genren</string>
+            <string language="x-mt-fr">Genres littéraires</string>
+            <string language="x-mt-pt">Genres literários</string>
+            <string language="x-mt-it">Generi letterari</string>
+            <string language="x-mt-el">Λογοτεχνικά ύφη</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Pequeña introducción a los géneros literarios en el mundo grecolatino.</string>
+            <string language="en">Brief introduction to the literary genres in the Graeco-Roman world.</string>
+          </description>
+          <keyword>
+            <string language="es">grecolatina</string>
+            <string language="en">Graeco-Roman</string>
+          </keyword>
+          <keyword>
+            <string language="es">géneros literarios</string>
+            <string language="en">literary genres</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Kurze Einleitung zu den literarischen Genren in 
+der Graeco-Römischen Welt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Brève introduction aux genres littéraires dans 
+le monde Graeco-Romain.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introdução breve aos genres literários no 
+mundo Graeco-graeco-Roman.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Breve introduzione ai generi letterari nel 
+mondo Graeco-Romano.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Συνοπτική εισαγωγή στα λογοτεχνικά ύφη στο 
+γραεθο-ρωμαϊκό κόσμο.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Graeco-Römisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">literarische Genren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Graeco-Romain</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">genres littéraires</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Graeco-graeco-Roman</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">genres literários</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Graeco-Romano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">generi letterari</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γραεθο-ρωμαϊκά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογοτεχνικά ύφη</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Luis Miguel Orbaneja García
+N:Luis Miguel Orbaneja García
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020401</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020401</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:51.75Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>712</id>
+              <entry>
+                <string>latín</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>60237</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc334ca3.php</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

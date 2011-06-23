@@ -1,0 +1,303 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225510</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225510</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-87719</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.educationprioritaire.education.fr/dossiers/soutien/presentation.asp</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.educationprioritaire.education.fr/dossiers/soutien/presentation.asp</entry>
+          </identifier>
+          <title>
+            <string language="fre">Accompagnement et soutien scolaires</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">On parle de « soutien scolaire » lorsque l'aide est dispensée sur le temps scolaire et « d'accompagnement scolaire » si elle est délivrée sur le temps périscolaire. Les textes officiels relatifs à l'accompagnement et au soutien scolaires sont répertoriés ainsi que les dispositifs d'accompagnement. De plus, une bibliographie permet de faire le point sur la question. Glossaire de sigles.</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:Ministère de l'Éducation nationale
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-09-01T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2001-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Direction générale de l'Enseignement scolaire
+N:Direction générale de l'Enseignement scolaire
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2001-04-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-87719</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-87719</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Auvergne
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-02T14:18</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-03-16T11:41</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:42:41.60Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">© Ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche   Droits de reproduction des documents publics ou officiels Depuis la publication de l’ordonnance n° 2005-650 du 6 juin 2005 relative à la liberté d’accès aux documents administratifs et à la réutilisation des informations publiques, ces informations peuvent être réutilisées à d’autres fins que celles pour lesquelles elles ont été produites, et particulièrement les informations faisant l’objet d’une diffusion publique. Les documents publics ou officiels ne sont couverts par aucun droit d'auteur et peuvent donc être reproduits librement. Le graphisme, l’iconographie ainsi que le contenu éditorial demeurent la propriété de l’État, et, à ce titre, font l’objet des protections prévues par le Code de la propriété intellectuelle. L'article L.122-5 du Code de la Propriété intellectuelle pose le principe selon lequel, 'lorsque l'œuvre a été divulguée, l'auteur ne peut interdire la diffusion, même intégrale, par la voie de presse ou de télédiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, (...), ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles'. C'est donc le cas notamment pour les discours et interventions du ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche qui s'apparentent à une exception au droit d'auteur. De même, les documents publics ou officiels tels que les communiqués officiels du ministère de l’éducation nationale, de l’enseignement supérieur et de la recherche ne sont couverts par aucun droit d'auteur, et peuvent en conséquence être reproduits librement. Si la reprise de ces contenus de façon partielle ou intégrale est autorisée, elle doit être obligatoirement assortie de la mention du nom de l'auteur, de la source, et éventuellement d'un lien renvoyant vers le document original en ligne sur le site. La mention '© www.education.gouv.fr – M.E.N.E.S.R.' devra donc être indiquée. Tous les autres contenus présents sur le site sont couverts par le droit d'auteur. Toute reprise est dès lors conditionnée à l'accord de l'auteur en vertu de l'article L.122-4 du Code de la propriété Intellectuelle. Les informations utilisées ne doivent l'être qu'à des fins personnelles, associatives ou professionnelles ; toute diffusion ou utilisation à des fins commerciales ou publicitaires étant interdites.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.educationprioritaire.education.fr</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>DISTPR</id>
+              <entry>
+                <string language="fre">aide au travail personnel et à la réussite</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EP</id>
+              <entry>
+                <string language="fre">école primaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GT</id>
+              <entry>
+                <string language="fre">enseignement secondaire - voies générale et technologique</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>40426</id>
+              <entry>
+                <string language="fre">partenariat éducatif</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>40585</id>
+              <entry>
+                <string language="fre">pédagogie de soutien</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>371.28</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.educationprioritaire.education.fr/dossiers/soutien/presentation.asp</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

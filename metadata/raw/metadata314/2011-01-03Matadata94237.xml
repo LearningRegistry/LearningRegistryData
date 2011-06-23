@@ -1,0 +1,329 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225669</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225669</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-85309</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.crdp-strasbourg.fr/bartho/</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.crdp-strasbourg.fr/bartho/</entry>
+          </identifier>
+          <title>
+            <string language="fre">Auguste Bartholdi : dossier documentaire et pédagogique</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Ce dossier présente Auguste Bartholdi et ses œuvres publiques et semi-publiques conservées à Colmar. Ce point central est mis en relation avec les faits historiques marquants de la cité (de 1815 à 1918). Sans minimiser l'intérêt qu'il peut susciter auprès d'un plus large public, il est principalement destiné aux équipes éducatives (enseignants d'histoire-géographie, de français et d'arts plastiques). Son contenu s'appuie sur de l'information structurée (développement historique, économique, social et culturel de la ville, vie et œuvre de l'artiste) et de l'information brute ( documents d'archives, photographies et textes d’époque, fiches techniques d'œuvres).</string>
+          </description>
+          <keyword>
+            <string language="fre">Bartholdi, Auguste : 1834-1904</string>
+          </keyword>
+          <coverage>
+            <string language="fre">Haut-Rhin : département</string>
+          </coverage>
+          <coverage>
+            <string language="fre">1815-1870</string>
+          </coverage>
+          <coverage>
+            <string language="fre">1870-1914</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Alsace
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-01T00:00</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Guérin, Gilles
+N:Guérin, Gilles
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance académique
+N:Instance académique
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-85309</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-85309</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CRDP d'Alsace
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-27T15:27</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-06T09:55</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T01:38:48.34Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <description>
+            <string language="fre">Formation de l’enseignant</string>
+          </description>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Elève en autonomie</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">La reproduction de tout ou partie de ce site sur un support électronique quel qu'il soit est formellement interdite sauf autorisation expresse. La reproduction des textes sur support papier, à des fins pédagogiques, est autorisée sous respect des conditions suivantes : gratuité de la diffusion, respect de l'intégralité des documents reproduits (ni modification ni altération d'aucune sorte), citation lisible de la source.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRIART</id>
+              <entry>
+                <string language="fre">la sensibilité, l'imagination, la création - éducation artistique</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECHAR</id>
+              <entry>
+                <string language="fre">histoire des arts</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLVRLRA</id>
+              <entry>
+                <string language="fre">langues régionales d'Alsace</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>DISTRAEAC</id>
+              <entry>
+                <string language="fre">éducation artistique et culturelle</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECAAP</id>
+              <entry>
+                <string language="fre">arts appliqués</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>PE</id>
+              <entry>
+                <string language="fre">formation des personnels de l'éducation nationale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 3</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>39640</id>
+              <entry>
+                <string language="fre">sculpteur</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>927.2</id>
+            </taxon>
+            <taxon>
+              <id>735.2</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.crdp-strasbourg.fr/bartho/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,347 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/235457</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>235457</entry>
+  </identifier>
+  <identifier>
+    <catalog>CNDP-numeribase</catalog>
+    <entry>numeribase-143238</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:http://www.cndp.fr/langues/languesenligne/langues-vivantes-etrangeres/arabe/lislam/accueil.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://www.cndp.fr/langues/languesenligne/langues-vivantes-etrangeres/arabe/lislam/accueil.html</entry>
+          </identifier>
+          <title>
+            <string language="fre">L@ngues_en_ligne (Arabe) - L'Islam</string>
+          </title>
+          <language>fre</language>
+          <description>
+            <string language="fre">Dossier d'accompagnement (pour l'apprentissage de la langue arabe) de TDC n°973 et TDC école n° 35. Les élèves du primaire découvrent l’histoire de l’Aïd. Cette approche culturelle passe par des exercices de compréhension d’un poème et d’un texte, des activités ludiques de décoration et par la récitation du poème. Les élèves de collège, par un travail de repérage des rimes, du refrain, des mots connus, abordent un chant religieux célèbre. Au lycée, les élèves sont amenés à découvrir la mosquée des Omeyyades à Damas. Puis, ils se prépareront  à jouer le rôle de touriste ou de guide.</string>
+          </description>
+          <coverage>
+            <string language="fre">France</string>
+          </coverage>
+          <coverage>
+            <string language="fre">21e siècle</string>
+          </coverage>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Sicard-Fraisse, Frédérique
+N:Sicard-Fraisse, Frédérique
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Tahhan, Brigitte
+N:Tahhan, Brigitte
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>validator</value>
+            </role>
+            <date>
+              <dateTime>2009-06-01T00:00</dateTime>
+            </date>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Instance nationale
+N:Instance nationale
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cndp.fr:numeribase-143238</entry>
+          </identifier>
+          <identifier>
+            <catalog>CNDP-numeribase</catalog>
+            <entry>numeribase-143238</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:CNDP
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-08-20T15:44</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Validateur Numéribase
+N:Validateur Numéribase
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-03-16T16:31</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:
+N:
+ORG:SCEREN-CNDP
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>fre</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:CNDP
+N:CNDP
+ORG:CNDP
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T02:05:45.90Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <description>
+            <string language="fre">En classe</string>
+          </description>
+          <description>
+            <string language="fre">Préparation de cours</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fre">Propriété intellectuelle                              En outre, les informations utilisées ne doivent l'être qu'à des fins personnelles, associatives ou professionnelles ; toute diffusion ou utilisation à des fins commerciales ou publicitaires étant exclues.Le CNDP se réserve le droit d'engager des poursuites le cas échéant.</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>ispartof</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>URI</catalog>
+              <entry>http://www.cndp.fr/pedagogie/languesenligne/accueil.htm</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Domaines disciplinaires et transversaux</string>
+            </source>
+            <taxon>
+              <id>PRILER</id>
+              <entry>
+                <string language="fre">langue étrangère ou régionale</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>SECLVEARA</id>
+              <entry>
+                <string language="fre">arabe</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational level</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">Nomenclature Scérén v2007 : Niveaux d'enseignement et de formation</string>
+            </source>
+            <taxon>
+              <id>EP</id>
+              <entry>
+                <string language="fre">école primaire</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTCO</id>
+              <entry>
+                <string language="fre">voies générale et technologique : collège</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>GTLY</id>
+              <entry>
+                <string language="fre">voies générale et technologique : lycée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>EPEEC3</id>
+              <entry>
+                <string language="fre">école élémentaire : cycle 3</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>idea</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">thésaurus Motbis 2008</string>
+            </source>
+            <taxon>
+              <id>43196</id>
+              <entry>
+                <string language="fre">mosquée</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>44577</id>
+              <entry>
+                <string language="fre">islam</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51244</id>
+              <entry>
+                <string language="fre">Coran</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>51939</id>
+              <entry>
+                <string language="fre">arabe : langue</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="fre">classification décimale Dewey</string>
+            </source>
+            <taxon>
+              <id>492.7</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>Fichier HTML</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.cndp.fr/langues/languesenligne/langues-vivantes-etrangeres/arabe/lislam/accueil.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

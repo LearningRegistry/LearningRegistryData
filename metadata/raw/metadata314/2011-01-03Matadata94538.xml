@@ -1,0 +1,332 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/53225</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>53225</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_850</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_850</entry>
+          </identifier>
+          <title>
+            <string language="es">Resolución de ecuaciones de 2º grado mediante las fórmulas de Cardano</string>
+            <string language="en">Solving quadratic equations using Cardano's formulae</string>
+            <string language="x-mt-de">Lösen der quadratischen Gleichungen mit Formeln 
+Cardanos</string>
+            <string language="x-mt-fr">Solution des équations quadratiques en utilisant
+les formules de Cardano</string>
+            <string language="x-mt-pt">Resolvendo equações quadráticas usando 
+fórmulas de Cardano</string>
+            <string language="x-mt-it">Risolvere le equazioni quadratiche usando le 
+formule del Cardano</string>
+            <string language="x-mt-el">Επίλυση των δευτέρου βαθμού εξισώσεων που 
+χρησιμοποιούν τους τύπους Cardano</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación interactiva que propone ejercicios de cálculo de las soluciones de una ecuación de segundo grado a partir de su suma y su producto</string>
+            <string language="en">interactive simulation with exercises to calculate the solutions of a quadratic equation given the sum and product of the solutions</string>
+          </description>
+          <keyword>
+            <string language="es">producto</string>
+            <string language="en">sum</string>
+          </keyword>
+          <keyword>
+            <string language="es">Cardano</string>
+            <string language="en">product</string>
+          </keyword>
+          <keyword>
+            <string language="es">ecuación</string>
+            <string language="en">equation</string>
+          </keyword>
+          <keyword>
+            <string language="es">suma</string>
+            <string language="en">solution</string>
+          </keyword>
+          <keyword>
+            <string language="es">solución</string>
+            <string language="en">degree</string>
+          </keyword>
+          <keyword>
+            <string language="es">segundo grado</string>
+            <string language="en">quadratic</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">interaktive Simulation mit den Übungen, zum der 
+Lösungen einer quadratischen Gleichung zu errechnen die Summe und das
+Produkt der Lösungen gegeben</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">simulation interactive avec des exercices pour 
+calculer les solutions d'une équation quadratique donnée la somme et
+le produit des solutions</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">simulação interativa com os exercícios para 
+calcular as soluções de uma equação quadrática dada a soma e o 
+produto das soluções</string>
+          </description>
+          <description>
+            <string language="x-mt-it">simulazione interattiva con le esercitazioni per 
+calcolare le soluzioni di un'equazione quadratica data la somma ed il 
+prodotto delle soluzioni</string>
+          </description>
+          <description>
+            <string language="x-mt-el">διαλογική προσομοίωση με τις ασκήσεις για να 
+υπολογίσει τις λύσεις μια δευτέρου βαθμού εξίσωση δεδομένου του 
+ποσού και του προϊόντος των λύσεων</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Summe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Produkt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gleichung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lösung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Grad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">quadratisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">somme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">produit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">équation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">solution</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">degré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">quadratique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">soma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">produto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">equação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">solução</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">grau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">quadrático</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">somma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">prodotto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">equazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">soluzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">quadratico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προϊόν</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εξίσωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λύση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βαθμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δευτέρου βαθμού</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Consolación Ruiz Gil
+N:Consolación Ruiz Gil
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_850</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_850</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:14:56.57Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>52</id>
+              <entry>
+                <string>álgebra</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>53225</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Cardano/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
