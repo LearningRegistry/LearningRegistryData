@@ -1,0 +1,195 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/233912</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>233912</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:11373</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:11373</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>11373</entry>
+          </identifier>
+          <title>
+            <string language="nl">Carnaval en vasten</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Door middel van leestekstjes, vraagjes en oefeningen komen leerlingen meer te weten over carnaval:  Wat is carnaval?Waar komt het gebruik van carnaval vieren vandaan?Hoe werd carnaval in het verleden gevierd?Wat betekent vasten? Wat zijn de belangrijkste kenmerken van het carnaval in Aalst?Wat zijn de belangrijkste kenmerken van het carnaval in Binche?</string>
+          </description>
+          <keyword>
+            <string language="nl">internationaal</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Aalst</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Binche</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Gille</string>
+          </keyword>
+          <keyword>
+            <string language="nl">eXe</string>
+          </keyword>
+          <keyword>
+            <string language="nl">verkleden</string>
+          </keyword>
+          <keyword>
+            <string language="nl">masker</string>
+          </keyword>
+          <keyword>
+            <string language="nl">carnaval</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-02-20T16:39:21.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Stijn Meesters
+FN:Stijn Meesters 
+EMAIL;TYPE=INTERNET: 
+ORG: Stijn Meesters
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:11373</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:11373</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T15:07:53.24Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-11</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Te gebruiken in hoekenwerk, contractwerk en zelfstandig leren.  Je kan er perfect een hoofdstukje uitpikken om door de leerlingen te laten verwerken.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Gilberte Vandezande</entity>
+          <date>
+            <dateTime>2009-02-21</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>11373</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>11373</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/11373/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

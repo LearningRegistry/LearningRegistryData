@@ -1,0 +1,224 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205503</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205503</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:523</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:523</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>523</entry>
+          </identifier>
+          <title>
+            <string language="nl">Aardrijkskunde - Venster op de wereld</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Website met allerlei fotomateriaal, kaarten, videofragmenten, oefeningen, powerpoints, animaties en informatie over aardrijkskunde in de 1ste en 2de graad.</string>
+          </description>
+          <keyword>
+            <string language="nl">fotomateriaal</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kaarten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kaart</string>
+          </keyword>
+          <keyword>
+            <string language="nl">toerisme</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kust</string>
+          </keyword>
+          <keyword>
+            <string language="nl">citytrip</string>
+          </keyword>
+          <keyword>
+            <string language="nl">citytrips</string>
+          </keyword>
+          <keyword>
+            <string language="nl">landschap</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Relief</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gesteente</string>
+          </keyword>
+          <keyword>
+            <string language="nl">klimaat</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vegetatie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bewoning</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bevolking</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Paul Claeys
+FN:Paul Claeys 
+EMAIL;TYPE=INTERNET:paul.claeys@sintjozefbrugge.be 
+ORG: Paul Claeys
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:523</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>523</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T22:08:39.36Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Sijonara Maria</entity>
+          <date>
+            <dateTime>2009-12-15</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>523</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/523/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

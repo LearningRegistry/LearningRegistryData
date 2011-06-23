@@ -1,0 +1,164 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77586</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77586</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>844f3d28-ef29-475e-8b2d-be50db3def33#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Összefüggés a viszonyszámok között</string>
+            <string language="en">Relation between ratios</string>
+            <string language="x-mt-de">Relation zwischen Verhältnissen</string>
+            <string language="x-mt-fr">Relation entre les taux</string>
+            <string language="x-mt-pt">Relação entre relações</string>
+            <string language="x-mt-it">Rapporto fra i rapporti</string>
+            <string language="x-mt-el">Σχέση μεταξύ των αναλογιών</string>
+            <string language="x-mt-es">Relación entre las relaciones de 
+transformación</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A tervfeladat-, a tervteljesítési, valamint a dinamikus viszonyszám közötti összefüggés</string>
+            <string language="en">Relation between the target-, the plan fulfilment and the dynamic ratio</string>
+          </description>
+          <keyword>
+            <string language="hu">viszonyszámok,  </string>
+            <string language="en">ratios</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Relation zwischen dem Ziel -, die Planerfüllung 
+und das dynamische Verhältnis</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Relation entre la cible -, l'accomplissement de 
+plan et le taux dynamique</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Relação entre o alvo -, o fulfilment da planta 
+e a relação dinâmica</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Rapporto fra l'obiettivo -, l'adempimento di 
+programma ed il rapporto dinamico</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχέση μεταξύ του στόχου -, η εκπλήρωση σχεδίων και η 
+δυναμική αναλογία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Relación entre la blanco -, el cumplimiento del 
+plan y la relación de transformación dinámica</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Verhältnisse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">taux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">relações</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rapporti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">relaciones de transformación</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77586</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=844f3d28-ef29-475e-8b2d-be50db3def33&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

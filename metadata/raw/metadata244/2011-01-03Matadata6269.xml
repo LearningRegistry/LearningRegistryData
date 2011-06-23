@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74914</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74914</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>8555794b-2626-4e76-9ca4-bb4d2e09676f#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A szív szerkezete</string>
+            <string language="en">Structure of the heart</string>
+            <string language="x-mt-de">Struktur des Inneren</string>
+            <string language="x-mt-fr">Structure du coeur</string>
+            <string language="x-mt-pt">Estrutura do coração</string>
+            <string language="x-mt-it">Struttura del cuore</string>
+            <string language="x-mt-el">Δομή της καρδιάς</string>
+            <string language="x-mt-es">Estructura del corazón</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A szív belső felépítését szemléltető rajz</string>
+            <string language="en">Drawing illustrating the internal build of the heart</string>
+          </description>
+          <keyword>
+            <string language="hu">szív,  kamra,  pitvar,  billentyű,  aorta,  </string>
+            <string language="en">heart, ventricle, auricle, valve, aorta</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Zeichnen, den internen Bau des Inneren 
+veranschaulichend</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dessin illustrant la construction interne du 
+coeur</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenhar ilustrando a configuração interna do 
+coração</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dissipare illustrando la configurazione interna 
+del cuore</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχεδιασμός επεξηγώντας την εσωτερική κατασκευή της 
+καρδιάς</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El trazar ilustrando la estructura interna del 
+corazón</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Inneres, Ventrikel, Auricle, Ventil, Aorta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coeur, ventricule, pavillon, valve, aorte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">coração, ventricle, auricle, válvula, aorta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cuore, ventricle, auricle, valvola, aorta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καρδιά, κοιλία, auricle, βαλβίδα, αορτή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">corazón, ventrículo, aurícula, válvula, aorta</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74914</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8555794b-2626-4e76-9ca4-bb4d2e09676f&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

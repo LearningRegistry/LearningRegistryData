@@ -1,0 +1,230 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209383</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209383</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5183</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5183</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5183</entry>
+          </identifier>
+          <title>
+            <string language="nl">Boekenbank.be : Titelbestand van uitgegeven boeken in Vlaanderen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Boekenbank.be is een informatiebron die voor zowel directie, administratie, leerkrachten, leerlingen of een schoolbibliotheekverantwoordelijke een handig instrument kan zijn om op een snelle manier kostprijs en andere info over bepaalde hand- of werkboeken of leesboeken terug te vinden. Iedereen kan langs deze weg elk boek dat in Vlaanderen werd uitgegeven opzoeken. Hierbij kun je je informeren welke boeken omtrent een bepaald onderwerp er op Nederlandstalig gebied beschikbaar zijn. Overweeg je om misschien een boek te bestellen, dan kun je dit doen bij jouw eigen favoriete boekhandel.
+Per boek krijg je o.a. volgende info:
+
+
+auteur
+
+
+reeks
+
+
+taal
+
+
+uitgever
+
+
+prijs
+
+
+ISBN
+
+
+uitvoering (bv. paperback)
+
+
+uitgavesoort
+
+
+verschijningsdatum
+
+
+druknummer
+
+
+formaat
+
+
+gewicht
+
+
+pagina's
+
+
+illustraties
+
+
+(eventueel) recensies over het boek
+
+
+beschrijving</string>
+          </description>
+          <keyword>
+            <string language="nl">strip schoolboek educatieve uitgave roman poëzie proza</string>
+          </keyword>
+          <keyword>
+            <string language="nl">boek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">literatuur</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-10-18T11:24:52.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Boekenbank
+FN:Boekenbank 
+EMAIL;TYPE=INTERNET: 
+ORG: Boekenbank
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5183</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5183</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:32:30.09Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">In een les Nederlands kun je zoekopdrachten door de leerlingen laten uitvoeren.  Laat ze een worddocument openen en geef ze bv. volgende opdrachten: - Geef de naam van de auteur van het boek met als titel... en zoek daarna een afbeelding van deze schrijver en kopieer en plak dit in je worddocument. - Zoek de auteur van het boek met volgende titel... - In welk jaar is het volgende boek verschenen... - Bij welke uitgeverij zijn de boeken van volgende schrijver vooral uitgegeven... - Geef twee namen van personages van het boek met volgende titel... (kopieer en plak in je worddocument)</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">De info op de site is uiteraard gratis ter beschikking.
+Het is evident dat aan het bestellen van een bepaald boek bij je boekhandel er een bepaald prijskaartje aan vasthangt.</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>lea derveaux</entity>
+          <date>
+            <dateTime>2008-05-26</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5183</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5183</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5183/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
