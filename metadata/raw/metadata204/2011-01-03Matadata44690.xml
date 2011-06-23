@@ -1,0 +1,190 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/86041</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>86041</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>c332276cdc583283fba8be757272397d64e7f3fd</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:c332276cdc583283fba8be757272397d64e7f3fd</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>c332276cdc583283fba8be757272397d64e7f3fd</entry>
+          </identifier>
+          <title>
+            <string language="et">Õpilastööd</string>
+            <string language="en">Pupils handworks</string>
+            <string language="x-mt-de">Pupillehandarbeit</string>
+            <string language="x-mt-fr">Travaux manuels de pupilles</string>
+            <string language="x-mt-pt">Handworks das pupilas</string>
+            <string language="x-mt-it">Handworks delle pupille</string>
+            <string language="x-mt-el">Χειροτεχνίες μαθητών</string>
+            <string language="x-mt-es">Trabajos hechos a mano de las pupilas</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Õpilastööd</string>
+            <string language="en">Pupils handworks</string>
+          </description>
+          <keyword>
+            <string language="et">Tööõpetus ja käsitöö; käsitöö</string>
+            <string language="en">handicraft</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Pupillehandarbeit</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Travaux manuels de pupilles</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Handworks das pupilas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Handworks delle pupille</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Χειροτεχνίες μαθητών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Trabajos hechos a mano de las pupilas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Handwerk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travail manuel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">handicraft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">artigianato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βιοτεχνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">artesanía</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Õun;Heli;;;
+FN:Heli Õun
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:c332276cdc583283fba8be757272397d64e7f3fd</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>c332276cdc583283fba8be757272397d64e7f3fd</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:48:56.96Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">7 - 16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>576</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>c332276cdc583283fba8be757272397d64e7f3fd</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=c332276cdc583283fba8be757272397d64e7f3fd</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103493</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103493</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101499</entry>
+          </identifier>
+          <title>
+            <string language="en">Strange Science: Superhuman Strength</string>
+            <string language="x-mt-de">Merkwürdige Wissenschaft: Superhuman 
+Stärke</string>
+            <string language="x-mt-fr">La Science Étrange : Force Surhumaine</string>
+            <string language="x-mt-pt">Ciência Estranha: Força Superhuman</string>
+            <string language="x-mt-it">Scienza Sconosciuta: Resistenza Superhuman</string>
+            <string language="x-mt-el">Παράξενη επιστήμη: Υπεράνθρωπη δύναμη</string>
+            <string language="x-mt-es">Ciencia Extraña: Fuerza Sobrehumana</string>
+          </title>
+          <description>
+            <string language="en">How do some humans achieve superhuman strength? The science of superhuman strength and body builders.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Wie erzielen einige Menschen superhuman Stärke? 
+Die Wissenschaft der superhuman Stärke und Körpererbauer.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Comment quelques humains réalisent-ils la force 
+surhumaine ? La science des constructeurs surhumains de force et
+de corps.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Como alguns seres humanos conseguem a força 
+superhuman? A ciência de construtores superhuman da força e do
+corpo.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Come alcuni esseri umani realizzano la resistenza 
+superhuman? Scienza dei costruttori superhuman del corpo e di 
+resistenza.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πώς μερικοί άνθρωποι επιτυγχάνουν την υπεράνθρωπη 
+δύναμη; Η επιστήμη των υπεράνθρωπων οικοδόμων δύναμης και 
+σωμάτων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Cómo algunos seres humanos alcanzan fuerza 
+sobrehumana? La ciencia de los constructores sobrehumanos de la 
+fuerza y del cuerpo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101499</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>103493</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/strange-science-superhuman-strength</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

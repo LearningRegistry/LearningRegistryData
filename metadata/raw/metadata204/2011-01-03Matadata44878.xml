@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107954</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107954</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209328</entry>
+          </identifier>
+          <title>
+            <string language="en">Octaves and the Major-Minor Tonal System</string>
+            <string language="x-mt-de">Oktaven und das Haupt-Geringe Tonal System</string>
+            <string language="x-mt-fr">Octaves et le système Tonal 
+Principal-Mineur</string>
+            <string language="x-mt-pt">Octaves e o sistema Principal-Menor de Tonal</string>
+            <string language="x-mt-it">Ottava ed il sistema Principale-Secondario di 
+Tonal</string>
+            <string language="x-mt-el">Οκτάβες και το σημαντικός-δευτερεύον τονικό σύστημα</string>
+            <string language="x-mt-es">Octavas y el sistema Principal-De menor 
+importancia de Tonal</string>
+          </title>
+          <description>
+            <string language="en">Introduces the relationship between frequency, octaves, major, minor, and chromatic scales, and tonal music.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Stellt das Verhältnis zwischen Frequenz, Oktaven, 
+Major, Untersatz und chromatische Skalen und tonal Musik vor.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente le rapport entre la fréquence, les 
+octaves, le commandant, le mineur, et les échelles chromatiques, et 
+la musique tonale.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz o relacionamento entre a freqüência, os
+octaves, o major, o menor, e escalas chromatic, e música do tonal.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce il rapporto fra frequenza, ottava, 
+maggiore, minore e scale cromatiche e musica di tonal.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει τη σχέση μεταξύ της συχνότητας, οκτάβων, 
+σημαντικών, δευτερευουσών, και χρωματικών κλιμάκων, και της 
+τονικής μουσικής.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce el lazo entre la frecuencia, las 
+octavas, comandante, menor de edad, y las escalas cromáticas, y 
+música del tonal.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209328</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107954</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/octaves-and-the-major-minor-tonal-system</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

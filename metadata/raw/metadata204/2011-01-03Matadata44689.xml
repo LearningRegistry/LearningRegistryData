@@ -1,0 +1,205 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/85045</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>85045</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+          </identifier>
+          <title>
+            <string language="de">Wohnen</string>
+            <string language="et">Majapidamine</string>
+            <string language="en">Housing</string>
+            <string language="x-mt-fr">Logement</string>
+            <string language="x-mt-pt">Carcaça</string>
+            <string language="x-mt-it">Alloggiamento</string>
+            <string language="x-mt-el">Κατοικία</string>
+            <string language="x-mt-es">Cubierta</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Wohnen</string>
+            <string language="et">Majapidamine</string>
+            <string language="en">Housing</string>
+          </description>
+          <keyword>
+            <string language="de">Wortschatz</string>
+            <string language="de">Deutsch</string>
+            <string language="et">sõnavara</string>
+            <string language="et">Keeleõpetus</string>
+            <string language="et">Saksa keel</string>
+            <string language="en">vocabulary</string>
+            <string language="en">German</string>
+          </keyword>
+          <description>
+            <string language="x-mt-fr">Logement</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Carcaça</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Alloggiamento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κατοικία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cubierta</string>
+          </description>
+          <keyword>
+            <string language="x-mt-fr">vocabulaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Allemand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vocabulário</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Alemão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vocabolario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tedesco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λεξιλόγιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γερμανικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vocabulario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Alemán</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lina;Kalle;;;
+FN:Kalle Lina
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:49:13.17Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">15 - 17</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>548</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>8f3855c74abf519e6e14526c8d2e1cd0f5475217</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=8f3855c74abf519e6e14526c8d2e1cd0f5475217</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

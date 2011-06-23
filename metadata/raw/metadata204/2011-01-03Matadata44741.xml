@@ -1,0 +1,211 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/86350</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>86350</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+          </identifier>
+          <title>
+            <string language="et">Tunnikavad tikkimises</string>
+            <string language="en">Embroidering</string>
+            <string language="x-mt-de">Sticken</string>
+            <string language="x-mt-fr">Broderie</string>
+            <string language="x-mt-pt">Bordar</string>
+            <string language="x-mt-it">Ricamo</string>
+            <string language="x-mt-el">Κέντημα</string>
+            <string language="x-mt-es">El bordar</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Tunnikavad tikkimises</string>
+            <string language="en">Embroidering</string>
+          </description>
+          <keyword>
+            <string language="et">tikkimine</string>
+            <string language="et">Käsitöö</string>
+            <string language="et">Tööõpetus ja käsitöö</string>
+            <string language="en">embroidering</string>
+            <string language="en">handicraft</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sticken</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Broderie</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Bordar</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ricamo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κέντημα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El bordar</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Sticken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Handwerk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">broderie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travail manuel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bordar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">handicraft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ricamo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">artigianato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κέντημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βιοτεχνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el bordar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">artesanía</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lahemaa;Siret;;;
+FN:Siret Lahemaa
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:44:08.73Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">11 - 12</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>576</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>3b9bc24e5eabc64ce65ef925330185e6823ac205</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=3b9bc24e5eabc64ce65ef925330185e6823ac205</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

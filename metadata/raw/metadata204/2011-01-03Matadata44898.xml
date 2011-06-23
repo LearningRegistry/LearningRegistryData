@@ -1,0 +1,147 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107030</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107030</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101362</entry>
+          </identifier>
+          <title>
+            <string language="en">How it's Made: Aluminum Foil</string>
+            <string language="x-mt-de">Wie es gebildet wird: Aluminiumfolie</string>
+            <string language="x-mt-fr">Comment elle est faite : Papier 
+d'aluminium</string>
+            <string language="x-mt-pt">Como é feito: Folha De alumínio</string>
+            <string language="x-mt-it">Come è fatta: L'alluminio 
+Sventa</string>
+            <string language="x-mt-el">Πώς γίνεται: Φύλλο αλουμινίου αργιλίου</string>
+            <string language="x-mt-es">Cómo se hace: Papel De Aluminio</string>
+          </title>
+          <description>
+            <string language="en">From a large block of aluminum to the foil in your kitchen.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Von einem großen Block des Aluminiums zur Folie 
+in Ihrer Küche.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">D'un grand bloc d'aluminium au clinquant dans 
+votre cuisine.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">De um bloco grande do alumínio à folha em sua 
+cozinha.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Da un grande blocco di alluminio allo sventare
+nella vostra cucina.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Από μια μεγάλη ομάδα δεδομένων του αργιλίου στο 
+φύλλο αλουμινίου στην κουζίνα σας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">De un bloque grande del aluminio a la hoja en su 
+cocina.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101362</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107030</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/how-it-s-made-aluminum-foil</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

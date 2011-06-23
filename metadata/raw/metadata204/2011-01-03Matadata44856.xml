@@ -1,0 +1,153 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105447</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105447</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101487</entry>
+          </identifier>
+          <title>
+            <string language="en">Space Week: Roving Mars, Part 1</string>
+            <string language="x-mt-de">Platz-Woche: Vorspinnen Mars, Teil 1</string>
+            <string language="x-mt-fr">Semaine de l'Espace : Boudinage Mars, Partie
+1</string>
+            <string language="x-mt-pt">Semana Do Espaço: Roving Marte, Parte 1</string>
+            <string language="x-mt-it">Settimana Dello Spazio: Torcitura Marte, 
+Parte 1</string>
+            <string language="x-mt-el">Διαστημική εβδομάδα: Περιπλάνηση Αρης, μέρος 1</string>
+            <string language="x-mt-es">Semana Del Espacio: Vagueación Marte, Parte 
+1</string>
+          </title>
+          <description>
+            <string language="en">With brilliant design and hard work, the Rover engineers create a robotic wonder to explore Mars.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Mit leuchtendem Design und harter Arbeit erstellen
+die Vagabundingenieure ein Roboterwunder, um Mars zu erforschen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Avec la conception brillante et le travail dur, 
+les ingénieurs de vagabond créent une merveille robotique pour 
+explorer Mars.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Com projeto brilhante e trabalho duro, os 
+coordenadores do vagabundo críam uma maravilha robotic para explorar 
+Marte.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Con il disegno brillante ed il lavoro duro, gli 
+assistenti tecnici del vagabondo creano un wonder robot per esplorare 
+Marte.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Με το λαμπρό σχέδιο και τη σκληρή εργασία, οι 
+μηχανικοί πλανών δημιουργούν μια ρομποτική κατάπληξη για να 
+εξερευνήσουν τον Αρη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Con diseño brillante y el trabajo duro, los 
+ingenieros del rover crean una maravilla robótica para explorar 
+Marte.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101487</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105447</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/space-week-roving-mars-part-1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
