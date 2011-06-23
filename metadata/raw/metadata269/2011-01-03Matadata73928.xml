@@ -1,0 +1,195 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/204939</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>204939</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1871</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1871</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1871</entry>
+          </identifier>
+          <title>
+            <string language="nl">Tafeldiploma</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze website draait maar rond één ding: het automatiseren van de tafels van vermenigvuldiging.  In vijf stappen wordt de kennis van de maaltafels gecontroleerd met 20 oefeningen zonder tijdsdruk. Men is echter wel zeer streng: bij het maken van één fout mag je al niet meer verder naar een volgende stap, maar moet je eerst bewijzen dat je de oefeningen van de huidige stap toch foutloos onder de knie hebt. De stappen verlopen van makkelijk naar moeilijk en zijn als volgt ingedeeld:  - Stap 1: x 1, x 2, x 5, x 10 - Stap 2: x 3 - Stap 3: x 4, x 6 - Stap 4: x 7, x 8, x 9 - Stap 5: x 4, x 6, x 7, x 8, x 9  Heb je de vijfde stap ook foutloos doorlopen, dan mag je naar de zesde stap. Dit is een toets van 20 oefeningen (alle maaltafels door elkaar) die je foutloos moet zien te maken in één minuut. Lukt je dat, dan krijg je automatisch een echt tafeldiploma.  Bij elke stap worden de 20 oefeningen aangeboden onder de vorm van meerkeuzevragen. Je hoeft enkel maar het juiste antwoord aan te klikken. Binnen de vormgeving hiervan heeft men per antwoordalternatief een andere kleur gebruikt. Helaas zorgt dit ervoor dat bij sommige oefeningen het contrast tussen het zwarte cijfer en de achtergrondkleur te gering is, wat de leesbaarheid moeilijker maakt. Voor sommige leerlingen kan dat misschien vertragend werken.</string>
+          </description>
+          <keyword>
+            <string language="nl">vermenigvuldiging</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vermenigvuldigen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tafeldiploma</string>
+          </keyword>
+          <keyword>
+            <string language="nl">oefeningen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tafels</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-05-04T17:36:57.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Educatieteam Nederland
+FN:Educatieteam Nederland 
+EMAIL;TYPE=INTERNET: 
+ORG: Educatieteam Nederland
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1871</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1871</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T22:04:39.98Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-17</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1871</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/1871/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

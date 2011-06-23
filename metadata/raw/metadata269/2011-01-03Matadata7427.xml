@@ -1,0 +1,176 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77783</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77783</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>df9b7dff-5626-4792-9df0-102e017b4578#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Energiamegmaradás törvénye</string>
+            <string language="en">principle of the conservation of energy</string>
+            <string language="x-mt-de">Grundregel der Energieeinsparung</string>
+            <string language="x-mt-fr">principe de l'économie de l'énergie</string>
+            <string language="x-mt-pt">princípio do conservation de energia</string>
+            <string language="x-mt-it">principio della conservazione di energia</string>
+            <string language="x-mt-el">αρχή της συντήρησης της ενέργειας</string>
+            <string language="x-mt-es">principio de la conservación de la energía</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A mechanikai és az általános energiamegmaradás törvénye</string>
+            <string language="en">principle of the conservation of energy</string>
+          </description>
+          <keyword>
+            <string language="hu">mechanikai munka,  energia,  energiamegmaradás,  </string>
+            <string language="en">mechanic work,  energy,  conservation of energy, </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Grundregel der Energieeinsparung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">principe de l'économie de l'énergie</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">princípio do conservation de energia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">principio della conservazione di energia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">αρχή της συντήρησης της ενέργειας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">principio de la conservación de la energía</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Mechanikerarbeit, Energie, Energieeinsparung,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travail de mécanicien, énergie, économie 
+d'énergie,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trabalho do mecânico, energia, conservation de 
+energia,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lavoro del meccanico, energia, conservazione di 
+energia,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μηχανική εργασία, ενέργεια, συντήρηση της ενέργειας,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">trabajo del mecánico, energía, conservación de la 
+energía,</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">12-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Ópra;Zsuzsanna;
+fn:Zsuzsanna Ópra 
+org:European Schoolnet
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77783</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=df9b7dff-5626-4792-9df0-102e017b4578&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
