@@ -1,0 +1,197 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/235074</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>235074</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5951</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5951</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5951</entry>
+          </identifier>
+          <title>
+            <string language="nl">MyBee : Gratis browser voor kinderen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">MyBee is een kinderbrowser met goede en leuke sites voor kinderen tot ongeveer elf jaar. Websites worden beoordeeld op geschiktheid en komen vervolgens op een zogeheten whitelist te staan. Met MyBee krijgt het kind enkel toegang tot passende sites. Per leeftijd wordt de geschiktheid bepaald door een professionele redactie en het oordeel van ouders (elke ouder kan meedoen). Goedgekeurde sites komen op een whitelist te staan. Bij het installeren van de browser kan je kiezen om de lijst van de redactie en/of de lijst van de ouders te gebruiken. Hierbij moet je ook nog eens kiezen tussen het oordeel van tolerante, gemiddelde of strenge ouders.  De ouderlijst wordt overigens wel gemodereerd om misbruik te voorkomen. Pagina's die niet door de beugel kunnen worden automatisch geblokkeerd.</string>
+          </description>
+          <keyword>
+            <string language="nl">leerzorg</string>
+          </keyword>
+          <keyword>
+            <string language="nl">veilig</string>
+          </keyword>
+          <keyword>
+            <string language="nl">online</string>
+          </keyword>
+          <keyword>
+            <string language="nl">veilig computergebruik</string>
+          </keyword>
+          <keyword>
+            <string language="nl">internet</string>
+          </keyword>
+          <keyword>
+            <string language="nl">surfen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2009-05-19T18:09:39.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Stichting Mijn Kind Online
+FN:Stichting Mijn Kind Online 
+EMAIL;TYPE=INTERNET: 
+ORG: Stichting Mijn Kind Online
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5951</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5951</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:25:24.79Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>tool</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Bart Stevens</entity>
+          <date>
+            <dateTime>2008-06-23</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5951</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5951</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5951/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

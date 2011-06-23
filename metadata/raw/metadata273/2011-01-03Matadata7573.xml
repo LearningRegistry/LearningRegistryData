@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73341</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73341</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>6921c6ac-760d-437d-a50a-761ae2328cd1#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">A romantikus opera</string>
+            <string language="en">The Romanticist opera</string>
+            <string language="x-mt-de">Die Romanticist Oper</string>
+            <string language="x-mt-fr">L'opéra de Romanticist</string>
+            <string language="x-mt-pt">A ópera de Romanticist</string>
+            <string language="x-mt-it">L'opera di Romanticist</string>
+            <string language="x-mt-el">Η όπερα Romanticist</string>
+            <string language="x-mt-es">La ópera de Romanticist</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">7. o. opera, Verdi, Wagner</string>
+            <string language="en">p. 7 opera, Verdi, Wagner</string>
+          </description>
+          <keyword>
+            <string language="hu">opera, romantikus, romantikus opera</string>
+            <string language="en">opera, Romanticist, Romanticist opera</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P. 7 Oper, Verdi, Wagner</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">opéra de p. 7, Verdi, Wagner</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">ópera do p. 7, Verdi, Wagner</string>
+          </description>
+          <description>
+            <string language="x-mt-it">opera del p. 7, Verdi, Wagner</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. 7 όπερα, Verdi, Wagner</string>
+          </description>
+          <description>
+            <string language="x-mt-es">ópera del p. 7, Verdi, Wagner</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Oper, Romanticist, Romanticist Oper</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">opéra, Romanticist, opéra de Romanticist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ópera, Romanticist, ópera de Romanticist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">opera, Romanticist, opera di Romanticist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">όπερα, Romanticist, όπερα Romanticist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ópera, Romanticist, ópera de Romanticist</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">12-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73341</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6921c6ac-760d-437d-a50a-761ae2328cd1&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,195 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205207</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205207</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:12596</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:12596</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>12596</entry>
+          </identifier>
+          <title>
+            <string language="nl">Nabbi : Geloven op maat van kinderen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Nabbi is een website voor kinderen van 8 tot 12 jaar.  Op de site wordt over geloof gesproken op maat van kinderen.De site bevat een zolderkamer die kinderen naar eigen smaak kunnen inrichten.  Een ander onderdeel bevat verhalen uit de bijbel.  Op het forum kunnen kinderen discussiëren over geloofsonderwerpen.  Elke maand is er een nieuw thema met daarbij artikels, gedichten, spelletjes en kwissen.  Op de kalender lezen we welke heilige er gevierd wordt en wat er allemaal te doen is.  In het bidhoekje vind je gebeden en kan je ook je eigen gebedjes plaatsen.De site is voor het grootste gedeelte vrij te consulteren.  Voor enkele delen moeten kinderen een sleutel aanvragen die ze gratis kunnen krijgen.  Dit is bijvoorbeeld nodig om te reageren op het forum of deel te nemen aan chatsessies.</string>
+          </description>
+          <keyword>
+            <string language="nl">geloof</string>
+          </keyword>
+          <keyword>
+            <string language="nl">godsdienst</string>
+          </keyword>
+          <keyword>
+            <string language="nl">forum</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bijbel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">heilige</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gebed</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bidden</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kerk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gedicht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kalender</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2009-04-05 22:33:45</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-04-05T22:33:45.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Belgische Bisschoppenconferentie
+FN:Belgische Bisschoppenconferentie 
+EMAIL;TYPE=INTERNET: 
+ORG: Belgische Bisschoppenconferentie
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:12596</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:12596</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T14:44:15.17Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1085</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>12596</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>12596</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/12596/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
