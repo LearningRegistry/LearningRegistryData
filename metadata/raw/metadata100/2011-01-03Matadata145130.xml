@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83907</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83907</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:98653</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>98653</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">Capitulo 2 Dispersion de contaminantes / Contaminacion de suelos: manejo de desechos sólidos (Curso%2BContaminacion%2B2%2Bda%2BParte%2B2007.pdf)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">El contenido resumido del curso está elaborado en tres partes que cubren las catorce unidades didácticas de 4 horas cada una, hasta completar 56 horas de clases presenciales y de práctica de campo. En este capítulo se adjunta el archivo que corresponde a las Notas de Clase de la Segunda Parte.Contenido de la Segunda Parte Meteorología y la AtmósferaBalance térmicoTransporte de calorGradiente ambientalEstabilidad atmosféricaComportamiento de la pluma o penachoVelocidad y dirección del vientoElevación de la plumaUso de modelos de dispersiónDistribución Gaussiana / Ecuaciones EjerciciosContaminación del Suelo / Manejo de Desechos SólidosTipo de desechos sólidosComposiciónPropiedades físicas, químicas y biológicasSistemas de recolecciónDisposición finalBotaderos y rellenos sanitariosControl de los sitios de disposición finalEjerciciosSe adjunta además la normativa ambiental ecuatoriana relacionada con el manejo de desechos no peligrosos.Atentamente,Jose V. Chang GómezProfesor FIMCM - ESPOL</string>
+          </description>
+          <keyword>
+            <string language="es-EC">Desechos</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">clases</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">adjunta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Jose Vicente Chang Gomez
+N:Chang Gomez;Jose Vicente
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-07T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-07T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:98653</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>98653</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:41:17.01Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+              <entry>
+                <string>biology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83907</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/pdf</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=98653&amp;websiteId=1686&amp;folderId=17&amp;docId=69897&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

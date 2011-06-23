@@ -1,0 +1,164 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83023</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83023</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:75962</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>75962</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">E24 DISTRIBUCIONES DE WEIBULL, BETA Y OTRAS (E24-DISTRIBUCIONES_WEIBULL_Y_BETA.doc)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">ESCUELA SUPERIOR POLITÉCNICA DEL LITORALINSTITUTO DE CIENCIAS MATEMÁTICASESTADÍSTICA (ICM 00166)CURSO A DISTANCIA  &amp;ndash;  I I  TÉRMINO 2006UNIDAD 24: DISTRIBUCIONES WEIBULL,  BETA Y OTRASOBJETIVOEstudiar otros modelos importantes de probabilidad con variables aleatorias continuas que son fundamentales en las aplicaciones prácticas de la Teoría Estadística Moderna. ACTIVIDADESEstudie este material. Revise los ejemplos incluidos que ayudarán a entender su aplicación en la resolución de problemas. Realice los ejercicios al final de la unidad. Entregue su solución el día del examen de la Primera Evaluación.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">I</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Luis Enrique Rodriguez Ojeda
+N:Rodriguez Ojeda;Luis Enrique
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-03T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-12-03T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:75962</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>75962</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:37:51.23Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>214</id>
+              <entry>
+                <string>civil engineering</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83023</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=75962&amp;websiteId=1253&amp;folderId=1&amp;docId=69129&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

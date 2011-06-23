@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/84069</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>84069</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:68239</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>68239</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">Teoría (1%2BCapitulo%2BNo_1.ppt)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">TABLA PERIODICA Y LEY PERIODICALa primera tabla periódica de los elementos fue estructurada por el científico ruso Mendeleev en 1969, y fue realizada en función de los pesos atómicos, a diferencia de la actual tabla periódica que esta en función de su número atómico.La tabla periódica es una herramienta en cual los elementos están organizados de manera tal que nos permite un estudio muy fácil de las propiedades químicas de los elementos, las cuales están en función de la estructura atómica, es decir considerando  su configuración electrónica. En la tabla periódica podemos encontrar muy valiosa información tanto acerca de propiedades químicas como físicas de los elementos, es así que en ella tenemos el símbolo de cada elemento, número atómico, peso atómico, punto de fusión, punto de ebullición, peso atómico, configuraciones electrónicas, y otras.Los elementos en la tabla periódica esta ordenados en periodos que son las filas horizontales y los grupos (familias) que son las columnas verticales.La Ley periódica establece que las propiedades físicas y químicas de los elementos tienden a repetirse en forma sistemática de acuerdo al aumento de su número atómico.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">elementos</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">TABLA</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">periódica</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Justo Pastor Huayamave Navarrete
+N:Huayamave Navarrete;Justo Pastor
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-27T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-27T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:68239</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>68239</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:37:46.34Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string>chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>84069</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/vnd.ms-powerpoint</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=68239&amp;websiteId=1284&amp;folderId=17&amp;docId=60888&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

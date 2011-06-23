@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83157</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83157</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:92824</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>92824</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">º Actividad (Teoria_X_Y.doc)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">UNIDAD 2 &amp;ldquo;El docente de Educación Superior&amp;rdquo;Tema: Tipología de los docentes universitarios.ACTIVIDAD 1   Trabajo individual. 1.  Abra los archivos adjuntos titulados &amp;ldquo;Teoría X-Y&amp;rdquo; y &amp;ldquo;La Escala X-Y&amp;rdquo; 2. Revise y aplique el cuestionario sobre la teoría X-Y.3.   Reflexione sobre los resultados y ubíquese en el estilo gerencial que corresponda.  4.  Publíque en Cartelera.Esta actividad cierra el  6 de Julio de 2007.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">ldquo</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">docente</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">Teoría</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Ciccy Laussó
+N:Laussó;Ciccy
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-04-16T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-04-16T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:92824</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>92824</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:41:09.43Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>425</id>
+              <entry>
+                <string>engineering</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83157</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=92824&amp;websiteId=1803&amp;folderId=684&amp;docId=85916&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

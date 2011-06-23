@@ -1,0 +1,173 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83095</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83095</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:21539</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>21539</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">Actividad 4: Lab. Config-Dispositivos (LABORATORIO.doc)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">Laboratorio-configuración de dispositivos:&amp;#13;
+ &amp;#13;
+1.-En la hoja que se adjunta se detallan los momentos que deben realizar en este laboratorio, encontrarán preguntas que deben irlas desarrollando de acuerdo a como vayan configuracndo el dispositivo&amp;#13;
+ &amp;#13;
+2.-Al termino de la configuración deben probar la conectividad de la red, utilizando el comando ping.&amp;#13;
+ &amp;#13;
+3.-Publicar los resultados en el Sidweb y  luego en plenaria discutir las diferentes maneras de configuración que ha realizado cada grupo.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">dispositivos</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">configuración</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Nestor Xavier Arreaga Alvarado
+N:Arreaga Alvarado;Nestor Xavier
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-10-04T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-10-04T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:21539</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>21539</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:34:23.43Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>256</id>
+              <entry>
+                <string>computer science</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83095</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=21539&amp;websiteId=205&amp;folderId=17&amp;docId=15450&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
