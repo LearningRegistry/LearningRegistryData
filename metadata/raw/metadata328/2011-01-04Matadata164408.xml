@@ -1,0 +1,223 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/13388</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>13388</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG3UJE</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3UJE</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG3UJE</entry>
+          </identifier>
+          <title>
+            <string language="it">Diretti e montanti: incontro di Boxe</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">La foto ritrae un momento veloce e concitato di un incontro di pugilato. La boxe si svolge secondo regole che derivano da quelle codificate nel 1867 dal marchese di Queensberry in Inghilterra, Paese in cui si erano sviluppate tecniche di combattimento a pugni nudi già nei secoli  XVIII e XIX. Al giorno d'oggi la boxe professionista è governata da diverse associazioni a livello mondiale che consentono di organizzare grandi e spettacolari incontri tra pugili famosi e riccamente pagati, ma l'unica boxe accettata alle Olimpiadi è quella dilettantistica (disciplina olimpica dal 1904). Gli incontri si svolgono su un quadrato (noto come  ring ) i cui lati possono essere lunghi da 4,8 a 6 metri (da 3,6 a 6 metri per i dilettanti). Gli atleti sono divisi in categorie a seconda del peso: dai minimosca (sotto i 48 chili) ai massimi e supermassimi (oltre i 91 chili). Le principali tecniche di pugilato sono il  diretto , il  gancio  e il  montante  (uppercut): tutte utilizzate dai combattenti in un incontro suddiviso in  riprese  (round) da tre minuti ciascuna. Si vince ai punti o per  knock out  (K.O. ovvero quando un pugile finito a terra non riesce ad alzarsi prima che l'arbitro conti fino a dieci), ma l'incontro può terminare prima del gong anche per altri motivi: per lancio della spugna (il secondo lancia sul ring l'asciugamano o la spugna in segno di resa del proprio pugile), per ordine dell'arbitro (quando questo ritiene che uno dei due pugili è impossibilitato a continuare l'incontro per le troppe ferite riportate) o per squalifica di uno dei due contendenti colpevole di comportamento scorretto.</string>
+          </description>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Olycom S.p.A.;;;; 
+FN:Olycom S.p.A. 
+ORG:OLYC
+URL:http://www.olycom.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Grossi;Edoardo;;; 
+FN:EdoardoŠGrossi 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3UJE</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG3UJE</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T08:38:38.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>246</id>
+              <entry>
+                <string language="en">competitive sport</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>107</id>
+              <entry>
+                <string language="en">athletics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>932</id>
+              <entry>
+                <string language="en">orienteering</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1234</id>
+              <entry>
+                <string language="en">sport</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1235</id>
+              <entry>
+                <string language="en">sport training</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1282</id>
+              <entry>
+                <string language="en">teaching method</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1392</id>
+              <entry>
+                <string language="en">winter sport</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG3UJE</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/zysport/zs043.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
