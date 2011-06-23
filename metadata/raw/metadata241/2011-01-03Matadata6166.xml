@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78051</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78051</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>6a1f3145-fa8b-48df-bf42-cabf744c56be#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">A dzsessz</string>
+            <string language="en">The jazz</string>
+            <string language="x-mt-de">Der Jazz</string>
+            <string language="x-mt-fr">Le jazz</string>
+            <string language="x-mt-pt">O jazz</string>
+            <string language="x-mt-it">Il jazz</string>
+            <string language="x-mt-el">Η τζαζ</string>
+            <string language="x-mt-es">El jazz</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">8. o. Gershwin, dzsessz</string>
+            <string language="en">p. 8 Gershwin, jazz</string>
+          </description>
+          <keyword>
+            <string language="hu">dzsessz, zene</string>
+            <string language="en">jazz, music</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P., 8 Gershwin, Jazz</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">p. 8 Gershwin, jazz</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">p. 8 Gershwin, jazz</string>
+          </description>
+          <description>
+            <string language="x-mt-it">p. 8 Gershwin, jazz</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. 8 Gershwin, τζαζ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">p. 8 Gershwin, jazz</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Jazz, Musik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">jazz, musique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">jazz, música</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">jazz, musica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τζαζ, μουσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">jazz, música</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">13-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78051</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6a1f3145-fa8b-48df-bf42-cabf744c56be&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
