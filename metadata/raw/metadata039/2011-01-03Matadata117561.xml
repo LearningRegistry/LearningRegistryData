@@ -1,0 +1,234 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/159424</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>159424</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/smesi-pracovni-listy.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/smesi-pracovni-listy.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/smesi-pracovni-listy.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Směsi - pracovní listy</string>
+          </title>
+          <language>cs</language>
+          <description>
+            <string language="cs">Pracovní listy jsou součástí kolekce Směsi, která toto téma zpracovává z různých úhlů podle způsobů využití.
+Shrnují a zároveň rozšiřují probírané téma. Doporučuji, aby si žáci vyplněné listy vlepili do sešitu (ideálně ve formátu A4). Struktura úkolů probírá danou látku a využívá hned několik forem činností a interakcí.
+Úkoly rozšiřují schopnosti žáků číst a kriticky myslet, je možno kombinovat práci individuální s prací ve skupinách, je zde i úkol praktický.
+Materiál je možno využít v hodinách chemie či jako domácí úkol (individuální či skupinový). V každém případě však je nutné zhodnocení každého bodu.</string>
+          </description>
+          <keyword>
+            <string language="cs">směs</string>
+          </keyword>
+          <keyword>
+            <string language="cs">chemické individuum</string>
+          </keyword>
+          <keyword>
+            <string language="cs">homogenní směs</string>
+          </keyword>
+          <keyword>
+            <string language="cs">heterogenní směs</string>
+          </keyword>
+          <keyword>
+            <string language="cs">koloidní směs</string>
+          </keyword>
+          <keyword>
+            <string language="cs">rozpouštědlo</string>
+          </keyword>
+          <keyword>
+            <string language="cs">roztok</string>
+          </keyword>
+          <keyword>
+            <string language="cs">suspenze</string>
+          </keyword>
+          <keyword>
+            <string language="cs">emulze</string>
+          </keyword>
+          <keyword>
+            <string language="cs">pěna</string>
+          </keyword>
+          <keyword>
+            <string language="cs">aerosol</string>
+          </keyword>
+          <keyword>
+            <string language="cs">mlha</string>
+          </keyword>
+          <keyword>
+            <string language="cs">dým</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Tyndallův jev</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Adam Schröfel
+N:Schröfel;Adam;;Mgr.;
+PROFILE:VCARD
+EMAIL:aschrofel@email.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/smesi-pracovni-listy.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/smesi-pracovni-listy.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Adam Schröfel
+N:Schröfel;Adam;;Mgr.;
+PROFILE:VCARD
+EMAIL:aschrofel@email.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T10:59:24.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>mixed</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">12 - 15</string>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">Natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/smesi-pracovni-listy.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=alhzfnfa</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

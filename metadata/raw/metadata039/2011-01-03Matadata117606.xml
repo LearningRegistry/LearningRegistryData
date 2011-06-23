@@ -1,0 +1,190 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/159418</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>159418</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/verben-sein-und-haben-in-prasens-und-prateritum.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/verben-sein-und-haben-in-prasens-und-prateritum.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/verben-sein-und-haben-in-prasens-und-prateritum.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Verben sein und haben in Präsens und Präteritum</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="cs">Žáci doplňují v první části slovesa být a mít v přítomném čase a v druhé části v minulém čase. Pro porozumění obsahu vět mohou pracovat se slovníkem. Ve třetí části si vyluští křížovku, s jejíž tajenkou může učitel dále pracovat (žáci např. popíší třídu).</string>
+          </description>
+          <keyword>
+            <string language="cs">sein</string>
+          </keyword>
+          <keyword>
+            <string language="cs">haben</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Präsens</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Präteritum</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Kreuzworträtsel</string>
+          </keyword>
+          <keyword>
+            <string language="cs">meine Klasse</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Věra Luxová
+N:Luxová;Věra;;Mgr.;
+PROFILE:VCARD
+EMAIL:luxova.vera@seznam.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/prasens-und-prateritum-sein.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/prasens-und-prateritum-sein.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Věra Luxová
+N:Luxová;Věra;;Mgr.;
+PROFILE:VCARD
+EMAIL:luxova.vera@seznam.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T10:59:25.06Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">12 - 15</string>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">Foreign languages</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/verben-sein-und-haben-in-prasens-und-prateritum.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=ehbdvhhz</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
