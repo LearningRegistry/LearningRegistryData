@@ -1,0 +1,479 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/99268</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>99268</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:31d8e03c-f683-43ee-b55b-2fa164722fd1</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Magmás kőzetek jellemzői</string>
+            <string language="en-US">The Characteristics Of Igneous Rocks</string>
+            <string language="x-mt-de">Die Eigenschaften Der Eruptivgesteine</string>
+            <string language="x-mt-fr">Les Caractéristiques des Roches Plutoniques</string>
+            <string language="x-mt-pt">As Características De Rochas Igneous</string>
+            <string language="x-mt-it">Le Caratteristiche Delle Rocce eruttive</string>
+            <string language="x-mt-el">Τα χαρακτηριστικά των πύρινων βράχων</string>
+            <string language="x-mt-es">Las Características De Rocas Ígneas</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Magmás kőzetek csoportosítás, jellemző ásványai.</string>
+            <string language="en-US">Classification and Characteristic Minerals of Igneous Rocks</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">földrajz</string>
+            <string language="en-US">geography</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">kőzettan</string>
+            <string language="en-US">petrography</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">ásványtan</string>
+            <string language="en-US">mineralogy</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">gránit</string>
+            <string language="en-US">granite</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">andezit</string>
+            <string language="en-US">andesite</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">riolit</string>
+            <string language="en-US">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">tufa</string>
+            <string language="en-US">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">szilikát</string>
+            <string language="en-US">silicate</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Klassifikation und charakteristische Mineralien 
+der Eruptivgesteine</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Classification et minerais caractéristiques des 
+roches plutoniques</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Classificação e minerais característicos de 
+rochas igneous</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Classificazione e minerali caratteristici delle 
+rocce eruttive</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ταξινόμηση και χαρακτηριστικά μεταλλεύματα των πύρινων
+βράχων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Clasificación y minerales característicos de 
+rocas ígneas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Petrographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mineralogie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Granit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Andesite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kieselsäureverbindung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">géographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pétrographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minéralogie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">granit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">andésite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">silicate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geografia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">petrography</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mineralogy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">andesite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">silicato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">geografia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">petrography</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">mineralogia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">andesite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">silicato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωγραφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πετρογραφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ορυκτολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γρανίτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">andesite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηφαιστειακή τέφρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πυριτικό άλας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">geografía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">petrografía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mineralogía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">andesite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rhyolite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tuff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">silicato</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:31d8e03c-f683-43ee-b55b-2fa164722fd1</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:17:49.31Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b4725227-8937-4555-9561-fcd53e014f52</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>106c8e12-25d8-4e76-8b57-81b6fba351b6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5e29f064-fc96-46f7-a393-169947458394</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>911fddb8-859c-41c4-b4a3-1360418c8374</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d9a08468-ba5f-4389-aa95-7fdd4e2a9186</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>114621de-6786-42b5-be9e-69c8b139f888</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>595aeaf6-bc56-4cb0-9971-c96f4f6f198b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>41f9f206-ae3f-4034-83b9-55ac59156ac1</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>feee9156-94f4-4c45-b715-57c45b5afc68</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c332ee71-515a-4c49-8014-fd3a6c5de0cb</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>26813b6c-d8ad-477e-aac8-7621a84d066d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5415fa7f-24eb-4bea-87d6-91343564bd79</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>0ad5f9fb-1b82-47b5-8eff-71a70954f99d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>433419c0-e289-4ea7-9242-718ed98eef6a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>0e6b73a0-f6a4-4803-a8f2-ffbdacadab11</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1d3f1915-0d31-4b65-a4f8-6cf93920a68f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>741b67ce-598c-42bf-b806-0c3a73acc51a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>dbdb8403-8604-4bc4-82a1-13fbc507bdc7</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=31d8e03c-f683-43ee-b55b-2fa164722fd1</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>31d8e03c-f683-43ee-b55b-2fa164722fd1-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/31/d8/31d8e03c-f683-43ee-b55b-2fa164722fd1_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
