@@ -1,0 +1,546 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/23909</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>23909</entry>
+  </identifier>
+  <identifier>
+    <catalog>OpenLearn</catalog>
+    <entry>M359_1</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM       http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:openlearn.open.ac.uk:M359_1</entry>
+          </identifier>
+          <identifier>
+            <catalog>LearningSpace</catalog>
+            <entry>M359_1</entry>
+          </identifier>
+          <title>
+            <string language="en-gb">The database development life cycle</string>
+            <string language="x-mt-de">Der Datenbankentwicklung Lebenszyklus</string>
+            <string language="x-mt-fr">Le cycle de vie de développement de base de 
+données</string>
+            <string language="x-mt-pt">O ciclo de vida do desenvolvimento da base de 
+dados</string>
+            <string language="x-mt-it">Il ciclo di vita di sviluppo della base di dati</string>
+            <string language="x-mt-el">Ο κύκλος ζωής ανάπτυξης βάσεων δεδομένων</string>
+            <string language="x-mt-es">El ciclo vital del desarrollo de la base de 
+datos</string>
+          </title>
+          <language>en-gb</language>
+          <description>
+            <string language="en-gb">No idea how relational database systems are constructed? Did you know that they underpin the majority of the managed data storage in computer systems? This unit has been designed to give you an overview of the developmental lifecycle for a database system, explaining the importance of data analysis and highlighting how database development differs from traditional software development.</string>
+          </description>
+          <keyword>
+            <string language="en-gb">IT and Computing</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Database</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Lifecycle</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Software</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">SQL</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Systems</string>
+          </keyword>
+          <keyword>
+            <string language="en-gb">Waterfall_model</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>2</value>
+          </aggregationLevel>
+          <description>
+            <string language="x-mt-de">Keine Idee, wie Systeme der relationalen Datenbasis
+konstruiert werden? Wußten Sie, daß sie die Majorität des 
+gehandhabten Datenspeichers in den Computersystemen untermauern? 
+Diese Maßeinheit ist konzipiert worden, um Ihnen einen 
+Überblick über die Entwicklungslebensdauer für ein Datenbanksystem 
+zu geben, den Wert der Datenanalyse erklärt und markiert, wie 
+Datenbankentwicklung von der traditionellen Software-Entwicklung sich 
+unterscheidet.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Aucune idée comment des systèmes de base de 
+données relationnelle sont construits ? Avez-vous su qu'ils 
+soutiennent la majorité de la mémoire de données contrôlée dans 
+les systèmes informatiques ? Cette unité a été conçue pour 
+vous donner une vue d'ensemble du cycle de vie développemental pour 
+un système de base de données, expliquant l'importance de l'analyse 
+de données et mettant en valeur comment le développement de base de 
+données diffère du développement traditionnel de logiciel.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Nenhuma idéia como os sistemas da base de dados 
+relacional são construídos? Você soube que underpin a maioria
+do armazenamento de dados de controlado nos sistemas computatorizados?
+Esta unidade foi projetada dar-lhe uma vista geral do ciclo de 
+vida developmental para um sistema da base de dados, explicando a 
+importância da análise de dados e destacando como o desenvolvimento 
+da base de dados difere do desenvolvimento tradicional do software.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Nessun'idea come i sistemi della base di dati 
+relazionale sono costruiti? Avete saputo che sostengono la 
+maggior parte della memoria di dati gestita nei sistemi di 
+elaborazione? Questa unità è stata destinata per darvi una 
+descrizione del lifecycle inerente allo sviluppo per un sistema della 
+base di dati, spiegante l'importanza di analisi di dati ed 
+evidenziante come lo sviluppo della base di dati differisce da da 
+sviluppo tradizionale del software.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καμία ιδέα πώς τα συγγενικά συστήματα βάσεων 
+δεδομένων κατασκευάζονται; Ξέρατε ότι υποστηρίζουν την 
+πλειοψηφία της διοικούμενης αποθήκευσης στοιχείων στα 
+συγκροτήματα ηλεκτρονικών υπολογιστών; Αυτή η μονάδα έχει 
+σχεδιαστεί για να σας δώσει μια επισκόπηση του αναπτυξιακού 
+κύκλου της ζωής για ένα σύστημα βάσεων δεδομένων, που εξηγεί τη
+σημασία της ανάλυσης στοιχείων και που δίνει έμφαση σπώς η 
+ανάπτυξη βάσεων δεδομένων διαφέρει από την παραδοσιακή ανάπτυξη
+λογισμικού.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Ninguna idea cómo se construyen los sistemas de
+la base de datos emparentada? ¿Usted sabía que sostienen a 
+mayoría del almacenaje de datos manejado en sistemas informáticos? 
+Esta unidad se ha diseñado para darle una descripción del 
+ciclo de vida de desarrollo para un sistema de la base de datos, 
+explicando la importancia del análisis de datos y destacando cómo el
+desarrollo de la base de datos diferencia del desarrollo tradicional 
+del software.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ES und Rechnen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Datenbank</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lebensdauer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Software</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Sql</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Systeme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Waterfall_model</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">LUI et calcul</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Base de données</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Cycle de vie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Logiciel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">SQL</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Systèmes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Waterfall_model</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ELE e computar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Base de dados</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciclo de vida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Software</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Sql</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Sistemas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Waterfall_model</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ESSO e computare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Base di dati</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Lifecycle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Software</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Sql</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Sistemi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Waterfall_model</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΤΠ και υπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βάση δεδομένων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κύκλος της ζωής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Λογισμικό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">SQL</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Συστήματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Waterfall_model</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ÉL y el computar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Base de datos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciclo de vida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Relational_databases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Software</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Sql</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Sistemas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Waterfall_model</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string>1.0</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Open University
+N:Open University
+ORG:Open University
+ADR:Walton Hall, Milton Keynes, Buckinghamshire, MK7 6AA, United Kingdom
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Open University
+N:Open University
+ORG:Open University
+ADR:Walton Hall, Milton Keynes, Buckinghamshire, MK7 6AA, United Kingdom
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:openlearn.open.ac.uk:M359_1</entry>
+          </identifier>
+          <identifier>
+            <catalog>LearningSpace</catalog>
+            <entry>M359_1</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Open University
+N:Open University
+ORG:Open University
+ADR:Walton Hall, Milton Keynes, Buckinghamshire, MK7 6AA, United Kingdom
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en-gb</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:OpenLearn
+N:OpenLearn
+ORG:OpenLearn
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:14:28.67Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+          <location>http://openlearn.open.ac.uk/M359_1</location>
+        </technical>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>mixed</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>text</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="en-gb">18+</string>
+            <string language="x-t-lre">18-U</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>difficult</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT12H</duration>
+          </typicalLearningTime>
+          <description>
+            <string language="en-gb">Independent self-study</string>
+          </description>
+          <language>en-gb</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-gb">Licensed under a Creative Commons Attribution - NonCommercial-ShareAlike 2.0 Licence - see http://creativecommons.org/licenses/by-nc-sa/2.0/uk/ - Original copyright The Open University</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.0/uk/</string>
+          </description>
+        </rights>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <description>
+              <string language="en-gb">An OU course on this</string>
+            </description>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www3.open.ac.uk/courses/bin/p12.dll?C01M359</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <description>
+              <string language="en-gb">Studying at the OU</string>
+            </description>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www3.open.ac.uk/courses/classifications/information_technology_and_computing.shtm</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <description>
+              <string language="en-gb">open2.net: Computing &amp; the net</string>
+            </description>
+            <identifier>
+              <catalog>URL</catalog>
+              <entry>http://www.open2.net/sciencetechnologynature/index.html</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>isbasedon</value>
+          </kind>
+          <resource>
+            <description>
+              <string language="en-gb">This is the title and course code of the source course material</string>
+            </description>
+            <identifier>
+              <catalog>Open University course</catalog>
+              <entry>Relational databases: theory and practice - M359</entry>
+            </identifier>
+          </resource>
+        </relation>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>OpenLearn</catalog>
+      <entry>M359_1 - web site</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>OpenLearn</catalog>
+        <entry>M359_1 - web site</entry>
+      </identifier>
+      <location>
+        <uri>http://openlearn.open.ac.uk/M359_1</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>OpenLearn</catalog>
+      <entry>M359_1 - Common Cartridge 1.0</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>OpenLearn</catalog>
+        <entry>M359_1 - Common Cartridge 1.0</entry>
+      </identifier>
+      <location>
+        <uri>http://openlearn.open.ac.uk/blocks/formats/logrequest.php?url=/file.php/2463/downloads/M359_1_ims_cc.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>OpenLearn</catalog>
+      <entry>M359_1 - Content Package</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscp_v1p1p4</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>OpenLearn</catalog>
+        <entry>M359_1 - Content Package</entry>
+      </identifier>
+      <location>
+        <uri>http://openlearn.open.ac.uk/blocks/formats/logrequest.php?url=/file.php/2463/downloads/M359_1_ims_cp.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
