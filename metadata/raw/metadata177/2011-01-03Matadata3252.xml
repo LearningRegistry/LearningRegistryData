@@ -1,0 +1,162 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74225</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74225</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e1269caf-1cad-4179-b169-dcb1002c31a1#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Elektromos gitár</string>
+            <string language="en">Electrical guitar</string>
+            <string language="x-mt-de">Elektrische Guitarre</string>
+            <string language="x-mt-fr">Guitare électrique</string>
+            <string language="x-mt-pt">Guitarra elétrica</string>
+            <string language="x-mt-it">Guitar elettrico</string>
+            <string language="x-mt-el">Ηλεκτρική κιθάρα</string>
+            <string language="x-mt-es">Guitarra eléctrica</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">modern hangszer</string>
+            <string language="en">Modern musical instrument</string>
+          </description>
+          <keyword>
+            <string language="hu">pengetős,  húros,  rock,  </string>
+            <string language="en">instrument plucked with a plectrum, stringed instrument, rock</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Modernes Musikinstrument</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Instrument musical moderne</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Instrumento musical moderno</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Strumento musicale moderno</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σύγχρονο μουσικό όργανο</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Instrumento musical moderno</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">das Instrument, das mit einem Plectrum gezupft wurde, 
+stringed Instrument, Felsen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'instrument plumé avec un plectre, stringed 
+l'instrument, roche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">o instrumento arrancado com um plectro, stringed o 
+instrumento, rocha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lo strumento colto con un plectrum, stringed lo 
+strumento, roccia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">το όργανο που μαδήθηκε με ένα πλήκτρο, το όργανο, βράχος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el instrumento desplumado con una púa, el instrumento 
+de cuerda, roca</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74225</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e1269caf-1cad-4179-b169-dcb1002c31a1&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
