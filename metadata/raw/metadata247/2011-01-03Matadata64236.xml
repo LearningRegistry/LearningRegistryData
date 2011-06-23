@@ -1,0 +1,207 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/230303</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>230303</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:15603</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>15603</entry>
+          </identifier>
+          <title>
+            <string language="nl">Havenlandschap</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Een eXe-scormpakket over het havenlandschap. Het kan
+							gebruikt worden als inleiding op een bezoek aan een haven.</string>
+          </description>
+          <keyword>
+            <string language="nl">Europa</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Europe</string>
+          </keyword>
+          <keyword>
+            <string language="nl">eXe</string>
+          </keyword>
+          <keyword>
+            <string language="nl">haven</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ICT-eindtermen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">school trip - study trip</string>
+          </keyword>
+          <keyword>
+            <string language="nl">school- of studiereis</string>
+          </keyword>
+          <keyword>
+            <string language="nl">SCORM</string>
+          </keyword>
+          <keyword>
+            <string language="nl">traffic</string>
+          </keyword>
+          <keyword>
+            <string language="nl">verkeer</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2010-01-28T13:32:30.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Tom Daneels
+FN:Tom Daneels 
+EMAIL;TYPE=INTERNET: 
+ORG: Tom Daneels
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:15603</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-13</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Op Smartschool kan je dit toevoegen aan 'oefeningen'
+							bij vakopties!Het is het best te gebruiken als een leerpad of verwerkt
+							in een groter leerpad.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Pascal Craeye</entity>
+          <date>
+            <dateTime>2009-11-10</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>15603</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.manifestationParameterValues</vocabularyID>
+      <value>scorm_2004</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>15603_scorm</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/files/1/5/6/0/3/f/het_havenlandschap.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>15603</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>15603</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/15603/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
