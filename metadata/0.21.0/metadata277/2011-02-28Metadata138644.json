@@ -1,0 +1,34 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Social Sciences", 
+        "Sozialwissenschaften", 
+        "Les Sciences Sociales", 
+        "Ci\u00eancias Sociais", 
+        "Scienze Sociali", 
+        "\u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2", 
+        "Ciencias Sociales"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/105765</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>105765</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oercommons.org</catalog>\r\n            <entry>1770201853</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"en\">Power of the Pen </string>\r\n            <string language=\"x-mt-de\">Energie der Feder</string>\r\n            <string language=\"x-mt-fr\">Puissance du crayon lecteur</string>\r\n            <string language=\"x-mt-pt\">Pot\u00eancia da pena</string>\r\n            <string language=\"x-mt-it\">Potenza della penna</string>\r\n            <string language=\"x-mt-el\">\u0394\u03cd\u03bd\u03b1\u03bc\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03ad\u03bd\u03bd\u03b1\u03c2</string>\r\n            <string language=\"x-mt-es\">Potencia de la pluma</string>\r\n          </title>\r\n          <description>\r\n            <string language=\"en\">Students will create petitions addressing their biggest concern relating to tobacco globally.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"en\">Social Sciences</string>\r\n          </keyword>\r\n          <language>en</language>\r\n          <description>\r\n            <string language=\"x-mt-de\">Die Kursteilnehmer erstellen Petitionen ihr \r\ngr\u00f6\u00dftes Interesse in bezug auf Tabak global adressierend.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Les \u00e9tudiants cr\u00e9eront des p\u00e9titions adressant \r\nleur plus grand souci concernant le tabac globalement.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Os estudantes criar\u00e3o peti\u00e7\u00f5es que dirigem-se a\r\nseu interesse mais grande que relaciona-se ao tabaco global.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Gli allievi creeranno le petizioni che richiamano \r\nla loro preoccupazione pi\u00f9 grande per quanto riguarda il tabacco \r\nglobalmente.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u039f\u03b9 \u03c3\u03c0\u03bf\u03c5\u03b4\u03b1\u03c3\u03c4\u03ad\u03c2 \u03b8\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03b1\u03b9\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \r\n\u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03c0\u03bd\u03cc \r\n\u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Los estudiantes crear\u00e1n peticiones que tratan su \r\npreocupaci\u00f3n m\u00e1s grande referentes a tabaco global.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Sozialwissenschaften</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">Les Sciences Sociales</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">Ci\u00eancias Sociais</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">Scienze Sociali</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b5\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">Ciencias Sociales</string>\r\n          </keyword>\r\n        </general>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oercommons.org</catalog>\r\n            <entry>1770201853</entry>\r\n          </identifier>\r\n          <language>en</language>\r\n        </metaMetadata>\r\n        <educational>\r\n          <language>en</language>\r\n        </educational>\r\n        <rights>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"en\">Free to use or adapt for educational purposes only</string>\r\n          </description>\r\n        </rights>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>105765</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.oercommons.org/courses/power-of-the-pen</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.oercommons.org/courses/power-of-the-pen"
+}
