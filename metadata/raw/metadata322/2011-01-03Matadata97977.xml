@@ -1,0 +1,399 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/32844</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>32844</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9721</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9721</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Krav på bokföring</string>
+            <string language="en">Requirements on accounting</string>
+            <string language="x-mt-de">Anforderungen an Buchhaltung</string>
+            <string language="x-mt-fr">Conditions sur la comptabilité</string>
+            <string language="x-mt-pt">Exigências na contabilidade</string>
+            <string language="x-mt-it">Requisiti della contabilità</string>
+            <string language="x-mt-el">Απαιτήσεις στη λογιστική</string>
+            <string language="x-mt-es">Requisitos en estadísticas</string>
+          </title>
+          <description>
+            <string language="sv">Varje bokföringspost i grundbokföringen skall innehålla olika uppgifter.Modul 4 - Administration och Regler.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Each bokföringspost in the basis accounting will contain various information.
+
+Module 4 - administration and rules.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">bokföringspost</string>
+            <string language="sv">bokföringsdatum</string>
+            <string language="sv">verifikationsnummer</string>
+            <string language="sv">debetkonto</string>
+            <string language="sv">kreditkonto</string>
+            <string language="sv">bokföring</string>
+            <string language="sv">redovisning</string>
+            <string language="en">economy</string>
+            <string language="en">bokföringspost</string>
+            <string language="en">bokföringsdatum</string>
+            <string language="en">verifikationsnummer</string>
+            <string language="en">debit account</string>
+            <string language="en">credit account</string>
+            <string language="en">accounting</string>
+            <string language="en">account</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Jedes bokföringspost in der Grundlage 
+Buchhaltung enthält verschiedenes information.Module 4 - die Leitung 
+und rules.Is, die in FöretagarSKOLAN eingeschlossen sind.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Chaque bokföringspost dans la comptabilité de 
+base contiendra divers information.Module 4 - gestion et rules.Is 
+inclus dans FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Cada bokföringspost na contabilidade da base 
+conterá vário information.Module 4 - administração e rules.Is 
+incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ogni bokföringspost nella contabilità di base 
+conterrà vario information.Module 4 - gestione e rules.Is inclusi in 
+FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κάθε bokfφringspost στη λογιστική βάσης περιέχει 
+τη διάφορη ενότητα 4 πληροφοριών - η διοίκηση και οι κανόνες 
+συμπεριλαμβάνονται σε FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cada bokföringspost en las estadísticas de la 
+base contendrá vario information.Module 4 - administración y 
+rules.Is incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bokföringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bokföringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Debetkonto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kreditkonto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Buchhaltung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Konto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bokföringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bokföringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte débiteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte de degré de solvabilité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">comptabilité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bokföringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bokföringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cliente de débito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cliente de crédito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">contabilidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bokföringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bokföringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cliente di debito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conto di creditori</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">contabilità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">bokfφringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">bokfφringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απολογισμός χρεώσεων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πιστωτικός απολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογιστική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bokföringspost</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bokföringsdatum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">verifikationsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta de debe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta de crédito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">estadísticas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9721</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9721</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:25:42.88Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>32844</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9721</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,506 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/32488</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>32488</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9621</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9621</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Timkostnad</string>
+            <string language="en">Timkostnad</string>
+            <string language="x-mt-de">Timkostnad</string>
+            <string language="x-mt-fr">Timkostnad</string>
+            <string language="x-mt-pt">Timkostnad</string>
+            <string language="x-mt-it">Timkostnad</string>
+            <string language="x-mt-el">Timkostnad</string>
+            <string language="x-mt-es">Timkostnad</string>
+          </title>
+          <description>
+            <string language="sv">Timkostnaden beräknas genom att de totala budgeterade fasta kostnaderna fördelas på ett budgeterat antal debiterbara timmar. Modul 3 - Ekonomi och Budget.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Timkostnaden is calculated through that the total budgeted permanent costs are distributed on a budgeted number debiterbara hours. 
+
+Module 3 - economy and budget.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">budgetkontroll</string>
+            <string language="sv">produktionskostnad</string>
+            <string language="sv">tidsåtgång</string>
+            <string language="sv">marknadspris</string>
+            <string language="sv">total produktionskostnad</string>
+            <string language="sv">materialkostnad</string>
+            <string language="sv">minutkostnad</string>
+            <string language="sv">fast kostnad</string>
+            <string language="sv">FK</string>
+            <string language="sv">beräkning av produktionskostnad</string>
+            <string language="sv">fasta kostnader</string>
+            <string language="sv">budget</string>
+            <string language="en">economy</string>
+            <string language="en">budget control</string>
+            <string language="en">production cost</string>
+            <string language="en">tidsåtgång</string>
+            <string language="en">marknadspris</string>
+            <string language="en">total production cost</string>
+            <string language="en">material cost</string>
+            <string language="en">minute cost</string>
+            <string language="en">permanent cost</string>
+            <string language="en">FK</string>
+            <string language="en">calculation of production cost</string>
+            <string language="en">fast costs</string>
+            <string language="en">budget</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Timkostnaden wird durch das errechnet, welches die
+geplanten permanenten Gesamtkosten auf ein geplante Zahl debiterbara 
+Stunden verteilt werden. Modul 3 - Wirtschaft und budget.Is 
+eingeschlossen in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Timkostnaden est calculé par celui que tous les 
+coûts permanents économisés sont distribués des heures 
+économisées d'un debiterbara de nombre. Module 3 - économie 
+et budget.Is inclus dans FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Timkostnaden é calculado com aquele que os custos
+permanentes incluídos no orçamento totais são distribuídos em 
+horas incluídas no orçamento de um debiterbara do número. 
+Módulo 3 - economia e budget.Is incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Timkostnaden è calcolato con quello che i costi 
+permanente stanziati totali sono distribuiti sulle ore stanziate di 
+debiterbara di numero. Modulo 3 - economia e budget.Is inclusi 
+in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το Timkostnaden υπολογίζεται μέσω αυτού τις 
+συνολικές προϋπολογισμένες μόνιμες δαπάνες διανέμεται ώρες 
+ενός στις προϋπολογισμένες αριθμού debiterbara. Ενότητα 
+3 - η οικονομία και ο προϋπολογισμός συμπεριλαμβάνονται σε 
+FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Timkostnaden se calcula con ése que los costes 
+permanentes presupuestados totales se distribuyen en horas 
+presupuestadas de un debiterbara del número. Módulo 3 - 
+economía y budget.Is incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Etatsteuerung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Produktion Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">tidsåtgång</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Produktion Gesamtkosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">materielle Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">minuziöse Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">permanente Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Berechnung von Produktion Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">schnelle Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Etat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande de budget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût de production</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tidsåtgång</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût de production total</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût matériel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût minutieux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût permanent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">calcul de coût de production</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coûts rapides</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">budget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">controle do orçamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custos de gastos de fabricação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tidsåtgång</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custos de gastos de fabricação totais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custo material</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custo minucioso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custo permanente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cálculo de custos de gastos de fabricação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custos rápidos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">orçamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">controllo del preventivo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo di produzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tidsåtgång</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo di produzione totale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo materiale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo resoconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo permanente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolo di costo di produzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costi veloci</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">preventivo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έλεγχος προϋπολογισμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόστος παραγωγής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">tidsεtgεng</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόστος συνολικής παραγωγής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υλικό κόστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόστος λεπτού</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μόνιμο κόστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογισμός του κόστους παραγωγής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γρήγορες δαπάνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προϋπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">control del presupuesto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste de producción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tidsåtgång</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">marknadspris</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste de producción total</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste material</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste minucioso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste permanente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">FK</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cálculo del coste de producción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">costes rápidos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">presupuesto</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9621</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9621</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:25:39.72Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>32488</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9621</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

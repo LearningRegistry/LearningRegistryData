@@ -1,0 +1,908 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33145</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33145</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:19916</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>19916</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Reaktionsmekanismer (Modul 5 - Kemi B)</string>
+            <string language="en">Reaktionsmekanismer (module 5 - chemistry B)</string>
+            <string language="x-mt-de">Reaktionsmekanismer (Modul 5 - Chemie B)</string>
+            <string language="x-mt-fr">Reaktionsmekanismer (module 5 - chimie B)</string>
+            <string language="x-mt-pt">Reaktionsmekanismer (módulo 5 - chemistry B)</string>
+            <string language="x-mt-it">Reaktionsmekanismer (modulo 5 - chimica B)</string>
+            <string language="x-mt-el">Reaktionsmekanismer (ενότητα 5 - χημεία Β)</string>
+            <string language="x-mt-es">Reaktionsmekanismer (módulo 5 - química B)</string>
+          </title>
+          <description>
+            <string language="sv">En kemisk reaktion går ofta inte bara från reaktanter till produkter. Det är vanligt att det uppstår mellanprodukter som sedan omvandlas till de slutliga produkterna. Ur mellanprodukterna kan det bildas oönskade biprodukter. Det är viktigt att känna till så mycket som möjligt om mellan- och biprodukterna i kemiska reaktioner, särskilt de som uppstår ur ämnen vi äter, dricker, andas in eller kommer i kontakt med på andra sätt.</string>
+            <string language="en">A chemical reaction does not go often only from reaktanter to products. It is common that it arises average products that since being converted to the final products. From the average products, it can be formed undesirable bee products. It is important to</string>
+          </description>
+          <keyword>
+            <string language="sv">Kemi B</string>
+            <string language="sv">kemi</string>
+            <string language="sv">reaktionsmekanismer</string>
+            <string language="sv">intermediär</string>
+            <string language="sv">intermediärer</string>
+            <string language="sv">bokföra elektroner</string>
+            <string language="sv">elektron</string>
+            <string language="sv">molekyl</string>
+            <string language="sv">atom</string>
+            <string language="sv">atomer</string>
+            <string language="sv">valanselektron</string>
+            <string language="sv">valanselektroner</string>
+            <string language="sv">laddning</string>
+            <string language="sv">kemisk reaktion</string>
+            <string language="sv">partikel</string>
+            <string language="sv">partiklar</string>
+            <string language="sv">nukleofil</string>
+            <string language="sv">eletrofil</string>
+            <string language="sv">kondensation</string>
+            <string language="sv">elektroner</string>
+            <string language="sv">elektrofil</string>
+            <string language="sv">addition</string>
+            <string language="sv">substition</string>
+            <string language="sv">alkohol</string>
+            <string language="sv">butylklorid</string>
+            <string language="sv">partiklars kontaktpunkter</string>
+            <string language="sv">kemisk reaktion</string>
+            <string language="sv">övning</string>
+            <string language="sv">övningar</string>
+            <string language="sv">uppgift</string>
+            <string language="sv">uppgifter</string>
+            <string language="sv">kunskapstest</string>
+            <string language="sv">självtest</string>
+            <string language="en">Chemistry B</string>
+            <string language="en">chemistry</string>
+            <string language="en">reaktionsmekanismer</string>
+            <string language="en">intermediär</string>
+            <string language="en">intermediärer</string>
+            <string language="en">book pursuing electrons</string>
+            <string language="en">electron</string>
+            <string language="en">molekyl</string>
+            <string language="en">atom</string>
+            <string language="en">atoms</string>
+            <string language="en">valanselektron</string>
+            <string language="en">valanselektroner</string>
+            <string language="en">report</string>
+            <string language="en">chemical reaction</string>
+            <string language="en">particle</string>
+            <string language="en">particles</string>
+            <string language="en">nukleofil</string>
+            <string language="en">eletrofil</string>
+            <string language="en">kondensation</string>
+            <string language="en">electrons</string>
+            <string language="en">elektrofil</string>
+            <string language="en">addition</string>
+            <string language="en">substition</string>
+            <string language="en">alcohol</string>
+            <string language="en">butylklorid</string>
+            <string language="en">particles' nips</string>
+            <string language="en">chemical reaction</string>
+            <string language="en">exercise</string>
+            <string language="en">exercises</string>
+            <string language="en">information</string>
+            <string language="en">information</string>
+            <string language="en">knowledge pc Estonian</string>
+            <string language="en">self-tests</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Eine chemische Reaktion geht häufig nicht nur von 
+reaktanter zu Produkte. Es ist geläufig, daß sie 
+durchschnittliche Produkte entsteht, die, seit in die abschließenden 
+Produkte umgewandelt werden. Von den durchschnittlichen 
+Produkten kann es gebildete nicht wünschenswerte Biene Produkte sein.
+Es ist zu wichtig</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une réaction chimique ne va pas souvent seulement 
+du reaktanter aux produits. Il est commun qu'elle surgisse les 
+produits moyens qui depuis être converti en produits finals. 
+Des produits moyens, ce peut être les produits indésirables 
+formés d'abeille. C'est important pour</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma reação química não vai frequentemente 
+somente do reaktanter aos produtos. É comum que se levanta os 
+produtos médios que desde ser convertido aos produtos finais. 
+Dos produtos médios, pode ser produtos indesejáveis dados 
+forma da abelha. É importante para</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una reazione chimica non va spesso soltanto da 
+reaktanter ai prodotti. È comune che presenta prodotti medii 
+che dal essere convertito in prodotti finali. Dai prodotti 
+medii, può provenire prodotti indesiderabili formati dell'ape. 
+È importante a</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια χημική αντίδραση δεν πηγαίνει συχνά μόνο από το 
+reaktanter στα προϊόντα. Είναι κοινό ότι προκύπτει 
+μέσα προϊόντα ότι αφού τη μετατροπή στα τελικά προϊόντα. 
+Από τα μέσα προϊόντα, μπορεί να είναι διαμορφωμένα 
+ανεπιθύμητα προϊόντα μελισσών. Είναι σημαντικό</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una reacción química no va a menudo solamente de 
+reaktanter a los productos. Es común que se presenta los 
+productos medios que desde ser convertido a los productos finales. 
+De los productos medios, puede ser productos indeseables 
+formados de la abeja. Es importante para</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Chemie B</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Chemie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">intermediär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">intermediärer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Buch, das Elektronen ausübt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Atom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Atome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Report</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">chemische Reaktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Partikel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Partikel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elektronen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hinzufügung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spiritus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Klemmstellen der Partikel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">chemische Reaktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Übung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Übungen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Informationen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Informationen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wissen PC estnisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Selbsttests</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Chimie B</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chimie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">intermediär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">intermediärer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">livre poursuivant des électrons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">électron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">atome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">atomes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">état</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">réaction chimique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">particule</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">particules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">électrons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ajout</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">alcool</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">les points de contact des particules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">réaction chimique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">exercice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">exercices</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'information</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'information</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">PC de la connaissance estonien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">art de l'auto-portrait-tests</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Chemistry B</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chemistry</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">intermediär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">intermediärer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">livro que persegue elétrons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">elétron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">átomo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">átomos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">relatório</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">reação química</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">partícula</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">partículas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">elétrons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">adição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">álcool</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estreitamentos das partículas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">reação química</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">exercício</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">exercícios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">PC do conhecimento estonian</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">self-tests</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Chimica B</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">chimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">intermediär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">intermediärer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">libro che persegue gli elettroni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elettrone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atomo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atomi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rapporto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reazione chimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">particella</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">particelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elettroni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aggiunta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">alcool</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punti di contatto delle particelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reazione chimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">esercitazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">esercitazioni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">le informazioni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">le informazioni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pc di conoscenza estone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">autoverifiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χημεία β</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">intermediδr</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">intermediδrer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βιβλίο που ακολουθεί τα ηλεκτρόνια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρόνιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άτομο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άτομα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έκθεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημική αντίδραση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μόριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μόρια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρόνια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσθήκη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οινόπνευμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μορίων nips</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημική αντίδραση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άσκηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασκήσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">PC εσθονός γνώσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">self-tests</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Química B</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">química</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reaktionsmekanismer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">intermediär</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">intermediärer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">libro que persigue electrones</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">electrón</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">molekyl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">átomo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">átomos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">valanselektron</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">valanselektroner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reacción química</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">partícula</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">partículas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">nukleofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">eletrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">kondensation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">electrones</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">elektrofil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">adición</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">substition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">alcohol</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">butylklorid</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pellizcos de las partículas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reacción química</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ejercicio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ejercicios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">PC del conocimiento estonia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">autopruebas</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:19916</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:19916</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:26:57.68Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Kemi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>33145</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash, jpg, gif</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=19916</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
