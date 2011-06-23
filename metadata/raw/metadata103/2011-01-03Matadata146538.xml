@@ -1,0 +1,255 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/25100</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>25100</entry>
+  </identifier>
+  <identifier>
+    <catalog>IML-MMB</catalog>
+    <entry>523083</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:523083</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>523083</entry>
+          </identifier>
+          <title>
+            <string language="sv">Prislappsapparat</string>
+            <string language="en">Price tagging device</string>
+            <string language="x-mt-de">Preis, der Einheit etikettiert</string>
+            <string language="x-mt-fr">Prix étiquetant le dispositif</string>
+            <string language="x-mt-pt">Preço que etiqueta o dispositivo</string>
+            <string language="x-mt-it">Prezzo che etichetta dispositivo</string>
+            <string language="x-mt-el">Κολλώντας συσκευή τιμών</string>
+            <string language="x-mt-es">Precio que marca el dispositivo con etiqueta</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="sv">Apparat som man använder när man märker varor med prislappar.</string>
+            <string language="en">A device that one uses when one labels products with price tags.</string>
+          </description>
+          <keyword>
+            <string language="sv">pris</string>
+            <string language="en">price</string>
+          </keyword>
+          <keyword>
+            <string language="sv">kostnad</string>
+            <string language="en">cost</string>
+          </keyword>
+          <keyword>
+            <string language="sv">prislappar</string>
+            <string language="en">price tags</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Einheit, der man verwendet, wann man 
+Produkte mit Preismarken beschriftet.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un dispositif qu'on utilise quand on étiquette 
+des produits avec des étiquettes des prix.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um dispositivo que um se use quando um etiqueta 
+produtos com Tag de preço.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un dispositivo che uno usa quando uno identifica 
+i prodotti con le modifiche di prezzi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια συσκευή εκείνη η μια χρησιμοποιεί πότε κάποιος 
+ονομάζει τα προϊόντα με τις ετικέττες τιμών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un dispositivo que uno utiliza cuando uno 
+etiqueta productos con las etiquetas de precio.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Preis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Preismarken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">prix</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">étiquettes des prix</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">preço</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Tag de preço</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">prezzo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">modifiche di prezzi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τιμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ετικέττες τιμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">precio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">etiquetas de precio</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:MSU
+FN:MSU
+ORG:MSU
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>632</id>
+              <entry>
+                <string language="en">image</string>
+                <string language="sv">bild</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:523083-1</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>523083-1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Iselow;Mikael
+FN:Mikael Iselow
+ORG:MMB
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2008-07-03T01:39:53.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>sv</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T05:47:38.46Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>IML-MMB</catalog>
+      <entry>523083</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://vix.iml.umu.se/mmb/523083.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
