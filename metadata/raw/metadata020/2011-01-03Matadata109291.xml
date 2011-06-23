@@ -1,0 +1,515 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/166464</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>166464</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_104693</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_104693</entry>
+          </identifier>
+          <title>
+            <string language="en">Models for gas pressure</string>
+            <string language="x-mt-de">Modelle für Gasdruck</string>
+            <string language="x-mt-fr">Modèles pour la pression de gaz</string>
+            <string language="x-mt-pt">Modelos para a pressão de gás</string>
+            <string language="x-mt-it">Modelli per pressione del gas</string>
+            <string language="x-mt-el">Μοντέλα για αέριο την πίεση</string>
+            <string language="x-mt-es">Modelos para la presión de gas</string>
+          </title>
+          <description>
+            <string language="en">These diagrams show sets of gas molecules inside containers.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">air</string>
+          </keyword>
+          <keyword>
+            <string language="en">collision</string>
+          </keyword>
+          <keyword>
+            <string language="en">compression</string>
+          </keyword>
+          <keyword>
+            <string language="en">containers</string>
+          </keyword>
+          <keyword>
+            <string language="en">Gas</string>
+          </keyword>
+          <keyword>
+            <string language="en">models</string>
+          </keyword>
+          <keyword>
+            <string language="en">molecules</string>
+          </keyword>
+          <keyword>
+            <string language="en">motion</string>
+          </keyword>
+          <keyword>
+            <string language="en">movement</string>
+          </keyword>
+          <keyword>
+            <string language="en">pressure</string>
+          </keyword>
+          <keyword>
+            <string language="en">random</string>
+          </keyword>
+          <keyword>
+            <string language="en">rebounding</string>
+          </keyword>
+          <keyword>
+            <string language="en">Space</string>
+          </keyword>
+          <keyword>
+            <string language="en">Speed</string>
+          </keyword>
+          <keyword>
+            <string language="en">Temperature</string>
+          </keyword>
+          <keyword>
+            <string language="en">Walls</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Diagramme zeigen Sets Gasmoleküle 
+innerhalb der Behälter.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ces diagrammes montrent des ensembles de 
+molécules de gaz à l'intérieur des récipients.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Estes diagramas mostram jogos de moléculas do 
+gás dentro dos recipientes.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questi schemi mostrano gli insiemi delle molecole
+del gas all'interno dei contenitori.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτά τα διαγράμματα εμφανίζουν σύνολα αέριο 
+μορίων μέσα στα εμπορευματοκιβώτια.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Estos diagramas muestran conjuntos de moléculas 
+del gas dentro de los envases.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Luft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zusammenstoß</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Komprimierung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Behälter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Modelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Moleküle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bewegung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bewegung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Druck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">gelegentlich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zurückprallen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Platz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Temperatur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wände</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">air</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">collision</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compactage</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">récipients</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Gaz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">modèles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">molécules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mouvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mouvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pression</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">aléatoire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rebondissement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">L'espace</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Murs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">colisão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">compressão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">recipientes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Gás</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">modelos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">moléculas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pressão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">aleatório</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rebounding</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Espaço</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Paredes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scontro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">compressione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">contenitori</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Gas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">modelli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">molecole</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">movimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pressione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">casuale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rimbalzo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Spazio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pareti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αέρας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύγκρουση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συμπίεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εμπορευματοκιβώτια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αέριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μοντέλα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μόρια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κίνηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετακίνηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πίεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τυχαίος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναπήδηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Διάστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θερμοκρασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τοίχοι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">colisión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">compresión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">envases</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Gas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">modelos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">moléculas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">movimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">movimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">presión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">al azar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el rebotar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Espacio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Velocidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Paredes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_104693</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_104693</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:30:27.43Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>166464</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/104693.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
