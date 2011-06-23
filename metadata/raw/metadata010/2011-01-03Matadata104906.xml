@@ -1,0 +1,428 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/214783</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>214783</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_f0ffc9988fe9503552a9556c9e3b50e93630d5f7</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_f0ffc9988fe9503552a9556c9e3b50e93630d5f7</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_f0ffc9988fe9503552a9556c9e3b50e93630d5f7</entry>
+          </identifier>
+          <title>
+            <string language="en">A potentiometer circuit feeding into a two-bit ADC system</string>
+            <string language="x-mt-de">Ein Potentiometerstromkreis, der in ein Zweibit 
+ADC System einzieht</string>
+            <string language="x-mt-fr">Un circuit de potentiomètre introduisant dans un
+système du deux-bit CDA</string>
+            <string language="x-mt-pt">Um circuito do potenciômetro que alimenta em um 
+sistema do dois-bit CAD</string>
+            <string language="x-mt-it">Un circuito del potenziometro che inserisce in un
+sistema del due-bit ADC</string>
+            <string language="x-mt-el">Μια τροφοδότηση κυκλωμάτων ποτενσιόμετρων ένα 
+ασήμαντο σύστημα της ΠΑΧ</string>
+            <string language="x-mt-es">Un circuito del potenciómetro que alimenta en un
+sistema del dos-di'gito binario ADC</string>
+          </title>
+          <description>
+            <string language="en">This circuit diagram shows a potentiometer circuit where the wiper is connected into a two-bit ADC. The two-bit output of the ADC is fed into the input of a two-bit DAC, and the DAC output is connected to an analogue moving coil voltmeter. This circuit generates an analogue signal, converting it to a digital signal, then transmitting the digital signal and converting it back to analogue.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">dac output</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue moving coil voltmeter</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue-to-digital converter</string>
+          </keyword>
+          <keyword>
+            <string language="en">digital signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">digital-to-analogue converter</string>
+          </keyword>
+          <keyword>
+            <string language="en">potentiometer circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">two-bit adc</string>
+          </keyword>
+          <keyword>
+            <string language="en">two-bit dac</string>
+          </keyword>
+          <keyword>
+            <string language="en">wiper</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieser Schaltplan zeigt einem 
+Potentiometerstromkreis, wo der Wischer in eine Zweibit ADC 
+angeschlossen wird. Die Zweibit Ausgabe der ADC wird in den 
+Input eines Zweibits DAC eingezogen, und die DAC Ausgabe wird an einen
+analogen beweglichen Spule Voltmeter angeschlossen. Dieser 
+Stromkreis legt ein Analogsignal fest und wandelt sie in ein digitales
+Signal um, dann überträgt das digitale Signal und wandelt es zurück
+zu Entsprechung um.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma de circuit montre à un circuit de 
+potentiomètre où l'essuie-glace est relié dans un deux-bit CDA. 
+La sortie de deux-bit du CDA est introduite dans l'entrée d'un 
+deux-bit DAC, et la sortie de DAC est reliée à un voltmètre mobile 
+analogique d'enroulement. Ce circuit produit d'un signal 
+analogue, la convertissant en signal numérique, alors transmettant le
+signal numérique et le convertissant de nouveau à l'analogue.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de circuito mostra a um circuito do
+potenciômetro onde o limpador é conectado em um dois-bit CAD. 
+A saída do dois-bit do CAD é alimentada na entrada de um 
+dois-bit DAC, e a saída de DAC é conectada a um voltímetro movente 
+análogo da bobina. Este circuito gera um sinal análogo, 
+convertendo a a um sinal digital, então transmitindo o sinal digital 
+e convertendo o para trás ao analogue.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema circuitale mostra ad un circuito 
+del potenziometro dove il pulitore è collegato in un due-bit ADC. 
+L'uscita del due-bit dell'ADC è inserita nell'input di un 
+due-bit DAC e l'uscita di DAC è collegata ad un voltmetro commovente 
+analogue della bobina. Questo circuito genera un segnale di 
+analogico, convertente la in segnale numerico, allora trasmettendo il 
+segnale numerico e convertendolo di nuovo all'analogo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα κυκλωμάτων εμφανίζει κύκλωμα 
+ποτενσιόμετρων όπου η ψήκτρα συνδέεται με μια ασήμαντη ΠΑΧ. 
+Η ασήμαντη έξοδος της ΠΑΧ τροφοδοτείται την είσοδο ενός 
+ασήμαντου DAC, και η έξοδος DAC συνδέεται με ένα αναλογικό 
+κινούμενο βολτόμετρο πηνίων. Αυτό το κύκλωμα παράγει ένα 
+αναλογικό σήμα, που μετατρέπει το σε ένα ψηφιακό σήμα, 
+διαβιβάζοντας έπειτα το ψηφιακό σήμα και μετατρέποντας το πίσω 
+στο ανάλογο.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este esquema circular muestra a circuito del 
+potenciómetro donde el limpiador está conectado en un dos-di'gito 
+binario ADC. La salida del dos-di'gito binario del ADC se 
+alimenta en la entrada de información de un dos-di'gito binario DAC, 
+y la salida de DAC está conectada con un voltímetro móvil analogico
+de la bobina. Este circuito genera una señal analogica, 
+convirtiéndola a una señal digital, después transmitiendo la señal
+digital y convirtiéndola de nuevo a análogo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">dac Ausgabe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">analoger beweglicher Spule Voltmeter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analogsignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analog-Digitalkonverter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">digitales Signal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">digital-zu-analoger Konverter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Potentiometerstromkreis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zweibit ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zweibit dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wischer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sortie de dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">voltmètre mobile analogique d'enroulement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal analogue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">convertisseur analogique-numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">convertisseur digital-à-analogique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit de potentiomètre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">deux-bit CDA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dac de deux-bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">essuie-glace</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">saída do dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">voltímetro movente análogo da bobina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conversor análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conversor digital-à-análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito do potenciômetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dois-bit CAD</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dac do dois-bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">limpador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uscita del dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">voltmetro commovente analogue della bobina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale di analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">convertitore analogico-digitale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale numerico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">convertitore digitale-$$$-DIGITAL-TO-ANALOGUE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito del potenziometro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">due-bit ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dac del due-bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pulitore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">dac έξοδος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογικό κινούμενο βολτόμετρο πηνίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογικό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογικός σε ψηφιακό μετατροπέας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφιακό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφιακός-$$$-ΑΝΑΛΟΓΙΚΌΣ μετατροπέας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύκλωμα ποτενσιόμετρων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασήμαντη ΠΑΧ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασήμαντο dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψήκτρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">salida del dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">voltímetro móvil analogico de la bobina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal analogica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">convertidor análogo-numérico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">convertidor digital-a-analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito del potenciómetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dos-di'gito binario ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dac del dos-di'gito binario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">limpiador</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_f0ffc9988fe9503552a9556c9e3b50e93630d5f7</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_f0ffc9988fe9503552a9556c9e3b50e93630d5f7</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:43:10.80Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/f0ffc9988fe9503552a9556c9e3b50e93630d5f7.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
