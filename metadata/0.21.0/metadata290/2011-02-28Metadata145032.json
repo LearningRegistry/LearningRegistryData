@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "djur", 
+        "animal", 
+        "lamadjur", 
+        "llama animal", 
+        "lama", 
+        "llama", 
+        "peru", 
+        "Peru", 
+        "Tier", 
+        "Llamatier", 
+        "Llama", 
+        "Peru", 
+        "animal", 
+        "animal de lama", 
+        "lama", 
+        "Le P\u00e9rou", 
+        "animal", 
+        "animal do lama", 
+        "lama", 
+        "Peru", 
+        "animale", 
+        "animale del lama", 
+        "lama", 
+        "Il Per\u00f9", 
+        "\u03b6\u03ce\u03bf", 
+        "llama \u03b6\u03ce\u03bf", 
+        "llama", 
+        "\u03a0\u03b5\u03c1\u03bf\u03cd", 
+        "animal", 
+        "animal de la llama", 
+        "llama", 
+        "Per\u00fa"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/30443</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>30443</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>528420</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:528420</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>528420</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Lamadjur</string>\r\n            <string language=\"en\">Llamas</string>\r\n            <string language=\"x-mt-de\">Llamas</string>\r\n            <string language=\"x-mt-fr\">Lamas</string>\r\n            <string language=\"x-mt-pt\">Lamas</string>\r\n            <string language=\"x-mt-it\">Lama</string>\r\n            <string language=\"x-mt-el\">Llamas</string>\r\n            <string language=\"x-mt-es\">Llamas</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Lamadjur ligger och tar igen sig i Perus h\u00f6gl\u00e4nder.</string>\r\n            <string language=\"en\">Llamas resting in the highlands of Peru.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">djur</string>\r\n            <string language=\"en\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">lamadjur</string>\r\n            <string language=\"en\">llama animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">lama</string>\r\n            <string language=\"en\">llama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">peru</string>\r\n            <string language=\"en\">Peru</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Llamas, die in den Hochl\u00e4ndern von Peru \r\nstillstehen.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Lamas se reposant dans les montagnes du P\u00e9rou.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Lamas que descansam nos highlands de Peru.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Lama che si riposano negli altopiani del Per\u00f9.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">Llamas \u03c0\u03bf\u03c5 \u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03bf\u03c1\u03b5\u03b9\u03bd\u03ad\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 \r\n\u03a0\u03b5\u03c1\u03bf\u03cd.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Llamas que se reclinan en las monta\u00f1as de Per\u00fa.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Tier</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Llamatier</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Llama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Peru</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">animal de lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">Le P\u00e9rou</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">animal do lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">Peru</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">animale</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">animale del lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">lama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">Il Per\u00f9</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b6\u03ce\u03bf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">llama \u03b6\u03ce\u03bf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">llama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03a0\u03b5\u03c1\u03bf\u03cd</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">animal de la llama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">llama</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">Per\u00fa</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:528420-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>528420-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:41:15.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:39:28.80Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>528420</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/528420.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/528420.jpg"
+}
