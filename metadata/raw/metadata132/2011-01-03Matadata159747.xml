@@ -1,0 +1,217 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/8595</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>8595</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG3UFO</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3UFO</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG3UFO</entry>
+          </identifier>
+          <title>
+            <string language="it">Scherma sportiva 1/4. L'affondo</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Due schermitori si affrontano finchè uno dei due non riesce a portare il movimento vincente: la foto ritrae un  affondo , ovvero il colpo che consente all'atleta di concludere le sue tecniche di attacco e quindi di mettere punto. La storia è piena di duellanti armati di spada, ma la scherma come la intendiamo noi oggi, cioè sportiva e senza spargimento di sangue, ha un passato recente: il primo trattato scritto di questa disciplina risale al 1410 ( Flos Duellatorum  dell'italiano Fiore dei Liberi) ma, solo alla fine del '700 si trovano le prime armi adatte alla scherma sportiva, ovvero quelle di ferro con lame flessibili e piccoli dischi sulla punta. La FIE (Féderation Internationale d'Escrime) fu fondata solo nel 1913, ma la scherma divenne disciplina olimpica sin da molti anni prima: precisamente dal 1896. Le specialità sono tre, e prendono il nome dal tipo di arma usata in combattimento: fioretto (maschile e femminile), spada e sciabola (solo maschili). I movimenti fondamentali della scherma sono essenzialmente quattro: la guardia (posizione di partenza in cui l'atleta si copre il corpo), l'attacco (serie di movimenti di schermaglia in genere conclusi con un  affondo ), la parata (movimento con la lama per parare attacco avversario) e la risposta (la controffensiva da sferrare dopo aver effettuato una parata o dopo che l'avversario è andato a vuoto col suo colpo). Un incontro dura in genere sei minuti, tempo limite in cui l'atleta deve mettere a segno sei stoccate (esistono anche gare da dieci minuti e dieci stoccate): per verificare che queste siano state veramente inferte, dal 1936 è entrato in uso un segnalatore elettrico collegato al giubbotto dello schermitore e alla punta della lama. Quando si arriva al bersaglio si accende un segnale luminoso che permette ai giudici di assegnare il punto.</string>
+          </description>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Olycom S.p.A.;;;; 
+FN:Olycom S.p.A. 
+ORG:OLYC
+URL:http://www.olycom.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Grossi;Edoardo;;; 
+FN:EdoardoŠGrossi 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3UFO</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG3UFO</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T08:38:22.27Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1234</id>
+              <entry>
+                <string language="en">sport</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>246</id>
+              <entry>
+                <string language="en">competitive sport</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>932</id>
+              <entry>
+                <string language="en">orienteering</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1235</id>
+              <entry>
+                <string language="en">sport training</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1282</id>
+              <entry>
+                <string language="en">teaching method</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1392</id>
+              <entry>
+                <string language="en">winter sport</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG3UFO</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/zysport/zs016.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
