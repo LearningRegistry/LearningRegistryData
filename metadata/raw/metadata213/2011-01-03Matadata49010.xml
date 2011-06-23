@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107268</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107268</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204594</entry>
+          </identifier>
+          <title>
+            <string language="en">What is static charge?</string>
+            <string language="x-mt-de">Was ist statische Ladung?</string>
+            <string language="x-mt-fr">Quelle est charge statique ?</string>
+            <string language="x-mt-pt">Que é carga de estática?</string>
+            <string language="x-mt-it">Che cosa è carica statica?</string>
+            <string language="x-mt-el">Τι είναι στατική δαπάνη;</string>
+            <string language="x-mt-es">¿Cuál es carga estática?</string>
+          </title>
+          <description>
+            <string language="en">This lab exercise uses ordinary household materials to explore static charge.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Diese Laborübung benutzt gewöhnliche Haushalt 
+Materialien, um statische Ladung zu erforschen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cet exercice de laboratoire emploie les matériaux 
+ordinaires de ménage pour explorer la charge statique.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este exercício do laboratório usa materiais ordinários 
+da casa explorar a carga de estática.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa esercitazione del laboratorio usa i materiali 
+ordinari della famiglia per esplorare la carica statica.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η άσκηση εργαστηρίων χρησιμοποιεί τα συνηθισμένα
+οικιακά υλικά για να ερευνήσει τη στατική δαπάνη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este ejercicio del laboratorio utiliza los materiales 
+ordinarios de la casa para explorar la carga estática.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:LEIGH KISER
+FN:LEIGH KISER
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204594</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107268</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/what-is-static-charge</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,152 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106957</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106957</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208284</entry>
+          </identifier>
+          <title>
+            <string language="en">Conducting</string>
+            <string language="x-mt-de">Leiten</string>
+            <string language="x-mt-fr">Conduite</string>
+            <string language="x-mt-pt">Conduzir</string>
+            <string language="x-mt-it">Condotta</string>
+            <string language="x-mt-el">Διεύθυνση</string>
+            <string language="x-mt-es">El conducir</string>
+          </title>
+          <description>
+            <string language="en">The purpose of a music conductor is to rehearse larger groups of vocalists and/or instrumentalists and to keep them together musically during performance.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Der Zweck eines Musikleiters ist, größere Gruppen
+vocalists und/oder Instrumentalisten zu proben und sie musikalisch 
+während der Leistung zusammen zu halten.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le but d'un conducteur de musique est préparer de 
+plus grands groupes de vocalists et/ou des instrumentalistes et de les
+garder ensemble musicalement pendant l'exécution.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A finalidade de um condutor da música é rehearse 
+grupos maiores dos vocalists e/ou instrumentalists e mantê-los junto 
+musical durante o desempenho.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Lo scopo di un conduttore di musica è di preparare
+i più grandi gruppi dei vocalists e/o i instrumentalists e mantenerlo
+insieme musicale durante le prestazioni.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο σκοπός ενός αγωγού μουσικής είναι να 
+προετοιμαστούν οι μεγαλύτερες ομάδες αοιδών ή/και 
+instrumentalists και να κρατηθούν μαζί μουσικά κατά τη 
+διάρκεια της απόδοσης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El propósito de un conductor de la música es 
+ensayar grupos más grandes de vocalists y/o a instrumentalists y 
+guardarlos juntos musicalmente durante funcionamiento.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208284</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106957</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/conducting</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

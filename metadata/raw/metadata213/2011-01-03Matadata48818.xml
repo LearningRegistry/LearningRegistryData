@@ -1,0 +1,155 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105342</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105342</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208326</entry>
+          </identifier>
+          <title>
+            <string language="en">Time Signature</string>
+            <string language="x-mt-de">Zeit-Unterzeichnung</string>
+            <string language="x-mt-fr">Signature de Temps</string>
+            <string language="x-mt-pt">Assinatura Do Tempo</string>
+            <string language="x-mt-it">Firma Di Tempo</string>
+            <string language="x-mt-el">Χρονική υπογραφή</string>
+            <string language="x-mt-es">Firma Del Tiempo</string>
+          </title>
+          <description>
+            <string language="en">The time signature on a musical staff tells you the meter of the music by defining both the number of beats in a measure and the type of note that fills one beat.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die Zeitunterzeichnung auf einem musikalischen 
+Personal erklärt Ihnen das Meßinstrument der Musik, indem sie die 
+Zahl Schlägen in einem Maß und den Typen der Anmerkung definiert, 
+die einen Schlag füllt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La signature de temps sur un personnel musical 
+vous indique le mètre de la musique en définissant le nombre de 
+battements dans une mesure et le type de note qui remplit un 
+battement.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A assinatura do tempo em uma equipe de 
+funcionários musical diz-lhe o medidor da música definindo  o 
+número das batidas em uma medida e o tipo de nota que enche uma 
+batida.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La firma di tempo su un personale musicale vi dice
+il tester della musica definendo sia il numero di battimenti in una 
+misura che il tipo di nota che riempie un battimento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η χρονική υπογραφή σε ένα μουσικό προσωπικό σας λέει
+ότι ο μετρητής της μουσικής με τον καθορισμό και του αριθμού 
+κτυπά σε ένα μέτρο και ο τύπος σημείωσης που γεμίζει το ένα 
+κτυπήστε.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La firma del tiempo en un personal musical le dice
+el contador de la música definiendo el número de golpes en una 
+medida y el tipo de nota que llene un golpe.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208326</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105342</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/time-signature</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

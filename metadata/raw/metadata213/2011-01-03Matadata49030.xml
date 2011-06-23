@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105873</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105873</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208177</entry>
+          </identifier>
+          <title>
+            <string language="en">Harmonic Series</string>
+            <string language="x-mt-de">Harmonische Serie</string>
+            <string language="x-mt-fr">Série Harmonique</string>
+            <string language="x-mt-pt">Série Harmonic</string>
+            <string language="x-mt-it">Serie Armonica</string>
+            <string language="x-mt-el">Αρμονική σειρά</string>
+            <string language="x-mt-es">Serie Armónica</string>
+          </title>
+          <description>
+            <string language="en">The harmonic series is the key to understanding not only harmonics, but also timbre and the basic functioning of many musical instruments.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die harmonische Serie ist die Taste zum Verstehen 
+von von nicht nur Harmonik, aber auch timbre und das grundlegende 
+Arbeiten vieler Musikinstrumente.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La série harmonique est la clé aux harmoniques 
+d'arrangement non seulement, mais également timbre et le 
+fonctionnement de base de beaucoup d'instruments musicaux.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A série harmonic é a chave a compreender não 
+somente harmonics, mas também timbre e funcionar básico de muitos 
+instrumentos musicais.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La serie armonica è il tasto a capire non 
+soltanto le armoniche, ma anche timbre ed il funzionamento di base di 
+molti strumenti musicali.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η αρμονική σειρά είναι το πλήκτρο στην κατανόηση όχι
+μόνο των αρμονικών, αλλά και χροιά και η βασική λειτουργία 
+πολλών μουσικών οργάνων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La serie armónica es el clave a entender no 
+solamente armónicos, pero también timbre y el funcionamiento básico
+de muchos instrumentos musicales.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208177</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105873</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/harmonic-series</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106143</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106143</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208973</entry>
+          </identifier>
+          <title>
+            <string language="en">The Music of the Romantic Era</string>
+            <string language="x-mt-de">Die Musik der romantischen Ära</string>
+            <string language="x-mt-fr">La musique de l'ère romantique</string>
+            <string language="x-mt-pt">A música da era romântica</string>
+            <string language="x-mt-it">La musica dell'era romantica</string>
+            <string language="x-mt-el">Η μουσική της ρομαντικής εποχής</string>
+            <string language="x-mt-es">La música de la era romántica</string>
+          </title>
+          <description>
+            <string language="en">For middle school and up, an introduction to nineteenth-century Western classical music.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Für mittlere Schule und up, eine Einleitung 
+19.-Jahrhundert zur westlichen klassischen Musik.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pour le collège et levez, une introduction en 
+musique classique occidentale de dix-neuvième-siècle.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Para a escola média e levante, uma introdução 
+a uma música clássica ocidental de décimo-século.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Per la scuola centrale ed aumenti, 
+un'introduzione a musica classica occidentale di 
+diciannovesimo-secolo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Για τη δευτεροβάθμια εκπαίδευση και επάνω, μια 
+εισαγωγή στη δυτική κλασσική μουσική δέκατος-αιώνα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Para la escuela media y suba, una introducción a
+la música clásica occidental del diecinueveavo-siglo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208973</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106143</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/the-music-of-the-romantic-era</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

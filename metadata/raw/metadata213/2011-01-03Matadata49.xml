@@ -1,0 +1,114 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/2032732149</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>2032732149</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>promethean</catalog>
+            <entry>8826</entry>
+          </identifier>
+          <title>
+            <string language="en-US">Early Reading</string>
+          </title>
+          <language>en-US</language>
+          <description>
+            <string language="en-US">Use this Early Reading flipchart as a whole group lesson, or to have students practice during center time. For a beginning reader</string>
+          </description>
+          <keyword>
+            <string language="en-US">phonics</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">reading</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">Reading</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Shannon Lohse;;;;
+FN:
+ORG:Promethean;
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <language>en-US</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:
+ORG:Promethean;
+END:VCARD</entity>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-8</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>audio</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">This content has been provided to Promethean by the creator(s) of the resource for the personal, non-commercial use of users of the Promethean Planet Service. Copyright remains with the original creator(s). If you have any questions about other uses of the content you must contact the copyright holder. Promethean does not control the Content posted by users of the Service and, as such, does not guarantee the accuracy, integrity or quality of such Content. All rights, responsibilities and liabilities in respect of copyright and other intellectual property rights in such individual contributions rest with the creators and/or persons or organisations who have made such contribution available on the Promethean Planet site.</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>2032732149</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.prometheanplanet.com/server.php?show=conResource.8826</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

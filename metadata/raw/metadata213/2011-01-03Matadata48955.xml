@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104864</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104864</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208188</entry>
+          </identifier>
+          <title>
+            <string language="en">Key Signature</string>
+            <string language="x-mt-de">Schlüsselunterzeichnung</string>
+            <string language="x-mt-fr">Signature Principale</string>
+            <string language="x-mt-pt">Assinatura Chave</string>
+            <string language="x-mt-it">Firma Chiave</string>
+            <string language="x-mt-el">Βασική υπογραφή</string>
+            <string language="x-mt-es">Firma Dominante</string>
+          </title>
+          <description>
+            <string language="en">The key signature at the beginning of a musical staff lists the sharps or flats in the key.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die Schlüsselunterzeichnung am Anfang eines 
+Musikalpersonals druckt die Scharfen oder die Ebenen in der Taste aus.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La signature principale au début d'un personnel 
+de musical énumère les dièses ou les appartements dans la clé.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A assinatura chave no começo de uma equipe de 
+funcionários do musical alista os sharps ou os planos na chave.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La firma chiave all'inizio di un personale di 
+musical elenca gli sharps o gli appartamenti nel tasto.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η βασική υπογραφή στην αρχή ενός μουσικού προσωπικού
+εμφανίζει λίστα τα sharps ή τα επίπεδα στο πλήκτρο.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La firma dominante al principio de un personal del
+musical enumera los sostenidos o los planos en el clave.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208188</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104864</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/key-signature</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105182</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105182</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202724</entry>
+          </identifier>
+          <title>
+            <string language="en">Soil Sampling</string>
+            <string language="x-mt-de">Boden-Musterstück</string>
+            <string language="x-mt-fr">Prélèvement de Sol</string>
+            <string language="x-mt-pt">Amostragem Do Solo</string>
+            <string language="x-mt-it">Campione Del Terreno</string>
+            <string language="x-mt-el">Εδαφολογική δειγματοληψία</string>
+            <string language="x-mt-es">Muestreo Del Suelo</string>
+          </title>
+          <description>
+            <string language="en">Students will learn how to sample soil to be analyzed for nutrient and lime requirements for proper plant growth.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer erlernen, wie man den auf prüft 
+Nährstoff- und Kalkanforderungen für korrektes Betriebswachstum 
+analysiert zu werden Boden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants apprendront comment échantillonner
+le sol à analyser des conditions d'éléments nutritifs et de chaux 
+pour la croissance de plantes appropriée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes aprenderão como provar o solo a ser
+analisado para exigências do nutriente e do cal para o crescimento de
+planta apropriado.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi impareranno come provare il terreno da
+analizzare per i requisiti della calce e degli elementi nutritivi di 
+sviluppo di pianta adeguato.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα μάθουν πώς να επιλέξουν το χώμα που 
+αναλύεται για τις απαιτήσεις θρεπτικών ουσιών και ασβέστη για την
+κατάλληλη αύξηση εγκαταστάσεων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes aprenderán cómo muestrear el 
+suelo que se analizará para los requisitos del alimento y de la cal 
+para el crecimiento vegetal apropiado.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DOUGLAS BEST
+FN:DOUGLAS BEST
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202724</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105182</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/soil-sampling</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
