@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75810</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75810</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>6ecaa58e-18f0-4aeb-badf-948fa2a74f45#1#4</entry>
+          </identifier>
+          <title>
+            <string language="hu">Selyem falikárpit</string>
+            <string language="en">silk tapestry</string>
+            <string language="x-mt-de">silk Tapisserie</string>
+            <string language="x-mt-fr">tapisserie en soie</string>
+            <string language="x-mt-pt">tapestry de seda</string>
+            <string language="x-mt-it">tappezzeria di seta</string>
+            <string language="x-mt-el">τάπητας μεταξιού</string>
+            <string language="x-mt-es">tapicería de seda</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Selyem falikárpit (részlet)</string>
+            <string language="en">silk tapestry (detail)</string>
+          </description>
+          <keyword>
+            <string language="hu">barokk selyem kárpit orgona,  </string>
+            <string language="en">baroque silk drape organ</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">silk Tapisserie (Detail)</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">tapisserie en soie (détail)</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">tapestry de seda (detalhe)</string>
+          </description>
+          <description>
+            <string language="x-mt-it">tappezzeria di seta (particolare)</string>
+          </description>
+          <description>
+            <string language="x-mt-el">τάπητας μεταξιού (λεπτομέρεια)</string>
+          </description>
+          <description>
+            <string language="x-mt-es">tapicería de seda (detalle)</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">barocke Seide drapieren Organ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la soie baroque drapent l'organe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">a seda baroque drapeja o órgão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la seta baroque copre l'organo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μπαρόκ όργανο μεταξιού drape</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">la seda barroca cubre el órgano</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75810</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6ecaa58e-18f0-4aeb-badf-948fa2a74f45&amp;v=1&amp;b=4</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
