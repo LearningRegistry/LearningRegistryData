@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/59107817</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>59107817</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>34c329ae-783b-49ba-beda-43099308f7c8#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A kezdőfázis</string>
+            <string language="en">the start phase</string>
+            <string language="x-mt-de">die Anfangsphase</string>
+            <string language="x-mt-fr">la phase de début</string>
+            <string language="x-mt-pt">a fase do começo</string>
+            <string language="x-mt-it">la fase di inizio</string>
+            <string language="x-mt-el">η φάση έναρξης</string>
+            <string language="x-mt-es">la fase del comienzo</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A kezdőfázis szemléltetése</string>
+            <string language="en">Demonstration of the start phase</string>
+          </description>
+          <keyword>
+            <string language="hu">kezdőfázis,  </string>
+            <string language="en">start phase,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Demonstration der Anfangsphase</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Démonstration de la phase de début</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Demonstração da fase do começo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dimostrazione della fase di inizio</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επίδειξη της φάσης έναρξης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Demostración de la fase del comienzo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">beginnen Sie Phase,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commencez phase,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">comece fase,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">inizi fase,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φάση έναρξης,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">comience fase,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>59107817</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=34c329ae-783b-49ba-beda-43099308f7c8&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
