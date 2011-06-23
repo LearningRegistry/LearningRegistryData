@@ -1,0 +1,317 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/70637</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>70637</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120572</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120572</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120572</entry>
+          </identifier>
+          <title>
+            <string language="sl">Določi gibanje v  področju z električnim potencialom</string>
+            <string language="en">Determine the motion in a region of electric potential</string>
+            <string language="x-mt-de">Stellen Sie die Bewegung in einer Region des 
+elektrischen Potentials fest</string>
+            <string language="x-mt-fr">Déterminez le mouvement dans une région de 
+potentiel électrique</string>
+            <string language="x-mt-pt">Determine o movimento em uma região do potencial
+elétrico</string>
+            <string language="x-mt-it">Determini il movimento in una regione di 
+potenziale elettrico</string>
+            <string language="x-mt-el">Καθορίστε την κίνηση σε μια περιοχή της ηλεκτρικής 
+δυνατότητας</string>
+            <string language="x-mt-es">Determine el movimiento en una región del 
+potencial eléctrico</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Premikanje nabitega delca skozi električno polje.</string>
+            <string language="en">The movement of a charged particle through the electric field.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">električno polje</string>
+            <string language="en">electric field</string>
+          </keyword>
+          <keyword>
+            <string language="sl">električni potencial</string>
+            <string language="en">electric potential</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Bewegung eines belasteten Partikels durch das
+elektrische fangen auf.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le mouvement d'une particule chargée par le 
+champ électrique.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O movimento de uma partícula carregada através 
+do campo elétrico.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il movimento di una particella caricata 
+attraverso il campo elettrico.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η μετακίνηση ενός χρεωμένου μορίου μέσω του 
+ηλεκτρικού πεδίου.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El movimiento de una partícula cargada a través
+del campo eléctrico.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fangen Sie auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisches Potential</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champ électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">potentiel électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campo elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">potencial elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campo elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">potenziale elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρικό πεδίο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρική δυνατότητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campo eléctrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">potencial eléctrico</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Melissa Dancy
+N:Dancy;Melissa;;;
+ORG:UNC-Charlotte
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120572</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120572</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:12:00.96Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>414</id>
+              <entry>
+                <string language="sl">elektromagnetizem</string>
+                <string language="en">electromagnetism</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120572</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120572:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/electromagnetism/e_potential/prob25_7.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

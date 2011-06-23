@@ -1,0 +1,252 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/68708</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>68708</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:uciteljska/110837</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/110837</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/110837</entry>
+          </identifier>
+          <title>
+            <string language="sl">Mladiči- pobarvanka</string>
+            <string language="en">Cubs - coloring book</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Črno bele slike z motivi živalskih mladičev, ki jih lahko pobarvamo.</string>
+            <string language="en">Outline images with motives of animal cubs that can be colored.</string>
+          </description>
+          <keyword>
+            <string language="sl">mladič</string>
+            <string language="en">cub</string>
+          </keyword>
+          <keyword>
+            <string language="sl">žival</string>
+            <string language="en">animal</string>
+          </keyword>
+          <keyword>
+            <string language="sl">pobarvanka</string>
+            <string language="en">coloring book</string>
+          </keyword>
+          <keyword>
+            <string language="sl">slika</string>
+            <string language="en">image</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Učiteljska.net
+N:Učiteljska.net;;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-05-05T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/110837</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/110837</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Učiteljska.net
+N:Učiteljska.net;;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-05-05T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-05-23T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-09-19T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2005-05-05T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:46:53.23Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-13</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/si/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>735</id>
+              <entry>
+                <string language="sl">prostočasne dejavnosti</string>
+                <string language="en">leisure activities</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>987</id>
+              <entry>
+                <string language="sl">igra</string>
+                <string language="en">play</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>390</id>
+              <entry>
+                <string language="sl">vzgojno-izobraževalna igra</string>
+                <string language="en">educational game</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:uciteljska/110837</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:uciteljska/110837:item</entry>
+      </identifier>
+      <location>
+        <uri>http://www.uciteljska.net/ucit_dl.php?id=837&amp;n=0</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

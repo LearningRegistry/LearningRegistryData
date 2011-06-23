@@ -1,0 +1,333 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/71778</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>71778</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120519</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120519</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120519</entry>
+          </identifier>
+          <title>
+            <string language="sl">Kaj je električno polje?</string>
+            <string language="en">What is a Vector Field?</string>
+            <string language="x-mt-de">Was ist ein Vektor auffangen?</string>
+            <string language="x-mt-fr">Quelle est une zone de vecteur ?</string>
+            <string language="x-mt-pt">Que é um campo do vetor?</string>
+            <string language="x-mt-it">Che cosa è un campo di vettore?</string>
+            <string language="x-mt-el">Τι είναι ένα διανυσματικό πεδίο;</string>
+            <string language="x-mt-es">¿Cuál es un campo del vector?</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Prikaz električnega polja in funkcij posameznih komponent polja.</string>
+            <string language="en">Visualization of electric field and functions of different field components.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">električno polje</string>
+            <string language="en">electric field</string>
+          </keyword>
+          <keyword>
+            <string language="sl">silnica polja</string>
+            <string language="en">field line</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sichtbarmachung von elektrischem fangen auf und 
+Funktionen von unterschiedlichem fangen Bestandteile auf.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Visualisation de champ électrique et de fonctions de 
+différents composants de zone.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Visualization do campo elétrico e das funções de 
+componentes diferentes do campo.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Visualizzazione del campo elettrico e delle funzioni dei 
+componenti differenti del campo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Απεικόνιση του ηλεκτρικού πεδίου και λειτουργίες των 
+διαφορετικών τμημάτων πεδίων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Visualización del campo eléctrico y de funciones de 
+diversos componentes del campo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fangen Sie auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">fangen Sie Zeile auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champ électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne de zone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campo elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha do campo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campo elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga del campo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρικό πεδίο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή πεδίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campo eléctrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea del campo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Anne J. Cox
+N:J. Cox;Anne;;;
+ORG:Eckerd College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>technical implementer</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Wolfgang Christian
+N:Christian;Wolfgang;;;
+ORG:Davidson College
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120519</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120519</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:06:46.75Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>414</id>
+              <entry>
+                <string language="sl">elektromagnetizem</string>
+                <string language="en">electromagnetism</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120519</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120519:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/electromagnetism/e_fields/illustration23_1.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

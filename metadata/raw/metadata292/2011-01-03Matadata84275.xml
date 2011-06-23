@@ -1,0 +1,319 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/70821</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>70821</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120242</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120242</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120242</entry>
+          </identifier>
+          <title>
+            <string language="sl">Ugotovi tangencialni  pospešek</string>
+            <string language="en">Determine tangential acceleration</string>
+            <string language="x-mt-de">Stellen Sie tangentiale Beschleunigung fest</string>
+            <string language="x-mt-fr">Déterminez l'accélération tangentielle</string>
+            <string language="x-mt-pt">Determine o acceleration tangential</string>
+            <string language="x-mt-it">Determini l'accelerazione tangenziale</string>
+            <string language="x-mt-el">Καθορίστε την εφαπτόμενη ταχύτητα</string>
+            <string language="x-mt-es">Determine la aceleración tangencial</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Otrok sedi na vrtiljaku na položaju, ki ga oče porine s konstantnim tangencialnim potiskom.</string>
+            <string language="en">The child is sited on a merry-go-round which is pushed by its father with constant tangential acceleration.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">tangencialni pospešek</string>
+            <string language="en">tangential acceleration</string>
+          </keyword>
+          <keyword>
+            <string language="sl">vrtenje</string>
+            <string language="en">rotation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das Kind wird auf einem Merry-go-round 
+stationiert, der von seinem Vater mit konstanter tangentialer 
+Beschleunigung gedrückt wird.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'enfant est situé sur un manège qui est 
+poussé par son père avec l'accélération tangentielle constante.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A criança é situada em um merry-go-round que 
+seja empurrado por seu pai com acceleration tangential constante.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il bambino è situato su un merry-go-round che è
+spinto dal relativo padre con accelerazione tangenziale costante.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το παιδί εγκαθίσταται σε έναν εύθυμος-πηγαίνω-κύκλο 
+που ωθείται από τον πατέρα του με τη σταθερή εφαπτόμενη 
+ταχύτητα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Localizan al niño en un tiovivo que sea empujado
+por su padre con la aceleración tangencial constante.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">tangentiale Beschleunigung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Umdrehung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accélération tangentielle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rotation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acceleration tangential</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rotação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">accelerazione tangenziale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rotazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εφαπτόμενη ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιστροφή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aceleración tangencial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rotación</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Wolfgang Christian
+N:Christian;Wolfgang;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120242</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120242</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:05:55.96Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="sl">mehanika (fizika)</string>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120242</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120242:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/mechanics/rotations/prob10_5.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
