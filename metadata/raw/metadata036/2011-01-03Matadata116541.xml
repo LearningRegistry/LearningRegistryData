@@ -1,0 +1,218 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/81824</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>81824</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>3214</entry>
+          </identifier>
+          <title>
+            <string language="en">Books</string>
+            <string language="es">Libros</string>
+            <string language="ga">Leabhair</string>
+            <string language="x-mt-de">Bücher</string>
+            <string language="x-mt-fr">Livres</string>
+            <string language="x-mt-pt">Livros</string>
+            <string language="x-mt-it">Libri</string>
+            <string language="x-mt-el">Βιβλία</string>
+          </title>
+          <description>
+            <string language="en">This list contains a mixture of books which can be used in the classroom and books which can assist the teacher.</string>
+            <string language="es">Esta lista contiene una combinación de libros que se pueden usar en la clase y libros que pueden ayudar al profesor.</string>
+            <string language="ga">Tá meascán sa liosta seo de leabhair a bhféadfaí a úsáid sa seomra ranga agus leabhair a bheidh mar thacaíocht don mhúinteoir féin.</string>
+          </description>
+          <language>ga</language>
+          <keyword>
+            <string language="en">Irish</string>
+            <string language="es">Irlandés</string>
+            <string language="ga">Gaeilge</string>
+          </keyword>
+          <keyword>
+            <string language="en">Acmhainn Bhreise</string>
+            <string language="es">Recurso adicional</string>
+            <string language="ga">Additional Resource</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Diese Liste enthält eine Mischung der Bücher, die
+im Klassenzimmer und in den Büchern benutzt werden können, die den 
+Lehrer unterstützen können.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cette liste contient un mélange des livres qui 
+peuvent être utilisés dans la salle de classe et les livres qui 
+peuvent aider le professeur.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta lista contem uma mistura dos livros que podem 
+ser usados na sala de aula e nos livros que podem ajudar ao professor.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa lista contiene una miscela dei libri che 
+possono essere usati nell'aula e nei libri che possono aiutare 
+l'insegnante.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτός ο κατάλογος περιέχει ένα μίγμα βιβλίων που 
+μπορεί να χρησιμοποιηθεί στην τάξη και τα βιβλία που μπορούν να 
+βοηθήσουν το δάσκαλο.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Irisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Acmhainn Bhreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Irlandais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Acmhainn Bhreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Irish</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Acmhainn Bhreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Irlandese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Acmhainn Bhreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ιρλανδικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Acmhainn Bhreise</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>3214</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <language>ga</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The content on this site is protected by copyright under Irish and European law. All materials may be downloaded and copied for non-commercial purposes only, provided that the source is acknowledged. The reproduction of material for commercial purposes is strictly prohibited.
+
+Material within the linked sites outside of Scoilnet may also have copyright restrictions and this should be checked on these websites should you plan to use their content in any way.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Comhar Na Muinteoiri Gaeilge;
+FN:Comhar Na Muinteoiri Gaeilge
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>680</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>81824</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://test.scoilnet.ie/Res/comhar160200192820_2.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
