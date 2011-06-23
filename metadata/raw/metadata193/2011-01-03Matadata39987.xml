@@ -1,0 +1,341 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/2112077354</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>2112077354</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.2715</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.2715</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.2715</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Alles über William Shakespeare (dt.)</string>
+          </title>
+          <description>
+            <string language="de-DE">dt. Website über William Shakespeare - Sonnette, Schülerwissen, Elizabethan England, Verfilmungen und vieles mehr; ausgezeichnet für Recherchen</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">englische Sprache</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">literarisches Werk</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Literatur</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Literaturgattung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Literaturgeschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">England</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">William Shakespeare</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Englisch</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Literatur</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">GB</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Romane</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Gedichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Theater/Drama</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Klassik/Romantik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Shakespeare</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Rod  Andriz
+n:Andriz;Rod 
+email;type=intern:rod@andriz.de
+end:vcard</entity>
+            <date>
+              <dateTime>2004-11-05</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Rod  Andriz
+n:Andriz;Rod 
+email;type=intern:rod@andriz.de
+end:vcard</entity>
+            <date>
+              <dateTime>2004-11-05</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.2715.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.2715.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2004-11-05</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:16:02.35Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">Urheberrechte liegen beim Autor / bei der Autorin.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1071</id>
+              <entry>
+                <string language="en">reading</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>121</id>
+              <entry>
+                <string language="en">Austria</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">foreign language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+              <entry>
+                <string language="en">history</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string language="en">languages</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.2715</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/plain</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.william-shakespeare.de/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
