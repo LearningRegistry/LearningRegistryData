@@ -1,0 +1,271 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/27591</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>27591</entry>
+  </identifier>
+  <identifier>
+    <catalog>IML-MMB</catalog>
+    <entry>536384</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:536384</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>536384</entry>
+          </identifier>
+          <title>
+            <string language="sv">Tandläkare</string>
+            <string language="en">Dentist</string>
+            <string language="x-mt-de">Zahnarzt</string>
+            <string language="x-mt-fr">Dentiste</string>
+            <string language="x-mt-pt">Dentista</string>
+            <string language="x-mt-it">Dentista</string>
+            <string language="x-mt-el">Οδοντίατρος</string>
+            <string language="x-mt-es">Dentista</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="sv">Tandläkare undersöker någons tänder.</string>
+            <string language="en">A dentist examines someone's teeth.</string>
+          </description>
+          <keyword>
+            <string language="sv">tand</string>
+            <string language="en">tooth</string>
+          </keyword>
+          <keyword>
+            <string language="sv">tandläkare</string>
+            <string language="en">dentist</string>
+          </keyword>
+          <keyword>
+            <string language="sv">borr</string>
+            <string language="en">drill</string>
+          </keyword>
+          <keyword>
+            <string language="sv">tänder</string>
+            <string language="en">teeth</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ein Zahnarzt überprüft jemand Zähne.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un dentiste examine quelqu'un des dents.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um dentista examina alguém os dentes.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un dentista esamina qualcuno denti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας οδοντίατρος εξετάζει τα δόντια κάποιου.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un dentista examina a alguien los dientes.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Zahn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahnarzt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bohrgerät</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zähne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dentiste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">foret</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dents</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dentista</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">broca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dentes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dentista</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">trivello</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">denti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δόντι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οδοντίατρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τρυπάνι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δόντια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">diente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dentista</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">taladro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dientes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:MSU
+FN:MSU
+ORG:MSU
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>632</id>
+              <entry>
+                <string language="en">image</string>
+                <string language="sv">bild</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:536384-1</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-MMB</catalog>
+            <entry>536384-1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Iselow;Mikael
+FN:Mikael Iselow
+ORG:MMB
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2008-07-03T01:42:29.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>sv</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T05:42:04.66Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>IML-MMB</catalog>
+      <entry>536384</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://vix.iml.umu.se/mmb/536384.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
