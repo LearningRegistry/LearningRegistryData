@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "peka", 
+        "point", 
+        "fingrar", 
+        "fingers", 
+        "hand", 
+        "hand", 
+        "utpeka", 
+        "point out", 
+        "Punkt", 
+        "Finger", 
+        "Hand", 
+        "unterstreichen Sie", 
+        "point", 
+        "doigts", 
+        "main", 
+        "pr\u00e9cisez", 
+        "ponto", 
+        "dedos", 
+        "m\u00e3o", 
+        "indique", 
+        "punto", 
+        "barrette", 
+        "mano", 
+        "precisi", 
+        "\u03c3\u03b7\u03bc\u03b5\u03af\u03bf", 
+        "\u03b4\u03ac\u03c7\u03c4\u03c5\u03bb\u03b1", 
+        "\u03c7\u03ad\u03c1\u03b9", 
+        "\u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03ac\u03bd\u03b5\u03c4\u03b5", 
+        "punta", 
+        "dedos", 
+        "mano", 
+        "precise"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/25579</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>25579</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>536162</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536162</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536162</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Du d\u00e4r!</string>\r\n            <string language=\"en\">You there!</string>\r\n            <string language=\"x-mt-de\">Sie dort!</string>\r\n            <string language=\"x-mt-fr\">Vous l\u00e0 !</string>\r\n            <string language=\"x-mt-pt\">Voc\u00ea l\u00e1!</string>\r\n            <string language=\"x-mt-it\">Voi l\u00e0!</string>\r\n            <string language=\"x-mt-el\">\u0395\u03c3\u03b5\u03af\u03c2 \u03b5\u03ba\u03b5\u0390</string>\r\n            <string language=\"x-mt-es\">\u00a1Usted all\u00ed!</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Hand som pekar mot betraktaren.</string>\r\n            <string language=\"en\">Hand that pointing towards the beholder.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">peka</string>\r\n            <string language=\"en\">point</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">fingrar</string>\r\n            <string language=\"en\">fingers</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">hand</string>\r\n            <string language=\"en\">hand</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">utpeka</string>\r\n            <string language=\"en\">point out</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">\u00dcbergeben Sie das, das in Richtung zum Beschauer zeigt.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Remettez cela qui se dirige vers le spectateur.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Entregue isso que aponta para o beholder.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Passi quello che indica verso il beholder.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u03a7\u03ad\u03c1\u03b9 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03b8\u03b5\u03b1\u03c4\u03ae.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">D\u00e9 eso que se\u00f1ala hacia el beholder.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Punkt</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Finger</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Hand</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">unterstreichen Sie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">point</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">doigts</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">main</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">pr\u00e9cisez</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">ponto</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">dedos</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">m\u00e3o</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">indique</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">punto</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">barrette</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">mano</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">precisi</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c3\u03b7\u03bc\u03b5\u03af\u03bf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b4\u03ac\u03c7\u03c4\u03c5\u03bb\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c7\u03ad\u03c1\u03b9</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b5\u03c0\u03b9\u03c3\u03b7\u03bc\u03ac\u03bd\u03b5\u03c4\u03b5</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">punta</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">dedos</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">mano</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">precise</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536162-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536162-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:42:07.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:39:11.51Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>536162</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/536162.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/536162.jpg"
+}
