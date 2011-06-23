@@ -1,0 +1,35 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "szachar\u00f3z, \u00a0", 
+        "saccharose", 
+        "Saccharose", 
+        "saccharose", 
+        "saccharose", 
+        "saccarosio", 
+        "saccharose", 
+        "sacarosa"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/72911</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>72911</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>SDT</catalog>\r\n            <entry>e0340800-45e0-491d-b85d-c78cda3fb5e6#1#2</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"hu\">Kandiscukor</string>\r\n            <string language=\"en\">rock-candy</string>\r\n            <string language=\"x-mt-de\">Felsen-S\u00fc\u00dfigkeit</string>\r\n            <string language=\"x-mt-fr\">roche-sucrerie</string>\r\n            <string language=\"x-mt-pt\">rocha-doce</string>\r\n            <string language=\"x-mt-it\">roccia-caramella</string>\r\n            <string language=\"x-mt-el\">\u03b2\u03c1\u03ac\u03c7\u03bf\u03c2-\u03ba\u03b1\u03c1\u03b1\u03bc\u03ad\u03bb\u03b1</string>\r\n            <string language=\"x-mt-es\">roca-caramelo</string>\r\n          </title>\r\n          <language>hu</language>\r\n          <description>\r\n            <string language=\"hu\">Kandiscukor f\u00e9nyk\u00e9pe</string>\r\n            <string language=\"en\">Photo of rock-candy</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"hu\">szachar\u00f3z, \u00a0</string>\r\n            <string language=\"en\">saccharose</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Foto der Felsen-S\u00fc\u00dfigkeit</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Photo de roche-sucrerie</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Foto do rocha-doce</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Foto della roccia-caramella</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u03a6\u03c9\u03c4\u03bf\u03b3\u03c1\u03b1\u03c6\u03af\u03b1 \u03c4\u03b7\u03c2 \u03b2\u03c1\u03ac\u03c7\u03bf\u03c2-\u03ba\u03b1\u03c1\u03b1\u03bc\u03ad\u03bb\u03b1\u03c2</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Foto del roca-caramelo</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Saccharose</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">saccharose</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">saccharose</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">saccarosio</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">saccharose</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">sacarosa</string>\r\n          </keyword>\r\n        </general>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"hu\">A tartalom kiz\u00e1r\u00f3lag kiz\u00e1r\u00f3lag az oktat\u00e1s illetve tudom\u00e1nyos kutat\u00e1s c\u00e9lj\u00e1ra haszn\u00e1lhat\u00f3 szigor\u00faan non-profit jelleggel.</string>\r\n            <string language=\"en\">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>195</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>begin:vcard\r\n        org:Sulinet\r\n        version:3.0\r\n        end:vcard</entity>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>72911</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e0340800-45e0-491d-b85d-c78cda3fb5e6&amp;v=1&amp;b=2</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://sdt.sulinet.hu/Player/default.aspx?g=e0340800-45e0-491d-b85d-c78cda3fb5e6&v=1&b=2"
+}
