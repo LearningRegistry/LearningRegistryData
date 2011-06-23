@@ -1,0 +1,512 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/32768</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>32768</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9586</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9586</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Inkomst - Utgift</string>
+            <string language="en">Income - expenditure</string>
+            <string language="x-mt-de">Einkommen - Aufwendung</string>
+            <string language="x-mt-fr">Revenu - dépense</string>
+            <string language="x-mt-pt">Renda - despesa</string>
+            <string language="x-mt-it">Reddito - dispendio</string>
+            <string language="x-mt-el">Εισόδημα - δαπάνες</string>
+            <string language="x-mt-es">Renta - gasto</string>
+          </title>
+          <description>
+            <string language="sv">Inkomster är vad företaget får för de varor och tjänster det säljer, och de uppstår vid försäljningstillfället.Utgifter är vad företaget ger för de resurser det anskaffar och de uppstår vid anskaffningstillfället.Modul 3 - Ekonomi och Budget.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Incomes are what company sheep for they products and services it sells, and they arise at försäljningstillfället.
+
+Expenditure are what company gives for they resources it provides and they arise at anskaffningstillfället.
+
+Module 3 - economy and budget.</string>
+          </description>
+          <keyword>
+            <string language="sv">inkomst</string>
+            <string language="sv">utgift</string>
+            <string language="sv">ekonomi</string>
+            <string language="sv">arbete</string>
+            <string language="sv">kapital</string>
+            <string language="sv">råvara</string>
+            <string language="sv">vara</string>
+            <string language="sv">tjänst</string>
+            <string language="sv">faktura</string>
+            <string language="sv">ränteinkomst</string>
+            <string language="sv">anskaffning</string>
+            <string language="sv">anskaffa</string>
+            <string language="sv">anskaffningstillfälle</string>
+            <string language="en">income</string>
+            <string language="en">expenditure</string>
+            <string language="en">economy</string>
+            <string language="en">work</string>
+            <string language="en">capitals</string>
+            <string language="en">raw material</string>
+            <string language="en">last</string>
+            <string language="en">service</string>
+            <string language="en">invoice</string>
+            <string language="en">ränteinkomst</string>
+            <string language="en">anskaffning</string>
+            <string language="en">provide</string>
+            <string language="en">anskaffningstillfälle</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Einkommen sind, was Firmaschaf für sie Produkte 
+und Dienstleistungen es verkauft und sie an 
+försäljningstillfället.Expenditure sind entstehen, was Firma für 
+sie Betriebsmittel gibt, die sie zur Verfügung stellt und sie an 
+anskaffningstillfället.Module 3 entstehen - Wirtschaft und Etat.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Sont les revenus ce que le mouton de compagnie 
+pour eux des produits et des services il vend, et sont ils surgissent 
+à försäljningstillfället.Expenditure ce que la compagnie donne 
+pour elles des ressources qu'elle fournit et elles surgissent à 
+anskaffningstillfället.Module 3 - économie et budget.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As rendas são o que o carneiro da companhia para
+ele produtos e serviços ele vende, e se levanta em 
+försäljningstillfället.Expenditure é o que a companhia dá para 
+eles recursos que fornece e se levantam em 
+anskaffningstillfället.Module 3 - economia e orçamento.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">I redditi sono che cosa la pecora dell'azienda 
+per prodotti e servizi esso vende e presentano a 
+försäljningstillfället.Expenditure sono che cosa l'azienda dà per 
+risorse che fornisce e presentano a anskaffningstillfället.Module 3 -
+economia e preventivo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τα εισοδήματα είναι ποια πρόβατα επιχείρησης γιατί 
+προϊόντα και υπηρεσίες αυτό πωλούν, και προκύπτουν στις δαπάνες
+fφrsδljningstillfδllet. είναι αυτό που η επιχείρηση δίνει 
+γιατί στοιχεία συμπεριφοράς αυτό παρέχουν και προκύπτουν 
+anskaffningstillfδllet. στην ενότητα 3 - οικονομία και 
+προϋπολογισμός.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las rentas son lo que vende la oveja de la 
+compañía para ella los productos y los servicios él, y ella se 
+presenta en försäljningstillfället.Expenditure es lo que da la 
+compañía para ellos los recursos que proporciona y se presentan en 
+anskaffningstillfället.Module 3 - economía y presupuesto.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Einkommen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Aufwendung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Arbeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kapitalien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rohstoff</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Letztes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Service</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">ränteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Anskaffning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">stellen Sie zur Verfügung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">anskaffningstillfälle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">revenu</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dépense</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travail</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">capitaux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">matière première première</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bout</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">service</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">facture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ränteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">anskaffning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fournissez</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">anskaffningstillfälle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">renda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">despesa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trabalho</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">capitais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">material cru</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">último</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">serviço</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">invoice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ränteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">anskaffning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">forneça</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">anskaffningstillfälle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reddito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dispendio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lavoro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">capitali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">materia prima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ultimo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">servizio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fattura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ränteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">anskaffning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fornisca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">anskaffningstillfälle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εισόδημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δαπάνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εργασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κεφάλαια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πρώτη ύλη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαρκέστε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπηρεσία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τιμολόγιο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">rδnteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"></string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παρέχετε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">anskaffningstillfδlle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">renta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gasto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">trabajo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">capitales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">materia prima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">último</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">servicio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">factura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ränteinkomst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el anskaffning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proporcione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">anskaffningstillfälle</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9586</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9586</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:15:01.78Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>32768</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9586</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

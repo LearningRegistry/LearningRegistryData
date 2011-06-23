@@ -1,0 +1,456 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33411</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33411</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9713</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9713</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Faktura</string>
+            <string language="en">Invoice</string>
+            <string language="x-mt-de">Rechnung</string>
+            <string language="x-mt-fr">Facture</string>
+            <string language="x-mt-pt">Invoice</string>
+            <string language="x-mt-it">Fattura</string>
+            <string language="x-mt-el">Τιμολόγιο</string>
+            <string language="x-mt-es">Factura</string>
+          </title>
+          <description>
+            <string language="sv">Kundfaktura skall innehålla flera uppgifter.Modul 4 - Administration och Regler.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Kundfaktura will contain several information.
+
+Module 4 - administration and rules.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">kundfaktura</string>
+            <string language="sv">momsregistreringsnummer</string>
+            <string language="sv">fakturadatum</string>
+            <string language="sv">leveransdatum</string>
+            <string language="sv">fakturanummer</string>
+            <string language="sv">specifikation</string>
+            <string language="sv">belopp</string>
+            <string language="sv">förseningsavgift</string>
+            <string language="sv">specifikation av momsbelopp</string>
+            <string language="sv">redovisning</string>
+            <string language="en">economy</string>
+            <string language="en">customer invoice</string>
+            <string language="en">momsregistreringsnummer</string>
+            <string language="en">invoice dates</string>
+            <string language="en">delivery dates</string>
+            <string language="en">invoice numbers</string>
+            <string language="en">specification</string>
+            <string language="en">amounts</string>
+            <string language="en">delay sap gifta</string>
+            <string language="en">specification of VAT amounts</string>
+            <string language="en">account</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Kundfaktura enthält einige information.Module 4 
+- die Leitung und rules.Is, die in FöretagarSKOLAN eingeschlossen 
+sind.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Kundfaktura contiendra plusieurs 
+information.Module 4 - gestion et rules.Is inclus dans 
+FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Kundfaktura conterá diversos information.Module 
+4 - administração e rules.Is incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Kundfaktura conterrà parecchi information.Module
+4 - gestione e rules.Is inclusi in FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το Kundfaktura περιέχει διάφορη ενότητα 4 
+πληροφοριών - η διοίκηση και οι κανόνες συμπεριλαμβάνονται σε 
+FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Kundfaktura contendrá varios information.Module 
+4 - administración y rules.Is incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kunde Rechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rechnung Daten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lieferfristen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rechnung Zahlen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spezifikation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mengen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">verzögert Saft gifta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spezifikation der VAT Mengen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Konto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">facture de client</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dates de facture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dates de livraison</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">numéros de facture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cahier des charges</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">montants</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">retardez le gifta de sève</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cahier des charges des montants de TVA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">invoice do cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">datas do invoice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">datas de entrega</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">números de invoice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">especificação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">quantidades</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atrasa o gifta do sap</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">especificação de quantidades do VAT</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fattura del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">date della fattura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">date di consegna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numeri di fattura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">specifica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">importi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fa ritardare fiaccano il gifta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">specifica degli importi di IVA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τιμολόγιο πελατών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ημερομηνίες τιμολογίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ημερομηνίες παράδοσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμοί τιμολογίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προδιαγραφή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">gifta σφρίγους καθυστέρησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προδιαγραφή των ποσών Φ.Π.Α</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">factura del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">momsregistreringsnummer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fechas de la factura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fechas de expedición</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">números de factura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">especificación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cantidades</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">retrasa gifta de la savia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">especificación de las cantidades del IVA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9713</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9713</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:15:00.56Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>33411</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9713</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
