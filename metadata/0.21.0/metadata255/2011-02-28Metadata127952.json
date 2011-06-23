@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "bondg\u00e5rd", 
+        "farmhouse", 
+        "f\u00e5glar", 
+        "birds", 
+        "h\u00f6ns", 
+        "hens", 
+        "djur", 
+        "animal", 
+        "Bauernhaus", 
+        "V\u00f6gel", 
+        "Hennen", 
+        "Tier", 
+        "ferme", 
+        "oiseaux", 
+        "poules", 
+        "animal", 
+        "farmhouse", 
+        "p\u00e1ssaros", 
+        "galinhas", 
+        "animal", 
+        "fattoria", 
+        "uccelli", 
+        "galline", 
+        "animale", 
+        "farmhouse", 
+        "\u03c0\u03bf\u03c5\u03bb\u03b9\u03ac", 
+        "\u03ba\u03cc\u03c4\u03b5\u03c2", 
+        "\u03b6\u03ce\u03bf", 
+        "cortijo", 
+        "p\u00e1jaros", 
+        "gallinas", 
+        "animal"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/26169</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>26169</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>524662</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:524662</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>524662</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">H\u00f6ns</string>\r\n            <string language=\"en\">Hens</string>\r\n            <string language=\"x-mt-de\">Hennen</string>\r\n            <string language=\"x-mt-fr\">Poules</string>\r\n            <string language=\"x-mt-pt\">Galinhas</string>\r\n            <string language=\"x-mt-it\">Galline</string>\r\n            <string language=\"x-mt-el\">\u039a\u03cc\u03c4\u03b5\u03c2</string>\r\n            <string language=\"x-mt-es\">Gallinas</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Tre spr\u00e4ckliga h\u00f6ns pickar i sig fr\u00f6n.</string>\r\n            <string language=\"en\">Three speckeled hens peck at seeds.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">bondg\u00e5rd</string>\r\n            <string language=\"en\">farmhouse</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">f\u00e5glar</string>\r\n            <string language=\"en\">birds</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">h\u00f6ns</string>\r\n            <string language=\"en\">hens</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">djur</string>\r\n            <string language=\"en\">animal</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Drei speckeled Hennen Peck an den Startwerten \r\nf\u00fcr Zufallsgenerator.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Trois speckeled le picotin de poules aux graines.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Tr\u00eas speckeled o peck das galinhas em sementes.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Tre speckeled il peck delle galline ai semi.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u03a4\u03c1\u03af\u03b1 \u03bf\u03b9 \u03ba\u03cc\u03c4\u03b5\u03c2 \u03c1\u03b1\u03bc\u03c6\u03af\u03b6\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c0\u03cc\u03c1\u03bf\u03c5\u03c2.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Tres speckeled el peck de las gallinas en los \r\ng\u00e9rmenes.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Bauernhaus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">V\u00f6gel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Hennen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Tier</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">ferme</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">oiseaux</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">poules</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">farmhouse</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">p\u00e1ssaros</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">galinhas</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">fattoria</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">uccelli</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">galline</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">animale</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">farmhouse</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c0\u03bf\u03c5\u03bb\u03b9\u03ac</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03ba\u03cc\u03c4\u03b5\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b6\u03ce\u03bf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">cortijo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">p\u00e1jaros</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">gallinas</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">animal</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:524662-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>524662-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:40:07.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:50:10.93Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>524662</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/524662.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/524662.jpg"
+}

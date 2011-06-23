@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "vattendjur", 
+        "aquatic animal", 
+        "kajman", 
+        "caiman", 
+        "krokodil", 
+        "crocodile", 
+        "simma", 
+        "swim", 
+        "Wassertier", 
+        "Caiman", 
+        "Krokodil", 
+        "Swim", 
+        "animal aquatique", 
+        "caiman", 
+        "crocodile", 
+        "bain", 
+        "animal aqu\u00e1tico", 
+        "caiman", 
+        "crocodilo", 
+        "nadada", 
+        "animale acquatico", 
+        "caiman", 
+        "coccodrillo", 
+        "nuotata", 
+        "\u03c5\u03b4\u03c1\u03cc\u03b2\u03b9\u03bf \u03b6\u03ce\u03bf", 
+        "caiman", 
+        "\u03ba\u03c1\u03bf\u03ba\u03cc\u03b4\u03b5\u03b9\u03bb\u03bf\u03c2", 
+        "\u03ba\u03bf\u03bb\u03c5\u03bc\u03c0\u03ae\u03c3\u03c4\u03b5", 
+        "animal acu\u00e1tico", 
+        "caiman", 
+        "cocodrilo", 
+        "nadada"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/28469</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>28469</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>536136</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536136</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536136</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">alligator</string>\r\n            <string language=\"en\">alligator</string>\r\n            <string language=\"x-mt-de\">Krokodil</string>\r\n            <string language=\"x-mt-fr\">alligator</string>\r\n            <string language=\"x-mt-pt\">jacar\u00e9</string>\r\n            <string language=\"x-mt-it\">coccodrillo</string>\r\n            <string language=\"x-mt-el\">\u03b1\u03bb\u03bb\u03b9\u03b3\u03ac\u03c4\u03bf\u03c1\u03b1\u03c2</string>\r\n            <string language=\"x-mt-es\">cocodrilo</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Alligator i vatten.</string>\r\n            <string language=\"en\">An alligator in water.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">vattendjur</string>\r\n            <string language=\"en\">aquatic animal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">kajman</string>\r\n            <string language=\"en\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">krokodil</string>\r\n            <string language=\"en\">crocodile</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">simma</string>\r\n            <string language=\"en\">swim</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Ein Krokodil im Wasser.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Un alligator dans l'eau.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Um jacar\u00e9 na \u00e1gua.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Un coccodrillo in acqua.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u0388\u03bd\u03b1\u03c2 \u03b1\u03bb\u03bb\u03b9\u03b3\u03ac\u03c4\u03bf\u03c1\u03b1\u03c2 \u03c3\u03c4\u03bf \u03cd\u03b4\u03c9\u03c1.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Un cocodrilo en agua.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Wassertier</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Krokodil</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Swim</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">animal aquatique</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">crocodile</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">bain</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">animal aqu\u00e1tico</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">crocodilo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">nadada</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">animale acquatico</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">coccodrillo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">nuotata</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c5\u03b4\u03c1\u03cc\u03b2\u03b9\u03bf \u03b6\u03ce\u03bf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03ba\u03c1\u03bf\u03ba\u03cc\u03b4\u03b5\u03b9\u03bb\u03bf\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03ba\u03bf\u03bb\u03c5\u03bc\u03c0\u03ae\u03c3\u03c4\u03b5</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">animal acu\u00e1tico</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">caiman</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">cocodrilo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">nadada</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536136-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536136-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:42:03.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:39:16.19Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>536136</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/536136.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/536136.jpg"
+}
