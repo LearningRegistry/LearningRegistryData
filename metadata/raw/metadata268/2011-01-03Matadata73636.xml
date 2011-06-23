@@ -1,0 +1,187 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/232155</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>232155</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:6237</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:6237</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>6237</entry>
+          </identifier>
+          <title>
+            <string language="nl">Schreibchen : Tekstverwerker voor kinderen met een achterstand</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze zeer sterk vereenvoudigde tekstverwerker laat kinderen met een achterstand of met inzichts- of ruimteproblemen toe om toch een tekst te typen door enkel de absoluut onmisbare elementen van een basis-tekstverwerker te tonen. Je kan deze tekstverwerker ook gebruiken voor kinderen in een tweede of derde leerjaar, maar hou er in dat geval rekening mee dat zij de letters wel eigenhandig moeten intikken.De afgewerkte teksten zijn leesbaar in Open-Office en in Office, Teksteditor of Pages.</string>
+          </description>
+          <keyword>
+            <string language="nl">leerzorg</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Apple</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">schrijven</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tekst</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Apple</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2009-05-19T18:06:41.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:6237</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:6237</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:21:49.61Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-17</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Enkel bedoeld om kinderen voor wie een gewone tekstverwerker veel te moeilijk of te ingewikkeld is. Zij kunnen hiermee zelfstandig aan de slag en met deze software een netjes opgemaakte tekst afleveren. Indien gewenst is de uitgever bereid om de software naar het Nederlands te vertalen (bij bestelling voor een school). Hij vraagt ook om feedback om de software eventueel te verbeteren of aan te passen.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">Op 20 aug 2008 :  6,95. Speciale kortingen voor scholen.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>364</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>6237</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>6237</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/6237/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

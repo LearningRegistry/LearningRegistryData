@@ -1,0 +1,177 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/207754</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>207754</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:12757</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:12757</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>12757</entry>
+          </identifier>
+          <title>
+            <string language="nl">World Digital Library</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Unesco, de cultuurorganisatie van de Verenigde Naties lanceerde de Worls Digital Library (WDL).De bibliotheek bevat onder meer literaire hoogtepunten, historische documenten, films en muziek van over de hele wereld.  De bibliotheek werd online gezet door de Amerikaanse Library of Congress en wordt gesteund door Unesco. De inhoud van de nieuwe bibliotheek komt uit de nationale archieven en bibliotheken van 32 landen. Zijn onder meer raadpleegbaar: oude Chinese manuscripten, films van de gebroeders Lumiére en de onafhankelijkheidsverklaring van de VS.  De kennis is beschikbaar in zeven talen: Engels, Frans, Spaans, Portugees, Arabisch, Chinees en Russisch. Een bezoekje aan de World Digital Library is gratis maar wie materiaal wil gebruiken, moet auteursrechten betalen. </string>
+          </description>
+          <keyword>
+            <string language="nl">manuscripten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bibliotheek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Verenigde Naties</string>
+          </keyword>
+          <keyword>
+            <string language="nl">UNESCO</string>
+          </keyword>
+          <keyword>
+            <string language="nl">archief</string>
+          </keyword>
+          <keyword>
+            <string language="nl">universeel</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-04-21T15:47:53.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:12757</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>12757</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T21:44:08.62Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">Materiaal bekijken is gratis.
+Materiaal downloaden kan mits betaling van de auteursrechten.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>12757</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/12757/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78148</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78148</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>306a7c04-cf2e-4f7c-822e-aaa7a2194d17#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Barokk</string>
+            <string language="en">Baroque</string>
+            <string language="x-mt-de">Barock</string>
+            <string language="x-mt-fr">Baroque</string>
+            <string language="x-mt-pt">Baroque</string>
+            <string language="x-mt-it">Baroque</string>
+            <string language="x-mt-el">Μπαρόκ</string>
+            <string language="x-mt-es">Barroco</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">8. o. ztört. barokk</string>
+            <string language="en">p. 8 history of music, Baroque</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, barokk</string>
+            <string language="en">music, Baroque</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P. 8 Geschichte von Musik, barock</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">histoire de p. 8 de la musique, baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">history do p. 8 da música, baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-it">storia del p. 8 di musica, baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. 8 ιστορία της μουσικής, μπαρόκ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">historia del p. 8 de la música, barroca</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, barock</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, baroque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, μπαρόκ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, barroca</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">13-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78148</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=306a7c04-cf2e-4f7c-822e-aaa7a2194d17&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

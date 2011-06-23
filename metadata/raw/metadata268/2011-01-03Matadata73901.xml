@@ -1,0 +1,230 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209110</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209110</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:652</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:652</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>652</entry>
+          </identifier>
+          <title>
+            <string language="nl">Dierentuin.Net</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dierentuin.Net is opgezet als educatieve website voor een groot publiek en is een initiatief van een aantal vrijwilligers en heeft niets te maken met de dierentuinen in Nederland.  Deze dierendatabase is uniek op de wereld: meer dan 2000 html bestanden die met de hand worden onderhouden. Er staan momenteel ongeveer 2000 diersoorten met foto in de database.</string>
+          </description>
+          <keyword>
+            <string language="nl">dierenbibliotheek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dieren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dier</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ongewervelde</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ongewerveld</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vissen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">amfibieën</string>
+          </keyword>
+          <keyword>
+            <string language="nl">reptielen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vogels</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vogel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zoogdieren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dierentuinen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">wnf</string>
+          </keyword>
+          <keyword>
+            <string language="nl">spreekbeurten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">spreekbeurt</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dierendatabase</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-03-23T12:06:49.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:652</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>652</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T22:07:53.90Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Kries Teugels</entity>
+          <date>
+            <dateTime>2009-03-23</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>652</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/652/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
