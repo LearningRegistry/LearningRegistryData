@@ -1,0 +1,231 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157260</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157260</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2764</entry>
+          </identifier>
+          <title>
+            <string language="en">Kids Reading</string>
+            <string language="x-mt-de">Zicklein-Ablesen</string>
+            <string language="x-mt-fr">Lecture de Gosses</string>
+            <string language="x-mt-pt">Leitura Dos Miúdos</string>
+            <string language="x-mt-it">Lettura Dei Capretti</string>
+            <string language="x-mt-el">Ανάγνωση κατσικιών</string>
+            <string language="x-mt-es">Lectura De los Cabritos</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A list of links to Fun reading sites for children</string>
+          </description>
+          <keyword>
+            <string language="en">reading texts</string>
+          </keyword>
+          <keyword>
+            <string language="en">stories</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Liste der Links zu den Spaßlesesites für 
+Kinder</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une liste de liens aux sites de lecture 
+d'amusement pour des enfants</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma lista das ligações aos locais da leitura do 
+divertimento para crianças</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una lista dei collegamenti ai luoghi della lettura
+di divertimento per i bambini</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας κατάλογος συνδέσεων με τις περιοχές ανάγνωσης 
+διασκέδασης για τα παιδιά</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una lista de conexiones a los sitios de la lectura
+de la diversión para los niños</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Lesetexte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschichten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">textes de lecture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histoires</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">textos da leitura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">histórias</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">testi della lettura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">storia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κείμενα ανάγνωσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">textos de la lectura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">historias</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2764</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">7-13</string>
+            <string language="x-t-lre">7-13</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Jacob Richmans hot sites</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>427</id>
+              <entry>
+                <string language="en">English language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">foreign language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157260</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.jr.co.il/hotsites/kids-re.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

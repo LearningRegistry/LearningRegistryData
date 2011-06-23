@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157685</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157685</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2580</entry>
+          </identifier>
+          <title>
+            <string language="en">The Carbon Cycle</string>
+            <string language="x-mt-de">Die Carbon-Schleife</string>
+            <string language="x-mt-fr">Le Cycle de Carbone</string>
+            <string language="x-mt-pt">O Ciclo De Carbono</string>
+            <string language="x-mt-it">Il Ciclo Di Carbonio</string>
+            <string language="x-mt-el">Ο κύκλος άνθρακα</string>
+            <string language="x-mt-es">El Ciclo De Carbón</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">A Demonstration of the Carbon Cycle. Includes quatitatitve Data.</string>
+          </description>
+          <keyword>
+            <string language="en">Geochemical Cycles</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Demonstration der Carbon-Schleife. 
+Schließt quatitatitve Daten ein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une démonstration du cycle de carbone. 
+Inclut des données de quatitatitve.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma demonstração do ciclo de carbono. 
+Inclui dados do quatitatitve.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una dimostrazione del ciclo di carbonio. 
+Include i dati del quatitatitve.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια επίδειξη του κύκλου άνθρακα. Περιλαμβάνει 
+quatitatitve τα στοιχεία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una demostración del ciclo de carbón. 
+Incluye datos del quatitatitve.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geochemische Schleifen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Cycles Géochimiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciclos Geochemical</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Cicli Geochimici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γεωχημικοί κύκλοι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciclos Geoquímicos</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2580</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>yes</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">edumedia</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>372</id>
+              <entry>
+                <string language="en">earth sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157685</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.edumedia-sciences.com/a457_l2-carbon-cycle.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

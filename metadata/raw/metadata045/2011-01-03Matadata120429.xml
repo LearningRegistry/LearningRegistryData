@@ -1,0 +1,220 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158511</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158511</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2749</entry>
+          </identifier>
+          <title>
+            <string language="en">The ideal gas laws</string>
+            <string language="x-mt-de">Die idealen Gasgesetze</string>
+            <string language="x-mt-fr">Les lois idéales de gaz</string>
+            <string language="x-mt-pt">As leis ideais do gás</string>
+            <string language="x-mt-it">Le leggi ideali del gas</string>
+            <string language="x-mt-el">Οι ιδανικοί αέριο νόμοι</string>
+            <string language="x-mt-es">Los leyes ideales del gas</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An simulation of the ideal gas law where the user can control parameters of temperature, volume and number of gas particles</string>
+          </description>
+          <keyword>
+            <string language="en">temperature</string>
+          </keyword>
+          <keyword>
+            <string language="en">ideal gas</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Simulation des idealen Gasgesetzes, in dem 
+der Benutzer Parameter der Temperatur, des Datenträgers und der Zahl 
+der Gaspartikel steuern kann</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une simulation de la loi idéale de gaz où 
+l'utilisateur peut contrôler des paramètres de la température, de 
+volume et de nombre de particules de gaz</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma simulação da lei ideal do gás onde o 
+usuário pode controlar parâmetros da temperatura, do volume e do 
+número de partículas do gás</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una simulazione della legge ideale del gas dove 
+l'utente può gestire i parametri della temperatura, del volume e del 
+numero di particelle del gas</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια προσομοίωση του ιδανικού αέριο νόμου όπου ο 
+χρήστης μπορεί να ελέγξει τις παραμέτρους της θερμοκρασίας, της 
+έντασης του ήχου και του αριθμού αέριο μορίων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una simulación de la ley ideal del gas donde el 
+utilizador puede controlar parámetros de la temperatura, del volumen 
+y del número de las partículas del gas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Temperatur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">ideales Gas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">gaz idéal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gás ideal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">gas ideale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θερμοκρασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιδανικό αέριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gas ideal</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2749</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>yes</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">edu media terms of use at link http://www.edumedia-sciences.com/en/c9-general-terms-of-use</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="en">Chemical phenomena</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158511</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.edumedia-sciences.com/a232_l2-pv-nrt.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
