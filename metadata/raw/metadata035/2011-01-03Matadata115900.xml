@@ -1,0 +1,189 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/433671922</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>433671922</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>543</entry>
+          </identifier>
+          <title>
+            <string language="en">Internet Safety</string>
+            <string language="es">Seguridad en Internet</string>
+            <string language="ga">Sábháilteacht Idirlín</string>
+            <string language="x-mt-de">Internet-Sicherheit</string>
+            <string language="x-mt-fr">Sûreté d'Internet</string>
+            <string language="x-mt-pt">Segurança Do Internet</string>
+            <string language="x-mt-it">Sicurezza Del Internet</string>
+            <string language="x-mt-el">Ασφάλεια Διαδικτύου</string>
+          </title>
+          <description>
+            <string language="en">Are you Web wise?</string>
+            <string language="es">¿Tienes conocimientos sobre la red?</string>
+            <string language="ga">An bhfuil tú ar an eolas faoin ngréasáin?</string>
+          </description>
+          <language>en</language>
+          <keyword>
+            <string language="en">SPHE</string>
+            <string language="es">SPHE</string>
+            <string language="ga">OSPS</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sind Sie das kluge Web?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Êtes-vous Web sage ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">É você Web sábio?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Siete Web saggio?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Είστε Ιστός σοφοί;</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">SPHE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">SPHE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">SPHE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">SPHE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">SPHE</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>543</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <language>en</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-13</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The content on this site is protected by copyright under Irish and European law. All materials may be downloaded and copied for non-commercial purposes only, provided that the source is acknowledged. The reproduction of material for commercial purposes is strictly prohibited.
+
+Material within the linked sites outside of Scoilnet may also have copyright restrictions and this should be checked on these websites should you plan to use their content in any way.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Scoilnet;
+FN:Scoilnet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>583</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>433671922</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.scoilnet.ie/Quiz.aspx?id=543</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

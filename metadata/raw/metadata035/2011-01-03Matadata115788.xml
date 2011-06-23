@@ -1,0 +1,194 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/81739</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>81739</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>9501</entry>
+          </identifier>
+          <title>
+            <string language="en">Genres of Language - Quiz</string>
+            <string language="es">Géneros del lenguaje - Cuestionario</string>
+            <string language="ga">Seánraí Teanga – Tráth na gCeist</string>
+            <string language="x-mt-de">Genren der Sprache - Quiz</string>
+            <string language="x-mt-fr">Genres de langage - jeu</string>
+            <string language="x-mt-pt">Genres da língua - quiz</string>
+            <string language="x-mt-it">Generi del linguaggio - quiz</string>
+            <string language="x-mt-el">Ύφη της γλώσσας - διαγωνισμός γνώσεων</string>
+          </title>
+          <description>
+            <string language="en">Students will be able to name the five genres of language.</string>
+            <string language="es">Los estudiantes podrán nombrar cinco géneros del lenguaje.</string>
+            <string language="ga">Beidh daltaí ábalta na cúig seánra teanga a ainmniu.</string>
+          </description>
+          <language>en</language>
+          <keyword>
+            <string language="en">English</string>
+            <string language="es">Inglés</string>
+            <string language="ga">Béarla</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer können, die fünf Genren der 
+Sprache zu benennen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants pourront nommer les cinq genres du 
+langage.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes poderão  nomear os cinco genres da 
+língua.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi potranno chiamare i cinque generi
+del linguaggio.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα είναι σε θέση να ονομάσουν τα πέντε 
+ύφη της γλώσσας.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Englisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Anglais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Inglês</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Inglese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αγγλικά</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>9501</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <language>en</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-18</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The content on this site is protected by copyright under Irish and European law. All materials may be downloaded and copied for non-commercial purposes only, provided that the source is acknowledged. The reproduction of material for commercial purposes is strictly prohibited.
+
+Material within the linked sites outside of Scoilnet may also have copyright restrictions and this should be checked on these websites should you plan to use their content in any way.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Scoilnet;
+FN:Scoilnet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>427</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>81739</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.scoilnet.ie/Quiz.aspx?id=1059</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

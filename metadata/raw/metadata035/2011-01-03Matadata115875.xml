@@ -1,0 +1,218 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82001</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82001</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>4031</entry>
+          </identifier>
+          <title>
+            <string language="en">Literacy Scrambled</string>
+            <string language="es">Lectura revuelta</string>
+            <string language="ga">Litearthacht Scrofa</string>
+            <string language="x-mt-de">Bildungsgrad Durcheinandergemischt</string>
+            <string language="x-mt-fr">Instruction Brouillée</string>
+            <string language="x-mt-pt">Literacy Scrambled</string>
+            <string language="x-mt-it">Literacy Scrambled</string>
+            <string language="x-mt-el">Βασική εκπαίδευση που ανακατώνεται</string>
+          </title>
+          <description>
+            <string language="en">An exercise where children read out a passage with misspellings with the intention of correcting it through relevant discussion.</string>
+            <string language="es">Un ejercicio donde los niños leen un pasaje donde hay palabras mal escritas con la intención de corregirlo con un coloquio sobre él.</string>
+            <string language="ga">Ceacht ina léann leanaí sliocht le mílitrithe chun é a cheartú trí plé ceart.</string>
+          </description>
+          <language>en</language>
+          <keyword>
+            <string language="en">English</string>
+            <string language="es">Inglés. Hoja de trabajo</string>
+            <string language="ga">Béarla</string>
+          </keyword>
+          <keyword>
+            <string language="en">Worksheet</string>
+            <string language="ga">Bileog Oibre</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Übung, wo Kinder einen Durchgang mit 
+Fehlbuchstabierungen mit der Absicht des Behebens sie durch relevante 
+Diskussion auslasen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un exercice où les enfants ont donné lecture  
+un passage avec des fautes d'orthographe avec l'intention de la 
+corriger par la discussion appropriée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um exercício onde as crianças leram para fora 
+uma passagem com misspellings com a intenção de a corrigir com a 
+discussão relevante.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un'esercitazione dove i bambini hanno letto fuori
+un passaggio con gli errori d'ortografia con l'intenzione di 
+correggerla con la discussione relativa.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια άσκηση όπου τα παιδιά διαβάζουν έξω μια μετάβαση
+με τις λανθασμένες ορθογραφίες με την πρόθεση την μέσω της 
+σχετικής συζήτησης.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Englisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bogen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Anglais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Tableau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Inglês</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Folha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Inglese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Foglio di lavoro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αγγλικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φύλλο εργασίας</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>4031</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <language>en</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">9-11</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The content on this site is protected by copyright under Irish and European law. All materials may be downloaded and copied for non-commercial purposes only, provided that the source is acknowledged. The reproduction of material for commercial purposes is strictly prohibited.
+
+Material within the linked sites outside of Scoilnet may also have copyright restrictions and this should be checked on these websites should you plan to use their content in any way.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Scoilnet;
+FN:Scoilnet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>427</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82001</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://test.scoilnet.ie/Res/literacy scrambled_2.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
