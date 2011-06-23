@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75508</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75508</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>d62d2302-a1a2-4301-badd-4b1eb3dec3a7#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kettőskúp, pálcika, könyvek</string>
+            <string language="en">Double cone, stick, books</string>
+            <string language="x-mt-de">Doppelter Kegel, Stock, Bücher</string>
+            <string language="x-mt-fr">Double cône, bâton, livres</string>
+            <string language="x-mt-pt">Cone dobro, vara, livros</string>
+            <string language="x-mt-it">Doppio cono, bastone, libri</string>
+            <string language="x-mt-el">Διπλός κώνος, ραβδί, βιβλία</string>
+            <string language="x-mt-es">Cono doble, palillo, libros</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Egyszerű kettőskúp játék</string>
+            <string language="en">Simple double cone game</string>
+          </description>
+          <keyword>
+            <string language="hu">fizika, pálcika, könyvek, kettőskúp</string>
+            <string language="en">Physics,stick, books, double cone</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Einfaches doppeltes Kegelspiel</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Double jeu simple de cône</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Jogo dobro simples do cone</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Doppio gioco semplice del cono</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Απλό διπλό παιχνίδι κώνων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Juego doble simple del cono</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, Stock, Bücher, doppelter Kegel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique, bâton, livres, double cône</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física, vara, livros, cone dobro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica, bastone, libri, doppio cono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική, ραβδί, βιβλία, διπλός κώνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física, palillo, libros, cono doble</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Győző;Eszter;
+fn:Eszter Győző 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75508</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d62d2302-a1a2-4301-badd-4b1eb3dec3a7&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
