@@ -1,0 +1,345 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/91252</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>91252</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:def0298a-376d-4b26-b4a6-0e1f29df2dde</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Szakasz adott arányú osztópontja, háromszög súlypontja</string>
+            <string language="en-US">The Point Of Division Of A Section, The Centroid Of A Triangle</string>
+            <string language="x-mt-de">Die Trennstelle Eines Kapitels, Der Schwerpunkt 
+Eines Dreiecks</string>
+            <string language="x-mt-fr">Le Point de Division D'une Section, Le Centre de 
+surface D'une Triangle</string>
+            <string language="x-mt-pt">O Ponto De Divisão De uma Seção, O Centróide 
+De um Triângulo</string>
+            <string language="x-mt-it">Il Punto Di Divisione Di una Sezione, Il Centro 
+di massa Di un Triangolo</string>
+            <string language="x-mt-el">Το σημείο του τμήματος ενός τμήματος, centroid 
+ενός τριγώνου</string>
+            <string language="x-mt-es">La Punta De la División De una Sección, El 
+Centro de figura De un Triángulo</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Szakasz osztóponti és háromszög súlyponti koordinátáinak meghatározása</string>
+            <string language="en-US">Definition of coordinates of point of division of a section, and of centroid of a triangle</string>
+          </description>
+          <keyword>
+            <string language="en-US">segment</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">ratio</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">division into equal parts</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">line</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Definition von Koordinaten der Trennstelle eines 
+Kapitels und des Schwerpunkts eines Dreiecks</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Définition des coordonnées du point de division
+d'une section, et de centre de surface d'une triangle</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Definição das coordenadas do ponto de divisão 
+de uma seção, e do centróide de um triângulo</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Definizione delle coordinate di punto di 
+divisione di una sezione e del centro di massa di un triangolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθορισμός των συντεταγμένων του σημείου του τμήματος 
+ενός τμήματος, και centroid ενός τριγώνου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Definición de coordenadas de la punta de la 
+división de una sección, y del centro de figura de un triángulo</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Segment</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Verhältnis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abteilung in gleiche Teile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">segment</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">taux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">division dans les pièces égales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">relação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">divisão nas peças iguais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rapporto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">divisione nelle parti uguali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τμήμα μνήμης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τμήμα στα ίσα μέρη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">segmento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">relación de transformación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">división en piezas iguales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:def0298a-376d-4b26-b4a6-0e1f29df2dde</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:17:26.73Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2b21227e-ee6e-4455-b19c-48f1dabc3dce</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7cb4886f-90e2-4e9f-894b-e3165553ea0a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>3fde1ada-4738-49aa-86df-728ba2628a0d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5804d506-95a2-47b2-b9df-0f29e20d87a2</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>8e85972d-76e2-47cb-8491-063b8de84f54</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>512c9fbe-626d-4689-abed-7c5b49437d55</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=def0298a-376d-4b26-b4a6-0e1f29df2dde</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>def0298a-376d-4b26-b4a6-0e1f29df2dde-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/de/f0/def0298a-376d-4b26-b4a6-0e1f29df2dde_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
