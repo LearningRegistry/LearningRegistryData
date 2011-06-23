@@ -1,0 +1,187 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157602</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157602</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2717</entry>
+          </identifier>
+          <title>
+            <string language="en">Meteor Showers</string>
+            <string language="x-mt-de">Meteor-Duschen</string>
+            <string language="x-mt-fr">Douches de Météore</string>
+            <string language="x-mt-pt">Chuveiros Do Meteoro</string>
+            <string language="x-mt-it">Acquazzoni Del Meteor</string>
+            <string language="x-mt-el">Ντους μετεωριτών</string>
+            <string language="x-mt-es">Duchas Del Meteorito</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An animation of meteor showers</string>
+          </description>
+          <keyword>
+            <string language="en">meteor showers</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Animation der Meteorduschen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation des douches de météore</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation de chuveiros do meteoro</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione degli acquazzoni del meteor</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ζωτικότητα των ντους μετεωριτών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación de las duchas del meteorito</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Meteorduschen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">douches de météore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chuveiros do meteoro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acquazzoni del meteor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ντους μετεωριτών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">duchas del meteorito</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2717</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Houghton Mifflin Company terms of use at link http://www.hmco.com/terms_and_conditions.html</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>104</id>
+              <entry>
+                <string language="en">astronomy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157602</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.classzone.com/books/earth_science/terc/content/visualizations/es2707/es2707page01.cfm?chapter_no=visualization</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,210 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/156485</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>156485</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2367</entry>
+          </identifier>
+          <title>
+            <string language="en">paternity tests</string>
+            <string language="x-mt-de">Vaterschafttests</string>
+            <string language="x-mt-fr">essais de paternité</string>
+            <string language="x-mt-pt">testes do paternity</string>
+            <string language="x-mt-it">prove di paternity</string>
+            <string language="x-mt-el">δοκιμές πατρότητας</string>
+            <string language="x-mt-es">pruebas del paternity</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">Demonstration of the use of DNA to determine paternity.</string>
+          </description>
+          <keyword>
+            <string language="en">DNA</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Demonstration des Gebrauches DNA, Vaterschaft 
+festzustellen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Démonstration de l'utilisation de l'ADN de 
+déterminer la paternité.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Demonstração do uso do DNA determinar o 
+paternity.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dimostrazione dell'uso di DNA determinare 
+paternity.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επίδειξη της χρήσης του DNA για να καθορίσει την 
+πατρότητα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Demostración del uso de la DNA de determinar 
+paternity.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">DNA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ADN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Dna</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">DNA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">DNA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">DNA</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2367</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Sumanas, Inc</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>141</id>
+              <entry>
+                <string language="en">Biochemisty</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>156485</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.sumanasinc.com/webcontent/anisamples/dynamicillustrations/paternitytesting.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
