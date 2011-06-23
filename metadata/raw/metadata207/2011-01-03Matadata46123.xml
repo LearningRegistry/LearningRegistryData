@@ -1,0 +1,155 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104563</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104563</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101337</entry>
+          </identifier>
+          <title>
+            <string language="en">Exploring the Moon</string>
+            <string language="x-mt-de">Erforschen des Mondes</string>
+            <string language="x-mt-fr">Explorer la lune</string>
+            <string language="x-mt-pt">Explorando a lua</string>
+            <string language="x-mt-it">Esplorazione della luna</string>
+            <string language="x-mt-el">Εξερεύνηση του φεγγαριού</string>
+            <string language="x-mt-es">Explorar la luna</string>
+          </title>
+          <description>
+            <string language="en">Future astronauts return to the lunar surface in this animation. For larger resolution and downloads see: http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Zukünftige Astronauten kommen zur Mondoberfläche
+in dieser Animation zurück. Für größere Zerlegung und 
+Downloads sehen Sie: 
+http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les futurs astronautes reviennent à la surface 
+lunaire dans cette animation. Pour une plus grands résolution 
+et téléchargements voyez : 
+http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os astronautas futuros retornam à superfície 
+lunar neste animation. Para a definição e downloads maiores 
+veja: http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli atronauti futuri ritornano alla superficie 
+lunare in questa animazione. Per più grandi risoluzione e 
+trasferimenti dal sistema centrale verso i satelliti veda: 
+http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι μελλοντικοί αστροναύτες επιστρέφουν στη σεληνιακή 
+επιφάνεια σε αυτήν την ζωτικότητα. Για το μεγαλύτερο 
+ψήφισμα και μεταφορτώνει βλέπει: http://www.nasa.gov/multimedia/videogallery/</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los astronautas futuros vuelven a la superficie 
+lunar en esta animación. Para una resolución y transferencias 
+directas más grandes vea: 
+http://www.nasa.gov/multimedias/videogallery/</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:NASA
+FN:NASA
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101337</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104563</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/exploring-the-moon</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

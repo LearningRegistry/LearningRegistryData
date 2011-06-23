@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105157</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105157</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202714</entry>
+          </identifier>
+          <title>
+            <string language="en">Focus in Writing</string>
+            <string language="x-mt-de">Fokus im Schreiben</string>
+            <string language="x-mt-fr">Foyer dans l'écriture</string>
+            <string language="x-mt-pt">Foco na escrita</string>
+            <string language="x-mt-it">Fuoco nella scrittura</string>
+            <string language="x-mt-el">Εστίαση που γράφει εγγράφως</string>
+            <string language="x-mt-es">Foco en la escritura</string>
+          </title>
+          <description>
+            <string language="en">This brief lesson will help students recognize when a paragraph loses focus and will help them understand the concept of focus.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Dieser kurze Lektionwille helfen Kursteilnehmern, 
+zu erkennen, wann ein Paragraph Fokus verliert und ihnen helfen wird, 
+das Konzept des Fokus zu verstehen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cette brève volonté de leçon aident des 
+étudiants à identifier quand un paragraphe détruit le foyer et les 
+aidera à comprendre le concept du foyer.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta vontade breve da lição ajuda a estudantes 
+reconhecer quando um parágrafo perde o foco e lhes ajudará 
+compreender o conceito do foco.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa breve volontà di lezione aiuta gli allievi
+a riconoscere quando un paragrafo perde il fuoco e li aiuterà a 
+capire il concetto del fuoco.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το συνοπτικό μάθημα θα βοηθήσει τους σπουδαστές 
+να αναγνωρίσουν πότε μια παράγραφος χάνει την εστίαση και θα τους
+βοηθήσει να καταλάβουν την έννοια της εστίασης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta voluntad abreviada de la lección ayuda a 
+estudiantes a reconocer cuando un párrafo pierde el foco y les 
+ayudará a entender el concepto del foco.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:PETER BOBBE
+FN:PETER BOBBE
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202714</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105157</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/focus-in-writing</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

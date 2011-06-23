@@ -1,0 +1,141 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108484</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108484</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101245</entry>
+          </identifier>
+          <title>
+            <string language="en">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-de">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-fr">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-pt">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-it">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-el">Accidentes Cerebrovasculares</string>
+            <string language="x-mt-es">Accidentes Cerebrovasculares</string>
+          </title>
+          <description>
+            <string language="en">Animation of cardiovascular trauma in Spanish</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>es</language>
+          <description>
+            <string language="x-mt-de">Animation des Herzgefäß- Traumas auf spanisch</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Animation de trauma cardiovasculaire dans 
+l'Espagnol</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Animation do trauma cardiovascular no espanhol</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Animazione del trauma cardiovascolare nello 
+Spagnolo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ζωτικότητα του καρδιαγγειακού τραύματος στα ισπανικά</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Animación del trauma cardiovascular en español</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:ALEJANDRO STERN
+FN:ALEJANDRO STERN
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101245</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>es</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108484</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/accidentes-cerebrovasculares</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
