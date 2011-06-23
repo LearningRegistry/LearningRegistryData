@@ -1,0 +1,55 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "talen", 
+        "Europa", 
+        "wereld", 
+        "Engels", 
+        "woordontleding", 
+        "zinsontleding", 
+        "procent", 
+        "breuken", 
+        "spelling", 
+        "tafels", 
+        "kloklezen", 
+        "klok", 
+        "tijd", 
+        "ruimtelijk inzicht", 
+        "klanken", 
+        "vormen", 
+        "letters", 
+        "gewicht", 
+        "lezen", 
+        "meten", 
+        "sommen", 
+        "tellen", 
+        "geldrekenen", 
+        "geld", 
+        "woorden", 
+        "werkwoorden", 
+        "ICT-eindtermen", 
+        "leerzorg"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/228240</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>228240</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:10272</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:10272</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>10272</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Digikidz : Educatieve CD-roms</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">De digikidz software is bedoeld voor kinderen van het basisonderwijs (primair onderwijs) en behandelt verschillendeonderdelen van de leerstof: rekenen, taal, aardrijkskunde, ...De software is eenvoudig van opzet en bevat opdrachten op verschillende niveaus zodat de leerkracht kan differenti\u00ebren.Bij verschillende titels is een lesbrief toegevoegd die je kan downloaden van de website.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">talen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Europa</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">wereld</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Engels</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">woordontleding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zinsontleding</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">procent</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">breuken</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">spelling</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tafels</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kloklezen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">klok</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tijd</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ruimtelijk inzicht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">klanken</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vormen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">letters</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gewicht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lezen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">meten</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">sommen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tellen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">geldrekenen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">geld</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">woorden</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">werkwoorden</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ICT-eindtermen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">leerzorg</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2009-05-25T11:27:59.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:AW Bruna\r\nFN:AW Bruna \r\nEMAIL;TYPE=INTERNET: \r\nORG: AW Bruna\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:10272</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:10272</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T15:31:54.71Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>web page</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>special education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">6-17</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"nl\">De CD-roms kosten \u0080 10,00 per stuk\r\nEr zijn ook netwerkversies:\r\n1.  \tLicentie met DigiKidz-titel: \u0080 105,00\r\n2. \tLicentie zonder DigiKidz-titel: \u0080 95,00\r\n3. \tUpgrade van een eerdere DigiKidz-licentie: \u0080 25,00</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>364</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>10272</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>10272</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/10272/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/10272/?ref=aspect"
+}
