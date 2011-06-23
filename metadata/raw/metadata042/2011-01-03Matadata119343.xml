@@ -1,0 +1,187 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/156632</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>156632</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2402</entry>
+          </identifier>
+          <title>
+            <string language="en">Pythagoros Theorem</string>
+            <string language="x-mt-de">Pythagoros Theorem</string>
+            <string language="x-mt-fr">Théorème de Pythagoros</string>
+            <string language="x-mt-pt">Theorem De Pythagoros</string>
+            <string language="x-mt-it">Teorema Di Pythagoros</string>
+            <string language="x-mt-el">Θεώρημα Pythagoros</string>
+            <string language="x-mt-es">Teorema De Pythagoros</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">Simulation of Pythagoros Theorem</string>
+          </description>
+          <keyword>
+            <string language="en">geometry</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Simulation des Pythagoros Theorems</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Simulation de théorème de Pythagoros</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Simulação do theorem de Pythagoros</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Simulazione del teorema di Pythagoros</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Προσομοίωση του θεωρήματος Pythagoros</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Simulación del teorema de Pythagoros</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">geometría</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2402</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">National Taiwan Normal UniveristySimple Machines</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>156632</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.phy.ntnu.edu.tw/ntnujava/viewtopic.php?t=67</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

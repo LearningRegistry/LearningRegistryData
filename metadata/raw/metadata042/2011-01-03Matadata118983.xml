@@ -1,0 +1,214 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/157127</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>157127</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2312</entry>
+          </identifier>
+          <title>
+            <string language="en">The Krebs Ccycle</string>
+            <string language="x-mt-de">Das Krebs Ccycle</string>
+            <string language="x-mt-fr">Le Krebs Ccycle</string>
+            <string language="x-mt-pt">O Krebs Ccycle</string>
+            <string language="x-mt-it">Il Krebs Ccycle</string>
+            <string language="x-mt-el">Το Krebs Ccycle</string>
+            <string language="x-mt-es">El Krebs Ccycle</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An animation of the chemical processes of the Krebs Cycle in mitochondria</string>
+          </description>
+          <keyword>
+            <string language="en">cell respiration</string>
+          </keyword>
+          <keyword>
+            <string language="en">cell</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Animation der chemischen Prozesse der Krebs 
+Schleife in den Mitochondrien</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation des processus chimiques du cycle de 
+Krebs dans des mitochondries</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation dos processos químicos do ciclo de 
+Krebs nos mitochondria</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione dei processi chimici del ciclo di 
+Krebs in mitocondri</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ζωτικότητα των χημικών διαδικασιών του κύκλου 
+Krebs στα μιτοχόνδρια</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación de los procesos químicos del ciclo
+de Krebs en mitochondria</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Zelle Atmung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">respiration de cellules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cellule</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">respiração da pilha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pilha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">respirazione delle cellule</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cellula</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναπνοή κυττάρων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύτταρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">respiración de la célula</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">célula</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2312</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">John Kyrk</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en">biological sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>157127</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.johnkyrk.com/krebs.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
