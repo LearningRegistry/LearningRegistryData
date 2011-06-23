@@ -1,0 +1,216 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/79587</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>79587</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www2.edu.fi/materiaalipankki/showfile.php?id=224&amp;file=224_paistinlasta%5B1%5D.jpg</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www2.edu.fi/materiaalipankki/showfile.php?id=224&amp;file=224_paistinlasta%5B1%5D.jpg</entry>
+          </identifier>
+          <title>
+            <string language="en">Kitchen turner</string>
+            <string language="fi">Paistinlasta</string>
+            <string language="x-mt-de">Küche Turner</string>
+            <string language="x-mt-fr">Cuisine Turner</string>
+            <string language="x-mt-pt">Cozinha Turner</string>
+            <string language="x-mt-it">Cucina Turner</string>
+            <string language="x-mt-el">Τορναδόρος κουζινών</string>
+            <string language="x-mt-es">Cocina Turner</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="en">Drawing of a kitchen turner intended to turn crepes.</string>
+            <string language="fi">Piirroskuva ohukaisten kääntämiseen tarkoitettavasta paistinlastasta</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Zeichnung einer Küche Turner beabsichtigte sich 
+zu drehen kräuselt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le schéma d'une cuisine Turner a destiné pour 
+tourner crepes.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O desenho de uma cozinha Turner pretendeu girar 
+crepes.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'illustrazione di una cucina Turner ha inteso 
+girare drappeggia con crespo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το σχέδιο ενός τορναδόρου κουζινών που προορίζεται 
+για να γυρίσει crepes.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El gráfico de una cocina Turner se prepuso dar 
+vuelta crepes.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Heikki Luukkonen
+n:Luukkonen;Heikki
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Liisa Varis
+n:Varis;Liisa
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/4B90F925-55F7-07A1-09F1-EF8D0E97F4A1</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/4B90F925-55F7-07A1-09F1-EF8D0E97F4A1</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Sini Rajaniemi
+n:Rajaniemi;Sini 
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE)
+N:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:57:39.99Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Creative Commons Nimeä-Epäkaupallinen-Tarttuva 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>599</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>79587</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www2.edu.fi/materiaalipankki/showfile.php?id=224&amp;file=224_paistinlasta%5B1%5D.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
