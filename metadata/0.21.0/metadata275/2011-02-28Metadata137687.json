@@ -1,0 +1,53 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Oververhitting", 
+        "Buis", 
+        "Water", 
+        "Ventilator", 
+        "Heatsink", 
+        "Lucht", 
+        "Koeling", 
+        "Crash", 
+        "Branden", 
+        "Warmte", 
+        "Energie", 
+        "Elektronen", 
+        "Zone", 
+        "Koud", 
+        "Warm", 
+        "Temperatuur", 
+        "Systemen", 
+        "Processor", 
+        "Computer", 
+        "Systeem", 
+        "Koel", 
+        "Passief", 
+        "Actief", 
+        "Hardware & netwerken", 
+        "Programma", 
+        "Applicatie"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/235222</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>235222</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:20249</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:20249</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>20249</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Actieve en passieve koelsystemen</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Verschillende onderdelen van je computer produceren warmte. Een harde schijf of een cd-station bijvoorbeeld, wiens motoren erg snel ronddraaien, maar vooral je processor. En hoe warmer een processor wordt, hoe slechter hij werkt. In dit filmpje leggen we uit welke koelingssystemen er bestaan en hoe je de temperatuur van je systeem in de gaten kunt houden.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">Oververhitting</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Buis</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Water</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Ventilator</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Heatsink</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Lucht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Koeling</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Crash</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Branden</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Warmte</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Energie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Elektronen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Zone</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Koud</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Warm</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Temperatuur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Systemen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Processor</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Computer</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Systeem</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Koel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Passief</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Actief</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Hardware &amp; netwerken</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Programma</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Applicatie</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <version>\r\n            <string language=\"nl\">2010-03-03 11:05:20</string>\r\n          </version>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-03-05T15:35:45.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Animated Explanations\r\nFN:Animated Explanations \r\nEMAIL;TYPE=INTERNET: \r\nORG: Animated Explanations\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:20249</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:20249</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-27T05:54:34.82Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>video</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>other</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">0-U</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>718</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>20249</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>20249</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/20249/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/20249/?ref=aspect"
+}
