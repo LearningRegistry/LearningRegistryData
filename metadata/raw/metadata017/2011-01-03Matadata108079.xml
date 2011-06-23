@@ -1,0 +1,564 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/109508</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>109508</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_86917</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_86917</entry>
+          </identifier>
+          <title>
+            <string language="fr">Identification de roches</string>
+            <string language="en">Identification of rocks</string>
+            <string language="x-mt-de">Kennzeichen der Felsen</string>
+            <string language="x-mt-pt">Identificação das rochas</string>
+            <string language="x-mt-it">Identificazione delle roccie</string>
+            <string language="x-mt-el">Προσδιορισμός των βράχων</string>
+            <string language="x-mt-es">Identificación de rocas</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="fr">Cet organigramme illustre comment on peut identifier des  roches à partir de leurs propriétés physiques et chimiques.</string>
+            <string language="en">This flow chart illustrates how to identify rocks based on their physical and chemical properties.</string>
+          </description>
+          <keyword>
+            <string language="fr">acide</string>
+            <string language="en">acid</string>
+          </keyword>
+          <keyword>
+            <string language="fr">basalte</string>
+            <string language="en">basalt</string>
+          </keyword>
+          <keyword>
+            <string language="fr">propriétés chimiques</string>
+            <string language="en">chemical properties</string>
+          </keyword>
+          <keyword>
+            <string language="fr">couleur</string>
+            <string language="en">colour</string>
+          </keyword>
+          <keyword>
+            <string language="fr">cristaux</string>
+            <string language="en">crystals</string>
+          </keyword>
+          <keyword>
+            <string language="fr">gneiss</string>
+            <string language="en">gneiss</string>
+          </keyword>
+          <keyword>
+            <string language="fr">grains</string>
+            <string language="en">grains</string>
+          </keyword>
+          <keyword>
+            <string language="fr">granit</string>
+            <string language="en">granite</string>
+          </keyword>
+          <keyword>
+            <string language="fr">identification</string>
+            <string language="en">identification</string>
+          </keyword>
+          <keyword>
+            <string language="fr">couches</string>
+            <string language="en">layers</string>
+          </keyword>
+          <keyword>
+            <string language="fr">calcaire</string>
+            <string language="en">limestone</string>
+          </keyword>
+          <keyword>
+            <string language="fr">marbre</string>
+            <string language="en">marble</string>
+          </keyword>
+          <keyword>
+            <string language="fr">schiste</string>
+            <string language="en">mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="fr">propriétés physiques</string>
+            <string language="en">physical properties</string>
+          </keyword>
+          <keyword>
+            <string language="fr">quartzite</string>
+            <string language="en">quartzite</string>
+          </keyword>
+          <keyword>
+            <string language="fr">roches</string>
+            <string language="en">rocks</string>
+          </keyword>
+          <keyword>
+            <string language="fr">grès</string>
+            <string language="en">sandstone</string>
+          </keyword>
+          <keyword>
+            <string language="fr">schiste</string>
+            <string language="en">schist</string>
+          </keyword>
+          <keyword>
+            <string language="fr">ardoise</string>
+            <string language="en">slate</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Flußdiagramm veranschaulicht, wie man die
+Felsen kennzeichnet, die auf ihren körperlichen und chemischen 
+Eigenschaften basieren.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta carta de fluxo ilustra como identificar as 
+rochas baseadas em suas propriedades físicas e químicas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo diagramma di flusso illustra come 
+identificare le roccie basate sulle loro proprietà fisiche e 
+chimiche.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα ροής επεξηγεί πώς να προσδιορίσει 
+τους βράχους βασισμένους στις φυσικές και χημικές ιδιότητές 
+τους.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este organigrama ilustra cómo identificar las 
+rocas basadas en sus características físicas y químicas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Säure</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Basalt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">chemische Eigenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Farbe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kristalle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gneiss</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Körner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Granit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kennzeichen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schichten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kalkstein</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Marmor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">physikalische Eigenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Quarzit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Felsen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Sandstein</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schiefer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ácido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">basalt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">propriedades químicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cristais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gneiss</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">grões</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">identificação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">camadas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pedra calcária</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mármore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">propriedades físicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">quartzite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rochas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sandstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">schist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">slate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">basalto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proprietà chimiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">colore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cristalli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">gneiss</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grani</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">identificazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">strati</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">marmo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proprietà fisiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">quarzite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">roccie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">arenaria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">schist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ardesia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οξύ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βασάλτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημικές ιδιότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χρώμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κρύσταλλα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">gneiss</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σιτάρια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γρανίτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσδιορισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στρώματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασβεστόλιθος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μάρμαρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σωματικές ιδιότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">quartzite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βράχοι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψαμμίτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">schist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πλάκα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ácido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">basalto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">características químicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">color</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cristales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gneis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">granos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">granito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">identificación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">capas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">piedra caliza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mármol</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">mudstone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">características físicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuarcita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rocas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">piedra arenisca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">esquisto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pizarra</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun-melt-melt.cup.cam.ac.uk</catalog>
+            <entry>melt.cup.cam.ac.uk:metadata_86917</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-03T16:24:31.92Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-20</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;![CDATA[&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;			    &lt;Work rdf:about=""&gt;			    			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;			    &lt;/Work&gt;			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;			    			    			    			    			    			    			    &lt;/License&gt;			    &lt;/rdf:RDF&gt;]]&gt;</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>543</id>
+              <entry>
+                <string language="en">geology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>109508</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/86917.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
