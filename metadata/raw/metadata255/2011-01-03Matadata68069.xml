@@ -1,0 +1,207 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/231013</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>231013</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:19959</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:19959</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>19959</entry>
+          </identifier>
+          <title>
+            <string language="nl">Wordchamp.com : Online talen leren</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dit is een handige tool die je kan helpen bij het lezen van teksten in andere talen.
+Je kunt linken naar een bestaande website of tekst ingeven in een doeltaal, en vervolgens de taal selecteren die je wilt gebruiken als 'brontaal' om definities in te geven. Bijvoorbeeld : je wilt een tekst lezen in het Duits, en selecteert Engels als de taal waarin de definities gegeven worden.
+Je laadt dan de tekst die je wilt lezen, en gaat met je muis over boven het woord zweven dat je niet kent. Er verschijnt dan een pop-up in de gekozen taal met de vertaling/ mogelijke vertalingen en de uitspraak van het woord.
+Let wel: de database voor de gangbare talen is uitgebreider. Je krijgt dus meer vertaalde woorden als je bijvoorbeeld Engels kiest als taal waarin worden worden omschreven/vertaald, maar ook in het Nederlands werkt het.</string>
+          </description>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">webreader.</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leestool</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vertaaltool</string>
+          </keyword>
+          <keyword>
+            <string language="nl">universeel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">open bron</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2010-02-27 17:37:29</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2010-03-24T20:22:33.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:wordchamp
+FN:wordchamp 
+EMAIL;TYPE=INTERNET: 
+ORG: wordchamp
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:19959</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:19959</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T05:54:59.07Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Je kunt de toepassing gebruiken als je je leerlingen op het web een bepaalde tekst wilt laten lezen, waarover je vragen kunt stellen (begrijpend lezen etc), of om de uitspraak van een tekst en woorden te oefenen.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>19959</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>19959</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/19959/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,216 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/204004</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>204004</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1476</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1476</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1476</entry>
+          </identifier>
+          <title>
+            <string language="nl">Wiskundesite</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Website van Etienne Goemaere met
+    *T3-bijdragen:
+    - Cahier financiële algebra wil leerkrachten een aantal mogelijkheden aanreiken om met behulp van een grafische rekenmachine, zoals de TI-83/84 Plus, iets verder te gaan dan het oplossen van standaardoefeningen op intrestberekening.
+    - Mathematiseren met functies in de derde graad: een extra bijdrage aan het T3-cahier van vakbegeleider Luc Gheysens; ook een opgeloste versie is te downloaden als pdf-bestand.
+
+    * Het TI83-programmaatje geschreven om te rekenen met enkelvoudige en samengestelde intrest, Finance, dat je op de site afhaalt.
+    * De val van de kredietverlening.
+    * De methode van Newton-Raphson om het nulpunt van een functie te zoeken: met Excel of met de TI83
+    * Werkbladen Oppervlakteberekening met de TI83.
+    * Werkbladen Grenswaarden met de TI83
+    * Het rijcanoniek maken van matrices met de TI83
+    * Combinatieleer in het  dagelijkse leven: Politieke macht en onmacht
+    * De sleutel achter beeldcorrectie op de computer: logaritmische en exponentiële beeldoperatoren
+    * Wiskundelinks</string>
+          </description>
+          <keyword>
+            <string language="nl">matrices</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rijcanoniek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">grenswaarden</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Oppervlakteberekening</string>
+          </keyword>
+          <keyword>
+            <string language="nl">TI83</string>
+          </keyword>
+          <keyword>
+            <string language="nl">T</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rekenmachine</string>
+          </keyword>
+          <keyword>
+            <string language="nl">grafische</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Newton-Raphson</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Etienne Goemaere
+FN:Etienne Goemaere 
+EMAIL;TYPE=INTERNET:dirk@klascement.net 
+ORG: Etienne Goemaere
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1476</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1476</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T22:06:25.93Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1476</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/1476/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
