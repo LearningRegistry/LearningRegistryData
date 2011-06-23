@@ -1,0 +1,449 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/216480</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>216480</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_3db163007d74aa31a4737ed84f2bd02a66ed7222</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_3db163007d74aa31a4737ed84f2bd02a66ed7222</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_3db163007d74aa31a4737ed84f2bd02a66ed7222</entry>
+          </identifier>
+          <title>
+            <string language="en">Sampling clock voltage as a function of time</string>
+            <string language="x-mt-de">Musterstücktaktgeberspannung als Funktion der 
+Zeit</string>
+            <string language="x-mt-fr">Tension d'horloge de prélèvement en fonction de 
+temps</string>
+            <string language="x-mt-pt">Tensão do pulso de disparo da amostragem em 
+função do tempo</string>
+            <string language="x-mt-it">Tensione dell'orologio di campione in funzione di 
+tempo</string>
+            <string language="x-mt-el">Τάση ρολογιών δειγματοληψίας ως λειτουργία του χρόνου</string>
+            <string language="x-mt-es">Voltaje del reloj del muestreo en función del 
+tiempo</string>
+          </title>
+          <description>
+            <string language="en">This graph shows the relationship of time and sampling clock voltage. The voltage pulses produced by the clock have regularly spaced intervals, which is equal to the reciprocal of sampling frequency.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">clock</string>
+          </keyword>
+          <keyword>
+            <string language="en">nyquist frequency</string>
+          </keyword>
+          <keyword>
+            <string language="en">time</string>
+          </keyword>
+          <keyword>
+            <string language="en">pulse code modulation</string>
+          </keyword>
+          <keyword>
+            <string language="en">reciprocal</string>
+          </keyword>
+          <keyword>
+            <string language="en">regularly spaced intervals</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling clock voltage</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling frequency</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling rate</string>
+          </keyword>
+          <keyword>
+            <string language="en">sampling theorem</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltage pulses</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltage step</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Diagramm zeigt das Verhältnis der Zeit und
+der Musterstücktaktgeberspannung. Die Spannung Impulse 
+produzierten durch den Taktgeber haben gesperrt regelmäßig 
+Abstände, der dem wechselseitigen der Abtastfrequenz gleich ist.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphique montre le rapport du temps et de la 
+tension d'horloge de prélèvement. Les impulsions de tension 
+produites par l'horloge ont régulièrement espacé des intervalles, 
+qui est égale au réciproque de la fréquence de prélèvement.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este gráfico mostra o relacionamento do tempo e 
+da tensão do pulso de disparo da amostragem. Os pulsos de 
+tensão produziram pelo pulso de disparo espaçaram regularmente 
+intervalos, que é igual ao recíproco da freqüência de amostragem.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico mostra il rapporto di tempo e di 
+tensione dell'orologio di campione. Gli impulsi di tensione 
+hanno prodotto dall'orologio regolarmente hanno spaziato gli 
+intervalli, che è uguale al reciproco di frequenza di campione.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση εμφανίζει τη σχέση της 
+τάσης ρολογιών χρόνου και δειγματοληψίας. Οι σφυγμοί τάσης
+που παράγονται από το ρολόι έχουν χωρίσει κατά διαστήματα 
+τακτικά τα διαστήματα, το οποίο είναι ίσο με τον αμοιβαίο της 
+συχνότητας δειγματοληψίας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este gráfico muestra el lazo del tiempo y del 
+voltaje del reloj del muestreo. Los pulsos de voltaje producidos
+por el reloj han espaciado regularmente intervalos, que es igual al 
+recíproco de la frecuencia de muestreo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Taktgeber</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">nyquist Frequenz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Pulscodemodulation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">wechselseitig</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">regelmäßig Raumabstände</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstücktaktgeberspannung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abtastfrequenz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstückkinetik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstücktheorem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spannung Impulse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spannung Jobstep</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">horloge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fréquence de nyquist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">temps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">modulation de code d'impulsion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">réciproque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">intervalles régulièrement espacés</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tension d'horloge de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fréquence de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cadence de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">théorème de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">impulsions de tension</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">étape de tension</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pulso de disparo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">freqüência do nyquist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">modulação de código de pulso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">recíproco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">intervalos regularmente espaçados</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tensão do pulso de disparo da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">freqüência de amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">theorem da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pulsos de tensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">etapa da tensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">orologio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frequenza di nyquist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">modulazione di codice di impulso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reciproco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">intervalli regolarmente spaziati</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tensione dell'orologio di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frequenza di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tasso di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">teorema di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">impulsi di tensione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto di tensione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρολόι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συχνότητα nyquist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χρόνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαμόρφωση κώδικα σφυγμού</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αμοιβαίος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τακτικά χωρισμένα κατά διαστήματα διαστήματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τάση ρολογιών δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συχνότητα δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσοστό δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θεώρημα δειγματοληψίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σφυγμοί τάσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βήμα τάσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reloj</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">frecuencia del nyquist</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tiempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">modulación de código de pulso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">recíproco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">intervalos regularmente espaciados</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">voltaje del reloj del muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">frecuencia de muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tarifa del muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">teorema del muestreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pulsos de voltaje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">paso de progresión del voltaje</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_3db163007d74aa31a4737ed84f2bd02a66ed7222</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_3db163007d74aa31a4737ed84f2bd02a66ed7222</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:43:11.64Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/3db163007d74aa31a4737ed84f2bd02a66ed7222.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
