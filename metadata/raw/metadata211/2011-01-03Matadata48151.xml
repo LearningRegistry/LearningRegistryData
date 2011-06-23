@@ -1,0 +1,153 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108259</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108259</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208271</entry>
+          </identifier>
+          <title>
+            <string language="en">Half Steps and Whole Steps</string>
+            <string language="x-mt-de">Halbe Jobsteps und vollständige Jobsteps</string>
+            <string language="x-mt-fr">Demi d'étapes et étapes entières</string>
+            <string language="x-mt-pt">Meias etapas e etapas inteiras</string>
+            <string language="x-mt-it">Punti mezzi e punti interi</string>
+            <string language="x-mt-el">Μισά βήματα και ολόκληρα βήματα</string>
+            <string language="x-mt-es">Medios pasos de progresión y pasos de progresión 
+enteros</string>
+          </title>
+          <description>
+            <string language="en">The pitch of a note is how high or low it sounds. The distance between two pitches can be measured in half steps and whole steps.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Der Taktabstand einer Anmerkung ist, wie hoch oder 
+niedrig er klingt. Der Abstand zwischen zwei Taktabständen kann
+in den halben Jobsteps und in den vollständigen Jobsteps gemessen 
+werden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le lancement d'une note est comment haut ou bas il 
+retentit. La distance entre deux lancements peut être mesurée 
+dans demi d'étapes et étapes entières.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O passo de uma nota é como elevado ou baixo soa. 
+A distância entre dois passos pode ser medida em meias etapas e
+em etapas inteiras.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il passo di una nota è quanto alto o basso suona. 
+La distanza fra due passi può essere misurata ai punti mezzi ed
+ai punti interi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η πίσσα μιας σημείωσης είναι πόσο υψηλή ή χαμηλή 
+ηχεί. Η απόσταση μεταξύ δύο πισσών μπορεί να μετρηθεί στα
+μισά βήματα και ολόκληρα τα βήματα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La echada de una nota es cómo es alto o bajo 
+suena. La distancia entre dos echadas se puede medir en medios 
+pasos de progresión y pasos de progresión enteros.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208271</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108259</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/half-steps-and-whole-steps</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/102952</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>102952</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101390</entry>
+          </identifier>
+          <title>
+            <string language="en">Life Beyond Earth</string>
+            <string language="x-mt-de">Leben Über Masse Hinaus</string>
+            <string language="x-mt-fr">La Vie Au delà De la Terre</string>
+            <string language="x-mt-pt">Vida Além Da Terra</string>
+            <string language="x-mt-it">Vita Oltre Terra</string>
+            <string language="x-mt-el">Ζωή πέρα από τη γη</string>
+            <string language="x-mt-es">Vida Más allá De la Tierra</string>
+          </title>
+          <description>
+            <string language="en">Is there life out there? A look at our search for life beyond Planet Earth.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Gibt es Leben heraus dort? Ein Blick auf 
+unsere Suche nach dem Leben über Planet Masse hinaus.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Y a-t-il la vie dehors là ? Un regard à 
+notre recherche pendant la vie au delà de la terre de planète.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Há uma vida para fora lá? Um olhar em 
+nossa busca para a vida além da terra do planeta.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">È ci vita fuori là? Uno sguardo alla 
+nostra ricerca di vita oltre la terra del pianeta.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Υπάρχει ζωή έξω εκεί; Ένα βλέμμα στην 
+αναζήτησή μας της ζωής πέρα από τη γη πλανητών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Hay vida hacia fuera allí? Una mirada en 
+nuestra búsqueda para la vida más allá de la tierra del planeta.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101390</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>102952</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/life-beyond-earth</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

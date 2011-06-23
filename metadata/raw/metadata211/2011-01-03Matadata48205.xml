@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108315</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108315</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085840</entry>
+          </identifier>
+          <title>
+            <string language="en">Guest of honor: A presidential banquet</string>
+            <string language="x-mt-de">Gast der Ehre: Ein Präsidentenbankett</string>
+            <string language="x-mt-fr">Invité d'honneur : Un banquet 
+présidentiel</string>
+            <string language="x-mt-pt">Convidado da honra: Um banquet presidencial</string>
+            <string language="x-mt-it">Ospite di honor: Un banquet presidenziale</string>
+            <string language="x-mt-el">Φιλοξενούμενος της τιμής: Ένα προεδρικό 
+συμπόσιο</string>
+            <string language="x-mt-es">Huésped del honor: Un banquete 
+presidencial</string>
+          </title>
+          <description>
+            <string language="en">A research assignment in which students plan a banquet in honor of a president.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Eine Forschung Anweisung, in der Kursteilnehmer ein
+Bankett zu Ehren eines Präsidenten planen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une affectation de recherches dans laquelle les 
+étudiants projettent un banquet en l'honneur d'un président.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma atribuição da pesquisa em que os estudantes 
+planeiam um banquet na honra de um presidente.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un'assegnazione di ricerca in cui gli allievi 
+progettano un banquet in onore di un presidente.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ερευνητική ανάθεση στην οποία οι σπουδαστές 
+προγραμματίζουν ένα συμπόσιο στην τιμή ενός Προέδρου.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una asignación de la investigación en la cual 
+los estudiantes planean un banquete en honor de un presidente.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:MELISSA THIBAULT
+FN:MELISSA THIBAULT
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DAVID WALBERT
+FN:DAVID WALBERT
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085840</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108315</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/guest-of-honor-a-presidential-banquet</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

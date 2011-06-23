@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105395</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105395</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101341</entry>
+          </identifier>
+          <title>
+            <string language="en">Follow the Water</string>
+            <string language="x-mt-de">Folgen Sie dem Wasser</string>
+            <string language="x-mt-fr">Suivez l'eau</string>
+            <string language="x-mt-pt">Siga a água</string>
+            <string language="x-mt-it">Segua l'acqua</string>
+            <string language="x-mt-el">Ακολουθήστε το ύδωρ</string>
+            <string language="x-mt-es">Siga el agua</string>
+          </title>
+          <description>
+            <string language="en">Water is a sculptor, a transport and a habitat creator among many other things.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Wasser ist ein Sculptor, ein Transport und ein 
+Lebensraumschöpfer unter vielen anderen Sachen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'eau est un sculpteur, un transport et un 
+créateur d'habitat parmi beaucoup d'autres choses.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A água é um sculptor, um transporte e um criador
+do habitat entre muitas outras coisas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'acqua è uno scultore, un trasporto e un 
+creatore dell'habitat fra molte altre cose.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το ύδωρ είναι γλύπτης, μια μεταφορά και δημιουργός 
+βιότοπων μεταξύ πολλών άλλων πραγμάτων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El agua es escultor, un transporte y un creador 
+del habitat entre muchas otras cosas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CUAHSI-DK
+FN:CUAHSI-DK
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101341</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105395</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/follow-the-water</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

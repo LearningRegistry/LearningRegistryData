@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75016</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75016</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e0e2c739-d5d4-4db4-8642-747d73d8e4e4#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Hegedű</string>
+            <string language="en">Violin</string>
+            <string language="x-mt-de">Violine</string>
+            <string language="x-mt-fr">Violon</string>
+            <string language="x-mt-pt">Violino</string>
+            <string language="x-mt-it">Violino</string>
+            <string language="x-mt-el">Βιολί</string>
+            <string language="x-mt-es">Violín</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">violino</string>
+            <string language="en">Violino</string>
+          </description>
+          <keyword>
+            <string language="hu">húros,  vonós,  hangszer,  </string>
+            <string language="en">stringed instrument, bowed instrument, instrument</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Violino</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Violino</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Violino</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Violino</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Violino</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Violino</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">stringed Instrument, gebeugtes Instrument, Instrument</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">stringed l'instrument, instrument cintré, instrument</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">stringed o instrumento, instrumento curvado, 
+instrumento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">stringed lo strumento, lo strumento piegato, strumento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">το όργανο, υποκυμμένο όργανο, όργανο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el instrumento de cuerda, instrumento arqueado, 
+instrumento</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75016</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e0e2c739-d5d4-4db4-8642-747d73d8e4e4&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

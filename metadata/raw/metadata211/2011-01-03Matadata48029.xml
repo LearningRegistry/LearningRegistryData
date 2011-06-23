@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107408</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107408</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202715</entry>
+          </identifier>
+          <title>
+            <string language="en">Introduction to Polar Coordinates</string>
+            <string language="x-mt-de">Einleitung in eine polaren Koordinaten</string>
+            <string language="x-mt-fr">Introduction aux coordonnées polaires</string>
+            <string language="x-mt-pt">Introdução às coordenadas polares</string>
+            <string language="x-mt-it">Introduzione alle coordinate polari</string>
+            <string language="x-mt-el">Εισαγωγή στις πολικές συντεταγμένες</string>
+            <string language="x-mt-es">Introducción a los coordenadas polares</string>
+          </title>
+          <description>
+            <string language="en">The student will be introduced to the definition of polar coordinates, how to graph them, and how to compare them to rectangular coordinates.</string>
+          </description>
+          <keyword>
+            <string language="en">Mathematics and Statistics</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Der Kursteilnehmer wird zur Definition der polaren
+Koordinaten eingeführt, wie man sie graphisch darstellt und wie man 
+sie mit rechteckigen Koordinaten vergleicht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'étudiant sera présenté à la définition des 
+coordonnées polaires, comment les représenter graphiquement, et 
+comment les comparer aux coordonnées rectangulaires.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O estudante será introduzido à definição de 
+coordenadas polares, como representá-las graficamente, e como 
+compará-las às coordenadas retangulares.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'allievo sarà introdotto alla definizione delle 
+coordinate polari, come rappresentarle graficamente e come 
+confrontarle alle coordinate rettangolari.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο σπουδαστής θα εισαχθεί στον καθορισμό των πολικών 
+συντεταγμένων, πώς να τους δώσει με γραφική παράσταση, και πώς 
+να τους συγκρίνει με τις ορθογώνιες συντεταγμένες.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introducirán al estudiante a la definición de 
+coordenadas polares, cómo representarlos gra'ficamente, y cómo 
+compararlos a los coordenadas rectangulares.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Mathematik und Statistiken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Mathématiques et statistiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Matemática e statistics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Matematica e statistiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μαθηματικά και στατιστικές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Matemáticas y estadística</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:VICKY BURLINGTON
+FN:VICKY BURLINGTON
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202715</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107408</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/introduction-to-polar-coordinates</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

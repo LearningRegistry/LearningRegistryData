@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108508</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108508</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202788</entry>
+          </identifier>
+          <title>
+            <string language="en">Archaeological Soils</string>
+            <string language="x-mt-de">Archäologischer Boden</string>
+            <string language="x-mt-fr">Sols Archéologiques</string>
+            <string language="x-mt-pt">Solos Archaeological</string>
+            <string language="x-mt-it">Terreni Archaeological</string>
+            <string language="x-mt-el">Αρχαιολογικά χώματα</string>
+            <string language="x-mt-es">Suelos Arqueológicos</string>
+          </title>
+          <description>
+            <string language="en">Students will determine components of a soil sample and evaluate how archaeologists use soils to interpret sites.</string>
+          </description>
+          <keyword>
+            <string language="en">Social Sciences</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer stellen Bestandteile einer 
+Bodenprobe fest und werten aus, wie Archäologen Boden benutzen, um 
+Sites zu deuten.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants détermineront des composants d'un 
+échantillon de sol et évalueront comment les archéologues emploient
+des sols pour interpréter des sites.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes determinarão componentes de uma 
+amostra do solo e avaliarão como os arqueólogos usam solos 
+interpretar locais.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi determineranno i componenti di un 
+campione del terreno e valuteranno come gli archeologhi usano i 
+terreni per interpretare i luoghi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα καθορίσουν τα συστατικά ενός 
+εδαφολογικού δείγματος και θα αξιολογήσουν πώς οι αρχαιολόγοι 
+χρησιμοποιούν τα χώματα για να ερμηνεύσουν τις περιοχές.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes determinarán componentes de una 
+muestra del suelo y evaluarán cómo los arqueólogos utilizan suelos 
+para interpretar sitios.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Sozialwissenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Les Sciences Sociales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciências Sociais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienze Sociali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κοινωνικές επιστήμες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencias Sociales</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:UNC ARCHAEOLOGY
+FN:UNC ARCHAEOLOGY
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202788</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108508</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/archaeological-soils</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

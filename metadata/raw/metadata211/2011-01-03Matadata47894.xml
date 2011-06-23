@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104590</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104590</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209310</entry>
+          </identifier>
+          <title>
+            <string language="en">Guitar Lesson 19: Blues</string>
+            <string language="x-mt-de">Guitarre Lektion 19: Blau</string>
+            <string language="x-mt-fr">Leçon 19 De Guitare : Bleus</string>
+            <string language="x-mt-pt">Lição 19 Da Guitarra: Azuis</string>
+            <string language="x-mt-it">Lezione 19 Del Guitar: Azzurri</string>
+            <string language="x-mt-el">Μάθημα 19 κιθάρων: Μπλε</string>
+            <string language="x-mt-es">Lección 19 De la Guitarra: Azul</string>
+          </title>
+          <description>
+            <string language="en">Introduces power chords, blues scales, and the circle of fifths.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Stellt Energie Akkorde, Blauskalen und den Kreis 
+von Fünfteln vor.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente des cordes de puissance, des échelles 
+de bleus, et le cercle des cinquièmes.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz cordas da potência, escalas dos azuis, e
+o círculo dos fifths.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce le corde di potenza, le scale degli 
+azzurri ed il cerchio dei fifths.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει τις χορδές δύναμης, τις κλίμακες μπλε, και τον
+κύκλο των πέμπτων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce acordes de la potencia, las escalas de 
+los azul, y el círculo de fifths.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209310</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104590</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/guitar-lesson-19-blues</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

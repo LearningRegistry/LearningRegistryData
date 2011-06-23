@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103040</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103040</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209319</entry>
+          </identifier>
+          <title>
+            <string language="en">Guitar Lesson 2: The B String, Measures, and Time Signature</string>
+            <string language="x-mt-de">Guitarre Lektion 2: Die B Zeichenkette, die 
+Masse und die Zeit-Unterzeichnung</string>
+            <string language="x-mt-fr">Leçon 2 De Guitare : La chaîne de 
+caractères de B, les mesures, et la signature de temps</string>
+            <string language="x-mt-pt">Lição 2 Da Guitarra: A corda de B, as 
+medidas, e a assinatura do tempo</string>
+            <string language="x-mt-it">Lezione 2 Del Guitar: La stringa di B, le 
+misure e la firma di tempo</string>
+            <string language="x-mt-el">Μάθημα 2 κιθάρων: Η συμβολοσειρά β, τα μέτρα, 
+και η χρονική υπογραφή</string>
+            <string language="x-mt-es">Lección 2 De la Guitarra: La cadena de B, 
+las medidas, y la firma del tiempo</string>
+          </title>
+          <description>
+            <string language="en">Introduces the B string and the concepts of measures, bar lines, and time signatures.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Stellt die B Zeichenkette und die Konzepte von 
+Massen, von Stabzeilen und von Zeitunterzeichnungen vor.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente la chaîne de caractères de B et les 
+concepts des mesures, des lignes de barre, et des signatures de temps.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz a corda de B e os conceitos das medidas, 
+das linhas de barra, e das assinaturas do tempo.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce la stringa di B ed i concetti delle 
+misure, delle righe di barra e delle firme di tempo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει τη συμβολοσειρά β και τις έννοιες των μέτρων, 
+των γραμμών ράβδων, και των χρονικών υπογραφών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce la cadena de B y los conceptos de 
+medidas, de líneas de barra, y de firmas del tiempo.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209319</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>103040</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/guitar-lesson-2-the-b-string-measures-and-time-signature</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
