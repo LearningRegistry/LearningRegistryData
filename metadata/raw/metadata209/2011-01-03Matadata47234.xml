@@ -1,0 +1,173 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105900</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105900</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202521</entry>
+          </identifier>
+          <title>
+            <string language="en">Local Authors Database</string>
+            <string language="x-mt-de">Einheimischer Schreibt Datenbank</string>
+            <string language="x-mt-fr">Les Gens du pays Écrivent La Base de données</string>
+            <string language="x-mt-pt">O Local É o autor Da Base de dados</string>
+            <string language="x-mt-it">Il Local Crea La Base di dati</string>
+            <string language="x-mt-el">Τοπική βάση δεδομένων συντακτών</string>
+            <string language="x-mt-es">El Local Es autor De la Base de datos</string>
+          </title>
+          <description>
+            <string language="en">Search through more than 200 authors in 15 minutes to answer specific questions. Add records and fields to an incomplete database.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="en">Social Sciences</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Suchen Sie durch mehr als 200 Autoren in 15 
+Minuten, um spezifische Fragen zu beantworten. Fügen Sie Sätze
+hinzu und fängt zu einer unvollständigen Datenbank auf.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Recherchez par plus de 200 auteurs en 15 minutes 
+pour répondre à des questions spécifiques. Ajoutez les 
+enregistrements et les zones à une base de données inachevée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Procurare através de mais de 200 autores em 15 
+minutos para responder a perguntas específicas. Adicione 
+registros e campos a uma base de dados incompleta.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Cerchi attraverso più di 200 autori in 15 minuti 
+per rispondere alle domande specifiche. Aggiunga i record ed i 
+campi ad una base di dati incompleta.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αναζήτηση μέσω περισσότερων από 200 συντακτών σε 
+15 λεπτά για να απαντήσουν στις συγκεκριμένες ερωτήσεις. 
+Προσθέστε τα αρχεία και τα πεδία σε μια ελλιπή βάση 
+δεδομένων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Busque a través de más de 200 autores en 15 
+minutos para contestar a preguntas específicas. Agregue los 
+expedientes y los campos a una base de datos incompleta.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Sozialwissenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Les Sciences Sociales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciências Sociais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienze Sociali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κοινωνικές επιστήμες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencias Sociales</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DPI INTEGRATION STRATEGIES
+FN:DPI INTEGRATION STRATEGIES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202521</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105900</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/local-authors-database</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

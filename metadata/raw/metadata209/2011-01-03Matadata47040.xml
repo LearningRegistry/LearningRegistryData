@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108609</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108609</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202690</entry>
+          </identifier>
+          <title>
+            <string language="en">Literature Lamps: The Weirdo</string>
+            <string language="x-mt-de">Literatur-Lampen: Der Weirdo</string>
+            <string language="x-mt-fr">Lampes de Littérature : Le Weirdo</string>
+            <string language="x-mt-pt">Lâmpadas Da Literatura: O Weirdo</string>
+            <string language="x-mt-it">Lampade Della Letteratura: Il Weirdo</string>
+            <string language="x-mt-el">Λαμπτήρες λογοτεχνίας: Το Weirdo</string>
+            <string language="x-mt-es">Lámparas De la Literatura: El Weirdo</string>
+          </title>
+          <description>
+            <string language="en">Literature is tied to an integrated curriculum for student success. Emphasis is on reading and communication.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Literatur wird an einen integrierten Lehrplan für
+Kursteilnehmererfolg gebunden. Hauptgewicht ist auf Messwert und
+Kommunikation.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La littérature est attachée à un programme 
+d'études intégré pour le succès d'étudiant. L'emphase est 
+sur la lecture et la transmission.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A literatura é amarrada a um curriculum integrado
+para o sucesso do estudante. A ênfase está na leitura e na 
+comunicação.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La letteratura è legata ad un programma di studi 
+integrato per successo dell'allievo. L'enfasi è su lettura e 
+sulla comunicazione.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η λογοτεχνία είναι δεμένη σε ένα ενσωματωμένο 
+πρόγραμμα σπουδών για την επιτυχία σπουδαστών. Η έμφαση 
+είναι στην ανάγνωση και την επικοινωνία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La literatura se ata a un plan de estudios 
+integrado para el éxito del estudiante. El énfasis está en la
+lectura y la comunicación.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:WENDY SIRIAS
+FN:WENDY SIRIAS
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202690</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108609</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/literature-lamps-the-weirdo</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

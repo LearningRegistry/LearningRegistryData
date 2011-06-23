@@ -1,0 +1,155 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103089</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103089</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101417</entry>
+          </identifier>
+          <title>
+            <string language="en">Microblogology</string>
+            <string language="x-mt-de">Microblogology</string>
+            <string language="x-mt-fr">Microblogology</string>
+            <string language="x-mt-pt">Microblogology</string>
+            <string language="x-mt-it">Microblogology</string>
+            <string language="x-mt-el">Microblogology</string>
+            <string language="x-mt-es">Microblogology</string>
+          </title>
+          <description>
+            <string language="en">Six Science bloggers talk about why they blog, the role of blogging in science, feedback they've received, and the greatest microbiological discovery in the past decade.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Sechs Wissenschaft bloggers befassen, sich mit 
+warum sie blog, die Rolle von Blogging in der Wissenschaft, Feedback 
+sie empfangen haben, und die größte mikrobiologische Entdeckung in 
+der letzten Dekade.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Six bloggers de la Science parlent de pourquoi ils
+le blog, le rôle de blogging dans la science, feedback ils ont reçu,
+et la plus grande découverte microbiologique dans la décennie 
+passée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Conversa de seis bloggers da ciência 
+aproximadamente porque o blog, o papel de blogging na ciência, 
+feedback elas receberam, e a descoberta microbiological a mais grande 
+na década passada.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Sei bloggers di scienza parlano di perchè blog, 
+il ruolo di blogging nella scienza, risposte hanno ricevuto e la 
+scoperta microbiologica più grande nella decade passata.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Έξι bloggers επιστήμης μιλούν για γιατί αυτοί 
+blog, ο ρόλος στην επιστήμη, ανατροφοδότηση they've 
+λαμβανόμενη, και η μέγιστη μικροβιολογική ανακάλυψη στην 
+προηγούμενη δεκαετία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Seis bloggers de la ciencia hablan de porqué el 
+blog, el papel de blogging en la ciencia, feedback ellos han recibido,
+y el descubrimiento microbiológico más grande de la última década.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:MICROBEWORLD
+FN:MICROBEWORLD
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101417</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>103089</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/microblogology</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

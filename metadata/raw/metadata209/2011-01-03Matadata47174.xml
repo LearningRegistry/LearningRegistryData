@@ -1,0 +1,153 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104301</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104301</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204503</entry>
+          </identifier>
+          <title>
+            <string language="en">Woodworms: A study of natural selection</string>
+            <string language="x-mt-de">Woodworms: Eine Studie der natürlichen 
+Auswahl</string>
+            <string language="x-mt-fr">Woodworms : Une étude de sélection 
+normale</string>
+            <string language="x-mt-pt">Woodworms: Um estudo da seleção natural</string>
+            <string language="x-mt-it">Woodworms: Uno studio sulla selezione 
+naturale</string>
+            <string language="x-mt-el">Woodworms: Μια μελέτη της φυσικής επιλογής</string>
+            <string language="x-mt-es">Woodworms: Un estudio de la selección 
+natural</string>
+          </title>
+          <description>
+            <string language="en">A study of natural selection and the evolutionary process through the use of a fictitious species, toothus pickii.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Eine Studie der natürlichen Auswahl und des 
+Entwicklungsprozesses durch den Gebrauch von einer erfundenen Sorte, 
+toothus pickii.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une étude de sélection normale et du processus 
+évolutionnaire par l'utilisation de l'espèces factices, pickii 
+de toothus.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um estudo da seleção natural e do processo 
+evolucionário com o uso de uma espécie fictitious, pickii do 
+toothus.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Uno studio sulla selezione naturale e sul processo
+evolutivo con l'uso di una specie fittizia, pickii di toothus.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια μελέτη της φυσικής επιλογής και η εξελικτική 
+διαδικασία μέσω της χρήσης ενός φανταστικού είδους, pickii 
+toothus.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un estudio de la selección natural y del proceso 
+evolutivo con el uso de una especie ficticia, pickii del toothus.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:B. CARL RUSH
+FN:B. CARL RUSH
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204503</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104301</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/woodworms-a-study-of-natural-selection</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

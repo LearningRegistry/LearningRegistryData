@@ -1,0 +1,132 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108397</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108397</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210002</entry>
+          </identifier>
+          <title>
+            <string language="en">Boiling Point of Water</string>
+            <string language="x-mt-de">Siedepunkt des Wassers</string>
+            <string language="x-mt-fr">Point d'ébullition d'eau</string>
+            <string language="x-mt-pt">Ponto fervendo da água</string>
+            <string language="x-mt-it">Punto di ebollizione di acqua</string>
+            <string language="x-mt-el">Σημείο βρασμού του ύδατος</string>
+            <string language="x-mt-es">Punta que hierve del agua</string>
+          </title>
+          <description>
+            <string language="en">This is a simulation that shows how the boiling point of water changes as the altitude changes.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Dieses ist eine Simulation, die zeigt, wie der 
+Siedepunkt des Wassers ändert, während die Höhe ändert.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">C'est une simulation qui montre comment le point 
+d'ébullition d'eau change pendant que l'altitude change.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta é uma simulação que mostre como o ponto 
+fervendo da água muda enquanto a altura muda.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ciò è una simulazione che mostra come il punto 
+di ebollizione di acqua cambia mentre l'altezza cambia.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό είναι μια προσομοίωση που επιδεικνύει πώς το 
+σημείο βρασμού του ύδατος αλλάζει ως αλλαγές ύψους.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ésta es una simulación que muestra cómo la 
+punta que hierve del agua cambia mientras que la altitud cambia.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:ALENA YAP
+FN:ALENA YAP
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210002</entry>
+          </identifier>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Custom License</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108397</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/boiling-point-of-water</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

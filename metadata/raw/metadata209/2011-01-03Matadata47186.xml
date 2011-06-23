@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106476</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106476</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101367</entry>
+          </identifier>
+          <title>
+            <string language="en">How to create subtitles with QuickTime</string>
+            <string language="x-mt-de">Wie man Untertitel mit QuickTime erstellt</string>
+            <string language="x-mt-fr">Comment créer des sous-titres avec QuickTime</string>
+            <string language="x-mt-pt">Como criar subtítulos com o QuickTime</string>
+            <string language="x-mt-it">Come creare i sottotitoli con QuickTime</string>
+            <string language="x-mt-el">Πώς να δημιουργήσει τους υποτίτλους με QuickTime</string>
+            <string language="x-mt-es">Cómo crear subtítulos con QuickTime</string>
+          </title>
+          <description>
+            <string language="en">A tutorial on how to create subtitles with QuickTimePro.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>es</language>
+          <description>
+            <string language="x-mt-de">Ein Tutorial auf, wie man Untertitel mit 
+QuickTimePro erstellt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un cours d'instruction sur la façon dont créer 
+des sous-titres avec QuickTimePro.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um tutorial em como criar subtítulos com o 
+QuickTimePro.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una lezione privata su come creare i sottotitoli 
+con QuickTimePro.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα σεμινάριο στο πώς να δημιουργήσει τους υποτίτλους
+με QuickTimePro.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una guía en cómo crear subtítulos con 
+QuickTimePro.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DVCLASS2007
+FN:DVCLASS2007
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101367</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>es</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106476</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/how-to-create-subtitles-with-quicktime</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

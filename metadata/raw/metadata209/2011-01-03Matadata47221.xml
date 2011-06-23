@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106524</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106524</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770207632</entry>
+          </identifier>
+          <title>
+            <string language="en">A Musical Accent Activity</string>
+            <string language="x-mt-de">Eine Musikalische Akzent-Aktivität</string>
+            <string language="x-mt-fr">Une Activité Musicale d'Accent</string>
+            <string language="x-mt-pt">Uma Atividade Musical Do Acento</string>
+            <string language="x-mt-it">Un'Attività Musicale Di Accento</string>
+            <string language="x-mt-el">Μια μουσική δραστηριότητα έμφασης</string>
+            <string language="x-mt-es">Una Actividad Musical Del Acento</string>
+          </title>
+          <description>
+            <string language="en">An activity to help music students practice using accents.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Eine Aktivität, zum der Musikkursteilnehmer zu 
+helfen Akzente, zu verwenden zu üben.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une activité pour aider la musique des étudiants
+pour pratiquer utiliser des accents.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma atividade para ajudar a estudantes da música 
+praticar usar acentos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un'attività per aiutare gli allievi di musica a 
+esercitarsi in usando gli accenti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια δραστηριότητα για να βοηθήσει την πρακτική 
+σπουδαστών μουσικής που χρησιμοποιεί τις εμφάσεις.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una actividad para ayudar a estudiantes de la 
+música a practicar el usar de acentos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770207632</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106524</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/a-musical-accent-activity</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

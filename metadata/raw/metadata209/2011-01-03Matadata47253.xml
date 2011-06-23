@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/102994</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>102994</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208105</entry>
+          </identifier>
+          <title>
+            <string language="en">Clarinets</string>
+            <string language="x-mt-de">Clarinets</string>
+            <string language="x-mt-fr">Clarinets</string>
+            <string language="x-mt-pt">Clarinets</string>
+            <string language="x-mt-it">Clarinets</string>
+            <string language="x-mt-el">Κλαρινέτα</string>
+            <string language="x-mt-es">Clarinets</string>
+          </title>
+          <description>
+            <string language="en">The clarinet is a single-reed aerophone commonly found in orchestras and bands.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Das Clarinet ist ein Einzelnschilf aerophone, das 
+geläufig in den Orchestern und in den Bändern gefunden wird.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le Clarinet est un aerophone de simple-roseau 
+généralement trouvé dans les orchestres et les bandes.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O Clarinet é um aerophone da único-lingüeta 
+encontrado geralmente nos orchestras e nas faixas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il Clarinet è un aerophone della singolo-canna 
+trovato comunemente in orchestre ed in fasce.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το κλαρινέτο είναι ένα aerophone ενιαίος-καλάμων 
+που βρίσκεται συνήθως στις ορχήστρες και τις ζώνες.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El Clarinet es un aerophone de la solo-caña 
+encontrado comúnmente en orquestas y vendas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208105</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>102994</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/clarinets</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
