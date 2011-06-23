@@ -1,0 +1,194 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/81968</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>81968</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>921</entry>
+          </identifier>
+          <title>
+            <string language="en">Allgemeinwissen</string>
+            <string language="es">Allgemeinwissen</string>
+            <string language="ga">Allgemeinwissen</string>
+            <string language="x-mt-de">Allgemeinwissen</string>
+            <string language="x-mt-fr">Allgemeinwissen</string>
+            <string language="x-mt-pt">Allgemeinwissen</string>
+            <string language="x-mt-it">Allgemeinwissen</string>
+            <string language="x-mt-el">Allgemeinwissen</string>
+          </title>
+          <description>
+            <string language="en">Eight general knowledge questions on german-speaking countries.</string>
+            <string language="es">Ocho preguntas de conocimientos generales sobre países de habla alemana.</string>
+            <string language="ga">Ocht gceist eolas ginearálta ar thíortha a labhrann gearmáinis.</string>
+          </description>
+          <language>en</language>
+          <keyword>
+            <string language="en">German</string>
+            <string language="es">Alemán</string>
+            <string language="ga">Gearmáinis</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Acht Allgemeinwissenfragen über deutschsprechende 
+Länder.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Huit questions de la connaissance générale sur 
+les pays de langue allemande.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Oito perguntas do conhecimento geral em países 
+german-speaking.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Otto domande di conoscenza generale sui paesi di 
+lingua tedesca.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οκτώ γενικές ερωτήσεις γνώσης στις γερμανόφωνες 
+χώρες.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Deutsch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Allemand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Alemão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tedesco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γερμανικά</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>921</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <language>en</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">13-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">The content on this site is protected by copyright under Irish and European law. All materials may be downloaded and copied for non-commercial purposes only, provided that the source is acknowledged. The reproduction of material for commercial purposes is strictly prohibited.
+
+Material within the linked sites outside of Scoilnet may also have copyright restrictions and this should be checked on these websites should you plan to use their content in any way.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Scoilnet;
+FN:Scoilnet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>548</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>81968</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.scoilnet.ie/Quiz.aspx?id=921</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

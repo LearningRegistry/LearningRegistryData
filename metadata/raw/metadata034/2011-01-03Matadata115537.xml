@@ -1,0 +1,178 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82315</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82315</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>4213</entry>
+          </identifier>
+          <title>
+            <string language="en">Windows calculator Keyboard Equivalents</string>
+            <string language="es">Equivalentes al teclado numérico de la calculadora Windows</string>
+            <string language="ga">Coibhéisí Méarchláir d'áireamhán Windows.</string>
+            <string language="x-mt-de">Windows Rechner Tastatur-Äquivalente</string>
+            <string language="x-mt-fr">Équivalents de clavier de calculatrice de 
+Windows</string>
+            <string language="x-mt-pt">Equivalentes do teclado da calculadora de Windows</string>
+            <string language="x-mt-it">Equivalenti della tastiera del calcolatore di 
+Windows</string>
+            <string language="x-mt-el">Αντίτιμα πληκτρολογίων υπολογιστών Windows</string>
+          </title>
+          <language>en</language>
+          <keyword>
+            <string language="en">Mathematics</string>
+            <string language="es">Matemáticas</string>
+            <string language="ga">Matamaitic</string>
+          </keyword>
+          <keyword>
+            <string language="en">Additional Resource</string>
+            <string language="es">Recurso adicional</string>
+            <string language="ga">Acmhainn Bhreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mathematik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zusätzliches Hilfsmittel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Mathématiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Ressource Supplémentaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Matemática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Recurso Adicional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Matematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Risorsa Supplementare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μαθηματικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Πρόσθετο στοιχείο συμπεριφοράς</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>NCTE_Scoilnet</catalog>
+            <entry>4213</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+n:National Centre for Technology in Education (NCTE)
+org:National Centre for Technology in Education (NCTE)
+version:3.0
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+          <typicalAgeRange>
+            <string language="x-t-lre">13-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">http://www.scoilnet.ie/Article.aspx?id_art=3252</string>
+            <string language="es">http://www.scoilnet.ie/Article.aspx?id_art=3252</string>
+            <string language="ga">http://www.scoilnet.ie/Article.aspx?id_art=3252</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:National Centre for Technology in Education (NCTE)
+FN:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Scoilnet;
+FN:Scoilnet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82315</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://test.scoilnet.ie/Res/keyequiv.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
