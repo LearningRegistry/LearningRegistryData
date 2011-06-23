@@ -1,0 +1,196 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114462</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114462</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3303</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3303</entry>
+          </identifier>
+          <title>
+            <string language="nl">Excursie Rijsel  : 3 zoektochten in het centrum</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dit zijn 3 zoektochten van ca. een uur in het centrum van Rijsel. De vragen zijn in het Nederlands opgesteld en zijn er op gericht dat de leerlingen hun ogen de kost geven, Rijsel zelf wat leren kennen, een aantal gebouwen voorbijkomen (en bewonderen) en natuurlijk ook hun kennis van het Frans wat aanvullen. Wandeling één gaat door Vieux Lille, wandeling twee gaat richting de twee stations (ook binnen) en wandeling drie speelt zich af in de winkelstraten. De excursie zelf kan naar eigen keuze nog aangevuld worden met andere activiteiten zoals vb. het nemen van de metro, een museumbezoek, enz..</string>
+          </description>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Lille</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zoektocht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">stad</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Frankrijk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Vieux</string>
+          </keyword>
+          <keyword>
+            <string language="nl">school- of studiereis</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-09-29T13:46:03.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Hélène Struye
+FN:Hélène Struye 
+EMAIL;TYPE=INTERNET: 
+ORG: Hélène Struye
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3303</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3303</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:35:27.06Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-13</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>520</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114462</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/3303/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

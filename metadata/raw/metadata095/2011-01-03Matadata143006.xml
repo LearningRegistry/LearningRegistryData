@@ -1,0 +1,188 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/113469</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>113469</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10211</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10211</entry>
+          </identifier>
+          <title>
+            <string language="nl">Un éléphant, ça trompe : Frans liedje</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Je leest hier de tekst van het liedje Un éléphant, ça trompe, ça trompe, un éléphant ça trompe énormément.  De inzender gebruikte een bekend Frans liedje maar bracht variaties aan, zodat naast een olifant ook nog een konijn, een slang, een egel, een vogel en een beertje hun opwachting maken.  Bij elk dier dat genoemd wordt hoort ook een beweging.  De woorden en melodie zijn makkelijk te onthouden en dus ook al bruikbaar voor kleuters.</string>
+          </description>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talensensibilisering</string>
+          </keyword>
+          <keyword>
+            <string language="nl">dier</string>
+          </keyword>
+          <keyword>
+            <string language="nl">français</string>
+          </keyword>
+          <keyword>
+            <string language="nl">chanson</string>
+          </keyword>
+          <keyword>
+            <string language="nl">zingen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">animal</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-11-27T22:17:25.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10211</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10211</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:33:10.23Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Freddy De Prins</entity>
+          <date>
+            <dateTime>2008-12-02</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>520</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>113469</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/10211/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

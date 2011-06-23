@@ -1,0 +1,187 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114658</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114658</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:6493</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>6493</entry>
+          </identifier>
+          <title>
+            <string language="nl">Proefwerk geschiedenis voor 3ASO eerste trimester</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Examen voor het derde jaar ASO, gebaseerd op het hand- en werkboek Historia (nieuwe uitgave). Bij dit examen worden o.a. feiten over de middeleeuwen en het Byzantijnse rijk getoetst.</string>
+          </description>
+          <keyword>
+            <string language="nl">Arabische wereldrijk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">islam</string>
+          </keyword>
+          <keyword>
+            <string language="nl">middeleeuwen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Historia</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Gregorius de Grote</string>
+          </keyword>
+          <keyword>
+            <string language="nl">landbouwsamenleving</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Byzantijnse rijk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Constantinopel</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-09-27T23:15:14.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Veerle Onraedt
+FN:Veerle Onraedt 
+EMAIL;TYPE=INTERNET: 
+ORG: Veerle Onraedt
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:6493</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>6493</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:33:33.79Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Katleen Van Santvliet</entity>
+          <date>
+            <dateTime>2008-11-14</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114658</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/6493/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

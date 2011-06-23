@@ -1,0 +1,172 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/111911</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>111911</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5535</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5535</entry>
+          </identifier>
+          <title>
+            <string language="nl">Analyse van LVS-resultaten</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">De bedoeling van dit Excel-document is om zeer snel een overzicht weer te geven van de resultaten van de LVS-toetsen. Er wordt automatisch met kleuren getoond waar en voor welke onderdelen de spreiding van resultaten al dan niet overeenkomt met de spreiding van de controlegroep (Vlaams gemiddelde).Werkwijze:Vul het voorblad in. Je kan enkel de lichtblauwe vakken veranderen.  Deze gegevens worden meteen op alle lijsten ingevuld.Vul de resultaten op de lijsten in. Ook hier kan je weer enkel de lichtblauwe vakken invullen (leerjaar, aantal leerlingen  en de naam van de klastitularis).Vul in de hokjes het aantal leerlingen in dat zich in die bepaalde zone bevindt.Men kan twee klassen per blad invullen. Met de gekleurde tabbladen kan men  een andere lijst openen .Vergeet de ingevulde lijsten niet niet op te slaan.Ingevulde lijst interpreteren:Indien het hokje groen kleurt is alles in orde (Voor zone A, B en C moet dit cijfer meer zijn dan 25% van het aantal leerlingen. Voor zone D en E moet dit minder zijn dan 15% en 10%)Indien het hokje rood kleurt, wijst dit op een minder goed resultaat. (Voor zone A, B en C moet dit cijfer minder zijn dan 25% van het aantal leerlingen. Voor zone D en E moet dit meer zijn dan 15% en 10%)Indien het cijfer van het totaal aantal leerlingen geel kleurt, dan zijn er minder leerlingen dan het opgegeven totaal aantal leerlingen.Indien het cijfer van het totaal aantal leerlingen rood kleurt, dan zijn er meer leerlingen dan het opgegeven totaal aantal leerlingen.</string>
+          </description>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">LVS</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leerlingvolgsysteem</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-10-21T21:46:29.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Marcel Cornelissen
+FN:Marcel Cornelissen 
+EMAIL;TYPE=INTERNET: 
+ORG: Marcel Cornelissen
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5535</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5535</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:34:09.03Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Marc Vande Walle</entity>
+          <date>
+            <dateTime>2008-05-10</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>364</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>111911</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/5535/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
