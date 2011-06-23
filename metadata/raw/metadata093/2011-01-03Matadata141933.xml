@@ -1,0 +1,182 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114212</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114212</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4224</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4224</entry>
+          </identifier>
+          <title>
+            <string language="nl">Ladderspel : Ei of ij</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dit spel is te vergelijken met het klassieke ganzenbord. Het kan gespeeld worden met twee of meer leerlingen. Om het spel te spelen heb je 1 dobbelsteen en pionnetjes nodig. Plaats je pion bij start, gooi om beurt en ga verder naargelang het ogen van de dobbelsteen. Kom je op een gekleurd vlak dan neemt je tegenspeler een kaartje en leest de zin voor waarin een ei- of ij-woord staat. Jij moet zeggen met welke ei (ij) het woord is geschreven. Heb je het juist, dan mag je met de ladder naar boven. Als het fout is moet je blijven staan. Het gebruikte kaartje wordt terug onderaan de stapel geplaatst. Wie eerst uit is wint het spel. Er zijn vele variaties mogelijk, je kan de spelregels zelf aanpassen.Druk alles af op stevig papier, knip de kaartjes uit en lag ze omgekeerd tijdens het spel.De laatste bladzijde kan je eventueel als achterkant van de kaartjes gebruiken.</string>
+          </description>
+          <keyword>
+            <string language="nl">ICT Helpt</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tweeklank</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ganzenbord</string>
+          </keyword>
+          <keyword>
+            <string language="nl">onthoudwoord</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-03-30T21:32:02.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Carin Ceulaers
+FN:Carin Ceulaers 
+EMAIL;TYPE=INTERNET: 
+ORG: Carin Ceulaers
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4224</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4224</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:34:40.26Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Kamiel Gerkens</entity>
+          <date>
+            <dateTime>2008-01-23</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>364</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114212</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/4224/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
