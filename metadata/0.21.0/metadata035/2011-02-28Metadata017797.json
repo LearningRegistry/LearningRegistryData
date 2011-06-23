@@ -1,0 +1,52 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "lijn", 
+        "trapezium", 
+        "parallellogram", 
+        "ruit", 
+        "rechthoek", 
+        "vierkant", 
+        "vierhoek", 
+        "ongelijkbenig", 
+        "gelijkbenig", 
+        "gelijkzijdig", 
+        "scherphoekig", 
+        "stomphoekig", 
+        "driehoek", 
+        "cirkel", 
+        "veelhoek", 
+        "scherp", 
+        "stomp", 
+        "hoek", 
+        "lijnstuk", 
+        "loodrecht", 
+        "snijdend", 
+        "evenwijdig", 
+        "gebroken", 
+        "gebogen", 
+        "rechte"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/114263</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>114263</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:D3409</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>D3409</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Basiscursus meetkunde</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Deze basiscursus bevat volgende leerstof: Lijnen en rechten: gebogen, gebroken of rechte lijn, evenwijdige, snijdende rechten en loodrechten, lijnstukkenHoeken: rechte, stompe en scherpe hoekVeelhoekenCirkelsDriehoeken: stomphoekige, scherphoekige en rechthoekige driehoek, gelijkzijdige, gelijkbenige en ongelijkbenige driehoekVierhoeken: eigenschappen van een vierkant, rechthoek, ruit, parallellogram, trapeziumDiagonalen in vierhoekenAls extra is er nog een rekentaak waarbij de leerlingen de leerstof uit de basiscursus kunnen inoefenen.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">lijn</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">trapezium</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">parallellogram</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ruit</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">rechthoek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vierkant</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vierhoek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ongelijkbenig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gelijkbenig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gelijkzijdig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">scherphoekig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stomphoekig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">driehoek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">cirkel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">veelhoek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">scherp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">stomp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">hoek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lijnstuk</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">loodrecht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">snijdend</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">evenwijdig</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gebroken</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gebogen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">rechte</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>3</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-11-25T10:38:20.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Bewerkt door Kurt Calis\r\nFN:Bewerkt door Kurt Calis \r\nEMAIL;TYPE=INTERNET: \r\nORG: Bewerkt door Kurt Calis\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:D3409</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>D3409</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>LRE.roleMetaValues</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2009-03-31T09:35:11.72Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>open activity</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">10-13</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <entity>willy vermaelen</entity>\r\n          <date>\r\n            <dateTime>2006-11-20</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>790</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>114263</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>application/zip</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.klascement.net/nieuws/3409/</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/nieuws/3409/"
+}
