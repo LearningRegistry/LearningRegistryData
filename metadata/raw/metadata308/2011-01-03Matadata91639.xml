@@ -1,0 +1,217 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/222493</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>222493</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www.edu.fi/oppimateriaalit/aihiot/fi/matematiikka/paraabeli</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.edu.fi/oppimateriaalit/aihiot/fi/matematiikka/paraabeli</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www.edu.fi/oppimateriaalit/aihiot/fi/matematiikka/paraabeli</entry>
+          </identifier>
+          <title>
+            <string language="en">Definition and expression of parabola</string>
+            <string language="fi">Paraabelin määritelmä ja lauseke</string>
+            <string language="x-mt-de">Definition und Ausdruck der Parabel</string>
+            <string language="x-mt-fr">Définition et expression de parabole</string>
+            <string language="x-mt-pt">Definição e expressão da parábola</string>
+            <string language="x-mt-it">Definizione ed espressione della parabola</string>
+            <string language="x-mt-el">Καθορισμός και έκφραση της παραβολής</string>
+            <string language="x-mt-es">Definición y expresión de la parábola</string>
+          </title>
+          <language>en</language>
+          <language>fi</language>
+          <description>
+            <string language="en">An exercise for studying parabola. Use of the application requires Java support.</string>
+            <string language="fi">Harjoitus paraabelin opiskeluun. Sovelluksen käyttö vaatii Java-tukea.</string>
+          </description>
+          <keyword>
+            <string language="fi">polttopiste</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Übung für das Studieren von von Parabel. 
+Gebrauch von der Anwendung benötigt Java Support.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un exercice pour étudier la parabole. 
+L'utilisation de l'application exige le support de Java.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um exercício para estudar a parábola. O 
+uso da aplicação requer a sustentação de Java.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un'esercitazione per studiare parabola. 
+L'uso dell'applicazione richiede il supporto del Java.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια άσκηση για τη μελέτη της παραβολής. Η χρήση 
+της εφαρμογής απαιτεί την υποστήριξη της Ιάβας.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un ejercicio para estudiar parábola. El uso
+de la aplicación requiere la ayuda de Java.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Jussi Kytömäki
+n:Kytömäki;Jussi
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/B834E3CE-E6D9-2649-6D95-933006849CCF</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/B834E3CE-E6D9-2649-6D95-933006849CCF</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Pekka Pirhonen
+n:Pirhonen;Pekka 
+org:Humap
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:54:05.26Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Creative commons Nimeä-epäkaupallinen-Ei muutettuja teoksia 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>390</id>
+            </taxon>
+            <taxon>
+              <id>790</id>
+            </taxon>
+            <taxon>
+              <id>875</id>
+            </taxon>
+            <taxon>
+              <id>544</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www.edu.fi/oppimateriaalit/aihiot/fi/matematiikka/paraabeli</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu.fi/oppimateriaalit/aihiot/fi/matematiikka/paraabeli</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

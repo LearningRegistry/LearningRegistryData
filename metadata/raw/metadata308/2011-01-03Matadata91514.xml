@@ -1,0 +1,225 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/222470</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>222470</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www.edu.fi//oppimateriaalit/aurinko</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.edu.fi//oppimateriaalit/aurinko</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www.edu.fi//oppimateriaalit/aurinko</entry>
+          </identifier>
+          <title>
+            <string language="en">Solar energy</string>
+            <string language="fi">Aurinkoenergia</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="en">The solar energy website is designed for both pupils in comprehensive school and secondary students that want to test their knowledge of solar energy. The guide is also suitable for others who are interested in the subject. This web guide examines various solar energy applications in brief. There are questions, images and exercises on the pages, as well as simulations to be done through the aid of the links. There are also other links on the pages.</string>
+            <string language="fi">Aurinkoenergia-sivusto on tarkoitettu sekä peruskoululaisille että toisen asteen opiskelijoille, jotka haluavat testata aurinkoenergiatietonsa. Opas sopii myös muille aiheesta kiinnostuneille. Tässä www-oppaassa käsitellään erilaisia aurinkoenergian sovelluksia lyhyesti. Sivuilla on kysymyksiä, kuvia ja harjoituksia sekä linkkien avulla tehtäviä simulointeja. Sivuilla on myös muita linkkejä.</string>
+          </description>
+          <keyword>
+            <string language="fi">aurinko,</string>
+            <string language="fi">virtuaalikoulu</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Lauri Ojansivu
+n:Ojansivu;Lauri
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Soleco Oy
+n:Soleco Oy
+org:Soleco Oy
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Christer Nyman
+n:Nyman;Christer
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/AF1149CA-4A61-77F3-9035-3D6834F67800</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/AF1149CA-4A61-77F3-9035-3D6834F67800</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Pertti Siekkinen
+n:Siekkinen;Pertti 
+org:Humap
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:50:03.47Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nd-nc/1.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>424</id>
+            </taxon>
+            <taxon>
+              <id>1090</id>
+            </taxon>
+            <taxon>
+              <id>874</id>
+            </taxon>
+            <taxon>
+              <id>872</id>
+            </taxon>
+            <taxon>
+              <id>875</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www.edu.fi//oppimateriaalit/aurinko</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu.fi//oppimateriaalit/aurinko</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
