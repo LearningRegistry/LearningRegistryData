@@ -1,0 +1,210 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/87014</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>87014</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+          </identifier>
+          <title>
+            <string language="et">Ohutustehnika koolikeemias</string>
+            <string language="en">safety in chemistry experiments</string>
+            <string language="x-mt-de">Sicherheit in den Chemieexperimenten</string>
+            <string language="x-mt-fr">sûreté dans des expériences de chimie</string>
+            <string language="x-mt-pt">segurança em experiências do chemistry</string>
+            <string language="x-mt-it">sicurezza negli esperimenti di chimica</string>
+            <string language="x-mt-el">ασφάλεια στα πειράματα χημείας</string>
+            <string language="x-mt-es">seguridad en experimentos de la química</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Ohutustehnika koolikeemias</string>
+            <string language="en">safety in chemistry experiments</string>
+          </description>
+          <keyword>
+            <string language="et">Ohutustehnika</string>
+            <string language="et">Keemia</string>
+            <string language="en">safety</string>
+            <string language="en">chemistry</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Sicherheit in den Chemieexperimenten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">sûreté dans des expériences de chimie</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">segurança em experiências do chemistry</string>
+          </description>
+          <description>
+            <string language="x-mt-it">sicurezza negli esperimenti di chimica</string>
+          </description>
+          <description>
+            <string language="x-mt-el">ασφάλεια στα πειράματα χημείας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">seguridad en experimentos de la química</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Sicherheit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Chemie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sûreté</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chimie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">segurança</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chemistry</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sicurezza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">chimica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασφάλεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χημεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">seguridad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">química</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Lippur;Reelika;;;
+FN:Reelika Lippur
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:37:27.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">-1 - 9999</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=5b4054c5a5e5ed922f1a69ff314d56c02e5e17c5</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
