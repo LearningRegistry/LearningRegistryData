@@ -1,0 +1,304 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/69200</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>69200</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:natecaji/pic637</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:natecaji/pic637</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:natecaji/pic637</entry>
+          </identifier>
+          <title>
+            <string language="sl">Po dežju</string>
+            <string language="en">After the rain</string>
+            <string language="x-mt-de">Nach dem Regen</string>
+            <string language="x-mt-fr">Après la pluie</string>
+            <string language="x-mt-pt">Após a chuva</string>
+            <string language="x-mt-it">Dopo la pioggia</string>
+            <string language="x-mt-el">Μετά από τη βροχή</string>
+            <string language="x-mt-es">Después de la lluvia</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="sl">Sonce v kaplicah dežja.</string>
+            <string language="en">The sun is shining on a rain drops.</string>
+          </description>
+          <keyword>
+            <string language="sl">dež</string>
+            <string language="en">rain</string>
+          </keyword>
+          <keyword>
+            <string language="sl">sonce</string>
+            <string language="en">sun</string>
+          </keyword>
+          <keyword>
+            <string language="sl">list</string>
+            <string language="en">leaf</string>
+          </keyword>
+          <keyword>
+            <string language="sl">kapljica</string>
+            <string language="en">drop</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Sonne scheint auf Tropfen eines Regens.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le soleil brille sur des baisses d'une pluie.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O sol está brilhando em gotas de uma chuva.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il sole sta lucidando sulle gocce della pioggia.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο ήλιος λάμπει σε μια βροχή μειώνεται.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El sol está brillando en gotas de una lluvia.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Regen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Sonne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Blatt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tropfen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pluie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">le soleil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">feuille</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">baisse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chuva</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sol</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">folha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gota</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pioggia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sole</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">foglio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">goccia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βροχή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ήλιος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φύλλο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απελευθέρωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lluvia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sol</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hoja</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gota</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Aleksandar Đorovič
+N:Đorovič;Aleksandar;;;
+EMAIL;TYPE=INTERNET,PREF:aleksandar.dorovic@guest.arnes.si
+END:VCARD</entity>
+            <date>
+              <dateTime>2003-05-02T15:05:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:natecaji/pic637</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:natecaji/pic637</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2003-05-05T07:04:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-11-21T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2003-05-05T07:04:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:26:15.10Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>431</id>
+              <entry>
+                <string language="sl">okoljska vzgoja</string>
+                <string language="en">environmental education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:natecaji/pic637</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:natecaji/pic637:item</entry>
+      </identifier>
+      <location>
+        <uri>http://sio.edus.si/katalogi/albumi/slika/zbirka/mirk2003/pic00637.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

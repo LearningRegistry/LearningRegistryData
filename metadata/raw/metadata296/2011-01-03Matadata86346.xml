@@ -1,0 +1,330 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/70391</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>70391</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120028</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120028</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120028</entry>
+          </identifier>
+          <title>
+            <string language="sl">Kateri helikopter leti glede na prikazan graf odvisnosti hitrosti od  časa?</string>
+            <string language="en">Which helicopter flies according to v(t)?</string>
+            <string language="x-mt-de">Welcher Hubschrauber fliegt entsprechend v(t)?</string>
+            <string language="x-mt-fr">Quel hélicoptère vole selon le v(t) ?</string>
+            <string language="x-mt-pt">Que helicóptero voa de acordo com o v(t)?</string>
+            <string language="x-mt-it">Quale elicottero vola secondo v(t)?</string>
+            <string language="x-mt-el">Ποιο ελικόπτερο πετά σύμφωνα με το β (τ);</string>
+            <string language="x-mt-es">¿Qué helicóptero vuela según v(t)?</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Določi pravilni prednastavljeni let helihopterja, da se le-ta ujema z grafom v(t).</string>
+            <string language="en">Determine the correct helicopter flight according to v(t).</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">let helihopterja</string>
+            <string language="en">helicopter flight</string>
+          </keyword>
+          <keyword>
+            <string language="sl">graf hitrosti</string>
+            <string language="en">speed graph</string>
+          </keyword>
+          <keyword>
+            <string language="sl">kinematika</string>
+            <string language="en">kinematics</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Stellen Sie den korrekten Hubschrauberflug entsprechend 
+v(t) fest.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Déterminez le vol correct d'hélicoptère selon le v(t).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Determine o vôo correto do helicóptero de acordo com o 
+v(t).</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Determini il volo corretto dell'elicottero secondo v(t).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθορίστε τη σωστή πτήση ελικοπτέρων σύμφωνα με το β 
+(τ).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Determine el vuelo correcto del helicóptero según v(t).</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hubschrauberflug</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit Diagramm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kinematik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vol d'hélicoptère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">graphique de vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cinématique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vôo do helicóptero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gráfico da velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">kinematics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">volo dell'elicottero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grafico di velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cinematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πτήση ελικοπτέρων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραφική παράσταση ταχύτητας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">kinematics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vuelo del helicóptero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gráfico de la velocidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cinemática</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Aaron Titus
+N:Titus;Aaron;;;
+ORG:High Point University
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Andrej Kašnik
+N:Kašnik;Andrej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120028</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120028</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:01:54.92Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="sl">mehanika (fizika)</string>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120028</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120028:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/mechanics/one_d_kinematics/prob2_3.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
