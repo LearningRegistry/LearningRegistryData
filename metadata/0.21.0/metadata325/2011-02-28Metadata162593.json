@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "brillen", 
+        "werking", 
+        "positief", 
+        "negatief", 
+        "onscherp", 
+        "zicht", 
+        "oogbol", 
+        "spiertjes", 
+        "lichtstralen", 
+        "hol", 
+        "bol", 
+        "hersenen", 
+        "beeld", 
+        "netvlies", 
+        "iris", 
+        "ogen", 
+        "oog", 
+        "oogzenuw", 
+        "verziendheid", 
+        "bijziendheid", 
+        "verziend", 
+        "bijziend", 
+        "plastiek", 
+        "brilglazen", 
+        "glazen", 
+        "glas", 
+        "contactlenzen", 
+        "lenzen", 
+        "bril", 
+        "zien", 
+        "scherp", 
+        "Gezondheid"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/230386</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>230386</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:20477</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:20477</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>20477</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Hoe werkt een bril?</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Voor heel wat mensen ziet de wereld er scherp uit dankzij een bril of lenzen. Maar hoe kunnen zo&amp;rsquo;n kleine glaasjes of stukjes plastiek de tekortkomingen van je ogen verhelpen? Hoe werkt een bril eigenlijk? In dit filmpje leer je hoe het oog een beeld vormt, wat bijziendheid en verziendheid zijn \u00e9n hoe brilglazen en contactlenzen precies werken.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">brillen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">werking</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">positief</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">negatief</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">onscherp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zicht</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">oogbol</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">spiertjes</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lichtstralen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">hol</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bol</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">hersenen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">beeld</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">netvlies</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">iris</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ogen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">oog</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">oogzenuw</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">verziendheid</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bijziendheid</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">verziend</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bijziend</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">plastiek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">brilglazen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">glazen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">glas</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">contactlenzen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lenzen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">bril</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zien</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">scherp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Gezondheid</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <version>\r\n            <string language=\"nl\">2010-03-03 11:13:06</string>\r\n          </version>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-03-03T16:59:31.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Animated Explanations\r\nFN:Animated Explanations \r\nEMAIL;TYPE=INTERNET: \r\nORG: Animated Explanations\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:20477</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:20477</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-27T05:50:54.55Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>video</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>other</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">0-U</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>718</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>20477</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>20477</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/20477/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/20477/?ref=aspect"
+}
