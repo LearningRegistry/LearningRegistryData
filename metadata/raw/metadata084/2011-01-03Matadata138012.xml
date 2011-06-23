@@ -1,0 +1,437 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/100498</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>100498</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:9e040aa4-55d5-4f09-ad09-2dd77b54b622</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Állítások, logikai értékek, műveletek</string>
+            <string language="en-US">Statements, Logical Values, Operations</string>
+            <string language="x-mt-de">Anweisungen, Logische Werte, Operationen</string>
+            <string language="x-mt-fr">Rapports, Valeurs Logiques, Exécutions</string>
+            <string language="x-mt-pt">Indicações, Valores Lógicos, Operações</string>
+            <string language="x-mt-it">Istruzione, Valori Logici, Funzionamenti</string>
+            <string language="x-mt-el">Δηλώσεις, λογικές τιμές, διαδικασίες</string>
+            <string language="x-mt-es">Declaraciones, Valores Lógicos, Operaciones</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Logikai érték, logikai műveletek, példák</string>
+            <string language="en-US">Logical value, logical statements, examples</string>
+          </description>
+          <keyword>
+            <string language="en-US">logic</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">statement</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">logical value</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">conjunction</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">disjunction</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">implication</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">equivalence</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">compound statement</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Logischer Wert, logische Anweisungen, Beispiele</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Valeur logique, rapports logiques, exemples</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Valor lógico, indicações lógicas, exemplos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Valore logico, istruzione logiche, esempi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Λογική αξία, λογικές δηλώσεις, παραδείγματα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Valor lógico, declaraciones lógicas, ejemplos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Logik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Anweisung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">logischer Wert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zusammenhang</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Trennung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Implikation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gleichwertigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mehrfachanweisung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">logique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rapport</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">valeur logique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">conjonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">disjonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">implication</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">équivalence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">instruction composée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lógica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">indicação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">valor lógico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">junção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">disjunção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">implicação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">equivalência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">indicação composta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">logica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">istruzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">valore logico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">congiunzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">disgiunzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">implicazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">equivalenza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">istruzione compound</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δήλωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογική αξία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλίση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αποσύνδεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίπτωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισοδυναμία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύνθετη δήλωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lógica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">declaración</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">valor lógico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">conjunción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">separación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">implicación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">equivalencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">declaración compuesta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:9e040aa4-55d5-4f09-ad09-2dd77b54b622</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:10:17.01Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7c600b90-ff1e-4251-bd5a-f6b6cd2312ac</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1c9e20c6-73d8-4b82-bef9-1689ac8708f0</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>87e99a69-1a01-4a42-ad8c-cb078cdb91a8</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c3d16d92-39f9-4f60-b594-190ac0a45e9e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>638cc18b-0218-4caf-a863-bdb71f93e135</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>07f0a412-b24f-439b-95c1-1519cca90871</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b51997a9-ac7c-4006-a4cb-ca632e6a9360</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6041d349-6ce2-4ee4-aeef-9c8bee5201bb</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a4f48559-0c02-4489-aa4b-d82be30f2f38</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c08abfa2-0958-43d2-99f2-7259267bffa0</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f327ca01-5c72-44d3-9727-a4ea8b837218</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=9e040aa4-55d5-4f09-ad09-2dd77b54b622</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>9e040aa4-55d5-4f09-ad09-2dd77b54b622-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/9e/04/9e040aa4-55d5-4f09-ad09-2dd77b54b622_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
