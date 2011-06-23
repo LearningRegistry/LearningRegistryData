@@ -1,0 +1,259 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/121123</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>121123</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.1194</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.1194</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.1194</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Mobile Verkehrserziehung mit Schwerpunkt auf die freiwillige Radfahrprüfung</string>
+          </title>
+          <description>
+            <string language="de-DE">Eine Website rund um die mobile Jugendverkehrserziehung mit dem Schwerpunkt auf der freiwilligen Radfahrprüfung. Hier finden Jugendliche alle nötigen Verkehrszeichen und Vorrangregeln, die sie für das erfolgreiche Ablegen der Radfahrprüfung benötigen. Außerdem können sie sich die Streckenpläne der Prüfungsrunden ihres Ortsgebietes herunterladen. Es ist auch möglich, sich alle nötigen Formulare herunterzuladen sowie Checklisten und Merkblätter. Eine Seite mit Links verweist auf weitere Websiten.</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">Freizeitaktivitäten</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">intercurriculare Erziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Sicherheit</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehr</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrserziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Radfahrprüfung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrszeichen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrsregeln</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Vorrangregeln</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Fahrrad</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Sicherheit</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrserziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Fahrrad</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Verkehrsregeln / -zeichen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en-US">1.0.2004-04-08</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. Tiroler Bildungsservice (TiBS)
+n:Tiroler Bildungsservice (TiBS);N.
+email;type=intern:redaktion@bildungsservice.at
+end:vcard</entity>
+            <date>
+              <dateTime>2004-04-05</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.1194.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.1194.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2004-04-05</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:13:02.74Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">9-10</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Urheberrechte liegen beim Autor / bei der Autorin.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1082</id>
+              <entry>
+                <string language="en">regional geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.1194</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/plain</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.tibs.at/mobile/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

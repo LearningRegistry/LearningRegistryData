@@ -1,0 +1,308 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103161142</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103161142</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.3277</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.3277</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.3277</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Allgemeine Musiklehre bei www.musiklehre.at</string>
+          </title>
+          <description>
+            <string language="de-DE">Bunt zusammengewürfelte Website mit Grundlagen der Musiklehre zu folgenden Themenbereichen:
+
+MIDI, Komponistenlexikon, Akustik, Intervalle, Notenschrift, Takt, Halbtöne, Ganztöne, Akkordlehre, Schlüssel, Tonleitern, Verzierungen, allerdings nicht interaktiv, sondern bloße Information mit Bildbeispielen</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">Instrumentalmusik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">klassische Musik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musikerziehung</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musikgehör</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musikgeschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Komponist</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musikinstrument</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Instrument</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Komposition</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Kunst und Kultur</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Komponisten/Epochen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Instrumente</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Notenschrift</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Abkürzungen, Zeichen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Tonsysteme</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Harmonielehre</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Musikalische Formen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en-US">1.0.2006-06-06</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Johannes  Kaiser-Kaplaner
+n:Kaiser-Kaplaner;Johannes 
+email;type=intern:kk@musika.at
+end:vcard</entity>
+            <date>
+              <dateTime>2004-12-16</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Johannes  Kaiser-Kaplaner
+n:Kaiser-Kaplaner;Johannes 
+email;type=intern:kk@musika.at
+end:vcard</entity>
+            <date>
+              <dateTime>2004-12-16</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.3277.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.3277.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2004-12-16</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:06:20.69Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">9-13</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Darf lt. Kenntnisstand zum Zeitpunkt der Erfassung der Metadaten im Schulungs- und Ausbildungsbereich frei eingesetzt werden.
+
+				Urheberrechte liegen beim Autor / bei der Autorin.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1082</id>
+              <entry>
+                <string language="en">regional geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+              <entry>
+                <string language="en">music</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>91</id>
+              <entry>
+                <string language="en">art</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.3277</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.musica.at/musiklehre/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
