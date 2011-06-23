@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "kl\u00e4nning", 
+        "dress", 
+        "mage", 
+        "stomach", 
+        "gravid", 
+        "pregnant", 
+        "barn", 
+        "child", 
+        "Kleid", 
+        "Magen", 
+        "schwanger", 
+        "Kind", 
+        "robe", 
+        "estomac", 
+        "enceinte", 
+        "enfant", 
+        "vestido", 
+        "est\u00f4mago", 
+        "gr\u00e1vido", 
+        "crian\u00e7a", 
+        "vestito", 
+        "stomaco", 
+        "incinto", 
+        "bambino", 
+        "\u03c6\u03cc\u03c1\u03b5\u03bc\u03b1", 
+        "\u03c3\u03c4\u03bf\u03bc\u03ac\u03c7\u03b9", 
+        "\u03ad\u03b3\u03ba\u03c5\u03bf\u03c2", 
+        "\u03c0\u03b1\u03b9\u03b4\u03af", 
+        "alineada", 
+        "est\u00f3mago", 
+        "embarazado", 
+        "ni\u00f1o"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/24335</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>24335</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>536188</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536188</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536188</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Gravid</string>\r\n            <string language=\"en\">Pregnant</string>\r\n            <string language=\"x-mt-de\">Schwanger</string>\r\n            <string language=\"x-mt-fr\">Enceinte</string>\r\n            <string language=\"x-mt-pt\">Gr\u00e1vido</string>\r\n            <string language=\"x-mt-it\">Incinto</string>\r\n            <string language=\"x-mt-el\">\u0388\u03b3\u03ba\u03c5\u03bf\u03c2</string>\r\n            <string language=\"x-mt-es\">Embarazado</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Gravid kvinna skjuter barnvagn framf\u00f6r sig.</string>\r\n            <string language=\"en\">A pregnant woman pushing a baby carriage.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">kl\u00e4nning</string>\r\n            <string language=\"en\">dress</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">mage</string>\r\n            <string language=\"en\">stomach</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">gravid</string>\r\n            <string language=\"en\">pregnant</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">barn</string>\r\n            <string language=\"en\">child</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Eine schwangere Frau, die einen Babywagen \r\ndr\u00fcckt.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Une femme enceinte poussant un chariot de b\u00e9b\u00e9.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Uma mulher gr\u00e1vida que empurra um carro do \r\nbeb\u00ea.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Una donna incinta che spinge un carrello del \r\nbambino.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u039c\u03b9\u03b1 \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2 \u03b3\u03c5\u03bd\u03b1\u03af\u03ba\u03b1 \u03c0\u03bf\u03c5 \u03c9\u03b8\u03b5\u03af \u03bc\u03b9\u03b1 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03ac \u03bc\u03c9\u03c1\u03ce\u03bd.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Una mujer embarazada que empuja un carro del \r\nbeb\u00e9.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Kleid</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Magen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">schwanger</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Kind</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">robe</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">estomac</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">enceinte</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">enfant</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">vestido</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">est\u00f4mago</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">gr\u00e1vido</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">crian\u00e7a</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">vestito</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">stomaco</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">incinto</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">bambino</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c6\u03cc\u03c1\u03b5\u03bc\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c3\u03c4\u03bf\u03bc\u03ac\u03c7\u03b9</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03ad\u03b3\u03ba\u03c5\u03bf\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c0\u03b1\u03b9\u03b4\u03af</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">alineada</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">est\u00f3mago</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">embarazado</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">ni\u00f1o</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536188-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536188-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:42:11.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:42:00.71Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>536188</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/536188.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/536188.jpg"
+}
