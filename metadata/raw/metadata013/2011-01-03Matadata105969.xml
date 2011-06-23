@@ -1,0 +1,343 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/110966</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>110966</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_103131</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_103131</entry>
+          </identifier>
+          <title>
+            <string language="fr">Calcul de la profondeur apparente d'une pièce de monnaie</string>
+            <string language="en">Calculating apparent depth of coin</string>
+            <string language="x-mt-de">Offensichtliche Rechentiefe der Münze</string>
+            <string language="x-mt-pt">Profundidade aparente calculadora da moeda</string>
+            <string language="x-mt-it">Profondità apparente calcolatrice della moneta</string>
+            <string language="x-mt-el">Υπολογισμός του προφανούς βάθους του νομίσματος</string>
+            <string language="x-mt-es">Profundidad evidente calculadora de la moneda</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="fr">Cette illustration montre une pièce de monnaie à l'intérieur d'un récipient d'eau et à une profondeur  apparente variable. Ceci peut être employé comme exercice pour calculer des profondeurs réelles et apparentes de pièce de monnaie.</string>
+            <string language="en">This illustration shows a coin inside a water container and with varying apparent depth. This can be used as an exercise to calculate actual and apparent depths of coin.</string>
+          </description>
+          <keyword>
+            <string language="fr">profondeur réelle</string>
+            <string language="en">actual depth</string>
+          </keyword>
+          <keyword>
+            <string language="fr">profondeur apparente</string>
+            <string language="en">apparent depth</string>
+          </keyword>
+          <keyword>
+            <string language="fr">pièce de monnaie</string>
+            <string language="en">coin</string>
+          </keyword>
+          <keyword>
+            <string language="fr">lumière</string>
+            <string language="en">Light</string>
+          </keyword>
+          <keyword>
+            <string language="fr">réfraction</string>
+            <string language="en">refraction</string>
+          </keyword>
+          <keyword>
+            <string language="fr">indice de réfraction</string>
+            <string language="en">refractive index</string>
+          </keyword>
+          <keyword>
+            <string language="fr">eau</string>
+            <string language="en">water</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Abbildung zeigt eine Münze innerhalb eines 
+Wasserbehälters und mit dem Verändern der offensichtlichen Tiefe. 
+Dieses kann als Übung verwendet werden, um die tatsächlichen 
+und offensichtlichen Tiefen der Münze zu errechnen.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta ilustração mostra uma moeda dentro de um 
+recipiente da água e com variar a profundidade aparente. Isto 
+pode ser usado como um exercício calcular profundidades reais e 
+aparentes da moeda.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa illustrazione mostra una moneta all'interno
+di un contenitore dell'acqua e con la variazione della profondità 
+apparente. Ciò può essere usata come esercitazione per 
+calcolare le profondità reali ed apparenti della moneta.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η απεικόνιση εμφανίζει ένα νόμισμα μέσα σε ένα
+εμπορευματοκιβώτιο ύδατος και με το ποικίλο προφανές βάθος. 
+Αυτό μπορεί να χρησιμοποιηθεί ως άσκηση για να υπολογίσει 
+τα πραγματικά και προφανή βάθη του νομίσματος.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta ilustración muestra una moneda dentro de un 
+envase del agua y con variar profundidad evidente. Esto se puede
+utilizar como ejercicio para calcular profundidades reales y evidentes
+de la moneda.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">tatsächliche Tiefe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">offensichtliche Tiefe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Münze</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Licht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Brechung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Brechungsindex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wasser</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">profundidade real</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">profundidade aparente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">moeda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Luz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">refraction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">deslocamento predeterminado refractive</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">água</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">profondità reale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">profondità apparente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">moneta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Luce</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rifrazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">indice di rifrazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acqua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πραγματικό βάθος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προφανές βάθος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">νόμισμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φως</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάθλαση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαθλαστικό ευρετήριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ύδωρ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">profundidad real</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">profundidad evidente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">moneda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Luz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">refracción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">índice de refracción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agua</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun-melt-melt.cup.cam.ac.uk</catalog>
+            <entry>melt.cup.cam.ac.uk:metadata_103131</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-03T16:31:11.41Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-26</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-14</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;![CDATA[&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;			    &lt;Work rdf:about=""&gt;			    			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;			    &lt;/Work&gt;			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;			    			    			    			    			    			    			    &lt;/License&gt;			    &lt;/rdf:RDF&gt;]]&gt;</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>925</id>
+              <entry>
+                <string language="en">optics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>110966</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/103131.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
