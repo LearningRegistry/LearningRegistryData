@@ -1,0 +1,936 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/32596</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>32596</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:12121</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>12121</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Elektriska fält</string>
+            <string language="en">Electrical fields</string>
+            <string language="x-mt-de">Elektrisch fängt auf</string>
+            <string language="x-mt-fr">Champs électriques</string>
+            <string language="x-mt-pt">Campos elétricos</string>
+            <string language="x-mt-it">Campi elettrici</string>
+            <string language="x-mt-el">Ηλεκτρικά πεδία</string>
+            <string language="x-mt-es">Campos eléctricos</string>
+          </title>
+          <description>
+            <string language="sv">Här behandlas de elektriska fält som omger laddningar och de krafter som fälten ger upphov till. Hur fält påverkar varandra illustreras med applets. Även begrepp som influens och dipoler tas upp.Modul 6 - Ellära.Fysik A.</string>
+            <string language="en">Here, those electrical fields that surround are treated reports and the forces that the fields give origins to. How fields influence each other to be illustrated with applets. Also concepts that influens and dipoler is taken up.
+
+Module 6 - Ellära.
+
+Physi</string>
+          </description>
+          <keyword>
+            <string language="sv">Fysik A</string>
+            <string language="sv">fysik</string>
+            <string language="sv">ellära</string>
+            <string language="sv">el</string>
+            <string language="sv">vektorer</string>
+            <string language="sv">vektoraddition</string>
+            <string language="sv">vektorsubtraktion</string>
+            <string language="sv">punktsladdning</string>
+            <string language="sv">elektriska fält kring en punktsladdning</string>
+            <string language="sv">höjdanalogi</string>
+            <string language="sv">höjdanalogi för en punktsladdning</string>
+            <string language="sv">Coulombs lag</string>
+            <string language="sv">Coulomb</string>
+            <string language="sv">elektrisk fältstyrka</string>
+            <string language="sv">elektriska fält kring tvåpunktladdningar</string>
+            <string language="sv">två punktsladdning</string>
+            <string language="sv">homogent elektrisk fält</string>
+            <string language="sv">plattkondensator</string>
+            <string language="sv">kondensator</string>
+            <string language="sv">Faradays bur</string>
+            <string language="sv">Faraday</string>
+            <string language="sv">ledande hölje</string>
+            <string language="sv">avskärma fält</string>
+            <string language="sv">statisk laddning</string>
+            <string language="sv">dipoler</string>
+            <string language="sv">influens</string>
+            <string language="sv">jordning</string>
+            <string language="sv">jorda</string>
+            <string language="sv">JaCob</string>
+            <string language="sv">elektromagnetisk simulering</string>
+            <string language="sv">laddning</string>
+            <string language="sv">magnetism</string>
+            <string language="sv">ström</string>
+            <string language="sv">resistans</string>
+            <string language="en">Physics A</string>
+            <string language="en">physics</string>
+            <string language="en">electricity learn</string>
+            <string language="en">electrical</string>
+            <string language="en">vektorer</string>
+            <string language="en">vektoraddition</string>
+            <string language="en">vektorsubtraktion</string>
+            <string language="en">punktsladdning</string>
+            <string language="en">electrical fields around one punktsladdning</string>
+            <string language="en">height analogy</string>
+            <string language="en">height analogy pursue one punktsladdning</string>
+            <string language="en">Coulombs teams</string>
+            <string language="en">Coulomb</string>
+            <string language="en">electrical field strength</string>
+            <string language="en">electrical fields around two point reports</string>
+            <string language="en">two punktsladdning</string>
+            <string language="en">homogeneous electrical field</string>
+            <string language="en">flat capacitor</string>
+            <string language="en">capacitor</string>
+            <string language="en">Faradays cage</string>
+            <string language="en">Faraday</string>
+            <string language="en">conductive hölje</string>
+            <string language="en">avskärma fields</string>
+            <string language="en">static report</string>
+            <string language="en">dipoler</string>
+            <string language="en">influens</string>
+            <string language="en">jordning</string>
+            <string language="en">jorda</string>
+            <string language="en">Jacob</string>
+            <string language="en">electromagnetic simulering</string>
+            <string language="en">report</string>
+            <string language="en">magnetism</string>
+            <string language="en">power</string>
+            <string language="en">resistans</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Hier fängt jenes elektrische auf, das 
+werden behandelt berichtet und die Kräfte umgeben, denen 
+Gebenursprung zu auffängt. Wie Einfluß mit 
+auffängt applet veranschaulicht zu werden. Auch 
+Konzepte, die influens und dipoler up.Module 6 genommen wird - 
+Ellära.Physi</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ici, ces champs électriques qui entourent sont 
+traités enregistre et les forces aux lesquelles les zones donnent des
+origines. Comment les zones s'influencent à illustrer avec des 
+applet. En outre concepts que des influens et le dipoler est 
+pris à up.Module 6 - Ellära.Physi</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Aqui, aqueles campos elétricos que cercam são 
+tratados relatam e as forças a que os campos dão origens. Como
+os campos se influenciam a ser ilustrado com applet. Também 
+conceitos de que os influens e o dipoler são feitos exame up.Module 6
+- Ellära.Physi</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Qui, quei campi elettrici che circondano sono 
+trattati segnala e le forze a che i campi danno le origini. Come
+i campi si influenzano da illustrare con i applet. Inoltre 
+concetti che i influens ed il dipoler è preso a up.Module 6 - 
+Ellära.Physi</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εδώ, εκείνα τα ηλεκτρικά πεδία που περιβάλλουν 
+αντιμετωπίζονται υποβάλλουν έκθεση και οι δυνάμεις ότι τα πεδία 
+δίνουν την προέλευση. Πώς τα πεδία επηρεάζουν το ένα το 
+άλλο που διευκρινίζεται με τα applets. Επίσης έννοιες που
+influens και dipoler λαμβάνεται επάνω στην ενότητα 6 - 
+Ellδra. Physi</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Aquí, se tratan esos campos eléctricos que 
+rodean señalan y las fuerzas a las cuales los campos dan orígenes. 
+Cómo los campos se influencian que se ilustrará con los 
+applet. También conceptos que los influens y el dipoler se toma
+a up.Module 6 - Ellära.Physi</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik A</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elektrizität erlernt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fängt herum punktsladdning ein 
+auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Höhe Analogie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Höhe Analogie üben punktsladdning ein aus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Coulomb Teams</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Coulomb</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fangen Sie Stärke auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fängt herum zwei Punktreports auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">zwei punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">homogene elektrische fangen auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">flacher Kondensator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kondensator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Faradays Rahmen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Faraday</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">leitendes hölje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">avskärma fängt auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">statischer Report</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Jordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektromagnetisches Simulering</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Report</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Magnetismus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Energie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">resistans</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique A</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'électricité apprennent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">élém. élect.</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champs électriques autour d'on punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">analogie de taille</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'analogie de taille poursuivent on punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Coulombs d'équipes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Coulomb</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">force de champ électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champs électriques autour de deux états de point</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">deux punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champ électrique homogène</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">condensateur plat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">condensateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Camp de Faradays</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Faraday</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">hölje conducteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">zones d'avskärma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">état statique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">jordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">simulering électromagnétique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">état</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">magnétisme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">puissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">resistans</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física A</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">a eletricidade aprende</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campos elétricos em torno de um que punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">analogia da altura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">a analogia da altura persegue um que punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Coulombs das equipes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Coulomb</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">força do campo elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campos elétricos em torno de dois relatórios do 
+ponto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dois que punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campo elétrico homogêneo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">capacitor liso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">capacitor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Gaiola de Faradays</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Faraday</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hölje condutor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campos do avskärma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">relatório de estática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">jordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">simulering eletromagnético</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">relatório</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">magnetismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">potência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">resistans</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica A</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">l'elettricità impara</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campi elettrici intorno ad uno che punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">analogia di altezza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">l'analogia di altezza persegue uno che punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Coulomb di squadre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Coulomb</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resistenza del campo elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campi elettrici intorno a due rapporti del punto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">due che punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campo elettrico omogeneo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">condensatore piano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">condensatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Gabbia di Faradays</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Faraday</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">hölje conduttivo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campi di avskärma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rapporto statico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">jordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">simulering elettromagnetico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rapporto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">magnetismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">potenza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resistans</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική Α</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">η ηλεκτρική ενέργεια μαθαίνει</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρικός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"></string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρικά πεδία περίπου ένα poy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογία ύψους</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">η αναλογία ύψους ακολουθεί το ένα punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ομάδες Coulomb</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θ*Θοuλομψ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δύναμη ηλεκτρικών πεδίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τα ηλεκτρικά πεδία περίπου δύο δείχνουν τις εκθέσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δύο poy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ομοιογενές ηλεκτρικό πεδίο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίπεδος πυκνωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πυκνωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κλουβί Faradays</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θ*Φαραδαυ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αγώγιμο hφlje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πεδία avskδrma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στατική έκθεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"></string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρομαγνητικό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έκθεση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μαγνητισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δύναμη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">resistans</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física A</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">la electricidad aprende</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">eléctrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vektorer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vektoraddition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vektorsubtraktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campos eléctricos alrededor de uno punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">analogía de la altura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">la analogía de la altura persigue uno punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Culombios de equipos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Culombio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fuerza del campo eléctrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campos eléctricos alrededor de dos informes de la 
+punta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dos punktsladdning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campo eléctrico homogéneo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">condensador plano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">condensador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Jaula de Faradays</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Faraday</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hölje conductor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campos del avskärma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informe estático</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dipoler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">influens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el jordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">jorda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Jacob</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el simulering electromágnetico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">magnetismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">potencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">resistans</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:12121</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:12121</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:28:16.47Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">Physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Fysik</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>32596</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=12121</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
