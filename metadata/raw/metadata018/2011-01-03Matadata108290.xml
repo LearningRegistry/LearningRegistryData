@@ -1,0 +1,393 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/213037</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>213037</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_e85a2fbaac2c140d6f04b4f1db771260e046f992</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_e85a2fbaac2c140d6f04b4f1db771260e046f992</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_e85a2fbaac2c140d6f04b4f1db771260e046f992</entry>
+          </identifier>
+          <title>
+            <string language="en">Block diagram of a simple radio receiver</string>
+            <string language="x-mt-de">Blockdiagramm eines einfachen Radiogeräts</string>
+            <string language="x-mt-fr">Schéma fonctionnel d'un récepteur par radio 
+simple</string>
+            <string language="x-mt-pt">Diagrama de bloco de um receptor de rádio 
+simples</string>
+            <string language="x-mt-it">Schema a blocchi di un apparecchio radioricevente
+semplice</string>
+            <string language="x-mt-el">Διάγραμμα ομάδων δεδομένων ενός απλού ραδιο δέκτη</string>
+            <string language="x-mt-es">Diagrama de bloque de un receptor de radio 
+simple</string>
+          </title>
+          <description>
+            <string language="en">This block diagram shows the parts of a basic radio receiver.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">af amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">rf amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">radio waves</string>
+          </keyword>
+          <keyword>
+            <string language="en">audio information</string>
+          </keyword>
+          <keyword>
+            <string language="en">broadcast</string>
+          </keyword>
+          <keyword>
+            <string language="en">demodulator</string>
+          </keyword>
+          <keyword>
+            <string language="en">loudspeaker</string>
+          </keyword>
+          <keyword>
+            <string language="en">radio receiver</string>
+          </keyword>
+          <keyword>
+            <string language="en">radio wave propagation</string>
+          </keyword>
+          <keyword>
+            <string language="en">tuning circuit</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Blockdiagramm zeigt die Teile eines 
+grundlegenden Radiogeräts.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma fonctionnel montre les parties d'un 
+récepteur par radio de base.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de bloco mostra as partes de um 
+receptor de rádio básico.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema a blocchi mostra le parti di un 
+apparecchio radioricevente di base.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα ομάδων δεδομένων εμφανίζει τα μέρη
+ενός βασικού ραδιο δέκτη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este diagrama de bloque muestra las partes de un 
+receptor de radio básico.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">af Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">HF Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Funkwellen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Audioinformationen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Sendung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Demodulator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lautsprecher</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Radiogerät</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Funkwelle Ausbreitung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">justierenstromkreis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amplificateur d'af</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amplificateur de rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ondes radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'information sonore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">émission</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">démodulateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">haut-parleur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">récepteur par radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">propagation d'onde radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit d'accord</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amplificador do af</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amplificador do rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ondas de rádio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informação audio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">transmissão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">demodulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">loudspeaker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">receptor de rádio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">propagação da onda de rádio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito ajustando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">amplificatore di af</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">amplificatore di rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">onde radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">le informazioni audio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">radiodiffusione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">demodulatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">altoparlante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">apparecchio radioricevente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">propagazione dell'onda radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito di sintonia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενισχυτής AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενισχυτής RF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ραδιο κύματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηχητικές πληροφορίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ραδιοφωνική μετάδοση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αποδιαμορφωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μεγάφωνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ραδιο δέκτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάδοση ραδιο κυμάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συντονίζοντας κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">amplificador del af</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">amplificador del rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ondas de radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">información audio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">difusión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">desmodulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">altavoz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">receptor de radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">propagación de la onda de radio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito que templa</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_e85a2fbaac2c140d6f04b4f1db771260e046f992</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_e85a2fbaac2c140d6f04b4f1db771260e046f992</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:43:04.67Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/e85a2fbaac2c140d6f04b4f1db771260e046f992.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
