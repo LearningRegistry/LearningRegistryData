@@ -1,0 +1,201 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/236205</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>236205</entry>
+  </identifier>
+  <identifier>
+    <catalog>LS</catalog>
+    <entry>12244</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:12244</entry>
+          </identifier>
+          <identifier>
+            <catalog>LS</catalog>
+            <entry>12244</entry>
+          </identifier>
+          <title>
+            <string language="sv">Cool Tools for Schools</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="sv">Här finns länkar till alla tänkbara webb 2.0-verktyg och program som du kan behöva! Här finns samarbetsverktyg, publiceringsverktyg, bildbehandlingsprogram, ljud- och musikprogram, ordbehandlare och mycket mycket mer! Många program är gratis och körs direkt i webbläsaren vilket betyder att du inte behöver installera något på din dator. Det finns även ett &lt;a href="http://cooltoolsforschools.wikispaces.com/Tools+at+a+glance"&gt;index A-Z&lt;/a&gt;.</string>
+          </description>
+          <keyword>
+            <string language="sv">datorprogram</string>
+          </keyword>
+          <keyword>
+            <string language="sv">internet</string>
+          </keyword>
+          <keyword>
+            <string language="sv">bloggar</string>
+          </keyword>
+          <keyword>
+            <string language="sv">presentationsteknik</string>
+          </keyword>
+          <keyword>
+            <string language="sv">musikproduktion</string>
+          </keyword>
+          <keyword>
+            <string language="sv">ljudbehandling</string>
+          </keyword>
+          <keyword>
+            <string language="sv">ordbehandling</string>
+          </keyword>
+          <keyword>
+            <string language="sv">digital bildbehandling</string>
+          </keyword>
+          <keyword>
+            <string language="sv">digital video</string>
+          </keyword>
+          <keyword>
+            <string language="sv">kartor</string>
+          </keyword>
+          <keyword>
+            <string language="sv">programvara</string>
+          </keyword>
+          <keyword>
+            <string language="sv">filmproduktion</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:MSU (the Swedish Link Library)
+N:MSU (the Swedish Link Library)
+ORG:MSU (the Swedish Link Library)
+EMAIL;TYPE=internet:lenva@bbi.school.nz
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 3.0 Unported</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1292</id>
+              <entry>
+                <string language="en">technology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:12244-1</entry>
+          </identifier>
+          <identifier>
+            <catalog>LS</catalog>
+            <entry>12244-1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Taawo;Alma
+FN:Alma Taawo
+ORG:MSU
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2010-02-05T23:44:48.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T06:09:32.17Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>LS</catalog>
+      <entry>12244</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://cooltoolsforschools.wikispaces.com/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
