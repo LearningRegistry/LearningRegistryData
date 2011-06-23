@@ -1,0 +1,179 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/20479</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>20479</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/franz-kafka-zamek-rozhovor-zememerice-s-ucitelem.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/franz-kafka-zamek-rozhovor-zememerice-s-ucitelem.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Franz Kafka - Zámek - Rozhovor Zeměměřiče s učitelem</string>
+          </title>
+          <language>cs</language>
+          <description>
+            <string language="cs">Ukázka u rozhlasové nahrávky z roku 2006. Účinkují: Vladimír Dlouhý, Jiří Lábus, Vilma Cibulková, Simona Stašová, Taťjana Medvecká a další.&amp;#13;
+&amp;#13;
+V krátké ukázce nabízí učitel Zeměměřiči zaměstnání školníka, které není potřebné stejně jako práce zeměměřiče v zámeckých službách. Zeměměřič je přesto odhodlán zůstat ve vsi. Ukázka i celé Kafkovo dílo nabízí velké množství interpretací. Tématem interpretace a nadinterpetace ( tzv. "Kafkologie") Kafkova díla se zabývá M. Kundera.&amp;#13;
+&amp;#13;
+&amp;#13;
+Ukázku z CD „Franz Kafka – Zámek“ publikujeme s laskavým svolením společnosti Radioservis a.s. Slouží pouze ke vzdělávacím účelům. Celé CD si můžete zakoupit prostřednictvím internetového obchodu http://www.radioservis-as.cz/katalog nebo v reprezentační prodejně Českého rozhlasu a České televize (Vinohradská 12, Praha 2).</string>
+          </description>
+          <keyword>
+            <string language="cs">Franz Kafka</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Zámek</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jana Zapletalová
+N:Zapletalová;Jana;;;
+PROFILE:VCARD
+EMAIL:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/franz-kafka-zamek.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/franz-kafka-zamek.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Ondřej Nešpor
+N:Nešpor;Ondřej;;;
+PROFILE:VCARD
+EMAIL:ondrej.nespor@gmail.com
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T19:31:43.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>expositive</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">16 - 19</string>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>707</id>
+              <entry>
+                <string language="en">Language and literature</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>20479</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>audio/mpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=hzpvtjmo</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
