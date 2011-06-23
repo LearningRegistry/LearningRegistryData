@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82987</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82987</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:87466</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>87466</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">secrecion de leche (CAPITULO%2B1%2BPRODUCCION%2BDE%2BLECHE.ppt)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">1.1.  Secreción de LecheLa leche es segregada en la ubre de la vaca, que es un órgano semiesférico dividido en dos mitades, izquierda y derecha. Cada mitad esta dividida en cuartos por un pliegue transversal poco profundo.Cada cuarto tiene un pezón con su propia glándula mamaria, separada del resto, lo que en teoría podría dar lugar a cuatro diferentes calidades de leche procedente de la misma vaca. En la figura 1.1 se muestra un dibujo de una ubre seccionada.La ubre esta compuesta de tejido glandular que contiene células productoras de leche y esta encajada en un tejido muscular que da cohesión al cuerpo de la ubre y lo protege contra posibles daños por golpes y choques.El tejido glandular contiene un gran número de diminutas vejigas(alrededor de dos mil millones) llamadas alvéolos. Las leches que realmente producen leche están situadas en las paredes internas de los alvéolos, los cuales se encuentran en grupos de 8 a 120. Los capilares que salen de los alvéolos convergen en conductos de leche progresivamente mas grandes que fluyen hacia una cavidad situada encima del pezón. Esta cavidad conocida como la cisterna de la ubre, puede contener hasta el 30% de la leche total de la ubre.La cisterna de la ubre tiene una extensión que alcanza hasta la cavidad interior del pezón, que es conocida como cisterna del pezón. Este tiene en su extremo un canal de 1-1.5 cm de largo. Entre ordeños el canal está cerrado por un minúsculo esfínter que evita el goteo de la leche y que las bacterias entren en la ubre.La sangre fluye a través de la ubre a razón de aproximadamente 90,000 l/día.  Aproximadamente se necesitan 800-900 l de sangre para la formación de un litro de leche.Las células musculares situadas alrededor de cada alveolo realizan este trabajo mecánico durante el ordeño, tal como se aprecia en la Figura 1.2.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">ubre</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">pezón</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">leche</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Haydee Del Rocio Torres Camba
+N:Torres Camba;Haydee Del Rocio
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-09T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-09T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:87466</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>87466</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:39:32.57Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>256</id>
+              <entry>
+                <string>computer science</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82987</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/vnd.ms-powerpoint</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=87466&amp;websiteId=1794&amp;folderId=17&amp;docId=80605&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

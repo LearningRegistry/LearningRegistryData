@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83020</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83020</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:74704</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>74704</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">Class 2 (CL2BIOECUA.ppt)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">Abstract Class II: ENDEMISM AND HOT SPOTSOther patterns of species diversity are influenced by regional processes that counteract each other. Such processes were a matter of study in the &amp;ldquo;Equilibrium Theory of Island Biogeography&amp;rdquo; postulated by Mac Arthur &amp; E. O Wilson in 1960. According to this, the overall number of species of an island is related to the balance between immigration and extinction processes under different island conditions. Some extinction processes, like for example, predation, competition and physical disturbance were reviewed when we explored the reasons for high tree species diversity in the tropics. The last part of the class concentrated on the study of concepts like endemism and hot spots that characterize the biodiversity of a specific area. Endemic forms are organisms that occur nowhere else, or are restricted to certain geographic area. However, geographic areas can vary according to different spatial scales and endemism can be referred to different taxonomic levels. Therefore, the term can refer to high or low-rank taxa occupying reduced or wide distributional ranges (e.g., order Tinamiformes ("perdices" in spanish) is endemic to the Neotropics, the species Nothoprocta perdicaria [Chilean Tynamou] is endemic to the semiarid grassland in northern Chile). Finally, &amp;ldquo;Hot Spots of High Endemicity&amp;rdquo; are considered key regions in biogeography and conservation biology, because they concentrate a high number of restricted-range species within a small area. In this regard, conservationists are concerned about understanding the pattern of hot spot distribution at a global scale and, to what degree hot spots of plants &amp; animals overlap each other. This information would allow to better recognizing priority sites for conservation.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">HOT</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">hot spots</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">Endemic</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Ana Elizabeth Agreda de la Paz
+N:Agreda de la Paz;Ana Elizabeth
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-28T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-11-28T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:74704</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>74704</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:37:50.87Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>783</id>
+              <entry>
+                <string>marine sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83020</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/vnd.ms-powerpoint</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=74704&amp;websiteId=1706&amp;folderId=17&amp;docId=67899&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
