@@ -1,0 +1,339 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/69492</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>69492</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120236</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120236</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120236</entry>
+          </identifier>
+          <title>
+            <string language="sl">Navor in vztrajnostni moment</string>
+            <string language="en">Torque and Moment of Inertia</string>
+            <string language="x-mt-de">Drehkraft und Moment der Schwungkraft</string>
+            <string language="x-mt-fr">Couple et moment de l'inertie</string>
+            <string language="x-mt-pt">Torque e momento da inércia</string>
+            <string language="x-mt-it">Coppia di torsione e momento di inerzia</string>
+            <string language="x-mt-el">Ροπή και στιγμή της αδράνειας</string>
+            <string language="x-mt-es">Esfuerzo de torsión y momento de la inercia</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Vztrajnostni moment škripca preko katerega je obešena utež, ki povzroča navor.</string>
+            <string language="en">Moment of inertia of a pulley which is weighted by mass that is causing torque.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">vztrajnostni moment</string>
+            <string language="en">moment of inertia</string>
+          </keyword>
+          <keyword>
+            <string language="sl">navor</string>
+            <string language="en">torque</string>
+          </keyword>
+          <keyword>
+            <string language="sl">vrtenje</string>
+            <string language="en">rotation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Moment der Schwungkraft einer Riemenscheibe, die 
+durch Masse belastet wird, die Drehkraft verursacht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Moment de l'inertie d'une poulie qui est pesée 
+par la masse qui cause le couple.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Momento da inércia de uma polia que seja tornada
+mais pesada pela massa que está causando o torque.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Momento di inerzia di una puleggia che è 
+appesantita da massa che sta causando la coppia di torsione.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Στιγμή της αδράνειας μιας τροχαλίας που ζυγίζεται από
+τη μάζα που προκαλεί τη ροπή.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Momento de la inercia de una polea que es cargada 
+por la masa que está causando el esfuerzo de torsión.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Moment der Schwungkraft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Drehkraft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Umdrehung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">moment de l'inertie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">couple</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rotation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">momento da inércia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">torque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rotação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">momento di inerzia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">coppia di torsione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rotazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στιγμή της αδράνειας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ροπή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιστροφή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">momento de la inercia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">esfuerzo de torsión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rotación</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Chuck Niederriter
+N:Niederriter;Chuck;;;
+ORG:Gustavus Adolphus College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120236</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120236</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:02:39.22Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>796</id>
+              <entry>
+                <string language="sl">mehanika (fizika)</string>
+                <string language="en">mechanics (physics)</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120236</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120236:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/mechanics/rotations/ex10_3.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
