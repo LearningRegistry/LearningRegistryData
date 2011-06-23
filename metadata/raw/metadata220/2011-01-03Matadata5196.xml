@@ -1,0 +1,162 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76401</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76401</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>73224630-14d1-42e4-8192-06c44ee563db#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kísérlet az áramló folyadék oldalnyomásának vizsgálatára</string>
+            <string language="en">Experiment for the research of the pressure of the streaming </string>
+            <string language="x-mt-de">Experiment für die Forschung des Drucks des 
+Strömens</string>
+            <string language="x-mt-fr">Expérience pour la recherche de la pression de 
+couler</string>
+            <string language="x-mt-pt">Experiência para a pesquisa da pressão de 
+fluir</string>
+            <string language="x-mt-it">Esperimento per la ricerca della pressione del 
+flusso continuo</string>
+            <string language="x-mt-el">Πείραμα για την έρευνα της πίεσης της ροής</string>
+            <string language="x-mt-es">Experimento para la investigación de la presión
+de fluir</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A kísérlet ábrázolása</string>
+            <string language="en">Illustration of the experiment</string>
+          </description>
+          <keyword>
+            <string language="hu">áramlás,  </string>
+            <string language="en">streaming</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung des Experimentes</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Illustration de l'expérience</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Ilustração da experiência</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione dell'esperimento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Απεικόνιση του πειράματος</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Ilustración del experimento</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Strömen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">couler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fluir</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">flusso continuo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ροή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el fluir</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76401</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=73224630-14d1-42e4-8192-06c44ee563db&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

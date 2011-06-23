@@ -1,0 +1,540 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33652</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33652</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/3822</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3822</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3822</entry>
+          </identifier>
+          <title>
+            <string language="ca">Enginy. Suma de daus</string>
+            <string language="en">"Skill". Adding dice</string>
+            <string language="x-mt-de">"Fähigkeit". Hinzufügen der Würfel</string>
+            <string language="x-mt-fr">"compétence". Ajouter des matrices</string>
+            <string language="x-mt-pt">"habilidade". Adicionando dados</string>
+            <string language="x-mt-it">"abilità". Aggiunta dei dadi</string>
+            <string language="x-mt-el">"Ικανότητα". Η προσθήκη χωρίζει σε τετράγωνα</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">El miniespai "Enginy" proposa trobar una suma equivocada.
+
+A la imatge hi ha dues sumes fetes amb els puntets dels daus. Una d'aquestes sumes, però, està equivocada. S'ha de dir quina és.</string>
+            <string language="en">The "Skill" screen shows two sums made up of the dots on the upward face of two dice, and viewers are asked to identify the sum that is wrong.</string>
+          </description>
+          <keyword>
+            <string language="ca">algoritme</string>
+            <string language="en">algorithm</string>
+            <string language="es">algoritmo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">aritmètica</string>
+            <string language="en">arithmetic</string>
+            <string language="es">aritmética</string>
+          </keyword>
+          <keyword>
+            <string language="ca">càlcul</string>
+            <string language="en">calculation</string>
+            <string language="es">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">matemàtiques</string>
+            <string language="en">mathematics</string>
+            <string language="es">matemáticas</string>
+          </keyword>
+          <keyword>
+            <string language="ca">número</string>
+            <string language="en">number</string>
+            <string language="es">número</string>
+          </keyword>
+          <keyword>
+            <string language="ca">observació</string>
+            <string language="en">observation</string>
+            <string language="es">observación</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Der "Fähigkeit" Bildschirm zeigt zwei Summen, die
+von den Punkten auf dem aufwärts Gesicht von zwei Würfeln gebildet 
+werden, und Projektoren werden gebeten, die Summe zu kennzeichnen, die
+falsch ist.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'écran de "compétence" montre deux sommes 
+composées des points sur le visage ascendant de deux matrices, et des
+visualisateurs sont invités à identifier la somme qui est erronée.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A tela da "habilidade" mostra duas somas compostas
+dos pontos na cara ascendente de dois dados, e os visores são pedidos
+para identificar a soma que é errada.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Lo schermo "di abilità" mostra due somme composte
+dei puntini sulla faccia ascendente di due dadi ed i visori sono 
+chiesti di identificare la somma che è errata.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η οθόνη "ικανότητασ" εμφανίζει ότι δύο ποσά 
+φιαγμένα επάνω από σημεία στο ανοδικό πρόσωπο δύο χωρίζουν σε 
+τετράγωνα, και οι εμφανίσεις καλούνται να προσδιορίσουν το ποσό 
+που κάνει λάθος.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Algorithmus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Arithmetik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Berechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mathematik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beobachtung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">algorithme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">arithmétique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">calcul</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mathématiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">observation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">algoritmo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">aritmética</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">matemática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">número</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">observação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">procedura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aritmetica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">matematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">osservazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αλγόριθμος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμητική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μαθηματικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παρατήρηση</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">1.2</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Edu3
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/3822</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/3822</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpanzano
+N:jpanzano
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-10-31</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jcrayfor
+N:jcrayfor
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jcrayfor
+N:jcrayfor
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-08</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jsero
+N:jsero
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-20</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T21:30:14.29Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">0-99</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>very easy</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H1M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">La informació i els continguts que es difonen en el portal són de la Generalitat de Catalunya, de la CCMA i dels seus autors i tenen la consideració d'obres protegides de conformitat amb les disposicions del Reial Decret 1/1996, del 12 d'abril, pel qual s'aprova el text refós de la Llei de Propietat Intel·lectual, i resulten igualment d'aplicació els tractats internacionals subscrits en aquest camp. Només està autoritzat l'ús de la informació amb finalitats docents o per a ús personal, per tant, queda prohibida la comercialització o qualsevol altra activitat amb una finalitat o ús públic que es pugui realitzar amb continguts de la pàgina.</string>
+            <string language="x-t-cc">Edu3</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>6528</id>
+              <entry>
+                <string language="ca">Numeració i càlcul</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6540</id>
+              <entry>
+                <string language="ca">Els nombres, les seves formes de representació i el sistema de numeració</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6542</id>
+              <entry>
+                <string language="ca">Significats de les operacions i de les relacions entre unes i altres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6544</id>
+              <entry>
+                <string language="ca">Funcionalitat del càlcul i l'estimació</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6577</id>
+              <entry>
+                <string language="ca">Jocs matemàtics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7859</id>
+              <entry>
+                <string language="ca">Raonament i representació</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7876</id>
+              <entry>
+                <string language="ca">Noció i representació de quantitat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7880</id>
+              <entry>
+                <string language="ca">Estratègies de càlcul</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7884</id>
+              <entry>
+                <string language="ca">Estratègies per resoldre situacions que requereixin coneixements matemàtics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>53</id>
+              <entry>
+                <string language="ca">algoritme</string>
+                <string language="en">algorithm</string>
+                <string language="es">algoritmo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>88</id>
+              <entry>
+                <string language="ca">aritmètica</string>
+                <string language="en">arithmetic</string>
+                <string language="es">aritmética</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>170</id>
+              <entry>
+                <string language="ca">càlcul</string>
+                <string language="en">calculation</string>
+                <string language="es">cálculo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="ca">matemàtiques</string>
+                <string language="en">mathematics</string>
+                <string language="es">matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>905</id>
+              <entry>
+                <string language="ca">número</string>
+                <string language="en">number</string>
+                <string language="es">número</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>912</id>
+              <entry>
+                <string language="ca">observació</string>
+                <string language="en">observation</string>
+                <string language="es">observación</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/3822</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu3.cat/Edu3tv/Fitxa?p_id=22929</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

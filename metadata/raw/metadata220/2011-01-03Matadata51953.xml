@@ -1,0 +1,332 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/201016</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>201016</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/9835</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/9835</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/9835</entry>
+          </identifier>
+          <title>
+            <string language="ca">Com es fa un treball de recerca</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">Pàgina del portal edu365 amb informació i orientacions sobre com desenvolupar un treball de recerca i com redactar i presentar l'informe.</string>
+          </description>
+          <keyword>
+            <string language="ca">investigació</string>
+            <string language="en">research</string>
+            <string language="es">investigación</string>
+          </keyword>
+          <keyword>
+            <string language="ca">mètode d'investigació</string>
+            <string language="en">research method</string>
+            <string language="es">método de investigación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Forschung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Forschung Methode</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">recherche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">méthode de recherches</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pesquisa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">método da pesquisa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ricerca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">metodo di ricerca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έρευνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ερευνητική μέθοδος</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:edu365
+N:edu365
+EMAIL;TYPE=INTERNET:
+ORG:edu365
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:M. Lluïsa Abad i  Ricard Marsal
+N:M. Lluïsa Abad i  Ricard Marsal
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2002-05-06</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/9835</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/9835</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mabad1
+N:mabad1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-07-28</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mabad1
+N:mabad1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-07-28</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mabad1
+N:mabad1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-07-28</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T22:37:17.71Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>guide</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">15-18</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H0M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">No es permet un ús comercial de l'obra original ni de les possibles obres derivades, la distribució de les quals s'ha de fer amb una llicència igual a la que regula l'obra original.</string>
+            <string language="x-t-cc">CC: Reconeixement - NoComercial - CompartirIgual (by-nc-sa)</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/es/deed.ca</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>8495</id>
+              <entry>
+                <string language="ca">Com fer un treball de recerca</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>8497</id>
+              <entry>
+                <string language="ca">Exemples de treballs de recerca</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>9121</id>
+              <entry>
+                <string language="ca">Gestió i tractament de la informació</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>9125</id>
+              <entry>
+                <string language="ca">Recerca</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1093</id>
+              <entry>
+                <string language="ca">investigació</string>
+                <string language="en">research</string>
+                <string language="es">investigación</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1094</id>
+              <entry>
+                <string language="ca">mètode d'investigació</string>
+                <string language="en">research method</string>
+                <string language="es">método de investigación</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/9835</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu365.cat/batxillerat/recerca/comfer/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

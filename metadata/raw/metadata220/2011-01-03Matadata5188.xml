@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75204</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75204</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>fb8d7033-ca85-48cc-84f5-7a63619ac70b#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A kén</string>
+            <string language="en">The sulphur</string>
+            <string language="x-mt-de">Der Schwefel</string>
+            <string language="x-mt-fr">Le soufre</string>
+            <string language="x-mt-pt">O enxôfre</string>
+            <string language="x-mt-it">Lo zolfo</string>
+            <string language="x-mt-el">Το θείο</string>
+            <string language="x-mt-es">El sulfuro</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A kén módosulatai</string>
+            <string language="en">Alterations of sulphur</string>
+          </description>
+          <keyword>
+            <string language="hu">monoklin,  rombos,  monoklin kén,  rombos kén,  amorf,  amorf módosulat,  </string>
+            <string language="en">monoclinic, orthorhombic, monoclinic sulphur, rthorhombic sulphur, amorphous, plastic sulphur</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Änderungen des Schwefels</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Changements de soufre</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Alterações do enxôfre</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Alterazioni di zolfo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τροποποιήσεις του θείου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Alteraciones del sulfuro</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">monoclinic, orthorhombic, monoclinic Schwefel, 
+rthorhombic Schwefel, formloser, Plastikschwefel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">soufre monoclinique, orthorhombic, monoclinique, soufre
+rthorhombic, soufre amorphe et en plastique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">enxôfre monoclinic, orthorhombic, monoclinic, enxôfre 
+rthorhombic, enxôfre amorfo, plástico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">zolfo monoclinic, orthorhombic, monoclinic, zolfo 
+rthorhombic, zolfo amorfo e di plastica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μονοκλινικό, ορθορομβικό, μονοκλινικό θείο, rthorhombic 
+θείο, άμορφο, πλαστικό θείο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sulfuro monoclinic, orthorhombic, monoclinic, sulfuro 
+rthorhombic, sulfuro amorfo, plástico</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75204</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=fb8d7033-ca85-48cc-84f5-7a63619ac70b&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

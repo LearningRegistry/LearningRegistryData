@@ -1,0 +1,632 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33694</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33694</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/2254</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/2254</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/2254</entry>
+          </identifier>
+          <title>
+            <string language="ca">Dígits . Números qualificats</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">"Dígits" fa un repàs, en aquest capítol, dels diferents tipus de números, depenent, per exemple, del resultat de les seves sumes o divisons.
+
+Els matemàtics classifiquen els números en naturals, enters, fraccionaris, racionals... Però també hi ha números amb altres adjectius: perfectes, amics, capicua, triangulars, quadrats, cúbics, màgics, feliços, primers...
+
+Un número és perfecte quan la suma dels seus divisors resulta ell mateix. Un d'aquests números és el 6, ja que els seus divisors, 1, 2 i 3, sumen, justament, 6. 
+
+Els números amics són aquells en què la suma dels divisors d'un equival a la suma dels divisors de l'altre. Per exemple, el 220 i 284 són amics. 
+
+Els números capicua, o palindròmics, són aquells que es llegeixen igual tant si es comença per la dreta com per l'esquerra. 
+
+Hi ha números associats a figures geomètriques planes com els polígons. Per exemple, els números triangulars, quadrats, pentagonals o hexagonals. També hi ha números associats a figures de tres dimensions, com els números cúbics i els piramidals. 
+
+A l'obra de Dürer "La malenconia" hi apareix un quadrat màgic, és a dir, una graella quadrada amb números ordenats per files, columnes o diagonals que sumen sempre el mateix, l'anomenat número màgic. A la Sagrada Família de Barcelona hi ha un altre quadrat màgic que té com a número màgic el 33. 
+
+Un número és feliç quan la suma reiterada dels quadrats dels seus dígits acaba sent 1. Són números feliços el 7, el 10, el 13, el 19...
+
+Els números més atractius per als estudiosos són els primers. Un número és primer quan només es pot dividir per 1 i per si mateix. Per exemple, el 29, ja que només es pot dividir per 1 i per 29. 
+
+Avui en dia, els números primers es fan servir per encriptar els missatges que circulen per internet i per garantir-ne la confidencialitat.</string>
+          </description>
+          <keyword>
+            <string language="ca">algoritme</string>
+            <string language="en">algorithm</string>
+            <string language="es">algoritmo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">càlcul</string>
+            <string language="en">calculation</string>
+            <string language="es">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="ca">geometria</string>
+            <string language="en">geometry</string>
+            <string language="es">geometría</string>
+          </keyword>
+          <keyword>
+            <string language="ca">anàlisi matemàtic</string>
+            <string language="en">mathematical analysis</string>
+            <string language="es">análisis matemático</string>
+          </keyword>
+          <keyword>
+            <string language="ca">matemàtiques</string>
+            <string language="en">mathematics</string>
+            <string language="es">matemáticas</string>
+          </keyword>
+          <keyword>
+            <string language="ca">número</string>
+            <string language="en">number</string>
+            <string language="es">número</string>
+          </keyword>
+          <keyword>
+            <string language="ca">aritmètica</string>
+            <string language="en">numeracy</string>
+            <string language="es">conocimientos básicos para matemáticas</string>
+          </keyword>
+          <keyword>
+            <string language="ca">ciències</string>
+            <string language="en">sciences</string>
+            <string language="es">ciencias</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Algorithmus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Berechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">mathematische Analyse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mathematik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Numeracy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wissenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">algorithme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">calcul</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">analyse mathématique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mathématiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">capacité de calculer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">les sciences</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">algoritmo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">análise matemática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">matemática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">número</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">numeracy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ciências</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">procedura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">analisi matematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">matematica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numeracy</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scienze</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αλγόριθμος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μαθηματική ανάλυση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μαθηματικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίπεδο μαθηματικών γνώσεων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επιστήμες</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">1.2</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Edu3
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Edu3
+N:Edu3
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/2254</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/2254</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jpanzano
+N:jpanzano
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-19</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:nfuertes
+N:nfuertes
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:jsero
+N:jsero
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T22:56:13.54Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">6-99</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT0H6M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">La informació i els continguts que es difonen en el portal són de la Generalitat de Catalunya, de la CCMA i dels seus autors i tenen la consideració d'obres protegides de conformitat amb les disposicions del Reial Decret 1/1996, del 12 d'abril, pel qual s'aprova el text refós de la Llei de Propietat Intel·lectual, i resulten igualment d'aplicació els tractats internacionals subscrits en aquest camp. Només està autoritzat l'ús de la informació amb finalitats docents o per a ús personal, per tant, queda prohibida la comercialització o qualsevol altra activitat amb una finalitat o ús públic que es pugui realitzar amb continguts de la pàgina.</string>
+            <string language="x-t-cc">Edu3</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>6528</id>
+              <entry>
+                <string language="ca">Numeració i càlcul</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6530</id>
+              <entry>
+                <string language="ca">Relacions i canvi</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6540</id>
+              <entry>
+                <string language="ca">Els nombres, les seves formes de representació i el sistema de numeració</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6542</id>
+              <entry>
+                <string language="ca">Significats de les operacions i de les relacions entre unes i altres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6545</id>
+              <entry>
+                <string language="ca">Patrons, relacions i canvis</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6547</id>
+              <entry>
+                <string language="ca">Models i expressions matemàtiques per representar les relacions</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6622</id>
+              <entry>
+                <string language="ca">Matemàtiques i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6772</id>
+              <entry>
+                <string language="ca">Els nombres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>6790</id>
+              <entry>
+                <string language="ca">Matemàtiques, cultura i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7208</id>
+              <entry>
+                <string language="ca">Jocs matemàtics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7210</id>
+              <entry>
+                <string language="ca">Matemàtiques d'altres cultures</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7255</id>
+              <entry>
+                <string language="ca">Numeració i càlcul</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7256</id>
+              <entry>
+                <string language="ca">Els nombres, les seves formes de representació i el sistema de numeració</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7258</id>
+              <entry>
+                <string language="ca">Significats de les operacions i de les relacions entre unes i altres</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7262</id>
+              <entry>
+                <string language="ca">Relacions i canvi</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7265</id>
+              <entry>
+                <string language="ca">Models, expressions i matemàtiques per representar les relacions</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7267</id>
+              <entry>
+                <string language="ca">Situacions i estructures matemàtiques mitjançant símbols algebraics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7342</id>
+              <entry>
+                <string language="ca">Matemàtiques i societat</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7343</id>
+              <entry>
+                <string language="ca">Jocs matemàtics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>7345</id>
+              <entry>
+                <string language="ca">Matemàtiques, cultura i societat</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>53</id>
+              <entry>
+                <string language="ca">algoritme</string>
+                <string language="en">algorithm</string>
+                <string language="es">algoritmo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>170</id>
+              <entry>
+                <string language="ca">càlcul</string>
+                <string language="en">calculation</string>
+                <string language="es">cálculo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>544</id>
+              <entry>
+                <string language="ca">geometria</string>
+                <string language="en">geometry</string>
+                <string language="es">geometría</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>789</id>
+              <entry>
+                <string language="ca">anàlisi matemàtic</string>
+                <string language="en">mathematical analysis</string>
+                <string language="es">análisis matemático</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="ca">matemàtiques</string>
+                <string language="en">mathematics</string>
+                <string language="es">matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>905</id>
+              <entry>
+                <string language="ca">número</string>
+                <string language="en">number</string>
+                <string language="es">número</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>906</id>
+              <entry>
+                <string language="ca">aritmètica</string>
+                <string language="en">numeracy</string>
+                <string language="es">conocimientos básicos para matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="ca">ciències</string>
+                <string language="en">sciences</string>
+                <string language="es">ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/2254</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu3.cat/Edu3tv/Fitxa?p_id=19360</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
