@@ -1,0 +1,48 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "huid", 
+        "wonde", 
+        "medicijn", 
+        "huidtype", 
+        "kleefpleister", 
+        "kompres", 
+        "zwachtel", 
+        "ontsmettingsmiddel", 
+        "reisziekte", 
+        "constipatie", 
+        "diarree", 
+        "buikkramp", 
+        "pijnstiller", 
+        "voorraad", 
+        "reisbestemming", 
+        "arts", 
+        "apotheker", 
+        "condoom", 
+        "reis", 
+        "apotheek", 
+        "gezondheid"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/233274</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>233274</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:20270</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:20270</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>20270</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Wat stop je in je reisapotheek?</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Wil je zonder zorgen en goed voorbereid op vakantie vertrekken? Neem dan zeker een goed gevulde reisapotheek mee! In dit filmpje overlopen we welke producten noodzakelijk zijn in je reisapotheek.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">huid</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">wonde</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">medicijn</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">huidtype</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kleefpleister</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kompres</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">zwachtel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ontsmettingsmiddel</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">reisziekte</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">constipatie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">diarree</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">buikkramp</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">pijnstiller</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">voorraad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">reisbestemming</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">arts</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">apotheker</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">condoom</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">reis</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">apotheek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">gezondheid</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <version>\r\n            <string language=\"nl\">2010-03-03 11:06:29</string>\r\n          </version>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-03-20T01:55:49.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Animated Explanations\r\nFN:Animated Explanations \r\nEMAIL;TYPE=INTERNET: \r\nORG: Animated Explanations\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:oai:s01.klascement.net:20270</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>oai:s01.klascement.net:20270</entry>\r\n          </identifier>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-27T05:54:34.07Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>video</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>other</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">0-U</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <entity>els willems</entity>\r\n          <date>\r\n            <dateTime>2010-03-23</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>718</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>20270</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <identifier>\r\n        <catalog>oai</catalog>\r\n        <entry>20270</entry>\r\n      </identifier>\r\n      <location>\r\n        <uri>http://www.klascement.net/20270/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/20270/?ref=aspect"
+}
