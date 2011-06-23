@@ -1,0 +1,204 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/204801</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>204801</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1492</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1492</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1492</entry>
+          </identifier>
+          <title>
+            <string language="nl">Mobiele Telefoons</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Omdat het onderwerp gsm erg leeft zowel bij de kinderen in het basisonderwijs als in de eerste graad van het secundair onderwijs werd deze site opgericht. Door het bundelen van de vele informatie die over gsm's op internet staat, krijgen kinderen een leerzame website voorgeschoteld.Zij vinden veel antwoorden op vragen die zij over dit fenomeen hebben. De kinderen kunnen daarbij zelf hun keuze maken. De subtitels brengen structuur zodat kinderen in één oogopslag kunnen uitmaken of zij een item willen lezen of niet. Sommige kinderen weten immers al heel veel over mobieltjes, terwijl anderen er nog weinig van weten. Je vindt ook een testje die kinderen, nadat ze de site hebben bekeken, kunnen maken om hun kennis te testen.</string>
+          </description>
+          <keyword>
+            <string language="nl">gsm</string>
+          </keyword>
+          <keyword>
+            <string language="nl">mobiel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">telefoon</string>
+          </keyword>
+          <keyword>
+            <string language="nl">mobiele</string>
+          </keyword>
+          <keyword>
+            <string language="nl">communicatie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">sms</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-03-03T14:38:18.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Bob Rhebergen
+FN:Bob Rhebergen 
+EMAIL;TYPE=INTERNET: 
+ORG: Bob Rhebergen
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:1492</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:1492</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:06:07.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-13</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Deze site kunnen leerlingen uit het basisonderwijs gebruiken voor een spreekbeurt of werkstuk, maar de site kan natuurlijk ook heel goed gebruikt worden voor (of als aanvulling op) een andere les zoals in de Taalles: denk maar eens aan de invloed van de sms-taal op het dagelijkse taalgebruik, en wat betekenen al die afkortingen? Muziekles: laat kinderen hun eigen ringtone bedenken. Rekenles: wat kost het allemaal? Beeldende vorming: hoe moet jouw mobieltje eruit zien? Techniek-, of een geschiedenisles, enz, er zijn vele mogelijkheden.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1492</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>1492</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/1492/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
