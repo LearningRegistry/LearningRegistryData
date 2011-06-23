@@ -1,0 +1,244 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/81076</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>81076</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www2.edu.fi/materiaalipankki/files/orig/19_ohra.jpg</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www2.edu.fi/materiaalipankki/files/orig/19_ohra.jpg</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www2.edu.fi/materiaalipankki/files/orig/19_ohra.jpg</entry>
+          </identifier>
+          <title>
+            <string language="fi">Ohra</string>
+            <string language="en">Barley</string>
+            <string language="x-mt-de">Gerste</string>
+            <string language="x-mt-fr">Orge</string>
+            <string language="x-mt-pt">Cevada</string>
+            <string language="x-mt-it">Orzo</string>
+            <string language="x-mt-el">Κριθάρι</string>
+            <string language="x-mt-es">Cebada</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="fi">Viivapiirros ohrantähkästä.</string>
+            <string language="en">Line drawing of an ear of barley.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Zeile Zeichnung eines Ohrs der Gerste.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ligne schéma d'une oreille d'orge.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Linha desenho de uma orelha da cevada.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Riga illustrazione di un orecchio di orzo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχέδιο γραμμών ενός αυτιού του κριθαριού.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Línea gráfico de un oído de la cebada.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Heikki Luukkonen
+n:Luukkonen;Heikki
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Liisa Varis
+n:Varis;Liisa
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:HL-Mark
+n:HL-Mark
+org:HL-Mark
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Avence Oy
+n:Avence Oy
+org:Avence Oy
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/F4108A61-395E-93C0-6B2D-816C57DCCD47</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/F4108A61-395E-93C0-6B2D-816C57DCCD47</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:
+n:
+org:
+end:vcard</entity>
+          </contribute>
+          <language>fi</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-20T14:34:28.65Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fi">Creative Commons Nimeä-Epäkaupallinen-Tarttuva 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>985</id>
+            </taxon>
+            <taxon>
+              <id>501</id>
+            </taxon>
+            <taxon>
+              <id>599</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www2.edu.fi/materiaalipankki/files/orig/19_ohra.jpg</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www2.edu.fi/materiaalipankki/files/orig/19_ohra.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

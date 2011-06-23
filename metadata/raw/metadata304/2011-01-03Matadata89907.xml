@@ -1,0 +1,228 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/222575</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>222575</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www02.oph.fi/etalukio/venaja</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www02.oph.fi/etalukio/venaja</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www02.oph.fi/etalukio/venaja</entry>
+          </identifier>
+          <title>
+            <string language="en">Upper secondary distance learning - Russia</string>
+            <string language="fi">Etälukio - Venäjä</string>
+          </title>
+          <language>fi</language>
+          <language>ru</language>
+          <description>
+            <string language="en">The web course in Russian language in upper secondary distance learning is meant for students in upper secondary schools, but is also suitable for anyone who wants to learn Russian. Studies begin with letters and phonetics, and then progress to simple speech situations in everyday life and basic structures. The course goes through the basic grammar and deals with many interesting subject matters. On the website of upper secondary distance learning for Russia, the courses are named according to the curriculum, and the opening page of each course tells what kinds of subjects are dealt with. Navigation on the website is easy. First, there is the front page of the course, then the texts according to subjects, grammar, exercises, glossary and the ‘nice to know’ section, in which a subject in the course is dealt with in further detail. Most of the texts are also available as sound files.</string>
+            <string language="fi">Etälukion venäjän kielen verkkokurssi on tarkoitettu lukiolaisille, mutta myös kaikille muille, jotka haluavat oppia venäjän kielen taidon. Opiskelu aloitetaan kirjaimista ja äänteistä ja edetään arkielämän yksinkertaisiin puhetilanteisiin ja perusrakenteisiin. Kurssilla käydään läpi peruskielioppi ja sen lisäksi käsitellään monia mielenliintoisia aihepiirejä. Etälukion venäjän verkkosivuilla kurssit on nimetty opetussuunnitelman mukaisesti, ja kunkin kurssin etusivulla kerrotaan, millaisia aiheita käsitellään. Navigointi sivuilla on helppoa. Ensimmäisenä on kurssin etusivu, sitten tekstit aihepiirien mukaan, kielioppi, tehtävät, sanasto ja hauska tietää -osio, jossa jotakin kurssin asiaa käsitellään hieman syventäen. Useimmista teksteistä on olemassa myös äänitiedostot.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Eeva Antere
+n:Antere;Eeva
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Valeria Skotti
+n:Skotti;Valeria
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Ari Hepoaho
+n:Hepoaho;Ari
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/192B2CCB-6E79-767D-C990-A3CA8700253B</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/192B2CCB-6E79-767D-C990-A3CA8700253B</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Pekka Pirhonen
+n:Pirhonen;Pekka 
+org:Humap
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:50:02.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>audio</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>glossary</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://www02.oph.fi/etalukio/venaja/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>710</id>
+            </taxon>
+            <taxon>
+              <id>131</id>
+            </taxon>
+            <taxon>
+              <id>345</id>
+            </taxon>
+            <taxon>
+              <id>1115</id>
+            </taxon>
+            <taxon>
+              <id>1353</id>
+            </taxon>
+            <taxon>
+              <id>711</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www02.oph.fi/etalukio/venaja</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www02.oph.fi/etalukio/venaja</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

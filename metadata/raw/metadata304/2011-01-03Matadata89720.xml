@@ -1,0 +1,233 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/79940</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>79940</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_pusertaa-liivatteesta-vesi%5B1%5D.jpg</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_pusertaa-liivatteesta-vesi%5B1%5D.jpg</entry>
+          </identifier>
+          <title>
+            <string language="fi">Pusertaa liivatteesta vesi</string>
+            <string language="en">Squeezing water out of gelatine</string>
+            <string language="x-mt-de">Zusammendrücken des Wassers aus Gelatine heraus</string>
+            <string language="x-mt-fr">Serrage de l'eau hors de la gélatine</string>
+            <string language="x-mt-pt">Espremendo a água fora do gelatine</string>
+            <string language="x-mt-it">Comprimere acqua da gelatina</string>
+            <string language="x-mt-el">Συμπίεση του ύδατος από τη ζελατίνη</string>
+            <string language="x-mt-es">Exprimir el agua fuera de la gelatina</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="fi">Piirros liivatteen pusertamisesta ruoanvalmistuksessa</string>
+            <string language="en">Drawing of the squeezing of gelatine in the preparation of food</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Zeichnung des Zusammendrückens der Gelatine in der
+Vorbereitung der Nahrung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Schéma du serrage de la gélatine dans la 
+préparation de la nourriture</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenho de espremer do gelatine na preparação do
+alimento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione del comprimere della gelatina nella 
+preparazione di alimento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχέδιο της συμπίεσης της ζελατίνης κατά την 
+προετοιμασία των τροφίμων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Gráfico de exprimir de la gelatina en la 
+preparación del alimento</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Liisa Varis
+n:Varis;Liisa
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Heikki Luukkonen
+n:Luukkonen;Heikki
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Hengitysliitto Heli ry
+n:Hengitysliitto Heli ry
+org:Hengitysliitto Heli ry
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/1F7E3B11-BF8F-96B3-8E08-0AA2619F11D7</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/1F7E3B11-BF8F-96B3-8E08-0AA2619F11D7</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Leena Tuomala
+n:Tuomala;Leena 
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+          <language>fi</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE)
+N:National Centre for Technology in Education (NCTE)
+ORG:National Centre for Technology in Education (NCTE)
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:51:02.59Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="fi">Creative Commons Nimeä-Epäkaupallinen-Tarttuva 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>501</id>
+            </taxon>
+            <taxon>
+              <id>506</id>
+            </taxon>
+            <taxon>
+              <id>604</id>
+            </taxon>
+            <taxon>
+              <id>599</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>79940</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_pusertaa-liivatteesta-vesi%5B1%5D.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
