@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "pizzeria", 
+        "pizza place", 
+        "Pizzasallad", 
+        "Pizzasallad", 
+        "sallad", 
+        "salad", 
+        "avh\u00e4mtning", 
+        "takeaway", 
+        "Pizzaplatz", 
+        "Pizzasallad", 
+        "Salat", 
+        "Mitnehmer", 
+        "endroit de pizza", 
+        "Pizzasallad", 
+        "salade", 
+        "\u00e0 emporter", 
+        "lugar da pizza", 
+        "Pizzasallad", 
+        "salad", 
+        "afastado", 
+        "posto della pizza", 
+        "Pizzasallad", 
+        "insalata", 
+        "asportabile", 
+        "\u03b8\u03ad\u03c3\u03b7 \u03c0\u03b9\u03c4\u03c3\u03ce\u03bd", 
+        "Pizzasallad", 
+        "\u03c3\u03b1\u03bb\u03ac\u03c4\u03b1", 
+        "take-$l*away", 
+        "lugar de la pizza", 
+        "Pizzasallad", 
+        "ensalada", 
+        "de salida"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/27729</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>27729</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>522679</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522679</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522679</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Pizzasallad</string>\r\n            <string language=\"en\">Pizza salad</string>\r\n            <string language=\"x-mt-de\">Pizzasalat</string>\r\n            <string language=\"x-mt-fr\">Salade de pizza</string>\r\n            <string language=\"x-mt-pt\">Salad da pizza</string>\r\n            <string language=\"x-mt-it\">Insalata della pizza</string>\r\n            <string language=\"x-mt-el\">\u03a3\u03b1\u03bb\u03ac\u03c4\u03b1 \u03c0\u03b9\u03c4\u03c3\u03ce\u03bd</string>\r\n            <string language=\"x-mt-es\">Ensalada de la pizza</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Plastburkar med pizzasallad.</string>\r\n            <string language=\"en\">Plastic contianers with pizza salad.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">pizzeria</string>\r\n            <string language=\"en\">pizza place</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">Pizzasallad</string>\r\n            <string language=\"en\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">sallad</string>\r\n            <string language=\"en\">salad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">avh\u00e4mtning</string>\r\n            <string language=\"en\">takeaway</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Plastikcontianers mit Pizzasalat.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Contianers en plastique avec de la salade de \r\npizza.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Contianers pl\u00e1sticos com salad da pizza.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Contianers di plastica con l'insalata della \r\npizza.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u03a0\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03ac contianers \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03b1\u03bb\u03ac\u03c4\u03b1 \u03c0\u03b9\u03c4\u03c3\u03ce\u03bd.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Contianers pl\u00e1sticos con la ensalada de la \r\npizza.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Pizzaplatz</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Salat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Mitnehmer</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">endroit de pizza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">salade</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">\u00e0 emporter</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">lugar da pizza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">salad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">afastado</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">posto della pizza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">insalata</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">asportabile</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b8\u03ad\u03c3\u03b7 \u03c0\u03b9\u03c4\u03c3\u03ce\u03bd</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c3\u03b1\u03bb\u03ac\u03c4\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">take-$l*away</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">lugar de la pizza</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">Pizzasallad</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">ensalada</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">de salida</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522679-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522679-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:39:41.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:52:50.70Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>522679</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/522679.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/522679.jpg"
+}

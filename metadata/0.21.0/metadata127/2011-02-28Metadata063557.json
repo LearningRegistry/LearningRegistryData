@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "f\u00e4rg", 
+        "colour", 
+        "tavla", 
+        "painting", 
+        "m\u00e5la", 
+        "paint", 
+        "konstn\u00e4r", 
+        "artist", 
+        "Farbe", 
+        "Anstrich", 
+        "Farbe", 
+        "K\u00fcnstler", 
+        "couleur", 
+        "peinture", 
+        "peinture", 
+        "artiste", 
+        "cor", 
+        "pintura", 
+        "pintura", 
+        "artista", 
+        "colore", 
+        "pittura", 
+        "vernice", 
+        "artista", 
+        "\u03c7\u03c1\u03ce\u03bc\u03b1", 
+        "\u03b6\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae", 
+        "\u03c7\u03c1\u03ce\u03bc\u03b1", 
+        "\u03ba\u03b1\u03bb\u03bb\u03b9\u03c4\u03ad\u03c7\u03bd\u03b7\u03c2", 
+        "color", 
+        "pintura", 
+        "pintura", 
+        "artista"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/30115</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>30115</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>522750</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522750</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522750</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Konstn\u00e4r</string>\r\n            <string language=\"en\">Painter</string>\r\n            <string language=\"x-mt-de\">Maler</string>\r\n            <string language=\"x-mt-fr\">Peintre</string>\r\n            <string language=\"x-mt-pt\">Pintor</string>\r\n            <string language=\"x-mt-it\">Pittore</string>\r\n            <string language=\"x-mt-el\">\u0396\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2</string>\r\n            <string language=\"x-mt-es\">Pintor</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Konstn\u00e4r blandar f\u00e4rg p\u00e5 sin palett.</string>\r\n            <string language=\"en\">A painter mixes colours on his palette.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">f\u00e4rg</string>\r\n            <string language=\"en\">colour</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">tavla</string>\r\n            <string language=\"en\">painting</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">m\u00e5la</string>\r\n            <string language=\"en\">paint</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">konstn\u00e4r</string>\r\n            <string language=\"en\">artist</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Ein Maler mischt Farben auf seiner Palette.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Un peintre m\u00e9lange des couleurs sur sa palette.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Um pintor mistura cores em seu palette.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Un pittore mescola i colori sulla sua gamma di \r\ncolori.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u0388\u03bd\u03b1\u03c2 \u03b6\u03c9\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2 \u03b1\u03bd\u03b1\u03bc\u03b9\u03b3\u03bd\u03cd\u03b5\u03b9 \u03c4\u03b1 \u03c7\u03c1\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b1\u03bb\u03ad\u03c4\u03b1 \u03c4\u03bf\u03c5.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Un pintor mezcla colores en su gama de colores.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Farbe</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Anstrich</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Farbe</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">K\u00fcnstler</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">couleur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">peinture</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">peinture</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">artiste</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">cor</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">pintura</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">pintura</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">artista</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">colore</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">pittura</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">vernice</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">artista</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c7\u03c1\u03ce\u03bc\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b6\u03c9\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ae</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c7\u03c1\u03ce\u03bc\u03b1</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03ba\u03b1\u03bb\u03bb\u03b9\u03c4\u03ad\u03c7\u03bd\u03b7\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">color</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">pintura</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">pintura</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">artista</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:522750-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>522750-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:39:45.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:50:05.94Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>522750</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/522750.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/522750.jpg"
+}
