@@ -1,0 +1,184 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/24847</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>24847</entry>
+  </identifier>
+  <identifier>
+    <catalog>IML-NOT</catalog>
+    <entry>nrcfysik_208</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:nrcfysik_208</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-NOT</catalog>
+            <entry>nrcfysik_208</entry>
+          </identifier>
+          <title>
+            <string language="sv">Elevers lärande i fysik och naturvetenskap</string>
+          </title>
+          <language>sv</language>
+          <description>
+            <string language="sv">Konstruktivism är en sammanfattande teori som beskriver hur 
+elever lär sig och hur eleverna själva konstruerar 
+föreställningar om omvärlden.</string>
+          </description>
+          <keyword>
+            <string language="sv">lärande</string>
+          </keyword>
+          <keyword>
+            <string language="sv">didaktik</string>
+          </keyword>
+          <keyword>
+            <string language="sv">konstruktivism</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ekström;Peter
+FN:Peter Ekström
+ORG:nrcfysik
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>text</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-lre">5-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="en">Attribution-Noncommercial-No Derivative Works 3.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>334</id>
+              <entry>
+                <string language="en">didactics</string>
+                <string language="sv">didaktik</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:spindeln.iml.umu.se:nrcfysik_208-M</entry>
+          </identifier>
+          <identifier>
+            <catalog>IML-NOT</catalog>
+            <entry>nrcfysik_208-M</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Ekström;Peter
+FN:Peter Ekström
+ORG:nrcfysik
+END:VCARD</entity>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <date>
+              <dateTime>2008-08-30T21:20:58.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>sv</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Myndigheten för skolutveckling
+N:Myndigheten för skolutveckling
+ORG:Myndigheten för skolutveckling
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T06:06:40.21Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>IML-NOT</catalog>
+      <entry>nrcfysik_208</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.fysik.org/didaktik/fysikdidaktik/konstr1.asp</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
