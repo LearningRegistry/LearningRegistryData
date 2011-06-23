@@ -1,0 +1,59 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "knytn\u00e4ve", 
+        "fist", 
+        "n\u00e4ve", 
+        "fist", 
+        "kamp", 
+        "combat", 
+        "seger", 
+        "victory", 
+        "Faust", 
+        "Faust", 
+        "Kampf", 
+        "Sieg", 
+        "poing", 
+        "poing", 
+        "combat", 
+        "victoire", 
+        "punho", 
+        "punho", 
+        "combate", 
+        "vit\u00f3ria", 
+        "pugno", 
+        "pugno", 
+        "combattimento", 
+        "vittoria", 
+        "\u03c0\u03c5\u03b3\u03bc\u03ae", 
+        "\u03c0\u03c5\u03b3\u03bc\u03ae", 
+        "\u03b1\u03b3\u03ce\u03bd\u03b1\u03c2", 
+        "\u03bd\u03af\u03ba\u03b7", 
+        "pu\u00f1o", 
+        "pu\u00f1o", 
+        "combate", 
+        "victoria"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/27192</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>27192</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>IML-MMB</catalog>\r\n    <entry>536299</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536299</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536299</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"sv\">Knuten n\u00e4ve</string>\r\n            <string language=\"en\">Fist</string>\r\n            <string language=\"x-mt-de\">Faust</string>\r\n            <string language=\"x-mt-fr\">Poing</string>\r\n            <string language=\"x-mt-pt\">Punho</string>\r\n            <string language=\"x-mt-it\">Pugno</string>\r\n            <string language=\"x-mt-el\">\u03a0\u03c5\u03b3\u03bc\u03ae</string>\r\n            <string language=\"x-mt-es\">Pu\u00f1o</string>\r\n          </title>\r\n          <language>x-none</language>\r\n          <description>\r\n            <string language=\"sv\">Knuten n\u00e4ve.</string>\r\n            <string language=\"en\">A clenched fist.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"sv\">knytn\u00e4ve</string>\r\n            <string language=\"en\">fist</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">n\u00e4ve</string>\r\n            <string language=\"en\">fist</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">kamp</string>\r\n            <string language=\"en\">combat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"sv\">seger</string>\r\n            <string language=\"en\">victory</string>\r\n          </keyword>\r\n          <description>\r\n            <string language=\"x-mt-de\">Eine zusammengeprgessene Faust.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Un poing serr\u00e9.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Um punho clenched.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Un pugno serrato.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">\u039c\u03b9\u03b1 \u03c3\u03c6\u03b9\u03b3\u03b3\u03bc\u03ad\u03bd\u03b7 \u03c0\u03c5\u03b3\u03bc\u03ae.</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Un pu\u00f1o apretado.</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Faust</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Faust</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Kampf</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Sieg</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">poing</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">poing</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">combat</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">victoire</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">punho</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">punho</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">combate</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">vit\u00f3ria</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">pugno</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">pugno</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">combattimento</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">vittoria</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c0\u03c5\u03b3\u03bc\u03ae</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03c0\u03c5\u03b3\u03bc\u03ae</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03b1\u03b3\u03ce\u03bd\u03b1\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u03bd\u03af\u03ba\u03b7</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">pu\u00f1o</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">pu\u00f1o</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">combate</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">victoria</string>\r\n          </keyword>\r\n        </general>\r\n        <lifeCycle>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleValues</source>\r\n              <value>publisher</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:MSU\r\nFN:MSU\r\nORG:MSU\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>image</value>\r\n          </learningResourceType>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">7-18</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 3.0</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>632</id>\r\n              <entry>\r\n                <string language=\"en\">image</string>\r\n                <string language=\"sv\">bild</string>\r\n              </entry>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:spindeln.iml.umu.se:536299-1</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>IML-MMB</catalog>\r\n            <entry>536299-1</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:Iselow;Mikael\r\nFN:Mikael Iselow\r\nORG:MMB\r\nEND:VCARD</entity>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-07-03T01:42:16.0Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n          <language>sv</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Myndigheten f\u00f6r skolutveckling\r\nN:Myndigheten f\u00f6r skolutveckling\r\nORG:Myndigheten f\u00f6r skolutveckling\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-04-26T05:42:02.10Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>IML-MMB</catalog>\r\n      <entry>536299</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>image/jpeg</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://vix.iml.umu.se/mmb/536299.jpg</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://vix.iml.umu.se/mmb/536299.jpg"
+}
