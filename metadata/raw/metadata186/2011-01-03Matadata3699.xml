@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77627</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77627</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>3c802298-6ce8-4220-9c51-fd4789339649#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A kettéosztott Berlin</string>
+            <string language="en">The halved Berlin</string>
+            <string language="x-mt-de">Das halbierte Berlin</string>
+            <string language="x-mt-fr">Berlin divisé en deux</string>
+            <string language="x-mt-pt">A Berlim halved</string>
+            <string language="x-mt-it">Berlino divisa in due</string>
+            <string language="x-mt-el">Το διχοτομημένο Βερολίνο</string>
+            <string language="x-mt-es">La Berlín partida en dos</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Színes térkép Berlin két részéről</string>
+            <string language="en">Color picture about the two parts of Berlin</string>
+          </description>
+          <keyword>
+            <string language="hu">berlini fal,  </string>
+            <string language="en">Berlin Wall</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Färben Sie Abbildung über die zwei Teile von 
+Berlin</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Colorez l'image au sujet des deux parties de 
+Berlin</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Colora o retrato sobre as duas partes de Berlim</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Colori l'immagine circa le due parti di Berlino</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα χρώματος για τα δύο μέρη του Βερολίνου</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Coloree el cuadro sobre las dos partes de 
+Berlín</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Berliner Mauer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Mur de Berlin</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Parede De Berlim</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Parete Di Berlino</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τείχος του Βερολίνου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Pared De Berlín</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77627</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=3c802298-6ce8-4220-9c51-fd4789339649&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
