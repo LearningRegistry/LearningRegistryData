@@ -1,0 +1,269 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/202950</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>202950</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:35eb7c86-660f-474f-8e4b-aee6ac21c9d8</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A ház körül</string>
+            <string language="en-US">Around the house</string>
+            <string language="x-mt-de">Um das Haus</string>
+            <string language="x-mt-fr">Autour de la maison</string>
+            <string language="x-mt-pt">Em torno da casa</string>
+            <string language="x-mt-it">Intorno alla casa</string>
+            <string language="x-mt-el">Γύρω από το σπίτι</string>
+            <string language="x-mt-es">Alrededor de la casa</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Kert</string>
+            <string language="en-US">Garden</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">állat</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">emlős</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">élőhely</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">ház</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Garten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Jardin</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Jardim</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Giardino</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κήπος</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Jardín</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-02-23T03:00:16.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:35eb7c86-660f-474f-8e4b-aee6ac21c9d8</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2010-02-23T03:00:16.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:07:59.52Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en-US">sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en-US">natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=35eb7c86-660f-474f-8e4b-aee6ac21c9d8</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-WebNormal</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-WebNormal-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/35eb7c86-660f-474f-8e4b-aee6ac21c9d8/1/6/ResourceNormal/k1342.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-Thumbnail</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>thumbnail</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>35eb7c86-660f-474f-8e4b-aee6ac21c9d8-Thumbnail-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/35eb7c86-660f-474f-8e4b-aee6ac21c9d8/1/6/ResourcePreview/k1342.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
