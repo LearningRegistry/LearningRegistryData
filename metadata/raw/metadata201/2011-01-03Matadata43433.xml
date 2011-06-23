@@ -1,0 +1,193 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/87130</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>87130</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:60b9bb63651cf3d940b7c672d2ec7b0241190ae1</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>60b9bb63651cf3d940b7c672d2ec7b0241190ae1</entry>
+          </identifier>
+          <title>
+            <string language="et">Kas tunned Eesti muusikat 12.klassile</string>
+            <string language="en">Do you know Estonian music 12. grade</string>
+            <string language="x-mt-de">Kennen Sie estnischen Grad der Musik 12.</string>
+            <string language="x-mt-fr">Vous connaissez la catégorie estonienne de la 
+musique 12.</string>
+            <string language="x-mt-pt">Você sabe a classe estonian da música 12.</string>
+            <string language="x-mt-it">Conoscete il grado estone di musica 12.</string>
+            <string language="x-mt-el">Ξέρετε την εσθονική μουσική 12, βαθμός</string>
+            <string language="x-mt-es">Usted sabe el grado estonio de la música 12.</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">ristsõna</string>
+            <string language="en">Crossword</string>
+          </description>
+          <keyword>
+            <string language="et">Muusikaõpetus</string>
+            <string language="et">Muusikaajalugu IV kooliastmele</string>
+            <string language="en">Music history for fourth school grade</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Kreuzworträtsel</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Mots croisé</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Crossword</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Parole incrociate</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σταυρόλεξο</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Crucigrama</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musikgeschichte für vierten Schulegrad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Histoire de musique pour la quatrième catégorie 
+d'école</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">History da música para a quarta classe da escola</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Storia di musica per il grado della scuola di 
+quarto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ιστορία μουσικής για την τέταρτη σχολική τάξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Historia de la música para el cuarto grado de la 
+escuela</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:en Do you know Estonian music 12. grade
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:60b9bb63651cf3d940b7c672d2ec7b0241190ae1</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>60b9bb63651cf3d940b7c672d2ec7b0241190ae1</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T20:58:34.89Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">16-18</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>858</id>
+            </taxon>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>87130</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=60b9bb63651cf3d940b7c672d2ec7b0241190ae1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

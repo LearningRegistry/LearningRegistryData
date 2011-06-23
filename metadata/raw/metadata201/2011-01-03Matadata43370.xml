@@ -1,0 +1,190 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/86568</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>86568</entry>
+  </identifier>
+  <identifier>
+    <catalog>1</catalog>
+    <entry>ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+          </identifier>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+          </identifier>
+          <title>
+            <string language="et">Kunstiõpetusest</string>
+            <string language="en">About art education</string>
+            <string language="x-mt-de">Über kunstausbildung</string>
+            <string language="x-mt-fr">Au sujet de l'éducation d'art</string>
+            <string language="x-mt-pt">Sobre a instrução da arte</string>
+            <string language="x-mt-it">Circa formazione di arte</string>
+            <string language="x-mt-el">Περίπου αισθητική αγωγή</string>
+            <string language="x-mt-es">Sobre la educación del arte</string>
+          </title>
+          <language>et</language>
+          <description>
+            <string language="et">Kunstiõpetusest</string>
+            <string language="en">About art education</string>
+          </description>
+          <keyword>
+            <string language="et">Kunstiõpetus</string>
+            <string language="en">Art</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Über kunstausbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Au sujet de l'éducation d'art</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Sobre a instrução da arte</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Circa formazione di arte</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Περίπου αισθητική αγωγή</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Sobre la educación del arte</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kunst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Art</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Arte</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Zagorskaja;Ulvi;;;
+FN:Ulvi Zagorskaja
+ORG:
+EMAIL;TYPE=internet,pref:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ait.opetaja.ee:ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+          </identifier>
+          <language>et</language>
+          <identifier>
+            <catalog>1</catalog>
+            <entry>ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+          </identifier>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Tallinn University
+N:Tallinn University
+ORG:Tallinn University
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T23:37:20.16Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-t-LRE">-1 - 9999</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">copyright</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>91</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>1</catalog>
+      <entry>ff44d62c4f9c8d70476b408e7bf665c158445d65</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://ait.opetaja.ee/WaramuWeb/metadata?catalog=1&amp;id=ff44d62c4f9c8d70476b408e7bf665c158445d65</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
