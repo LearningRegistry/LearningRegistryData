@@ -1,0 +1,276 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/236100</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>236100</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>aspect:showcase/1003</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:showcase/1003</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:showcase/1003</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre-fmf</catalog>
+            <entry>aspect:fmf/FMF-00001</entry>
+          </identifier>
+          <title>
+            <string language="sl">Eulerjeva premica in krožnica</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Sestavek vsebuje interaktivni prikaz znamenitih točk trikotnika (težišče, središče očrtanega kroga, višinska točka) in njihove povezanosti Eulerjevo premico/daljico ter Eulerjevo krožnico.</string>
+          </description>
+          <keyword>
+            <string language="sl">matematika</string>
+          </keyword>
+          <keyword>
+            <string language="sl">geometrija</string>
+          </keyword>
+          <keyword>
+            <string language="sl">težišče</string>
+          </keyword>
+          <keyword>
+            <string language="sl">središče očrtanega kroga</string>
+          </keyword>
+          <keyword>
+            <string language="sl">višinska točka</string>
+          </keyword>
+          <keyword>
+            <string language="sl">eulerjeva premica</string>
+          </keyword>
+          <keyword>
+            <string language="sl">aspect_showcase</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Irena Bržan
+N:Bržan;Irena;;;
+ORG:UL FMF
+END:VCARD</entity>
+            <date>
+              <dateTime>1998-03-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:aspect:showcase/1003</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>aspect:showcase/1003</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre-fmf</catalog>
+            <entry>aspect:fmf/FMF-00001</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Vladimir Batagelj
+N:Batagelj;Vladimir;;
+ORG:UL FMF
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-15</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-19</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:59:23.22Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>experiment</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-20</string>
+          </typicalAgeRange>
+          <typicalLearningTime>
+            <duration>PT1H</duration>
+            <description>
+              <string language="sl">1 ura</string>
+            </description>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/deed.sl</string>
+            <string language="sl">Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji 2.5 Generična</string>
+            <string language="en">Creative Commons - Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="sl">matematika</string>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>544</id>
+              <entry>
+                <string language="sl">geometrija</string>
+                <string language="en">geometry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:showcase/1003:html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:showcase/1003:html:item</entry>
+      </identifier>
+      <location>
+        <uri>http://lgm.fri.uni-lj.si/aspect/showcase/euler_sl/index.html</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:showcase/1003:scorm</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v1p2</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:showcase/1003:scorm:item</entry>
+      </identifier>
+      <location>
+        <uri>http://lgm.fri.uni-lj.si/aspect/showcase/packages/eulerjeva_premica_sl_scorm.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>aspect:showcase/1003:cc</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>aspect:showcase/1003:cc:item</entry>
+      </identifier>
+      <location>
+        <uri>http://lgm.fri.uni-lj.si/aspect/showcase/packages/eulerjeva_premica_sl_cc.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
