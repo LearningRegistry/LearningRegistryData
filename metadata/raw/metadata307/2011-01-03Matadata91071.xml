@@ -1,0 +1,250 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/222927</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>222927</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www.edu.fi//oppimateriaalit/suomenlinna</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.edu.fi//oppimateriaalit/suomenlinna</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www.edu.fi//oppimateriaalit/suomenlinna</entry>
+          </identifier>
+          <title>
+            <string language="en">Adventure on Suomenlinna</string>
+            <string language="fi">Seikkailu Suomenlinnassa</string>
+            <string language="x-mt-de">Abenteuer auf Suomenlinna</string>
+            <string language="x-mt-fr">Aventure sur Suomenlinna</string>
+            <string language="x-mt-pt">Aventura em Suomenlinna</string>
+            <string language="x-mt-it">Avventura su Suomenlinna</string>
+            <string language="x-mt-el">Περιπέτεια σε Suomenlinna</string>
+            <string language="x-mt-es">Aventura en Suomenlinna</string>
+          </title>
+          <language>en</language>
+          <language>fi</language>
+          <description>
+            <string language="en">A teaching program in the form of an adventure, introducing the student in an interesting way to Suomenlinna Fortress and Finnish history. The pupil advances in the adventure with the aid of a map, and solves various tasks along the way.</string>
+            <string language="fi">Seikkailumuotoinen opetusohjelma, jossa tutustutaan mielenkiintoisella tavalla Suomenlinnaan sekä Suomen historiaan. Oppilas etenee seikkailussa kartan avulla, ja ratkaisee matkan varrella erilaisia tehtäviä.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Ein Lernprogramm in Form eines Abenteuers, den 
+Kursteilnehmer in einer interessanten Methode zur Suomenlinna Festung 
+und zur finnischen Geschichte vorstellend. Die Pupille rückt in
+das Abenteuer mit dem Hilfsmittel einer Karte vor und löst 
+verschiedene Aufgaben entlang der Methode.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un programme d'enseignement sous forme d'aventure,
+présentant l'étudiant d'une voie intéressante à la forteresse de 
+Suomenlinna et à l'histoire finlandaise. La pupille avance dans
+l'aventure à l'aide d'une carte, et résout divers charge le
+long de la voie.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um programa de ensino no formulário de uma 
+aventura, introduzindo o estudante em uma maneira interessante ao 
+fortress de Suomenlinna e ao history finnish. A pupila avança 
+na aventura com o dae (dispositivo automático de entrada) de um mapa,
+e resolve várias tarefas ao longo da maneira.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un programma di insegnamento sotto forma 
+d'un'avventura, introducente l'allievo in un modo interessante al 
+fortress di Suomenlinna ed alla storia finlandese. La pupilla 
+avanza nell'avventura con l'aiuto di un programma e risolve le varie 
+mansioni lungo il modo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα πρόγραμμα διδασκαλίας υπό μορφή περιπέτειας, που
+εισάγει το σπουδαστή με έναν ενδιαφέροντα τρόπο στο φρούριο 
+Suomenlinna και τη φινλανδική ιστορία. Οι πρόοδοι μαθητών
+στην περιπέτεια με την ενίσχυση ενός χάρτη, και λύνουν τις 
+διάφορες στοιχειώδεις εργασίες κατά μήκος του τρόπου.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un programa de enseñanza en la forma de una 
+aventura, introduciendo al estudiante de una manera interesante a la 
+fortaleza de Suomenlinna y a la historia finlandesa. La pupila 
+avanza en la aventura con la ayuda de una correspondencia, y soluciona
+varias tareas a lo largo de la manera.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Paula Reinikkala
+n:Reinikkala;Paula
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Jouni Kovero
+n:Kovero;Jouni
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/818548B8-4911-71BB-5BB6-D6010ABD0B7F</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/818548B8-4911-71BB-5BB6-D6010ABD0B7F</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Annika Ranta
+n:Ranta;Annika 
+org:Humap
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:50:40.52Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Creative Commons Nimeä-Epäkaupallinen-Ei muutettuja teoksia 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1281</id>
+            </taxon>
+            <taxon>
+              <id>1024</id>
+            </taxon>
+            <taxon>
+              <id>492</id>
+            </taxon>
+            <taxon>
+              <id>590</id>
+            </taxon>
+            <taxon>
+              <id>1025</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www.edu.fi//oppimateriaalit/suomenlinna</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.edu.fi//oppimateriaalit/suomenlinna</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

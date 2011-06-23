@@ -1,0 +1,237 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/222628</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>222628</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_kumota-kakku%5B1%5D.jpg</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_kumota-kakku%5B1%5D.jpg</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_kumota-kakku%5B1%5D.jpg</entry>
+          </identifier>
+          <title>
+            <string language="en">Removing a cake</string>
+            <string language="fi">Kumota kakku</string>
+            <string language="x-mt-de">Löschen eines Kuchens</string>
+            <string language="x-mt-fr">Retirer un gâteau</string>
+            <string language="x-mt-pt">Removendo um bolo</string>
+            <string language="x-mt-it">Rimozione della torta</string>
+            <string language="x-mt-el">Αφαίρεση ενός κέικ</string>
+            <string language="x-mt-es">Quitar una torta</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="en">Drawing of removing a cake in the preparation of food</string>
+            <string language="fi">Piirros kakun kumoamisesta ruoanvalmistuksessa</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Zeichnung des Löschens eines Kuchens in der 
+Vorbereitung der Nahrung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Schéma de retirer un gâteau dans la préparation
+de la nourriture</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenho de remover um bolo na preparação do 
+alimento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Illustrazione della rimozione della torta nella 
+preparazione di alimento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχέδιο της αφαίρεσης ενός κέικ κατά την προετοιμασία
+των τροφίμων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Gráfico de quitar una torta en la preparación 
+del alimento</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Heikki Luukkonen
+n:Luukkonen;Heikki
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Liisa Varis
+n:Varis;Liisa
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Hengitysliitto Heli ry
+n:Hengitysliitto Heli ry
+org:Hengitysliitto Heli ry
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/B3C46904-5926-DC5A-63DA-20DF811455E6</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/B3C46904-5926-DC5A-63DA-20DF811455E6</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Katja Pajuluoma
+n:Pajuluoma;Katja 
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:54:53.69Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Creative Commons Nimeä-Epäkaupallinen-Tarttuva 1.0</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>506</id>
+            </taxon>
+            <taxon>
+              <id>501</id>
+            </taxon>
+            <taxon>
+              <id>604</id>
+            </taxon>
+            <taxon>
+              <id>599</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_kumota-kakku%5B1%5D.jpg</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www2.edu.fi/materiaalipankki/showfile.php?id=73&amp;file=73_kumota-kakku%5B1%5D.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
