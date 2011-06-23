@@ -1,0 +1,208 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/231747</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>231747</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:21888</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:21888</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>21888</entry>
+          </identifier>
+          <title>
+            <string language="nl">Hit the target</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="it">The program gives a number as a target to hit using  three or four numbers, depending on the children's choice. Children have to find out which operation is necessary to reach the target number using two of the three or four  numbers given by the system.
+The software has two language options: Italian and English.</string>
+          </description>
+          <keyword>
+            <string language="it">game</string>
+          </keyword>
+          <keyword>
+            <string language="it">maths</string>
+          </keyword>
+          <keyword>
+            <string language="it">primary</string>
+          </keyword>
+          <keyword>
+            <string language="it">division</string>
+          </keyword>
+          <keyword>
+            <string language="it">moltiplication</string>
+          </keyword>
+          <keyword>
+            <string language="it">subtraction</string>
+          </keyword>
+          <keyword>
+            <string language="it">Addition</string>
+          </keyword>
+          <keyword>
+            <string language="it">teach to learn</string>
+          </keyword>
+          <keyword>
+            <string language="it">Travel well</string>
+          </keyword>
+          <keyword>
+            <string language="it">universal</string>
+          </keyword>
+          <keyword>
+            <string language="it">Travelwell</string>
+          </keyword>
+          <keyword>
+            <string language="it">eQNet</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="it">2010-04-21 23:01:45</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2010-04-22T15:25:28.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Ivana Sacchi
+FN:Ivana Sacchi 
+EMAIL;TYPE=INTERNET: 
+ORG: Ivana Sacchi
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:21888</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:21888</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T05:37:19.00Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-9</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">This software can be used individually or in pairs at the computer or in plenary by an IWB</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>21888</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>21888</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/21888/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
