@@ -1,0 +1,49 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Talrijk", 
+        "lustrum", 
+        "decennium", 
+        "eeuw", 
+        "tijdsduur", 
+        "kwartaal", 
+        "trimester", 
+        "semester", 
+        "schrikkeljaar", 
+        "jaar", 
+        "seconde", 
+        "uur", 
+        "minuut", 
+        "digitale klok", 
+        "analoge klok", 
+        "digitaal", 
+        "analoog", 
+        "Greenwich", 
+        "tijdzone", 
+        "tijd", 
+        "dag", 
+        "etmaal"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/114374</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>114374</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:9967</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>9967</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Tijdmeting</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Instructieles over tijdmeting. In deze presentatie komen volgende onderwerpen aan bod: een dag duurt 24 uurtijdzonesde tijd aflezen op een analoge en digitale klokeen jaar duurt 365 dagenschrikkeljaarsemester, trimester, kwartaaltijdsduur berekenen in dageneen eeuw duurt 100 jaarIn de presentatie zit ook een quiz verwerkt waardoor de leerlingen hun kennis i.v.m. tijdmeting kunnen testen.Deze les sluit aan bij les 26 uit de methode Talrijk (zesde leerjaar).</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">Talrijk</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lustrum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">decennium</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">eeuw</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tijdsduur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kwartaal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">trimester</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">semester</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">schrikkeljaar</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">jaar</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">seconde</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">uur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">minuut</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">digitale klok</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">analoge klok</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">digitaal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">analoog</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">Greenwich</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tijdzone</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tijd</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">dag</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">etmaal</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>4</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-11-26T15:31:15.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Herman Van Herbruggen\r\nFN:Herman Van Herbruggen \r\nEMAIL;TYPE=INTERNET: \r\nORG: Herman Van Herbruggen\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:9967</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>9967</entry>\r\n          </identifier>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>LRE.roleMetaValues</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2009-03-31T09:33:13.02Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>presentation</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">10-11</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n          </description>\r\n        </rights>\r\n        <annotation>\r\n          <entity>Vera Naessens</entity>\r\n          <date>\r\n            <dateTime>2008-11-16</dateTime>\r\n          </date>\r\n        </annotation>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>790</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>114374</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <parameter>\r\n      <vocabularyID>MIME</vocabularyID>\r\n      <value>application/zip</value>\r\n    </parameter>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.klascement.net/nieuws/9967/</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/nieuws/9967/"
+}
