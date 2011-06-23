@@ -1,0 +1,34 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Humanities", 
+        "Menschlichkeit", 
+        "Sciences humaines", 
+        "Humanities", 
+        "Studi umanistici", 
+        "\u0391\u03bd\u03b8\u03c1\u03c9\u03c0\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2", 
+        "Humanidad"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/103994</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>103994</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oercommons.org</catalog>\r\n            <entry>1770204861</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"en\">Meie pidup\ufffdevad - t\ufffd\ufffdleht</string>\r\n            <string language=\"x-mt-de\">Meie pidup?evad - t??leht</string>\r\n            <string language=\"x-mt-fr\">Pidup?evad de Meie - t??leht</string>\r\n            <string language=\"x-mt-pt\">Pidup?evad de Meie - t??leht</string>\r\n            <string language=\"x-mt-it\">Pidup?evad di Meie - t??leht</string>\r\n            <string language=\"x-mt-el\">Meie pidup?evad - t??leht</string>\r\n            <string language=\"x-mt-es\">Pidup?evad de Meie - t??leht</string>\r\n          </title>\r\n          <description>\r\n            <string language=\"en\">Rahvusp\ufffdhade ja pidup\ufffdevade tutvustamine</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"en\">Humanities</string>\r\n          </keyword>\r\n          <language>ru</language>\r\n          <description>\r\n            <string language=\"x-mt-de\">Rahvusp?hade ja pidup?evade tutvustamine</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-fr\">Tutvustamine de pidup?evade de ja de \r\nRahvusp?hade</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-pt\">Tutvustamine do pidup?evade do ja de \r\nRahvusp?hade</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-it\">Tutvustamine del pidup?evade di ja di \r\nRahvusp?hade</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-el\">Tutvustamine Rahvusp?hade ja pidup?evade</string>\r\n          </description>\r\n          <description>\r\n            <string language=\"x-mt-es\">Tutvustamine del pidup?evade del ja de \r\nRahvusp?hade</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"x-mt-de\">Menschlichkeit</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-fr\">Sciences humaines</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-pt\">Humanities</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-it\">Studi umanistici</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-el\">\u0391\u03bd\u03b8\u03c1\u03c9\u03c0\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"x-mt-es\">Humanidad</string>\r\n          </keyword>\r\n        </general>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oercommons.org</catalog>\r\n            <entry>1770204861</entry>\r\n          </identifier>\r\n          <language>ru</language>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>BEGIN:VCARD\r\nVERSION:3.0\r\nN:OERCommons\r\nFN:OERCommons\r\nORG:OERCommons\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <language>ru</language>\r\n        </educational>\r\n        <rights>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>\r\n            <string language=\"en\">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>\r\n          </description>\r\n        </rights>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>103994</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.oercommons.org/courses/meie-pidupaevad-tooleht</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.oercommons.org/courses/meie-pidupaevad-tooleht"
+}
