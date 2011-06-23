@@ -1,0 +1,147 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107953</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107953</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209315</entry>
+          </identifier>
+          <title>
+            <string language="en">Guitar Lesson 17: Swing Rhythm</string>
+            <string language="x-mt-de">Guitarre Lektion 17: Schwingen-Rhythmus</string>
+            <string language="x-mt-fr">Leçon 17 De Guitare : Rythme d'Oscillation</string>
+            <string language="x-mt-pt">Lição 17 Da Guitarra: Ritmo Do Balanço</string>
+            <string language="x-mt-it">Lezione 17 Del Guitar: Ritmo 
+Dell'Oscillazione</string>
+            <string language="x-mt-el">Μάθημα 17 κιθάρων: Ρυθμός ταλάντευσης</string>
+            <string language="x-mt-es">Lección 17 De la Guitarra: Ritmo Del 
+Oscilación</string>
+          </title>
+          <description>
+            <string language="en">Introduces swing rhythm and the theory behind added-note chords.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Stellt Schwingenrhythmus und die Theorie hinter 
+Hinzufügenanmerkung Akkorden vor.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente le rythme d'oscillation et la théorie 
+derrière des cordes d'ajouter-note.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz o ritmo do balanço e a teoria atrás das
+cordas da adicion-nota.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce il ritmo dell'oscillazione e la teoria 
+dietro le corde della aggiung-nota.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει το ρυθμό ταλάντευσης και τη θεωρία πίσω από 
+τις χορδές προσθέτω-σημειώσεων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce ritmo del oscilación y la teoría 
+detrás de acordes de la agregar-nota.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209315</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107953</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/guitar-lesson-17-swing-rhythm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

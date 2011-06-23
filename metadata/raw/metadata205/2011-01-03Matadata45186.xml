@@ -1,0 +1,155 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/103413</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>103413</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765086001</entry>
+          </identifier>
+          <title>
+            <string language="en">Conventions</string>
+            <string language="x-mt-de">Versammlungen</string>
+            <string language="x-mt-fr">Conventions</string>
+            <string language="x-mt-pt">Convenções</string>
+            <string language="x-mt-it">Convenzioni</string>
+            <string language="x-mt-el">Συνθήκες</string>
+            <string language="x-mt-es">Convenciones</string>
+          </title>
+          <description>
+            <string language="en">Conventions -- grammar, spelling, and the like -- are important to good writing, but should be taught only after the other Features of Effective Writing.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Versammlungen -- Grammatik, Rechtschreibung und 
+dergleichen -- sind zum guten Schreiben wichtig, aber sollten nur nach
+den anderen Merkmalen des wirkungsvollen Schreibens unterrichtet 
+werden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les conventions -- grammaire, épellation, et 
+semblables -- sont importantes pour la bonne écriture, mais devraient
+être enseignées seulement après les autres dispositifs de 
+l'écriture pertinente.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As convenções -- gramática, soletração, e o 
+gosto -- são importantes para a escrita boa, mas devem ser ensinadas 
+somente após as outras características da escrita eficaz.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Le convenzioni -- grammatica, ortografia e simili 
+-- sono importanti a buona scrittura, ma dovrebbero essere insegnate 
+solo dopo le altre caratteristiche di scrittura efficace.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι Συνθήκες -- γραμματική, ορθογραφία, και όμοιοι -- 
+είναι σημαντικές στο καλό γράψιμο, αλλά πρέπει να διδαχθούν 
+μόνο μετά από τα άλλα χαρακτηριστικά γνωρίσματα του 
+αποτελεσματικού γραψίματος.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las convenciones -- gramática, deletreo, y 
+similares -- son importantes para la buena escritura, pero deben ser 
+enseñadas solamente después de las otras características de la 
+escritura eficaz.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:KATHLEEN CALI
+FN:KATHLEEN CALI
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765086001</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>103413</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/conventions</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

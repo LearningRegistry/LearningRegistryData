@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104130</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104130</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205572</entry>
+          </identifier>
+          <title>
+            <string language="en">How to fly a Boeing 747</string>
+            <string language="x-mt-de">Wie man ein Boeing 747 fliegt</string>
+            <string language="x-mt-fr">Comment voler un Boeing 747</string>
+            <string language="x-mt-pt">Como voar um Boeing 747</string>
+            <string language="x-mt-it">Come volare un Boeing 747</string>
+            <string language="x-mt-el">Πώς να πετάξει ένα Boeing 747</string>
+            <string language="x-mt-es">Cómo volar un Boeing 747</string>
+          </title>
+          <description>
+            <string language="en">122 questions about the Boeing 747-100/200, arranged into random 20 question quizzes.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">122 Fragen über das Boeing 747-100/200, geordnet 
+in gelegentliche 20 fragen Quizen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">122 questions au sujet du Boeing 747-100/200, 
+disposé dans 20 aléatoires remettent en cause des jeux.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">122 perguntas sobre o Boeing 747-100/200, 
+arranjado em 20 aleatórios questionam quizzes.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">122 domande circa il Boeing 747-100/200, 
+organizzato in 20 casuali mettono in discussione i quiz.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">122 ερωτήσεις για το Boeing 747-100/200, που 
+τακτοποιείται σε τυχαίους 20 διαγωνισμοους γνώσεων ερώτησης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">122 preguntas sobre el Boeing 747-100/200, 
+dispuesto en 20 al azar preguntan concursos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:BRIAN M
+FN:BRIAN M
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205572</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104130</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/how-to-fly-a-boeing-747</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

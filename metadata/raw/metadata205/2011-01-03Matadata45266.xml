@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107126</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107126</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101522</entry>
+          </identifier>
+          <title>
+            <string language="en">The Cloudmakers</string>
+            <string language="x-mt-de">Das Cloudmakers</string>
+            <string language="x-mt-fr">Le Cloudmakers</string>
+            <string language="x-mt-pt">O Cloudmakers</string>
+            <string language="x-mt-it">Il Cloudmakers</string>
+            <string language="x-mt-el">Το Cloudmakers</string>
+            <string language="x-mt-es">El Cloudmakers</string>
+          </title>
+          <description>
+            <string language="en">Biological activity in the oceans might make the difference between clear skies and cloudy, Scripps researchers say.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Biologische Aktivität in den Ozeanen konnte 
+zwischen freien Himmeln unterscheiden und bewölkt, sagen Scripps 
+Forscher.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'activité biologique dans les océans pourrait 
+faire la différence entre les cieux clairs et nuageux, les chercheurs
+de Scripps disent.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A atividade biológica nos oceanos pôde fazer a 
+diferença entre céus desobstruídos e cloudy, os investigadores de 
+Scripps dizem.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'attività biologica negli oceani potrebbe fare 
+la differenza fra i cieli liberi e nuvoloso, i ricercatori di Scripps 
+dicono.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η βιολογική δραστηριότητα στους ωκεανούς να κάνει τη 
+διαφορά μεταξύ των σαφών ουρανών και νεφελώδης, οι ερευνητές 
+Scripps λένε.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La actividad biológica en los océanos pudo 
+diferenciar entre los cielos claros y nublado, los investigadores de 
+Scripps dicen.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCRIPPS INSTITUTION OF OCEANOGRAPHY
+FN:SCRIPPS INSTITUTION OF OCEANOGRAPHY
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101522</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107126</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/the-cloudmakers</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

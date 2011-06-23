@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106272</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106272</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101456</entry>
+          </identifier>
+          <title>
+            <string language="en">Reading a Mercury Barometer</string>
+            <string language="x-mt-de">Ablesen eines Quecksilber-Barometers</string>
+            <string language="x-mt-fr">Lecture d'un baromètre de mercure</string>
+            <string language="x-mt-pt">Lendo um barómetro do mercúrio</string>
+            <string language="x-mt-it">Lettura del barometro del mercurio</string>
+            <string language="x-mt-el">Ανάγνωση ενός βαρόμετρου υδραργύρου</string>
+            <string language="x-mt-es">Lectura de un barómetro del mercurio</string>
+          </title>
+          <description>
+            <string language="en">How to adjust and read a mercury barometer (1:15 min).</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Wie man ein Quecksilberbarometer (1:15 Minute) 
+justiert und liest.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Comment ajuster et lire un baromètre de mercure 
+(1:15 minute).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Como ajustar e ler um barómetro do mercúrio 
+(1:15 minuto).</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Come registrare e leggere un barometro del 
+mercurio (1:15 minuto).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πώς να ρυθμίσει και να διαβάσει ένα βαρόμετρο 
+υδραργύρου (1:15 λ.).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cómo ajustar y leer un barómetro del mercurio 
+(1:15 minuto).</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CSUSTAN-CISL
+FN:CSUSTAN-CISL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101456</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106272</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/reading-a-mercury-barometer</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108713</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108713</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210016</entry>
+          </identifier>
+          <title>
+            <string language="en">Wood Joints</string>
+            <string language="x-mt-de">Hölzerne Verbindungen</string>
+            <string language="x-mt-fr">Joints En bois</string>
+            <string language="x-mt-pt">Junções De madeira</string>
+            <string language="x-mt-it">Giunti Di legno</string>
+            <string language="x-mt-el">Ξύλινες ενώσεις</string>
+            <string language="x-mt-es">Empalmes De madera</string>
+          </title>
+          <description>
+            <string language="en">This simulation shows different wood joints for the construction of a chair and table. It also includes a loading test.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Diese Simulation zeigt unterschiedliche hölzerne 
+Verbindungen für den Aufbau eines Stuhls und der Tabelle. Sie 
+schließt auch einen Ladentest ein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cette simulation montre différents joints en bois
+pour la construction d'une chaise et d'une table. Elle inclut 
+également un essai de chargement.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta simulação mostra junções de madeira 
+diferentes para a construção de uma cadeira e de uma tabela. 
+Inclui também um teste do carregamento.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questa simulazione mostra i giunti di legno 
+differenti per la costruzione di una sedia e di una tabella. 
+Egualmente include una prova di caricamento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η προσομοίωση εμφανίζει διαφορετικές ξύλινες 
+ενώσεις για την κατασκευή μιας καρέκλας και ενός πίνακα. 
+Περιλαμβάνει επίσης μια δοκιμή φόρτωσης.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta simulación muestra diversos empalmes de 
+madera para la construcción de una silla y de un vector. 
+También incluye una prueba del cargamento.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:FOO LI MING
+FN:FOO LI MING
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:LEOW MUN TAT
+FN:LEOW MUN TAT
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DR. DANIEL CHURCHILL
+FN:DR. DANIEL CHURCHILL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210016</entry>
+          </identifier>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Custom License</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108713</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/wood-joints</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

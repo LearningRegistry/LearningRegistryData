@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108430</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108430</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202699</entry>
+          </identifier>
+          <title>
+            <string language="en">Which Word Is It?</string>
+            <string language="x-mt-de">Welches Wort Ist Es?</string>
+            <string language="x-mt-fr">Quel Mot Est-il ?</string>
+            <string language="x-mt-pt">Que Palavra É Ele?</string>
+            <string language="x-mt-it">Quale Parola È Esso?</string>
+            <string language="x-mt-el">Το ποιο Word είναι;</string>
+            <string language="x-mt-es">¿Qué Palabra Es Él?</string>
+          </title>
+          <description>
+            <string language="en">Students will determine the meaning of unfamiliar vocabulary words using Context Clues, a dictionary, and structural analysis within a game format.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer stellen die Bedeutung der nicht vertrauten 
+Wortschatzwörter mit Kontext-Anhaltspunkten, einem Verzeichnis und 
+struktureller Analyse innerhalb eines Spielformats fest.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants détermineront la signification des mots 
+peu familiers de vocabulaire en utilisant des indices de contexte, un 
+dictionnaire, et l'analyse structurale dans un format de jeu.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes determinarão o meaning de palavras 
+estranhas do vocabulário usando indícios do contexto, um 
+dicionário, e a análise estrutural dentro de um formato do jogo.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi determineranno il significato delle parole non
+pratiche di vocabolario usando gli indizii di contesto, un dizionario 
+e l'analisi strutturale all'interno di un formato del gioco.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα καθορίσουν την έννοια των άγνωστων 
+λέξεων λεξιλογίου χρησιμοποιώντας τις ενδείξεις συμφραζόμενων, 
+ένα λεξικό, και τη δομική ανάλυση μέσα σε μια μορφή παιχνιδιών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes determinarán el significado de las 
+palabras desconocedoras del vocabulario usando pistas del contexto, un
+diccionario, y análisis estructural dentro de un formato del juego.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DONNA HARKEY
+FN:DONNA HARKEY
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202699</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108430</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/which-word-is-it</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

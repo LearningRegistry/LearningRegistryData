@@ -1,0 +1,153 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/102969</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>102969</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204434</entry>
+          </identifier>
+          <title>
+            <string language="en">It's all about them!</string>
+            <string language="x-mt-de">Es ist ganz über sie!</string>
+            <string language="x-mt-fr">Elle est tout au sujet d'elles !</string>
+            <string language="x-mt-pt">É toda sobre elas!</string>
+            <string language="x-mt-it">È interamente circa loro!</string>
+            <string language="x-mt-el">Είναι όλος για τους!</string>
+            <string language="x-mt-es">¡Está todo sobre ellas!</string>
+          </title>
+          <description>
+            <string language="en">Students will create a class database in preparation for the North Carolina Test of Computer Skills using information about their classmates.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer erstellen eine Kategorie Datenbank in der 
+Vorbereitung für den Nord-Carolina Test der Computer-Fähigkeiten mit
+Informationen über ihre Mitschüler.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants créeront une base de données de classe en
+vue de l'essai du nord de la Caroline des qualifications 
+d'ordinateur en utilisant des informations sur leurs camarades de 
+classe.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes criarão uma base de dados da classe na 
+preparação para o teste de North.carolina de habilidades do 
+computador usando a informação sobre seus classmates.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi creeranno una base di dati del codice 
+categoria in preparazione per la prova del North.carolina delle 
+abilità del calcolatore usando le informazioni sui loro classmates.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα δημιουργήσουν μια βάση δεδομένων 
+κλάσης σε προετοιμασία για τη δοκιμή της βόρειας Καρολίνας των 
+δεξιοτήτων υπολογιστών χρησιμοποιώντας τις πληροφορίες για τους 
+συμμαθητές τους.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes crearán una base de datos de la clase en 
+la preparación para la prueba de Carolina del Norte de las 
+habilidades del ordenador usando la información sobre sus classmates.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SKIP THIBAULT
+FN:SKIP THIBAULT
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770204434</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>102969</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/its-all-about-them</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
