@@ -1,0 +1,330 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/69382</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>69382</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:uciteljska/111970</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/111970</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/111970</entry>
+          </identifier>
+          <title>
+            <string language="sl">Moje bralne navade</string>
+            <string language="en">My reading habits</string>
+            <string language="x-mt-de">Meine Lesegewohnheiten</string>
+            <string language="x-mt-fr">Mes habitudes de lecture</string>
+            <string language="x-mt-pt">Meus hábitos de leitura</string>
+            <string language="x-mt-it">Le mie abitudini di lettura</string>
+            <string language="x-mt-el">Οι συνήθειες ανάγνωσής μου</string>
+            <string language="x-mt-es">Mis hábitos de lectura</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Učenec na učnem listu pobarva za vsakodnevno 10 minutno branje eno od sličic.</string>
+            <string language="en">Keeping track of student reading by coloring one of the picture on the sheet for every 10 minute reading.</string>
+          </description>
+          <keyword>
+            <string language="sl">bralne navade</string>
+            <string language="en">reading habits</string>
+          </keyword>
+          <keyword>
+            <string language="sl">branje</string>
+            <string language="en">reading</string>
+          </keyword>
+          <keyword>
+            <string language="sl">slovenščina</string>
+            <string language="en">slovene</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Verfolgen Kursteilnehmermesswert durch die Färbung
+der Abbildung auf dem Blatt für jeden minuziösen Messwert 10.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Maintenir la lecture d'étudiant par le coloration 
+de l'image sur la feuille pour chaque lecture 10 minute.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Mantendo-se a par da leitura do estudante colorir 
+do retrato na folha para cada leitura 10 minuciosa.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Tenersi al corrente della lettura dell'allievo da 
+quella di coloritura dell'immagine sul foglio per ogni lettura minuta 
+10.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Παρακολουθώντας της ανάγνωσης σπουδαστών με το 
+χρωματισμό μιας από την εικόνα στο φύλλο για κάθε μικρή 
+ανάγνωση 10.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">No perder de vista la lectura del estudiante por el
+colorear del cuadro en la hoja para cada lectura minuciosa 10.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Lesegewohnheiten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Messwert</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">slovene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">habitudes de lecture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">lecture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">slovène</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hábitos de leitura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">leitura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">slovene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">abitudini di lettura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lettura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">slovene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συνήθειες ανάγνωσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανάγνωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σλοβένικα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hábitos de lectura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lectura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">esloveno</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Katja Jenko
+N:Jenko;Katja;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-18T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/111970</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/111970</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Katja Jenko
+N:Jenko;Katja;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-18T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-05-23T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-09-19T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-18T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:53:12.04Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-10</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/si/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string language="sl">jeziki</string>
+                <string language="en">languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>835</id>
+              <entry>
+                <string language="sl">moderni jeziki</string>
+                <string language="en">modern languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1192</id>
+              <entry>
+                <string language="sl">slovenski jezik</string>
+                <string language="en">Slovene language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:uciteljska/111970</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:uciteljska/111970:item</entry>
+      </identifier>
+      <location>
+        <uri>http://www.uciteljska.net/ucit_dl.php?id=1970&amp;n=0</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
