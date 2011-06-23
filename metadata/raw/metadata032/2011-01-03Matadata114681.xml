@@ -1,0 +1,521 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/164206</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>164206</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_104399</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_104399</entry>
+          </identifier>
+          <title>
+            <string language="en">How the amount of fertiliser affect the yield of a crop</string>
+            <string language="x-mt-de">Wie die Menge des Düngemittels das Ergebnis 
+eines Getreides beeinflussen</string>
+            <string language="x-mt-fr">Comment la quantité d'engrais affectent le 
+rendement d'une collecte</string>
+            <string language="x-mt-pt">Como a quantidade de fertilizante afeta o 
+rendimento de uma colheita</string>
+            <string language="x-mt-it">Come la quantità di fertilizzante interessa il 
+rendimento del raccolto</string>
+            <string language="x-mt-el">Πώς το ποσό λιπάσματος έχει επιπτώσεις στην παραγωγή
+μιας συγκομιδής</string>
+            <string language="x-mt-es">Cómo la cantidad de fertilizante afecta la 
+producción de una cosecha</string>
+          </title>
+          <description>
+            <string language="en">This graph shows the relationship of the amount of fertiliser and crop yield.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">agriculture</string>
+          </keyword>
+          <keyword>
+            <string language="en">Chemicals</string>
+          </keyword>
+          <keyword>
+            <string language="en">concentration</string>
+          </keyword>
+          <keyword>
+            <string language="en">crop</string>
+          </keyword>
+          <keyword>
+            <string language="en">fertiliser</string>
+          </keyword>
+          <keyword>
+            <string language="en">Fields</string>
+          </keyword>
+          <keyword>
+            <string language="en">harvest</string>
+          </keyword>
+          <keyword>
+            <string language="en">hectare</string>
+          </keyword>
+          <keyword>
+            <string language="en">Minerals</string>
+          </keyword>
+          <keyword>
+            <string language="en">nitrate</string>
+          </keyword>
+          <keyword>
+            <string language="en">nutrients</string>
+          </keyword>
+          <keyword>
+            <string language="en">soil</string>
+          </keyword>
+          <keyword>
+            <string language="en">tonnes</string>
+          </keyword>
+          <keyword>
+            <string language="en">water</string>
+          </keyword>
+          <keyword>
+            <string language="en">wheat</string>
+          </keyword>
+          <keyword>
+            <string language="en">yield</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Diagramm zeigt das Verhältnis der Menge 
+des Düngemittel- und Getreideergebnisses.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphique montre le rapport de la quantité de
+rendement d'engrais et de collecte.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este gráfico mostra o relacionamento da 
+quantidade de rendimento do fertilizante e da colheita.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico mostra il rapporto della quantità
+di rendimento del raccolto e del fertilizzante.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση εμφανίζει τη σχέση του 
+ποσού παραγωγής λιπάσματος και συγκομιδών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este gráfico muestra el lazo de la cantidad de 
+producción del fertilizante y de la cosecha.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Landwirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Chemikalien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Konzentration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Getreide</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Düngemittel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fängt auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ernte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hektar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mineralien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Nitrat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Nährstoffe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Boden</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tonnen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wasser</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Weizen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ergebnis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">agriculture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Produits chimiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">concentration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">collecte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">engrais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Zones</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">moisson</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">hectare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Minerais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nitrate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">aliments</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sol</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tonnes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'eau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">blé</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rendement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">agricultura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Produtos químicos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">concentração</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">colheita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fertilizante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Campos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">colheita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hectare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Minerais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nitrate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">nutrientes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">solo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">toneladas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">água</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trigo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rendimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">agricoltura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Prodotti chimici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">concentrazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">il raccolto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fertilizzante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Campi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">raccolta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ettaro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Minerali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">nitrato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sostanze nutrienti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">terreno</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tonnellate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acqua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frumento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rendimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χημικές ουσίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συγκέντρωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συγκομιδή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λίπασμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Πεδία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συγκομιδή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εκτάριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μεταλλεύματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">νιτρικό άλας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θρεπτικές ουσίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χώμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τόνοι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ύδωρ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σίτος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παραγωγή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agricultura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Productos químicos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">concentración</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cosecha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fertilizante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Campos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cosecha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hectárea</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Minerales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">nitrato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">alimentos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">suelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">toneladas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">trigo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">producción</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_104399</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_104399</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:29:32.49Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>164206</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/104399.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

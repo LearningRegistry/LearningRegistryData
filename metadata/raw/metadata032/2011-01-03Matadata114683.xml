@@ -1,0 +1,365 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/163743</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>163743</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_90404</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_90404</entry>
+          </identifier>
+          <title>
+            <string language="en">Pulse rate</string>
+            <string language="x-mt-de">Pulsschlag</string>
+            <string language="x-mt-fr">Fréquence du pouls</string>
+            <string language="x-mt-pt">Taxa de pulso</string>
+            <string language="x-mt-it">Frequenza del polso</string>
+            <string language="x-mt-el">Ποσοστό σφυγμού</string>
+            <string language="x-mt-es">Pulso</string>
+          </title>
+          <description>
+            <string language="en">This line graph shows the variation in pulse rate before, during and after exercise.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">beats</string>
+          </keyword>
+          <keyword>
+            <string language="en">exercise</string>
+          </keyword>
+          <keyword>
+            <string language="en">pulse rate</string>
+          </keyword>
+          <keyword>
+            <string language="en">recovery</string>
+          </keyword>
+          <keyword>
+            <string language="en">Respiration</string>
+          </keyword>
+          <keyword>
+            <string language="en">rest</string>
+          </keyword>
+          <keyword>
+            <string language="en">resting</string>
+          </keyword>
+          <keyword>
+            <string language="en">Time</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Zeile Diagramm zeigt die Variante im 
+Pulsschlag vor, während und nach Übung.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphe par ligne montre la variation dans la 
+fréquence du pouls avant, pendant et après l'exercice.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta linha gráfico mostra a variação na taxa de
+pulso antes, durante e após do exercício.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico lineare mostra la variazione nella 
+frequenza del polso prima, durante e dopo l'esercitazione.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση γραμμών εμφανίζει την 
+παραλλαγή στο ποσοστό σφυγμού πριν από, κατά τη διάρκεια και 
+μετά από την άσκηση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta línea gráfico muestra la variación en 
+pulso antes, durante y después de ejercicio.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Schläge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Übung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Pulsschlag</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wiederanlauf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Atmung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rest</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Stillstehen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">battements</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">exercice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fréquence du pouls</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">reprise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Respiration</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">repos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">repos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Temps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">batidas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">exercício</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa de pulso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">recuperação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Respiração</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">descanso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">descansar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">battimenti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">esercitazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frequenza del polso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">recupero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Respirazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riposarsi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κτυπά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άσκηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσοστό σφυγμού</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αποκατάσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αναπνοή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπόλοιπο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στήριξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χρόνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">golpes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ejercicio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pulso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">recuperación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Respiración</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">resto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">reclinación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Tiempo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_90404</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_90404</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:21:08.59Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>979</id>
+              <entry>
+                <string language="en">physiology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>163743</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/90404.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
