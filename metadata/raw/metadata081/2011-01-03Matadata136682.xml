@@ -1,0 +1,379 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/91719</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>91719</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:9d52a427-90e1-44a2-bbb6-94ceff1db945</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A függőleges hajítás</string>
+            <string language="en-US">The Vertical Projection</string>
+            <string language="x-mt-de">Die Vertikale Projektion</string>
+            <string language="x-mt-fr">La Projection Verticale</string>
+            <string language="x-mt-pt">A Projeção Vertical</string>
+            <string language="x-mt-it">La Proiezione Verticale</string>
+            <string language="x-mt-el">Η κάθετη προβολή</string>
+            <string language="x-mt-es">La Proyección Vertical</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A hajítás fogalma, sebessége, magassága, az emelkedési idő</string>
+            <string language="en-US">Definition, Velocity, Height of Projection, Elevation Time</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">fizika</string>
+            <string language="en-US">physics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">haladó mozgás</string>
+            <string language="en-US">translational motion</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">függőleges hajítás</string>
+            <string language="en-US">vertical projection</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">emelkedési idő</string>
+            <string language="en-US">time of ascent</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">emelkedési magasság</string>
+            <string language="en-US">height of ascent</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">esési idő</string>
+            <string language="en-US">time of fall</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Definition, Geschwindigkeit, Höhe der 
+Projektion, Aufzug-Zeit</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Définition, vitesse, taille de projection, temps
+d'altitude</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Definição, velocidade, altura da projeção, 
+tempo da elevação</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Definizione, velocità, altezza di proiezione, 
+tempo di altezza</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθορισμός, ταχύτητα, ύψος της προβολής, χρόνος 
+ανύψωσης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Definición, velocidad, altura de la proyección,
+tiempo de la elevación</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">translational Bewegung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">vertikale Projektion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit des Aufstiegs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Höhe des Aufstiegs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit des Falles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mouvement de translation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection verticale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">période de montée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">taille de montée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">période de la chute</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">movimento translational</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção vertical</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">época do ascent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">altura do ascent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">época da queda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">movimento translational</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione verticale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">periodo dell'ascesa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">altezza dell'ascesa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">periodo della caduta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μεταφραστική κίνηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κάθετη προβολή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χρόνος της ανάβασης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ύψος της ανάβασης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χρόνος της πτώσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">movimiento de translación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">proyección vertical</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">época de la subida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">altura de la subida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">época de la caída</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:9d52a427-90e1-44a2-bbb6-94ceff1db945</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:58:56.02Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ea35a403-ce31-485d-907e-51b4f6adad3c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1eb6ad11-97f2-4be1-bee5-25b8a9569a14</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>52876c1f-c26d-4e91-9ac0-96c11375abcd</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>465f2c50-427b-4976-bec3-f7218d68786e</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en-US">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=9d52a427-90e1-44a2-bbb6-94ceff1db945</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>9d52a427-90e1-44a2-bbb6-94ceff1db945-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/9d/52/9d52a427-90e1-44a2-bbb6-94ceff1db945_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

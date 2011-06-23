@@ -1,0 +1,321 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93495</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93495</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:5da8f458-81dd-4102-b2c2-3617cf937ffd</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A zene fizikája</string>
+            <string language="en-US">The Physics Of Music</string>
+            <string language="x-mt-de">Die Physik Von Musik</string>
+            <string language="x-mt-fr">La Physique de la Musique</string>
+            <string language="x-mt-pt">A Física Da Música</string>
+            <string language="x-mt-it">Fisica Di Musica</string>
+            <string language="x-mt-el">Η φυσική της μουσικής</string>
+            <string language="x-mt-es">La Física De la Música</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A húrok, sípok, a hagszerek hangja, hagköz, hangsor</string>
+            <string language="en-US">Strings, Whistles, Sound of Instruments,Interval, Series of Notes</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">fizika</string>
+            <string language="en-US">physics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">húrok</string>
+            <string language="en-US">strings</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">sípok</string>
+            <string language="en-US">whistles</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Zeichenketten, Whistles, Ton der Instrumente, 
+Abstand, Reihe Anmerkungen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Chaînes de caractères, sifflements, bruit des 
+instruments, intervalle, série de notes</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Cordas, assobios, som dos instrumentos, 
+intervalo, série das notas</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Stringhe, fischi, suono degli strumenti, 
+intervallo, serie di note</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Συμβολοσειρές, συριγμοί, ήχος των οργάνων, διάστημα, 
+σειρά σημειώσεων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cadenas, silbidos, sonido de instrumentos, 
+intervalo, serie de notas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeichenketten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Whistles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chaînes de caractères</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sifflements</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cordas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">assobios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">stringhe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fischi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συμβολοσειρές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συριγμοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cadenas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">silbidos</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:5da8f458-81dd-4102-b2c2-3617cf937ffd</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:58:53.08Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>3b6de1ee-92b6-4ffd-a822-a393b266cc1e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>73637a54-4f49-4c03-a181-d06092980c1b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b0fa1afc-a05d-4973-abbc-1a1eadadc8b5</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>3289d15d-a99c-4a07-a612-1239e48cba45</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>0ac9d271-725e-4446-9469-091586237222</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>476e667c-f932-4fcb-9c8f-ec415066b124</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en-US">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=5da8f458-81dd-4102-b2c2-3617cf937ffd</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>5da8f458-81dd-4102-b2c2-3617cf937ffd-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/5d/a8/5da8f458-81dd-4102-b2c2-3617cf937ffd_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
