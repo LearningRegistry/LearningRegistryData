@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105213</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105213</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202798</entry>
+          </identifier>
+          <title>
+            <string language="en">E-pal Adventure</string>
+            <string language="x-mt-de">Abenteuer E-Kamerad</string>
+            <string language="x-mt-fr">Aventure E-pal</string>
+            <string language="x-mt-pt">Aventura E-E-pal</string>
+            <string language="x-mt-it">Avventura E-pal</string>
+            <string language="x-mt-el">Περιπέτεια ε-PAL</string>
+            <string language="x-mt-es">Aventura E-amigacho</string>
+          </title>
+          <description>
+            <string language="en">Students will be paired with an e-pal they will hopefully meet during their 8th grade trip to the coast.</string>
+          </description>
+          <keyword>
+            <string language="en">Social Sciences</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer werden mit einem Ekameraden 
+zusammengepaßt, den sie hoffnungsvoll während ihrer 8. Gradreise zur
+Küste treffen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Des étudiants seront appareillés avec e-pal 
+qu'ils rencontreront si tout va bien pendant leur 8ème voyage de 
+catégorie à la côte.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes serão emparelhados com um e-e-pal 
+que se encontrarão com esperançosamente durante seu 8o desengate da 
+classe à costa.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli allievi saranno accoppiati con e-pal che 
+eventualmente verranno a contatto di durante il loro ottavo viaggio 
+del grado al litorale.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές θα ζευγαρωθούν με ένα ε-PAL που θα 
+συναντηθούν ενδεχομένως κατά τη διάρκεια του 8ου ταξιδιού βαθμού
+τους στην ακτή.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Emparejarán a los estudiantes con un e-amigacho 
+que esperanzadamente resolverán durante su 8vo viaje del grado a la 
+costa.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Sozialwissenschaften</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Les Sciences Sociales</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciências Sociais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienze Sociali</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κοινωνικές επιστήμες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencias Sociales</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:HILDA HAMILTON
+FN:HILDA HAMILTON
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770202798</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105213</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/e-pal-adventure</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
