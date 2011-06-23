@@ -1,0 +1,418 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/202066</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>202066</entry>
+  </identifier>
+  <identifier>
+    <catalog>MERLI</catalog>
+    <entry>merli/7773</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/7773</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/7773</entry>
+          </identifier>
+          <title>
+            <string language="ca">Temps de temps: Observem i mesurem</string>
+          </title>
+          <language>ca</language>
+          <description>
+            <string language="ca">Projecte d'activitats JClic per treballar la meteorologia, en concret els elements o variables climatològiques que determinen el clima i tot seguit passa a l'estudi dels aparells meteorològics que permeten mesurar i quantificar aquestes variables. Es tracten el aparells més bàsics: quins són, que mesuren i com funcionen.
+La finalitat dels dos punts anteriors es aconseguir que l'alumne, a banda d'un coneixement teòric, adquireixi les destreses més elementals per tal de fer-les servir de forma correcta i pugui arribar a un control i seguiment de les dades obtingudes que li permetin fer un estudi climatològic força acurat del seu entorn.</string>
+          </description>
+          <keyword>
+            <string language="ca">fenomen atmosfèric</string>
+            <string language="en">atmospheric phenomenon</string>
+            <string language="es">fenómeno atmosférico</string>
+          </keyword>
+          <keyword>
+            <string language="ca">clima</string>
+            <string language="en">climate</string>
+            <string language="es">clima</string>
+          </keyword>
+          <keyword>
+            <string language="ca">fenomen climàtic</string>
+            <string language="en">climatic phenomenon</string>
+            <string language="es">fenómeno climático</string>
+          </keyword>
+          <keyword>
+            <string language="ca">aparell de medició</string>
+            <string language="en">measuring instrument</string>
+            <string language="es">aparato de medición</string>
+          </keyword>
+          <keyword>
+            <string language="ca">meteorologia</string>
+            <string language="en">meteorology</string>
+            <string language="es">meteorología</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">atmosphärisches Phänomen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Klima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">klimatisches Phänomen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Meßinstrument</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Meteorologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">phénomène atmosphérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">climat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">phénomène climatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">instrument de mesure</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">météorologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fenômeno atmosférico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">clima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fenômeno climático</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">instrumento de medição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">meteorologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fenomeno atmosferico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">clima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fenomeno climatico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">strumento di misura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">meteorologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ατμοσφαιρικό φαινόμενο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλίμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλιματολογικό φαινόμενο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">όργανο μέτρησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετεωρολογία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="ca">27-11-2002</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:JClic
+N:JClic
+EMAIL;TYPE=INTERNET:
+ORG:JClic
+END:VCARD</entity>
+            <date>
+              <dateTime>2010-04-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Joan A. Solano Querol
+N:Joan A. Solano Querol
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2002-09-25</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:merli.xtec.cat:merli/7773</entry>
+          </identifier>
+          <identifier>
+            <catalog>MERLI</catalog>
+            <entry>merli/7773</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:cpina
+N:cpina
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mabad1
+N:mabad1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:mabad1
+N:mabad1
+EMAIL;TYPE=INTERNET:
+ORG:Departament d'Educació
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+          </contribute>
+          <language>ca</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Xarxa Telematica Educativa de Catalunya
+N:Xarxa Telematica Educativa de Catalunya
+ORG:Xarxa Telematica Educativa de Catalunya
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-25T22:19:37.27Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="ca">12-99</string>
+          </typicalAgeRange>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalLearningTime>
+            <duration>PT1H0M0S</duration>
+          </typicalLearningTime>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="ca">No es permet un ús comercial de l'obra original ni de les possibles obres derivades, la distribució de les quals s'ha de fer amb una llicència igual a la que regula l'obra original.</string>
+            <string language="x-t-cc">CC: Reconeixement - NoComercial - CompartirIgual (by-nc-sa)</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/es/deed.ca</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>educational objective</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="ca">DUC</string>
+            </source>
+            <taxon>
+              <id>2642</id>
+              <entry>
+                <string language="ca">Clima</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>4474</id>
+              <entry>
+                <string language="ca">L'atmosfera</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>9021</id>
+              <entry>
+                <string language="ca">Coneixement i la interacció amb el món físic</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Continguts relacionats del currículum</string>
+            <string language="en">Related curriculum contents</string>
+            <string language="es">Contenidos relacionados del currículum</string>
+          </description>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>109</id>
+              <entry>
+                <string language="ca">fenomen atmosfèric</string>
+                <string language="en">atmospheric phenomenon</string>
+                <string language="es">fenómeno atmosférico</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>223</id>
+              <entry>
+                <string language="ca">clima</string>
+                <string language="en">climate</string>
+                <string language="es">clima</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>224</id>
+              <entry>
+                <string language="ca">fenomen climàtic</string>
+                <string language="en">climatic phenomenon</string>
+                <string language="es">fenómeno climático</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>794</id>
+              <entry>
+                <string language="ca">aparell de medició</string>
+                <string language="en">measuring instrument</string>
+                <string language="es">aparato de medición</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>813</id>
+              <entry>
+                <string language="ca">meteorologia</string>
+                <string language="en">meteorology</string>
+                <string language="es">meteorología</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+          <description>
+            <string language="ca">Termes relacionats del tesaurus</string>
+            <string language="en">Related thesaurus terms</string>
+            <string language="es">Términos relacionados del tesauro</string>
+          </description>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>MERLI</catalog>
+      <entry>merli/7773</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://clic.xtec.cat/db/act_ca.jsp?id=2022</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
