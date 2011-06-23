@@ -1,0 +1,175 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/72979</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>72979</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>51efe8b0-1a07-11d8-89de-e280c187e835#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">A görög írás</string>
+            <string language="en">The Greek writing</string>
+            <string language="x-mt-de">Das griechische Schreiben</string>
+            <string language="x-mt-fr">L'écriture grecque</string>
+            <string language="x-mt-pt">A escrita grega</string>
+            <string language="x-mt-it">La scrittura greca</string>
+            <string language="x-mt-el">Το ελληνικό γράψιμο</string>
+            <string language="x-mt-es">La escritura griega</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A görög írás - szavak összeállítása betűkből</string>
+            <string language="en">The Greek writing - Words are compiled from characters</string>
+          </description>
+          <keyword>
+            <string language="hu">görög írás, írás, görög</string>
+            <string language="en">Greek writing, writing, greek</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das griechische Schreiben - Wörter werden von 
+den Zeichen kompiliert</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'écriture grecque - des mots sont compilés des 
+caractères</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A escrita grega - as palavras são compiladas dos
+caráteres</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La scrittura greca - le parole sono compilate dai 
+caratteri</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο Έλληνας που γράφει - οι λέξεις μεταγλωττίζονται από
+τους χαρακτήρες</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La escritura griega - las palabras se compilan de
+caracteres</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Griechisches Schreiben, Schreiben, griechisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Écriture grecque, écriture, grecque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Escrita grega, escrita, grega</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scrittura greca, scrittura, greca</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ελληνικό γράψιμο, γράψιμο, ελληνικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Escritura griega, escritura, griega</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:
+fn:
+org:Kurt Lewin Alapítvány
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>72979</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=51efe8b0-1a07-11d8-89de-e280c187e835&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

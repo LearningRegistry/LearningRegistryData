@@ -1,0 +1,188 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/233023</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>233023</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:10067</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10067</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10067</entry>
+          </identifier>
+          <title>
+            <string language="nl">Subsidies voor 'Sport-buiten-gewoon'</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">De Vlaamse Minister van Sport geeft aan scholen uit het beroeps- en buitengewoon onderwijs minimaal 5000 euro voor &amp;lsquo;Sport-buiten-gewoon&amp;rsquo;....Kunnen (deels) ingebracht worden: kosten voor lesgevers, huur infrastructuur, verzekering, promotie en communicatie, vervoer, huur en/of aankoop van sportmateriaal. Er moet minimaal één externe vrijetijdspartner bij betrokken zijn.    Meer informatie:  Bloso - Katty Fremau (02 209 45 12; katty.fremau@bloso.be) of SVS - Eric Swinnen (016 29 85 29; eric.swinnen@vlbrabant.schoolsport.be). Of surf naar deze site.   Opgelet: projectaanvragen moeten voor 15 november 2008 worden ingediend!</string>
+          </description>
+          <keyword>
+            <string language="nl">leerzorg</string>
+          </keyword>
+          <keyword>
+            <string language="nl">sport</string>
+          </keyword>
+          <keyword>
+            <string language="nl">infrastructuur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vrije tijd</string>
+          </keyword>
+          <keyword>
+            <string language="nl">voetbal</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2008-11-10 13:43:11</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>initiator</value>
+            </role>
+            <date>
+              <dateTime>2008-11-14T15:20:36.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Vlaamse minister van Sport
+FN:Vlaamse minister van Sport 
+EMAIL;TYPE=INTERNET: 
+ORG: Vlaamse minister van Sport
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:10067</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:10067</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T15:36:46.93Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1234</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>10067</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>10067</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/10067/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

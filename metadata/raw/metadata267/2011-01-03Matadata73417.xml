@@ -1,0 +1,219 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205874</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205874</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1875</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1875</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1875</entry>
+          </identifier>
+          <title>
+            <string language="nl">Adornes achterna</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Het educatieve lessenpakket Adornes Achterna neemt leerkrachten en leerlingen van de tweede graad secundair onderwijs mee in de voetsporen van Anselm Adornes, een Brugse koopman met Italiaanse roots. 
+Naast een sfeervolle dvd over Brugge en de middeleeuwse handel bestaat het educatief pakket ook uit deze website met uitdagende opdrachten, heel wat achtergrondinformatie, een tijdlijn, lestips en nog veel meer. De ideale voorbereiding voor een klasuitstap naar Brugge en het Stadsarchief.</string>
+          </description>
+          <keyword>
+            <string language="nl">tijdlijn</string>
+          </keyword>
+          <keyword>
+            <string language="nl">opdrachten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">handel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Middeleeuwse</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Middeleeuwen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Italiaanse</string>
+          </keyword>
+          <keyword>
+            <string language="nl">koopman</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Brugge</string>
+          </keyword>
+          <keyword>
+            <string language="nl">graad</string>
+          </keyword>
+          <keyword>
+            <string language="nl">achterna</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Adornes</string>
+          </keyword>
+          <keyword>
+            <string language="nl">klasuitstap</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Stadsarchief Brugge i.s.m. de Erfgoedcel Brugge
+FN:Stadsarchief Brugge i.s.m. de Erfgoedcel Brugge 
+EMAIL;TYPE=INTERNET:info@erfgoedcelbrugge.be 
+ORG: Stadsarchief Brugge i.s.m. de Erfgoedcel Brugge
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1875</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1875</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T22:04:39.88Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">Iedereen heeft gratis toegang tot de website - maar er is ook een speciaal leerkrachtenluik met extra opdrachten, de antwoorden, lestips, etc.. Hiervoor heb je een paswoord nodig dat je krijgt bij aankoop van de bijhorende DVD 'Adornes Achterna' via info@</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Albert van der Kaap</entity>
+          <date>
+            <dateTime>2008-02-02</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1320</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1875</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/1875/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
