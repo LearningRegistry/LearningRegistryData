@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73362</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73362</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>ef03a9e4-7b66-4d90-935d-a5e45d38f9e5#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Lemming</string>
+            <string language="en">Lemming</string>
+            <string language="x-mt-de">Lemming</string>
+            <string language="x-mt-fr">Lemming</string>
+            <string language="x-mt-pt">Lemming</string>
+            <string language="x-mt-it">Lemming</string>
+            <string language="x-mt-el">Lemming</string>
+            <string language="x-mt-es">Leming</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Lemming közelképe</string>
+            <string language="en">Close-up picture about Lemming</string>
+          </description>
+          <keyword>
+            <string language="hu">tundra,  rágcsálók,  lemming,  </string>
+            <string language="en">tundra, Rodentia, lemming</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Nahaufnahmeabbildung über Lemming</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image de plan rapproché au sujet de lemming</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato do close-up sobre o lemming</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine del primo piano circa il lemming</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα κινηματογραφήσεων σε πρώτο πλάνο για Lemming</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro del primer sobre Leming</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Tundra, Rodentia, Lemming</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">toundra, Rodentia, lemming</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tundra, Rodentia, lemming</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tundra, Rodentia, lemming</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">tundra, Rodentia,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tundra, Rodentia, leming</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73362</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=ef03a9e4-7b66-4d90-935d-a5e45d38f9e5&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
