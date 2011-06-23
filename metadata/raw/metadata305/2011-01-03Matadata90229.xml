@@ -1,0 +1,230 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/223045</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>223045</entry>
+  </identifier>
+  <identifier>
+    <catalog>fnbe</catalog>
+    <entry>http://www2.edu.fi/etalukionterveystieto/page.php?diabetes_2</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www2.edu.fi/etalukionterveystieto/page.php?diabetes_2</entry>
+          </identifier>
+          <identifier>
+            <catalog>fnbe</catalog>
+            <entry>http://www2.edu.fi/etalukionterveystieto/page.php?diabetes_2</entry>
+          </identifier>
+          <title>
+            <string language="en">Diabetes</string>
+            <string language="fi">Diabetes</string>
+            <string language="x-mt-de">Diabetes</string>
+            <string language="x-mt-fr">Diabète</string>
+            <string language="x-mt-pt">Diabetes</string>
+            <string language="x-mt-it">Diabete</string>
+            <string language="x-mt-el">Διαβήτης</string>
+            <string language="x-mt-es">Diabetes</string>
+          </title>
+          <language>fi</language>
+          <description>
+            <string language="en">Deals with diabetes: prevention, diagnosis and treatment of the disease, and living with the illness. Includes exercises.</string>
+            <string language="fi">Käsittelee diabetesta: sairauden ehkäisyä, diagnoosia ja hoitoa sekä sairauden kanssa elämistä. Sisältää tehtäviä.</string>
+          </description>
+          <keyword>
+            <string language="fi">diabetes</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abkommen mit Diabetes: Verhinderung, 
+Diagnose und Behandlung der Krankheit und des Lebens mit der 
+Krankheit. Schließt Übungen ein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Affaires avec du diabète : prévention, 
+diagnostic et traitement de la maladie, et de la vie avec la maladie. 
+Inclut des exercices.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Negócios com diabetes: prevenção, 
+diagnóstico e tratamento da doença, e de viver com a doença. 
+Inclui exercícios.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Affari con diabete: prevenzione, diagnosi e 
+trattamento della malattia e di vivere con la malattia. Include 
+le esercitazioni.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εξετάζει το διαβήτη: πρόληψη, διάγνωση και 
+θεραπεία της ασθένειας, και διαβίωση με την ασθένεια. 
+Περιλαμβάνει τις ασκήσεις.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Repartos con diabetes: prevención, 
+diagnosis y tratamiento de la enfermedad, y de vivir con la 
+enfermedad. Incluye ejercicios.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Harri Vertio
+n:Vertio;Harri
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Opetushallitus
+n:Opetushallitus
+org:Opetushallitus
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:fnbe.profium.com:http://www.oph.fi/profium/2008/01/material/328D7E12-C134-73AD-F1FA-19C85291E842</entry>
+          </identifier>
+          <identifier>
+            <catalog>profium</catalog>
+            <entry>http://www.oph.fi/profium/2008/01/material/328D7E12-C134-73AD-F1FA-19C85291E842</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Pekka Pirhonen
+n:Pirhonen;Pekka 
+org:Humap
+end:vcard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:National Centre for Technology in Education (NCTE0
+N:National Centre for Technology in Education (NCTE0
+ORG:National Centre for Technology in Education (NCTE0
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:49:41.61Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>enquiry-oriented activity</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://www02.oph.fi/etalukio/kayttoehdot/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>620</id>
+            </taxon>
+            <taxon>
+              <id>582</id>
+            </taxon>
+            <taxon>
+              <id>629</id>
+            </taxon>
+            <taxon>
+              <id>583</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>fnbe</catalog>
+      <entry>http://www2.edu.fi/etalukionterveystieto/page.php?diabetes_2</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www2.edu.fi/etalukionterveystieto/page.php?diabetes_2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
