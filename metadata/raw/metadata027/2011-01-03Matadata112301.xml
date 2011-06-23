@@ -1,0 +1,410 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/162388</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>162388</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114548</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114548</entry>
+          </identifier>
+          <title>
+            <string language="en">Packet switching on the Internet through different routers</string>
+            <string language="x-mt-de">Paketvermittlung auf dem Internet durch 
+unterschiedliche Fräser</string>
+            <string language="x-mt-fr">Commutation par paquets sur l'Internet par 
+différents couteaux</string>
+            <string language="x-mt-pt">Switching do pacote no Internet através dos 
+routers diferentes</string>
+            <string language="x-mt-it">Commutazione a pacchetti sul Internet tramite i 
+routers differenti</string>
+            <string language="x-mt-el">Πακέτο που ανάβει το Διαδίκτυο μέσω των διαφορετικών 
+δρομολογητών</string>
+            <string language="x-mt-es">Conmutación de conjunto de bits en el Internet a
+través de diversas rebajadoras</string>
+          </title>
+          <description>
+            <string language="en">This block diagram shows the process of file transfer from the server to the client through packet switching. A packet's pathway on the Internet through various routers may not be the same as the pathway for another.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">Client</string>
+          </keyword>
+          <keyword>
+            <string language="en">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="en">Network</string>
+          </keyword>
+          <keyword>
+            <string language="en">packet pathway</string>
+          </keyword>
+          <keyword>
+            <string language="en">packet switching</string>
+          </keyword>
+          <keyword>
+            <string language="en">packets</string>
+          </keyword>
+          <keyword>
+            <string language="en">protocols</string>
+          </keyword>
+          <keyword>
+            <string language="en">routers</string>
+          </keyword>
+          <keyword>
+            <string language="en">server</string>
+          </keyword>
+          <keyword>
+            <string language="en">TCP</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Blockdiagramm zeigt den Prozeß der 
+Dateiübertragung vom Server auf den Klienten durch Paketvermittlung. 
+Die Bahn eines Pakets auf dem Internet durch verschiedene 
+Fräser kann möglicherweise nicht dieselbe wie die Bahn für andere 
+sein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma fonctionnel montre le processus du 
+transfert de fichier à partir du serveur au client par la commutation
+par paquets. La voie d'un paquet sur l'Internet par de divers 
+couteaux peut ne pas être identique que la voie pour des autres.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de bloco mostra o processo de 
+transferência de lima do server ao cliente com o switching do pacote.
+O pathway de um pacote no Internet através dos vários routers 
+não pode ser o mesmo que o pathway para outro.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema a blocchi mostra il processo del 
+trasferimento di file dal server nel cliente con commutazione a 
+pacchetti. La via del pacchetto sul Internet tramite i vari 
+routers non può essere la stessa della via per un altro.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα ομάδων δεδομένων εμφανίζει τη 
+διαδικασία της μεταφοράς αρχείων από τον κεντρικό υπολογιστή στο
+χρήστη μέσω της εναλλακτικής μετάδοσης πακέτου πληροφοριών. 
+Η διάβαση ενός πακέτου στο διαδίκτυο μέσω των διάφορων 
+δρομολογητών μπορεί να μην είναι η ίδια με τη διάβαση για άλλη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este diagrama de bloque muestra el proceso de la 
+transferencia de fichero del servidor al cliente con conmutación de 
+conjunto de bits. El camino de un paquete en el Internet a 
+través de las varias rebajadoras puede no ser igual que el camino 
+para otro.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Klient</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Netz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Paketbahn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Paketvermittlungs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Pakete</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Protokolle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fräser</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Server</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">TCP</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Client</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Réseau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">voie de paquet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">de commutation par paquets</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">paquets</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">protocoles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">couteaux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">serveur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Tcp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Rede</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pathway do pacote</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">switching do pacote</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pacotes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">protocolos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">routers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">server</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Tcp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Rete</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">via del pacchetto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">della commutazione di pacchetto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pacchetti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">protocolli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">routers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">server</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tcp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χρήστης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Διαδίκτυο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Δίκτυο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάβαση πακέτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εναλλακτική μετάδοση πακέτου πληροφοριών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πακέτα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πρωτόκολλα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δρομολογητές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κεντρικός υπολογιστής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">TCP</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Internet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Red</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">camino del paquete</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">de conmutación de conjunto de bits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">paquetes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">protocolos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rebajadoras</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">servidor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Tcp</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114548</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114548</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:33:20.74Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>162388</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114548.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

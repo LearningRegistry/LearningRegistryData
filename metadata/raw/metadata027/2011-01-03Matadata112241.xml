@@ -1,0 +1,510 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/166321</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>166321</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114570</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114570</entry>
+          </identifier>
+          <title>
+            <string language="en">A comparator circuit for switching on light emitting diodes</string>
+            <string language="x-mt-de">Eine Komparatorschalting für das Einschalten 
+lichtemittierende Dioden</string>
+            <string language="x-mt-fr">Un circuit de comparateur pour alimenter les 
+diodes luminescentes</string>
+            <string language="x-mt-pt">Um circuito de comparador para ligar a luz que 
+emite-se diodos</string>
+            <string language="x-mt-it">Un circuito di comparatore per inserirsi i diodi 
+luminescenti</string>
+            <string language="x-mt-el">Ένα κύκλωμα συγκριτών για το άναμμα του φωτός που 
+εκπέμπει τις διόδους</string>
+            <string language="x-mt-es">Un circuito de comparador para encender (con.) 
+los diodos electroluminosos</string>
+          </title>
+          <description>
+            <string language="en">This circuit diagram shows a comparator that can switch on the red and green light emitting diodes successively, when the temperature is above and below a certain value.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">comparator circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">green LED</string>
+          </keyword>
+          <keyword>
+            <string language="en">IC electronic circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">Integrated circuit</string>
+          </keyword>
+          <keyword>
+            <string language="en">Light emitting diode</string>
+          </keyword>
+          <keyword>
+            <string language="en">negative temperature coefficient</string>
+          </keyword>
+          <keyword>
+            <string language="en">op-amp</string>
+          </keyword>
+          <keyword>
+            <string language="en">operational amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">potential divider</string>
+          </keyword>
+          <keyword>
+            <string language="en">red LED</string>
+          </keyword>
+          <keyword>
+            <string language="en">resistance</string>
+          </keyword>
+          <keyword>
+            <string language="en">switch on</string>
+          </keyword>
+          <keyword>
+            <string language="en">Temperature</string>
+          </keyword>
+          <keyword>
+            <string language="en">temperature rise</string>
+          </keyword>
+          <keyword>
+            <string language="en">Thermistor</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieser Schaltplan zeigt einen Komparator, der die 
+roten und grünen lichtemittierenden Dioden mehrmals hintereinander 
+einschalten kann, wenn die Temperatur über und unterhalb einem 
+bestimmten Wert ist.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma de circuit montre un comparateur qui 
+peut alimenter les diodes luminescentes rouges et vertes 
+successivement, quand la température est au-dessus et au-dessous 
+d'une certaine valeur.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de circuito mostra um comparador que
+possa ligar a luz vermelha e verde que se emite diodos sucessivamente,
+quando a temperatura está acima e abaixo de algum valor.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema circuitale mostra un comparatore che
+può inserire i diodi luminescenti rossi e verdi successivamente, 
+quando la temperatura è sopra e sotto certo valore.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα κυκλωμάτων εμφανίζει έναν συγκριτή
+που μπορεί να ανάψει το κόκκινο και πράσινο φως εκπέμποντας τις 
+διόδους διαδοχικά, όταν είναι η θερμοκρασία επάνω από και κάτω
+από μια ορισμένη αξία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este esquema circular muestra un comparador que 
+pueda encender (con.) los diodos electroluminosos rojos y verdes 
+sucesivamente, cuando la temperatura está sobre y debajo de cierto 
+valor.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Komparatorschalting</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">grüne LED</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Elektronischer Stromkreis der IS</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Integrierte Schaltung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lichtemittierende Diode</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">negativer Temperaturkoeffizient</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">OP-Ampere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">funktionsfähiger Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">möglicher Teiler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">rote LED</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Widerstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">schalten Sie ein</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Temperatur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Temperaturanstieg</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Thermistor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit de comparateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">DEL verte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Circuit électronique d'IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Circuit intégré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Diode luminescente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coefficient négatif de la température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">amplificateur opérationnel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">diviseur potentiel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">DEL rouge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">résistance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">alimentez</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">élévation de la température</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Thermistance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito de comparador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">diodo emissor de luz verde</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Circuito eletrônico do IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Circuito integrado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Diodo emitindo-se claro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">coeficiente negativo da temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amplificador operacional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">divisor potencial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">diodo emissor de luz vermelho</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">resistência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ligue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ascensão da temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Termistor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito di comparatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">LED verde</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Circuito elettronico di IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Circuito integrato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Diodo luminescente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">coefficente negativo di temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">op-ampère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">amplificatore operativo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">divisore potenziale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">LED rosso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resistenza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">inseriscasi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aumento di temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Termistore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύκλωμα συγκριτών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πράσινες οδηγήσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ηλεκτρονικό κύκλωμα ολοκληρωμένου κυκλώματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ολοκληρωμένο κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ελαφριά εκπέμποντας δίοδος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αρνητικός συντελεστής θερμοκρασίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οπ-αμπ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργικός ενισχυτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πιθανός διαιρέτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόκκινες οδηγήσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αντίσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανάψτε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θερμοκρασία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άνοδος θερμοκρασίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θερμική αντίσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito de comparador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">LED verde</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Circuito electrónico del IC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Circuito integrado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Diodo electroluminoso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coeficiente negativo de la temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">de Op. Sys.-amperio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">amplificador operacional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">divisor potencial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">LED rojo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">resistencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">encienda (con.)</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">subida de la temperatura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Termistor</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114570</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114570</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:33:20.34Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>166321</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114570.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
