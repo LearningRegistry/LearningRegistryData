@@ -1,0 +1,156 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/107211</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>107211</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101426</entry>
+          </identifier>
+          <title>
+            <string language="en">NASA's Discovery Launch Dress Rehearsal</string>
+            <string language="x-mt-de">Entdeckung-Produkteinführung Generalprobe Der 
+NASAS</string>
+            <string language="x-mt-fr">Répétition de Robe de Lancement de la 
+Découverte de la NASA</string>
+            <string language="x-mt-pt">Rehearsal De Vestido Do Lançamento Da Descoberta 
+Da NASA</string>
+            <string language="x-mt-it">Ripetizione Di Vestito Dal Lancio Di Scoperta 
+Della NASA</string>
+            <string language="x-mt-el">Πρόβα φορεμάτων έναρξης ανακαλύψεων της NASA</string>
+            <string language="x-mt-es">Ensayo De Alineada Del Lanzamiento Del 
+Descubrimiento De la NASA</string>
+          </title>
+          <description>
+            <string language="en">The Discovery astronauts train at Kennedy for the upcoming STS-124 mission. For more information see: http://www.nasa.gov</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die Entdeckungastronauten bilden bei Kennedy für 
+die upcoming Mission STS-124 aus. Zu mehr Information sehen Sie:
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les astronautes de découverte s'exercent chez 
+Kennedy pour la mission STS-124 prochaine. Pour plus 
+d'information voyez : http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os astronautas da descoberta treinam em Kennedy 
+para a missão STS-124 upcoming. Para mais informação veja: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Gli atronauti di scoperta addestrano a Kennedy per
+la missione imminente STS-124. Per le più informazioni veda: 
+http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι αστροναύτες ανακαλύψεων εκπαιδεύουν σε Kennedy 
+για την επερχόμενη αποστολή στς- 124. Για περισσότερες 
+πληροφορίες δείτε: http://www.nasa.gov</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los astronautas del descubrimiento entrenan en 
+Kennedy para la misión próxima STS-124. Para más información
+vea: http://www.nasa.gov</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:NASA
+FN:NASA
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101426</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>107211</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/nasa-s-discovery-launch-dress-rehearsal</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

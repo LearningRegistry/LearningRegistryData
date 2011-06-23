@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106487</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106487</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209321</entry>
+          </identifier>
+          <title>
+            <string language="en">Guitar Lesson 4: The D String</string>
+            <string language="x-mt-de">Guitarre Lektion 4: Die D Zeichenkette</string>
+            <string language="x-mt-fr">Leçon 4 De Guitare : La Chaîne de 
+caractères de D</string>
+            <string language="x-mt-pt">Lição 4 Da Guitarra: A Corda De D</string>
+            <string language="x-mt-it">Lezione 4 Del Guitar: La Stringa Di D</string>
+            <string language="x-mt-el">Μάθημα 4 κιθάρων: Η συμβολοσειρά δ</string>
+            <string language="x-mt-es">Lección 4 De la Guitarra: La Cadena De D</string>
+          </title>
+          <description>
+            <string language="en">Introduces the D string, rests, and right hand notation.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Führt die D Zeichenkette, die Reste und die 
+rechte Darstellung ein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Présente la chaîne de caractères de D, les 
+repos, et la notation droite.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introduz a corda de D, os descansos, e a notação
+direita da mão.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduce la stringa di D, i resti e la notazione 
+destra.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισάγει τη συμβολοσειρά δ, τα υπόλοιπα, και τη δεξιά 
+σημείωση.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introduce la cadena de D, los restos, y la 
+notación derecha.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770209321</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 2.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106487</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/guitar-lesson-4-the-d-string</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

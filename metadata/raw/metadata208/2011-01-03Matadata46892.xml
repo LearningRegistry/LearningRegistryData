@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104133</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104133</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101387</entry>
+          </identifier>
+          <title>
+            <string language="en">Landing on Mars</string>
+            <string language="x-mt-de">Landung auf Mars</string>
+            <string language="x-mt-fr">Débarquement sur Mars</string>
+            <string language="x-mt-pt">Aterrar em Marte</string>
+            <string language="x-mt-it">Atterrando su Marte</string>
+            <string language="x-mt-el">Προσγείωση στον Αρη</string>
+            <string language="x-mt-es">Aterrizaje en Marte</string>
+          </title>
+          <description>
+            <string language="en">Looking back at the dramatic first landing on Mars.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Betrachten rückseitig der drastischen ersten 
+Landung auf Mars.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Regarder arrière le premier atterrissage excessif
+sur Mars.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Olhar traseiro na primeira aterragem dramática em
+Marte.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Osservando posteriore il primo atterraggio 
+drammatico su Marte.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Να εξετάσει πίσω τη δραματική πρώτη προσγείωση στον 
+Αρη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El mirar posterior el primer aterrizaje dramático
+en Marte.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101387</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104133</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/landing-on-mars</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

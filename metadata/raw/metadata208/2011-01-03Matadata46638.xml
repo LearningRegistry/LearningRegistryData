@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/102961</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>102961</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101270</entry>
+          </identifier>
+          <title>
+            <string language="en">Biology of Flagellates and Amoebas</string>
+            <string language="x-mt-de">Biologie von Flagellates und von Amoebas</string>
+            <string language="x-mt-fr">Biologie de Flagellates et d'Amoebas</string>
+            <string language="x-mt-pt">Biologia de Flagellates e de Amoebas</string>
+            <string language="x-mt-it">Biologia di Flagellates e di Amoebas</string>
+            <string language="x-mt-el">Η βιολογία Flagellates και Amoebas</string>
+            <string language="x-mt-es">Biología de Flagellates y de Amoebas</string>
+          </title>
+          <description>
+            <string language="en">Introduction to the biology of flagellates and amoebas.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Einleitung zur Biologie von flagellates und von 
+amoebas.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Introduction à la biologie des flagellates et des
+amoebas.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Introdução à biologia dos flagellates e dos 
+amoebas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Introduzione alla biologia dei flagellates e dei 
+amoebas.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εισαγωγή στη βιολογία των flagellates και των 
+amoebas.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Introducción a la biología de flagellates y de 
+amoebas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101270</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>102961</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/biology-of-flagellates-and-amoebas</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

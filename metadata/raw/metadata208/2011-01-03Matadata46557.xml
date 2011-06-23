@@ -1,0 +1,147 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104033</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104033</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101252</entry>
+          </identifier>
+          <title>
+            <string language="en">An Overview of SciVee</string>
+            <string language="x-mt-de">Ein Überblick über SciVee</string>
+            <string language="x-mt-fr">Une vue d'ensemble de SciVee</string>
+            <string language="x-mt-pt">Uma vista geral de SciVee</string>
+            <string language="x-mt-it">Una descrizione di SciVee</string>
+            <string language="x-mt-el">Μια επισκόπηση SciVee</string>
+            <string language="x-mt-es">Una descripción de SciVee</string>
+          </title>
+          <description>
+            <string language="en">Co-founder of SciVee, Phil Bourne, gives and overview of what the SciVee project and website is about.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">über Co-Gründer von SciVee, Phil Bourne, gibt 
+und Überblick über, was das SciVee Projekt und die Web site ist.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le co-fondateur de SciVee, Phil Bourne, donne et 
+vue d'ensemble au sujet de de ce que le projet et le site Web de 
+SciVee est.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">o Co-co-founder de SciVee, Phil Bourne, dá e 
+vista geral de o que o projeto e o Web site de SciVee são sobre.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">il Co-fondatore di SciVee, Phil Bourne, dà e 
+descrizione di che cosa il progetto ed il Web site SciVee è circa.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ο κοβάλτιο-ιδρυτής SciVee, Phil Bourne, δίνει 
+και επισκόπηση αυτό που το πρόγραμμα SciVee και ο ιστοχώρος 
+είναι για.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">el Co-fundador de SciVee, Phil Bourne, da y 
+descripción sobre de cuál está el proyecto y el Web site de SciVee.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:PHIL
+FN:PHIL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101252</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104033</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/an-overview-of-scivee</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

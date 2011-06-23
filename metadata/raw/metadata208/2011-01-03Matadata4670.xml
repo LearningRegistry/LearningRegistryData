@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73620</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73620</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e3457f36-7b98-485b-a2e3-5b69f9b72d11#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A vese szerkezete</string>
+            <string language="en">The structure of kidney</string>
+            <string language="x-mt-de">Die Struktur der Niere</string>
+            <string language="x-mt-fr">La structure du rein</string>
+            <string language="x-mt-pt">A estrutura do kidney</string>
+            <string language="x-mt-it">La struttura del rene</string>
+            <string language="x-mt-el">Η δομή του νεφρού</string>
+            <string language="x-mt-es">La estructura del riñón</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A vese felépítését szemléltető rajz</string>
+            <string language="en">Drawing about the construction of kidney</string>
+          </description>
+          <keyword>
+            <string language="hu">vese,  vesemedence,  kiválasztás,  vesepiramis,  </string>
+            <string language="en">kidney, pelvis of the kidney, selection, kidney pyramid</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Zeichnen über den Aufbau der Niere</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dessin au sujet de la construction du rein</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Desenhar sobre a construção do kidney</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dissipando circa la costruzione del rene</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Σχεδιασμός για την κατασκευή του νεφρού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El trazar sobre la construcción del riñón</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Niere, Pelvis der Niere, Auswahl, Nierepyramide</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">rein, bassin du rein, sélection, pyramide de rein</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">kidney, pelvis do kidney, seleção, pirâmide do 
+kidney</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rene, bacino del rene, selezione, piramide del rene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">νεφρό, λεκάνη του νεφρού, επιλογή, πυραμίδα νεφρών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">riñón, pelvis del riñón, selección, pirámide del 
+riñón</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73620</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e3457f36-7b98-485b-a2e3-5b69f9b72d11&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

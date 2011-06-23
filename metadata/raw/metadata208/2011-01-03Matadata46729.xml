@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/102874</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>102874</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085930</entry>
+          </identifier>
+          <title>
+            <string language="en">Two paths to knowledge</string>
+            <string language="x-mt-de">Zwei Pfade zum Wissen</string>
+            <string language="x-mt-fr">Deux voies d'accès à la connaissance</string>
+            <string language="x-mt-pt">Dois trajetos ao conhecimento</string>
+            <string language="x-mt-it">Due percorsi a conoscenza</string>
+            <string language="x-mt-el">Δύο μονοπάτια στη γνώση</string>
+            <string language="x-mt-es">Dos caminos al conocimiento</string>
+          </title>
+          <description>
+            <string language="en">For students who  always finish their class work early or want more information than you have time to give, try curriculum compacting.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Für Kursteilnehmer, die immer ihre Kategorie 
+Arbeit früh beenden oder mehr Informationen wünschen, als Sie Zeit 
+haben zu geben, das Lehrplanverbinden versuchen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pour les étudiants qui terminent toujours leur 
+travail de classe tôt ou veulent plus d'information que vous avez le 
+temps pour donner, essayer le compactage de programme d'études.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Para os estudantes que terminam sempre seu 
+trabalho da classe cedo ou querem mais informação do que você tem o
+tempo para dar, para tentar comprimir do curriculum.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Per gli allievi che rifiniscono sempre presto il 
+loro lavoro del codice categoria o desiderano le più informazioni che
+avete tempo di dare, provare comprimere di programma di studi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Για τους σπουδαστές που τελειώνουν πάντα την εργασία 
+κλάσης τους νωρίς ή θέλουν περισσότερες πληροφορίες από έχετε 
+το χρόνο να δώσετε, δοκιμάστε τη συμπίεση προγράμματος σπουδών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Para los estudiantes que acaban siempre su trabajo
+de la clase temprano o desean más información que usted tiene tiempo
+para dar, intentar la condensación del plan de estudios.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:WAVERLY HARRELL
+FN:WAVERLY HARRELL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085930</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>102874</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/two-paths-to-knowledge</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

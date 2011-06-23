@@ -1,0 +1,139 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104523</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104523</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205509</entry>
+          </identifier>
+          <title>
+            <string language="en">ESL: English Words for Colors</string>
+            <string language="x-mt-de">ESL: Englische Wörter für Farben</string>
+            <string language="x-mt-fr">ESL : Mots anglais pour des couleurs</string>
+            <string language="x-mt-pt">ESL: Palavras inglesas para cores</string>
+            <string language="x-mt-it">ESL: Parole inglesi per i colori</string>
+            <string language="x-mt-el">ESL: Αγγλικές λέξεις για τα χρώματα</string>
+            <string language="x-mt-es">ESL: Palabras inglesas para los colores</string>
+          </title>
+          <description>
+            <string language="en">Match colours and colour words.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Übereinstimmung Farben und Farbe Wörter.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Couleurs d'allumette et mots de couleur.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Cores do fósforo e palavras da cor.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Colori della corrispondenza e parole di colore.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Λέξεις χρωμάτων και χρώματος αντιστοιχιών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Colores del emparejamiento y palabras del color.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:ALAN ESTES
+FN:ALAN ESTES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205509</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104523</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/esl-english-words-for-colors</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
