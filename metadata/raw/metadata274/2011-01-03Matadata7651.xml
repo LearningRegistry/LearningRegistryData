@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76667</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76667</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>7f6f138e-a736-4d3d-8ac1-0783ece61c5d#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Keresztes vipera</string>
+            <string language="en">Common viper</string>
+            <string language="x-mt-de">Gemeine Viper</string>
+            <string language="x-mt-fr">Vipère commune</string>
+            <string language="x-mt-pt">Víbora comum</string>
+            <string language="x-mt-it">Vipera comune</string>
+            <string language="x-mt-el">Κοινή οχιά</string>
+            <string language="x-mt-es">Víbora común</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A keresztes vipera fotója</string>
+            <string language="en">Photograph of common viper</string>
+          </description>
+          <keyword>
+            <string language="hu">hüllők,  kígyók,  veszélyeztetett állatok,  </string>
+            <string language="en">reptiles, snakes, endangered animals</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Fotographie der gemeinen Viper</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Photographie de vipère commune</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Fotografia da víbora comum</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Fotografia della vipera comune</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Φωτογραφία της κοινής οχιάς</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Fotografía de la víbora común</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Reptilien, Schlangen, gefährdeten Tiere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">les reptiles, serpents, ont mis en danger des animaux</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">os répteis, serpentes, puseram em perigo animais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">i rettili, serpenti, hanno messo gli animali in 
+pericolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ερπετά, φίδια, διακυβευμένα ζώα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">los reptiles, serpientes, pusieron en peligro animales</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76667</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=7f6f138e-a736-4d3d-8ac1-0783ece61c5d&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

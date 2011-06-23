@@ -1,0 +1,190 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/229703</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>229703</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:12745</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:12745</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>12745</entry>
+          </identifier>
+          <title>
+            <string language="nl">FLAC : Muziek comprimeren zonder kwaliteitsverlies</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Compressie van muziek is al erg lang actueel.  Sinds de opkomst van de mp3-speler, Ipod en andere muziekdragers zoekt men naar manieren om muziekbestanden zo klein mogelijk op te slaan.  De mogelijkheid om muziek te downloaden van het internet en op te slaan op onze harde schijf vraagt ook naar geluidsbestanden die een pak kleiner zijn dan de oorspronkelijke wav-bestanden die men gebruikt op een CD.Muziek comprimeren is uiteraard heel handig, maar gaat steeds gepaard met gegevens- en kwaliteitsverlies.  Vooral de hoge en de lage tonen worden weggehaald uit het originele bestand.  Vaak zijn muziekluisteraars zich hier niet echt van bewust.  Maar afhankelijk van het genre muziek dat je beluistert kan dit erg storend zijn.  De muziek zal vlakker klinken en kan bijgeluiden vertonen. De meeste gekende vorm van muziekcompressie is het mp3-formaat.Wat weinig mensen weten, is dat er ook andere mogelijkheden bestaan om muziek te comprimeren.  Eén ervan is de compressie naar FLAC (Free Lossless Audio Codec).  Het is een opensource-project dat even goed door de meeste bekende mediaspelers ondersteund wordt.  Het verschil met mp3 is dat men bij een FLAC-compressie geen gegevens verliest.  Bestanden in FLAC-formaat blijven iets groter dan mp3-bestanden, maar ze behouden wel hun kwaliteit.  Daarom is FLAC de beste compressiemethode als men geen kwaliteit wil verliezen bij het digitaliseren van audio.</string>
+          </description>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">opensource</string>
+          </keyword>
+          <keyword>
+            <string language="nl">compressie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">muziekcompressie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">MP3</string>
+          </keyword>
+          <keyword>
+            <string language="nl">audio</string>
+          </keyword>
+          <keyword>
+            <string language="nl">muziek</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-29T17:42:33.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Inge De Cleyn
+FN:Inge De Cleyn 
+EMAIL;TYPE=INTERNET: 
+ORG: Inge De Cleyn
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:12745</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:12745</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T14:37:38.45Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">22-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Met deze methode kan je muziek comprimeren die je via een gegevensdrager in je klas wil afspelen of wil bewaren op de computer.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>281</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>12745</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>12745</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/12745/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
