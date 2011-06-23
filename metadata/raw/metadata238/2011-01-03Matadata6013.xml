@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75412</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75412</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>1acf4da2-e4d4-4719-94fa-437e2a26ed06#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Vektor hossza koordinátákból</string>
+            <string language="en">lenght of vectors from co-ordinates</string>
+            <string language="x-mt-de">lenght von Vektoren von koordiniert</string>
+            <string language="x-mt-fr">le lenght des vecteurs de coordonne</string>
+            <string language="x-mt-pt">o lenght dos vetores de coordena</string>
+            <string language="x-mt-it">il lenght dei vettori da coordina</string>
+            <string language="x-mt-el">lenght των διανυσμάτων από τις συντεταγμένες</string>
+            <string language="x-mt-es">el lenght de vectores de coordina</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Vektor hosszának kiszámítása- szemléltetés.</string>
+            <string language="en">calculation of the lenght of vectors-illustration</string>
+          </description>
+          <keyword>
+            <string language="hu">11. osztály,  kép,  vektor abszolútértéke,  </string>
+            <string language="en">11. class,  picture,  absolute value of  vector,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Berechnung des lenght der Vektor-Abbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">calcul du lenght de la vecteur-illustration</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">cálculo do lenght da vetor-ilustração</string>
+          </description>
+          <description>
+            <string language="x-mt-it">calcolo del lenght dell'vettore-illustrazione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">υπολογισμός του lenght της διάνυσμα-απεικόνισης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">cálculo del lenght de la vector-ilustracio'n</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">11. Kategorie, Abbildung, Absolutwert des Vektors,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">11. classe, image, valeur absolue de vecteur,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">11. classe, retrato, valor absoluto do vetor,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">11. codice categoria, immagine, valore assoluto del 
+vettore,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">11, κλάση, εικόνα, απόλυτη αξία του διανύσματος,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">11. clase, cuadro, valor absoluto del vector,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Bácskay;András;
+fn:András Bácskay  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75412</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=1acf4da2-e4d4-4719-94fa-437e2a26ed06&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

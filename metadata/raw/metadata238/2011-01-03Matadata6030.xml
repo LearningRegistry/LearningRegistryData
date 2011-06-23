@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78087</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78087</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>0db3b615-21dd-11d8-89de-f2e57024db35#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Földművelők Észak-Amerikában</string>
+            <string language="en">Farmers in North America</string>
+            <string language="x-mt-de">Landwirte in Nordamerika</string>
+            <string language="x-mt-fr">Fermiers en Amérique du nord</string>
+            <string language="x-mt-pt">Fazendeiros em America do Norte</string>
+            <string language="x-mt-it">Coltivatori in America del Nord</string>
+            <string language="x-mt-el">Αγρότες στη Βόρεια Αμερική</string>
+            <string language="x-mt-es">Granjeros en Norteamérica</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Földművelők élete Észak-Amerikában</string>
+            <string language="en">The lives of farmers in North America</string>
+          </description>
+          <keyword>
+            <string language="hu">indián,  életmód,  kukorica,  </string>
+            <string language="en">Indian, way of life, corn</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Leben der Landwirte in Nordamerika</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les vies des fermiers en Amérique du nord</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">As vidas dos fazendeiros em America do Norte</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Le vite dei coltivatori in America del Nord</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι ζωές των αγροτών στη Βόρεια Αμερική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Las vidas de granjeros en Norteamérica</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Inder, Lebensart, Mais</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Indien, façon de vivre, maïs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Indian, maneira de vida, milho</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Indiano, modo di vivere, cereale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ινδός, τρόπος της ζωής, καλαμπόκι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Indio, manera de la vida, maíz</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78087</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=0db3b615-21dd-11d8-89de-f2e57024db35&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
