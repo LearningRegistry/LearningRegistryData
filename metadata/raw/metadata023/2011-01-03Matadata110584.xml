@@ -1,0 +1,318 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/162430</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>162430</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_109151</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_109151</entry>
+          </identifier>
+          <title>
+            <string language="en">Distance and displacement</string>
+            <string language="x-mt-de">Abstand und Distanzadresse</string>
+            <string language="x-mt-fr">Distance et déplacement</string>
+            <string language="x-mt-pt">Distância e deslocamento</string>
+            <string language="x-mt-it">Distanza e spostamento</string>
+            <string language="x-mt-el">Απόσταση και μετατόπιση</string>
+            <string language="x-mt-es">Distancia y dislocación</string>
+          </title>
+          <description>
+            <string language="en">This map shows the path taken by hikers during a hike. The distance that they travelled (arrows) is longer than their displacement (actual distance from start to finish).</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">displacement</string>
+          </keyword>
+          <keyword>
+            <string language="en">distance</string>
+          </keyword>
+          <keyword>
+            <string language="en">hikers</string>
+          </keyword>
+          <keyword>
+            <string language="en">Map</string>
+          </keyword>
+          <keyword>
+            <string language="en">scalars</string>
+          </keyword>
+          <keyword>
+            <string language="en">vectors</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Karte zeigt den Pfad, der von den Wanderern
+während einer Wanderung genommen wird. Der Abstand, daß sie 
+(Pfeile) sind länger reisten, als ihre Distanzadresse (tatsächlicher
+Abstand von Anfang zu Ende).</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cette carte montre la voie d'accès prise par des 
+randonneurs pendant une hausse. La distance qu'ils ont voyagé 
+(des flèches) est plus long que leur déplacement (distance réelle 
+de début à la finition).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este mapa mostra o trajeto feito exame por hikers
+durante um hike. A distância que viajaram (setas) são mais 
+longos do que seu deslocamento (distância real do começo ao 
+revestimento).</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo programma mostra il percorso preso dai 
+hikers durante l'aumento. La distanza che hanno viaggiato 
+(frecce) sono più lunghe del loro spostamento (distanza reale fra 
+l'inizio e rivestimento).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτός ο χάρτης εμφανίζει το μονοπάτι που λαμβάνεται 
+από τους οδοιπόρους κατά τη διάρκεια ενός πεζοπορώ. Η 
+απόσταση που ταξίδεψαν (βέλη) είναι μεγαλύτερη από τη 
+μετατόπισή τους (πραγματική απόσταση από την έναρξη που 
+τελειώνει).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta correspondencia muestra el camino tomado por
+los hikers durante un alza. La distancia que viajaron (las 
+flechas) son más larga que su dislocación (distancia real del 
+comienzo al final).</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Distanzadresse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Abstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wanderer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Karte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Scalars</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vektoren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">déplacement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">distance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">randonneurs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Carte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">grandeurs scalaires</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteurs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">deslocamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">distância</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hikers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Mapa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">scalars</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetores</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">spostamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">distanza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">hikers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Programma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scalari</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettori</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετατόπιση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απόσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οδοιπόροι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χάρτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">scalars</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διανύσματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dislocación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">distancia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hikers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Correspondencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">escalares</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vectores</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_109151</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_109151</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:34:19.88Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>162430</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/109151.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
