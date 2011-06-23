@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/226646</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>226646</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>492</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:492</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>492</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">A acidez dos alimentos</string>
+          </title>
+          <description>
+            <string language="pt">Plano de actividade</string>
+          </description>
+          <keyword>
+            <string language="pt">microrganismos</string>
+          </keyword>
+          <keyword>
+            <string language="pt">acidez</string>
+          </keyword>
+          <keyword>
+            <string language="pt">alimentos</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:492</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>492</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-06-09</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <entity>BEGIN:VCARD
+FN:DGIDC
+N:DGIDC
+ORG:DGIDC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-20T15:52:38.34Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Escola Superior de Biotecnologia – Universidade Católica Portuguesa;Escol\na Superior de Biotecnologia – Universidade Católica Portuguesa;;;
+FN:Escola Superior de Biotecnologia – Universidade Católica Portuguesa
+ROLE:author
+ORG:Escola Superior de Biotecnologia – Universidade Católica Portuguesa;;
+X-ORG-URL:http://www.esb.ucp.pt
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-04-30</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>expositive</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>text</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>492</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.esb.ucp.pt/twt/pepino/MyFiles/MyAutoSiteFiles/Experiencias123952439/samorais/Plano_Actividade_Factores_Afectam_Crescimento_Microrganismos.pdf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

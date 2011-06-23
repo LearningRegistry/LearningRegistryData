@@ -1,0 +1,147 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227786</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227786</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1752</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1752</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1752</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Clic Mat - Actividades interactivas de matemática</string>
+          </title>
+          <description>
+            <string language="pt">O Clic Mat é um conjunto de 32 actividades matemáticas interactivas, concebidas de maneira a poderem ser utilizadas tanto em situação de sala de aula, como em pequeno grupo ou individualmente, de forma autónoma.</string>
+          </description>
+          <keyword>
+            <string language="pt">Matemática</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1752</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1752</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-06-15</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <version>
+            <string language="x-none">WinRAR ZIP archive &amp;#40;.zip&amp;#41;</string>
+          </version>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Associação de Professores de Matemática;Associação de Professores de Mate\nmática;;;
+FN:Associação de Professores de Matemática
+ROLE:author
+ORG:Associação de Professores de Matemática;;
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <semanticDensity>
+            <source>semanticDensityValues</source>
+            <value>medium</value>
+          </semanticDensity>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>difficult</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1752</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.erte.dgidc.min-edu.pt/publico/recursos/12_ClicMat/12_ClicMat.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

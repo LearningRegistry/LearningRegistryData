@@ -1,0 +1,165 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/226200</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>226200</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1582</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1582</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1582</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Ambiente e diversidade na Europa: uma viagem pelos principais  Biomas</string>
+          </title>
+          <description>
+            <string language="pt">Proposta de actividade baseada na exploração de  um conjunto integrado de recursos informativos (imagem e texto) com o objectivo de elaboração de um folheto informativo sobre  alguns aspectos relativos aos principais biomas existentes no continente europeu.</string>
+          </description>
+          <keyword>
+            <string language="pt">Biomas</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Fauna</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Flora</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Biodiversidade</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1582</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1582</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-06-09</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <entity>BEGIN:VCARD
+FN:DGIDC
+N:DGIDC
+ORG:DGIDC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-20T15:43:25.28Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Centro de Competência da Universidade de Évora;Centro de Competência da U\nniversidade de Évora;;;
+FN:Centro de Competência da Universidade de Évora
+ROLE:author
+ORG:Centro de Competência da Universidade de Évora;;
+X-ORG-URL:http://minerva@uevora.pt
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-31</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>expositive</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1582</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.minerva.uevora.pt/eschola2002/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

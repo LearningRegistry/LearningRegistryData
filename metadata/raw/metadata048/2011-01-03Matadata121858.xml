@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/226398</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>226398</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1509</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1509</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1509</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Números complexos</string>
+          </title>
+          <description>
+            <string language="pt">Aprender números complexos.</string>
+          </description>
+          <keyword>
+            <string language="pt">forma algébrica</string>
+          </keyword>
+          <keyword>
+            <string language="pt">coeficiente</string>
+          </keyword>
+          <keyword>
+            <string language="pt">parte imaginária</string>
+          </keyword>
+          <keyword>
+            <string language="pt">representação</string>
+          </keyword>
+          <keyword>
+            <string language="pt">geométrica</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Argand</string>
+          </keyword>
+          <keyword>
+            <string language="pt">afixo</string>
+          </keyword>
+          <keyword>
+            <string language="pt">imagem</string>
+          </keyword>
+          <keyword>
+            <string language="pt">vector</string>
+          </keyword>
+          <keyword>
+            <string language="pt">conjugado</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1509</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1509</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Paulo Carvalho Santos;Paulo Carvalho Santos;;;
+FN:Paulo Carvalho Santos
+ROLE:author
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-06-03</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>expositive</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">17-18</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="pt">licença é especificada na respectiva área do conteúdo ou a indicada na página da Internet onde o conteúdo foi publicado.</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1509</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://r21.ccems.pt/portals/11/red/complexos.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

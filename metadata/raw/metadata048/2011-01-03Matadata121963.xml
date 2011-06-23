@@ -1,0 +1,185 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227807</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227807</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1287</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1287</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1287</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Aventuras na Baixa Lisboeta</string>
+          </title>
+          <description>
+            <string language="pt">Conjunto de recursos  em torno de um jogo de pistas com o objectivo de observação de ruas e monumentos da Baixa lisboeta. Inclui também uma ficha de trabalho e o exemplo de um estudo realizado por um grupo de alunos sobre aspectos históricos ligados à cidade de Lisboa.</string>
+          </description>
+          <keyword>
+            <string language="pt">Lisboa</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Jogo de pistas</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Monumentos</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Terramoto de 1755</string>
+          </keyword>
+          <keyword>
+            <string language="pt">História de Portugal</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1287</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1287</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-05-29</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Centro de Competência da Faculdade de Ciências da Universidade de Lisboa;\nCentro de Competência da Faculdade de Ciências da Universidade de Lisboa;;;\n
+FN:Centro de Competência da Faculdade de Ciências da Universidade de Lisboa
+ROLE:author
+ORG:Centro de Competência da Faculdade de Ciências da Universidade de Lisbo\na;;
+X-ORG-URL:http://cccrie.fc.ul.pt/
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-30</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Teresa Silva;Teresa Silva;;;
+FN:Teresa Silva
+ROLE:author
+ORG:Centro de Competência da Faculdade de Ciências da Universidade de Lisbo\na;;
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-30</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>mixed</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-12</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1287</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://nonio.fc.ul.pt/recursos/visitas/relatos/jogo_lisboa1/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

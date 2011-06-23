@@ -1,0 +1,164 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227323</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227323</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1108</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1108</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1108</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Sistema reprodutor feminino</string>
+          </title>
+          <description>
+            <string language="pt">Completar um esquema com as palavras dadas.</string>
+          </description>
+          <keyword>
+            <string language="pt">Corpo humano</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Sistema reprodutor feminino</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1108</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1108</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Centro de Competência em TIC da ESE de Santarém;Centro de Competência em \nTIC da ESE de Santarém;;;
+FN:Centro de Competência em TIC da ESE de Santarém
+ROLE:content provider
+ORG:Centro de Competência em TIC da ESE de Santarém;;
+X-ORG-URL:http://cctic.ese.ipsantarem.pt/cctic/
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-04-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedro Reis;Pedro Reis;;;
+FN:Pedro Reis
+ROLE:author
+ORG:Escola Superior de Educação de Santarém;;
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-04-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>high</value>
+          </interactivityLevel>
+          <semanticDensity>
+            <source>semanticDensityValues</source>
+            <value>low</value>
+          </semanticDensity>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">11-12</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="pt">licença é especificada na respectiva área do conteúdo ou a indicada na página da Internet onde o conteúdo foi publicado.</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1108</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://nonio.eses.pt/eusei/passa/qijogar.asp?cod_jogos=1774</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

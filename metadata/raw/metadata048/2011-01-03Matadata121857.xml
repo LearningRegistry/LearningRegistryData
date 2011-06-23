@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227815</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227815</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1751</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1751</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1751</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">A Cidade do faz de caso</string>
+          </title>
+          <description>
+            <string language="pt">«Os especialistas dizem que um bom caso conta uma história com a qual se combinam instruções. Daí que cada um dos 4 casos, que se apresentam na Cidade do faz de Caso, decorra na forma de um contar pontuado de instruções».</string>
+          </description>
+          <keyword>
+            <string language="pt">Português</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Jogo</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Jogos</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Ensino Básico</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1751</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1751</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-06-15</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Direcção-Geral de Inovação e de Desenvolvimento Curricular;Direcção-Geral\n de Inovação e de Desenvolvimento Curricular;;;
+FN:Direcção-Geral de Inovação e de Desenvolvimento Curricular
+ROLE:publisher
+ORG:Direcção-Geral de Inovação e de Desenvolvimento Curricular;;
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <semanticDensity>
+            <source>semanticDensityValues</source>
+            <value>low</value>
+          </semanticDensity>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-10</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1751</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.erte.dgidc.min-edu.pt/publico/recursos/03_A_cidade_do_faz_de_Caso_portugues/03_A_cidade_do_faz_de_Caso_portugues.iso.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
