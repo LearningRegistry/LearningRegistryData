@@ -1,0 +1,337 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98006</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98006</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>8b633a4f-4097-4d77-a828-fd544d867a14</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8b633a4f-4097-4d77-a828-fd544d867a14</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8b633a4f-4097-4d77-a828-fd544d867a14</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Irányvektor, iránytangens és normálvektor</string>
+            <string language="en-US">Direction Vector, Angular Coefficient And Normalized Vector</string>
+            <string language="x-mt-de">Richtung Vektor, Eckiger Koeffizient Und 
+Normalisierter Vektor</string>
+            <string language="x-mt-fr">Vecteur de Direction, Coefficient Angulaire et 
+Vecteur Normal</string>
+            <string language="x-mt-pt">Vetor Do Sentido, Coeficiente Angular E Vetor 
+Normalizado</string>
+            <string language="x-mt-it">Vettore Di Senso, Coefficente Angolare E Vettore 
+Normalizzato</string>
+            <string language="x-mt-el">Διανυσματικός, γωνιακός συντελεστής κατεύθυνσης και 
+κανονικοποιημένο διάνυσμα</string>
+            <string language="x-mt-es">Vector De la Dirección, Coeficiente Angular Y 
+Vector Normalizado</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Irányvektor, iránytangens, normálvektor és a köztük lévő kapcsolatok</string>
+            <string language="en-US">Direction vector, direction tangent, normal vector and the relations between them</string>
+          </description>
+          <keyword>
+            <string language="en-US">direction vector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">normal vector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">vectors</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">tangent direction</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Richtung Vektor, Richtung Tangente, normaler 
+Vektor und die Relationen zwischen ihnen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Vecteur de direction, tangente de direction, 
+vecteur normal et les relations entre eux</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Vetor do sentido, tangent do sentido, vetor normal
+e as relações entre eles</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Vettore di senso, tangente di senso, vettore 
+normale ed i rapporti fra loro</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Διάνυσμα κατεύθυνσης, εφαπτομένη κατεύθυνσης, 
+κανονικός διανυσματικός και οι σχέσεις μεταξύ τους</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Vector de la dirección, tangente de la 
+dirección, vector normal y las relaciones entre ellos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Richtung Vektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">normaler Vektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vektoren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tangenterichtung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur de direction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur normal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteurs</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">direction de tangente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor do sentido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor normal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetores</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sentido do tangent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore di senso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore normale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettori</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">senso di tangente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα κατεύθυνσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κανονικό διάνυσμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διανύσματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατεύθυνση εφαπτομένης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector de la dirección</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector normal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vectores</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dirección de la tangente</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8b633a4f-4097-4d77-a828-fd544d867a14</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8b633a4f-4097-4d77-a828-fd544d867a14</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:57:38.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>acf758e8-773b-4b86-a1b0-86388a874a2b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>808f4178-26e9-4947-a4b7-170b2dcf8094</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a1103654-d28a-4606-abe4-cb49c612e318</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c24a687e-6f34-4493-a2e0-5bfb030074a8</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8b633a4f-4097-4d77-a828-fd544d867a14-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8b633a4f-4097-4d77-a828-fd544d867a14-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8b633a4f-4097-4d77-a828-fd544d867a14</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8b633a4f-4097-4d77-a828-fd544d867a14-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8b633a4f-4097-4d77-a828-fd544d867a14-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/8b/63/8b633a4f-4097-4d77-a828-fd544d867a14_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
