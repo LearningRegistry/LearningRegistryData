@@ -1,0 +1,160 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76636</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76636</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>a8f5caf2-ca17-4268-8580-00a4846d9c5f#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Az etén</string>
+            <string language="en">The ethene</string>
+            <string language="x-mt-de">Das ethene</string>
+            <string language="x-mt-fr">L'ethene</string>
+            <string language="x-mt-pt">O ethene</string>
+            <string language="x-mt-it">Il ethene</string>
+            <string language="x-mt-el">Το ethene</string>
+            <string language="x-mt-es">El ethene</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Az etén</string>
+            <string language="en">The ethene</string>
+          </description>
+          <keyword>
+            <string language="hu">etén</string>
+            <string language="en">ethene</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das ethene</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'ethene</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O ethene</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il ethene</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το ethene</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El ethene</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ethene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ethene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ethene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ethene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ethene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ethene</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">15-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Nemzeti Tankönyvkiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76636</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a8f5caf2-ca17-4268-8580-00a4846d9c5f&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
