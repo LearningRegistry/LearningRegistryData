@@ -1,0 +1,159 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74045</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74045</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>5ea316de-fd81-4c10-9ed4-083600893e64#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Tojásevő kígyó</string>
+            <string language="en">Ovum-eater snake</string>
+            <string language="x-mt-de">Ovum-Esser Schlange</string>
+            <string language="x-mt-fr">Serpent de Ovum-eater</string>
+            <string language="x-mt-pt">serpente do Ovum-comedor</string>
+            <string language="x-mt-it">serpente del Ovum-mangiatore</string>
+            <string language="x-mt-el">Φίδι ωάριο-τρωγόντων</string>
+            <string language="x-mt-es">serpiente del Ovum-comedor</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Tojásevő kígyó táplálkozás közben</string>
+            <string language="en">Ovum-eater snake during alimentation</string>
+          </description>
+          <keyword>
+            <string language="hu">kígyók,  hüllők,  </string>
+            <string language="en">snakes, reptiles</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ovum-Esser Schlange während des Alimentation</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Serpent de Ovum-eater pendant l'alimentation</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">serpente do Ovum-comedor durante o alimentation</string>
+          </description>
+          <description>
+            <string language="x-mt-it">serpente del Ovum-mangiatore durante il 
+alimentation</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Φίδι ωάριο-τρωγόντων κατά τη διάρκεια της διατροφής</string>
+          </description>
+          <description>
+            <string language="x-mt-es">serpiente del Ovum-comedor durante la 
+alimentación</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Schlangen, Reptilien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">serpents, reptiles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">serpentes, répteis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">serpenti, rettili</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φίδια, ερπετά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">serpientes, reptiles</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:BCSS Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74045</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=5ea316de-fd81-4c10-9ed4-083600893e64&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

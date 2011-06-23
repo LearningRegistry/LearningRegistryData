@@ -1,0 +1,221 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205444</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205444</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:14971</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:14971</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>14971</entry>
+          </identifier>
+          <title>
+            <string language="nl">Ridders en kastelen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Dit is een leerlingenbundel met daarin de belangrijkste inhoud over de tijd van de ridders en kastelen.
+Onderwerpen die aan bod komen:
+
+Hoe werd je ridder?
+De wapenuitrusting van een ridder.
+Kastelen door de eeuwen heen.
+Het kasteelleven.
+Het toernooi.
+Een aanval op het kasteel.</string>
+          </description>
+          <keyword>
+            <string language="nl">toernooi</string>
+          </keyword>
+          <keyword>
+            <string language="nl">heraldiek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">familiewapen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">harnas</string>
+          </keyword>
+          <keyword>
+            <string language="nl">schildknaap</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ridder</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Middeleeuwen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kasteel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">burcht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">feodale stelsel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leenstelsel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">page</string>
+          </keyword>
+          <keyword>
+            <string language="nl">feodaal stelsel</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-11-16T10:35:06.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Ann Hoefman
+FN:Ann Hoefman 
+EMAIL;TYPE=INTERNET: 
+ORG: Ann Hoefman
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:14971</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:14971</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T14:03:11.30Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-11</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Prentjes moet je zelf nog toevoegen in de bundel.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Ilse Schrijvers</entity>
+          <date>
+            <dateTime>2009-10-05</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>14971</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>14971</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/14971/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
