@@ -1,0 +1,166 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227430</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227430</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>1515</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1515</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1515</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Sólidos Geométricos</string>
+          </title>
+          <description>
+            <string language="pt">Classificação de sólidos geométricos; Identificação de faces, arestas e vértices dos poliedros; Identificação de polígonos; Contagem de faces, arestas e vértices dos poliedros; Resolução de problemas sobre sólidos geométricos; Planificação da superfície fronteira de alguns poliedros; Identificação de figuras geométricas; Construção de modelos de poliedros; Problemas sobre o cubo.</string>
+          </description>
+          <keyword>
+            <string language="pt">classificação</string>
+          </keyword>
+          <keyword>
+            <string language="pt">faces</string>
+          </keyword>
+          <keyword>
+            <string language="pt">arestas</string>
+          </keyword>
+          <keyword>
+            <string language="pt">vértices</string>
+          </keyword>
+          <keyword>
+            <string language="pt">poliedros</string>
+          </keyword>
+          <keyword>
+            <string language="pt">polígonos</string>
+          </keyword>
+          <keyword>
+            <string language="pt">contagem</string>
+          </keyword>
+          <keyword>
+            <string language="pt">problemas</string>
+          </keyword>
+          <keyword>
+            <string language="pt">superfície fronteira</string>
+          </keyword>
+          <keyword>
+            <string language="pt">cubo</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:1515</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>1515</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-05-26</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Maria Odete Rovisco;Maria Odete Rovisco;;;
+FN:Maria Odete Rovisco
+ROLE:author
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-07-06</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>medium</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-11</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="pt">licença é especificada na respectiva área do conteúdo ou a indicada na página da Internet onde o conteúdo foi publicado.</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>1515</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://r21.ccems.pt/portals/11/red/solidos_html.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

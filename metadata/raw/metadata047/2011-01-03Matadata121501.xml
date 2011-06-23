@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227320</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227320</entry>
+  </identifier>
+  <identifier xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <catalog>REPOSITORIOMEPT</catalog>
+    <entry>205</entry>
+  </identifier>
+  <description xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd">
+        <general>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:205</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>205</entry>
+          </identifier>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <language>pt</language>
+          <title>
+            <string language="pt">Curso Online Pequenos Artistas</string>
+          </title>
+          <description>
+            <string language="pt">Trata-se de um conjunto de conteúdos organizados por ordem crescente de dificuldade que permitem aprender a utilizar de forma mais eficiente e criativa as ferramentas básicas de desenho e pintura. O sítio tem duas vertentes: uma é o recurso em sim mesmo, onde se aprende a usar técnicas de desenho e pintura, apoiado por esboços, exemplos e vídeos; a segunda é um curso "formal" que tem inscrições cíclicas e propostas de trabalho que resultam na publicação de trabalhos numa galeria de imagens disponível online.</string>
+          </description>
+          <keyword>
+            <string language="pt">Desenho</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Pintura</string>
+          </keyword>
+          <keyword>
+            <string language="pt">Online</string>
+          </keyword>
+        </general>
+        <metaMetadata>
+          <identifier xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <catalog>oai</catalog>
+            <entry>oai:REPOSITORIOMEPT:205</entry>
+          </identifier>
+          <identifier>
+            <catalog>REPOSITORIOMEPT</catalog>
+            <entry>205</entry>
+          </identifier>
+          <language>pt</language>
+          <contribute>
+            <date>
+              <dateTime>2009-06-09</dateTime>
+            </date>
+            <role>
+              <source>LOMv1.0</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute xmlns="http://ltsc.ieee.org/xsd/LOM">
+            <entity>BEGIN:VCARD
+FN:DGIDC
+N:DGIDC
+ORG:DGIDC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-20T15:55:04.26Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <lifeCycle>
+          <version>
+            <string language="x-none">1.0</string>
+          </version>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Centro de Competência da Universidade do Minho;Centro de Competência da U\nniversidade do Minho;;;
+FN:Centro de Competência da Universidade do Minho
+ROLE:author
+ORG:Centro de Competência da Universidade do Minho;;
+X-ORG-URL:http://www.nonio.uminho.pt/cursos/paint
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-04-02</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>mixed</value>
+          </interactivityType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>medium</value>
+          </interactivityLevel>
+          <semanticDensity>
+            <source>semanticDensityValues</source>
+            <value>medium</value>
+          </semanticDensity>
+          <difficulty>
+            <source>difficultyValues</source>
+            <value>easy</value>
+          </difficulty>
+          <typicalAgeRange>
+            <string language="x-t-lre">7-12</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/2.5/pt/</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation xmlns:lom="http://ltsc.ieee.org/xsd/LOM">
+    <identifier>
+      <catalog>REPOSITORIOMEPT</catalog>
+      <entry>205</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.nonio.uminho.pt/cursos/paint</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
