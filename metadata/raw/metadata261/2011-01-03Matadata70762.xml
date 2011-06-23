@@ -1,0 +1,223 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/204907</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>204907</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:2109</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:2109</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>2109</entry>
+          </identifier>
+          <title>
+            <string language="nl">Profcast : Podcasting vanuit Keynote &amp; Powerpoint</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">ProfCast is een veelzijdig en krachtig programma, én eenvoudig in gebruik, om PowerPoint- of Keynotepresentaties om te zetten in een enhanced podcast.ProfCast is een goedkope oplossing om lezingen of cursussen, mét beeld, op te nemen en te verdelen in podcastvorm. Applescript wordt ondersteund, ftp, sftp WebDav en .mac. Screencapture-support, URL-linking en export naar Garageband zijn mogelijk. Het eindresultaat is een podcast en dus leesbaar op elke moderne computer (en op een iPod vanaf de vijfde generatie).</string>
+          </description>
+          <keyword>
+            <string language="nl">Apple</string>
+          </keyword>
+          <keyword>
+            <string language="nl">universeel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">universeel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Apple</string>
+          </keyword>
+          <keyword>
+            <string language="nl">podcast</string>
+          </keyword>
+          <keyword>
+            <string language="nl">keynote</string>
+          </keyword>
+          <keyword>
+            <string language="nl">presentatie</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>2009-06-03T22:18:42.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:n.v.t.
+FN:n.v.t. 
+EMAIL;TYPE=INTERNET: 
+ORG: n.v.t.
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:2109</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:2109</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:02:02.54Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/zip</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>tool</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Laat de studenten of leerlingen een presentatie maken, en nadien invoeren in Profcast. De presentatie wordt afgespeeld (automatisch) en de leerlingen spreken meteen hun bijhorend verhaal in. Nadien wordt dit alles automatisch omgezet in een podcast, klaar voor bv. iWeb of iTunes. Het voordeel is dat je allerhande mooie effecten uit PowerPoint of Keynote integreert in een video-podcast. En dat is dan weer een zeer handig formaat om je werk te delen. Je kan er ook cursussen en proeven (fysica e.d.) mee online zetten in podcastformaat.  Leesbaar op elke computer die iTunes heeft of elke iPod vanaf de vijfde generatie, of direct op je website (Quicktime 7.x nodig).</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">Op 1 november 2006 : $ 29,95</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>2109</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>2109</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/2109/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
