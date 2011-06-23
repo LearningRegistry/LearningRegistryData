@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76258</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76258</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>8218c326-a4a8-4632-8d85-65569267f305#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Mária-szobor</string>
+            <string language="en">Mária statue</string>
+            <string language="x-mt-de">Mária Statue</string>
+            <string language="x-mt-fr">Statue de Mária</string>
+            <string language="x-mt-pt">Estátua de Mária</string>
+            <string language="x-mt-it">Statua di Mária</string>
+            <string language="x-mt-el">Αγαλμα Mαria</string>
+            <string language="x-mt-es">Estatua de Mária</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">barokk szobor</string>
+            <string language="en">Baroque statue</string>
+          </description>
+          <keyword>
+            <string language="hu">egyház,  templom,  képzőművészet,  </string>
+            <string language="en">church, temple, fine arts, </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Barocke Statue</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Statue baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Estátua baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Statua baroque</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μπαρόκ άγαλμα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Estatua barroca</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kirche, Bügel, feine künste,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">église, temple, arts fins,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">igreja, temple, artes finas,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">chiesa, tempiale, arti fini,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εκκλησία, ναός, καλές τέχνες,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">iglesia, templo, artes finos,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76258</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8218c326-a4a8-4632-8d85-65569267f305&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
