@@ -1,0 +1,391 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/31331</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>31331</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9646</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9646</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Likviditet</string>
+            <string language="en">Likviditet</string>
+            <string language="x-mt-de">Likviditet</string>
+            <string language="x-mt-fr">Likviditet</string>
+            <string language="x-mt-pt">Likviditet</string>
+            <string language="x-mt-it">Likviditet</string>
+            <string language="x-mt-el">Likviditet</string>
+            <string language="x-mt-es">Likviditet</string>
+          </title>
+          <description>
+            <string language="sv">Likviditet.Ingår i Ekonomi och Budget (Modul 3) - FöretagarSKOLAN.</string>
+            <string language="en">Likviditet.
+
+Is included in economy and budget (module 3) - FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">likviditet</string>
+            <string language="sv">likvida medel</string>
+            <string language="sv">likviditetsbudget</string>
+            <string language="sv">ekonomi</string>
+            <string language="sv">intäkt</string>
+            <string language="sv">kostnad</string>
+            <string language="sv">intäkter</string>
+            <string language="sv">kostnader</string>
+            <string language="en">likviditet</string>
+            <string language="en">body wide means</string>
+            <string language="en">likviditetsbudget</string>
+            <string language="en">economy</string>
+            <string language="en">revenue</string>
+            <string language="en">cost</string>
+            <string language="en">revenues</string>
+            <string language="en">costs</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Likviditet.Is eingeschlossen in der Wirtschaft 
+und im Etat (Modul 3) - FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Likviditet.Is inclus à l'économie et au budget 
+(module 3) - FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Likviditet.Is incluído na economia e no 
+orçamento (módulo 3) - FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Likviditet.Is incluso nell'economia ed in 
+preventivo (modulo 3) - FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Likviditet. συμπεριλαμβάνεται στην οικονομία και τον
+προϋπολογισμό (ενότητα 3) - FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Likviditet.Is incluido en la economía y el 
+presupuesto (módulo 3) - FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Körper bedeutet weit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Einkommen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Einkommen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kosten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">le corps signifie au loin</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">revenu</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coût</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">revenus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">coûts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">o corpo significa largamente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rendimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">rendimentos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">custos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">il corpo largamente significa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">reddito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">redditi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">costi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ευρέα μέσα σωμάτων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εισόδημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κόστος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εισοδήματα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δαπάνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">likviditet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el cuerpo significa de par en par</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">likviditetsbudget</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rédito</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">réditos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">costes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9646</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9646</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:20:15.73Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>31331</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9646</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
