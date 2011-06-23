@@ -1,0 +1,240 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/126575</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>126575</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.AEIOU.d164705_ge</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.AEIOU.d164705_ge</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.AEIOU.d164705_ge</entry>
+          </identifier>
+          <title>
+            <string language="de-AT">Degn, Johann B.</string>
+          </title>
+          <language>de-AT</language>
+          <keyword>
+            <string language="en-US">19th century</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">People</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">Science/research</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <keyword>
+            <string language="x-mt-fr">19ème siècle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Les gens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Science/research</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">1ø século</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Povos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Science/research</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">diciannovesimo secolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">La gente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Science/research</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">19$ος αιώνας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωποι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη/έρευνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">diecinueveavo siglo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Gente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Science/research</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:AEIOU.at
+n:AEIOU.at
+org:AEIOU.at
+email;type=internet:aeiou.at@unknown
+end:vCard</entity>
+            <date>
+              <dateTime>2003-03-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:AEIOU.at
+n:AEIOU.at
+org:AEIOU.at
+email;type=internet:aeiou.at@unknown
+end:vCard</entity>
+            <date>
+              <dateTime>2007-10-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.AEIOU.d164705_ge.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.AEIOU.d164705_ge.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:AEIOU.at
+n:AEIOU.at
+org:AEIOU.at
+email;type=internet:aeiou.at@unknown
+end:vCard</entity>
+            <date>
+              <dateTime>2003-03-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T03:32:12.96Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <typicalAgeRange>
+            <string language="x-t-lre">U-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="de-AT">Copyright Verlagsgesellschaft Österreich-Lexikon, A-1010 Wien, Schwarzenbergstrasse 5</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.AEIOU.d164705_ge</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aeiou.iicm.tugraz.at/aeiou.encyclop.d/d164705_ge.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
