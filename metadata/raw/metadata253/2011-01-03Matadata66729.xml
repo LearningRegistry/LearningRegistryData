@@ -1,0 +1,213 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/205045</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>205045</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1610</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1610</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1610</entry>
+          </identifier>
+          <title>
+            <string language="nl">Li La Land TV</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">In Li La Land kunnen kleuters verhaaltjes beluisteren, kleurplaten printen en educatieve spelletjes spelen: piano, alfabetspel, kleuren leren, memory, kleuren en vormen.</string>
+          </description>
+          <keyword>
+            <string language="nl">vormen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">memory</string>
+          </keyword>
+          <keyword>
+            <string language="nl">leren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kleuren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">alfabetspel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">piano</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kleurplaat</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kleurplaten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">verhalen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Eric Slabbers en Robert Hahn
+FN:Eric Slabbers en Robert Hahn 
+EMAIL;TYPE=INTERNET:johan.desloover@skynet.be 
+ORG: Eric Slabbers en Robert Hahn
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:1610</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:1610</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:05:56.59Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>text/html</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-5</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Li La Land TV is een project dat is gestart door de  grootvaders Eric Slabbers en Robert Hahn. Met hun jarenlange ervaring in het bouwen en bespelen van muppet-achtige figuren, zijn zij samen met collegas en een team van grafische (3D)- en nieuwe media-specialisten begonnen hun ideeen vorm te geven.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1610</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>1610</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/1610/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

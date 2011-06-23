@@ -1,0 +1,204 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/230344</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>230344</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:10750</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10750</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10750</entry>
+          </identifier>
+          <title>
+            <string language="nl">Linux Mint</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Linux is een gratis alternatief voor Windows. Linux Mint is gebaseerd op Ubuntu Linux maar heeft enkele extra voordelen:Flash, mp3's en andere codecs worden automatisch mee geïnstalleerdEr zijn een paar extra handig configuratietoolsMeer info via Wikipedia: http://nl.wikipedia.org/wiki/Linux_Mint </string>
+          </description>
+          <keyword>
+            <string language="nl">vrije software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Linux</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ubuntu</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gratis</string>
+          </keyword>
+          <keyword>
+            <string language="nl">software</string>
+          </keyword>
+          <keyword>
+            <string language="nl">open</string>
+          </keyword>
+          <keyword>
+            <string language="nl">source</string>
+          </keyword>
+          <keyword>
+            <string language="nl">free</string>
+          </keyword>
+          <keyword>
+            <string language="nl">operating</string>
+          </keyword>
+          <keyword>
+            <string language="nl">system</string>
+          </keyword>
+          <keyword>
+            <string language="nl">alternatief</string>
+          </keyword>
+          <keyword>
+            <string language="nl">besturingssysteem</string>
+          </keyword>
+          <keyword>
+            <string language="nl">OS</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-04-01T10:32:14.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:10750</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:10750</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T15:26:09.98Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Linux is een gratis alternatief voor Windows. Linux is tegenwoordig zo goed ontwikkeld dat het gemakkelijk kan concurreren met Windows en Mac. Download de gratis CD en probeer het zelf uit!</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>10750</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>10750</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/10750/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

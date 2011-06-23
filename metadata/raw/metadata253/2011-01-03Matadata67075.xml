@@ -1,0 +1,181 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/208960</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>208960</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:4772</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4772</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4772</entry>
+          </identifier>
+          <title>
+            <string language="nl">Classy : Gratis webruimte, weblogs,...</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Bij Classy kan je genieten van diverse voordelen als leerkracht in Vlaanderen:- Webruimte: Je krijgt één webruimte van 20 MB gratis. Na aanvraag ontvang je een gebruikersnaam en wachtwoord om je website te beheren. Die 20 MB laat je toe om oefeningen online te zetten, een website voor je klas of vak te beginnen. - Weblogs:  Elk lid van Classy kan maximaal vijf weblogs aanmaken. Steeds meer leerkrachten maken voor hun klas of vak een eigen weblog of laten leerlingen er aan samenwerken. Een weblog is een ideaal middel om verslag uit te brengen van de dagelijkse schoolactiviteiten of om over een bepaald thema artikels uit te werken en online aan te bieden. Bovendien laten weblogs ook reacties toe waardoor een druk bezochte weblog snel een heel interactieve site kan worden.- Gratis cursus FrontPage - Materiaal voor schoolse activiteiten huren:Buttonmaker: Maak je eigen pins of magneetjes. Diameter 25 mm.Videocamera: Om scholen te ondersteunen in het maken van videomateriaal en het werken met audiovisueel materiaal, kan je een videocamera (gratis voor één week) huren.</string>
+          </description>
+          <keyword>
+            <string language="nl">website</string>
+          </keyword>
+          <keyword>
+            <string language="nl">buttonmaker</string>
+          </keyword>
+          <keyword>
+            <string language="nl">video</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Frontpage</string>
+          </keyword>
+          <keyword>
+            <string language="nl">weblog</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-02-10T13:16:06.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET: 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4772</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4772</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T21:59:34.24Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>4772</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/4772/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
