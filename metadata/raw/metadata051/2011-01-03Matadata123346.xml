@@ -1,0 +1,331 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/96259</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>96259</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:ce4150b9-124a-4b3c-9105-391e0c0df43c</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Műszaki mentés</string>
+            <string language="en-US">Technical Rescue</string>
+            <string language="x-mt-de">Technische Rettung</string>
+            <string language="x-mt-fr">Délivrance Technique</string>
+            <string language="x-mt-pt">Salvamento Técnico</string>
+            <string language="x-mt-it">Salvataggio Tecnico</string>
+            <string language="x-mt-el">Τεχνική διάσωση</string>
+            <string language="x-mt-es">Rescate Técnico</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Mentés</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">műszaki mentés</string>
+            <string language="en-US">technical rescue</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">tűzoltók</string>
+            <string language="en-US">firemen</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">baleset</string>
+            <string language="en-US">accident</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">közúti baleset</string>
+            <string language="en-US">road accident</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">sérültek</string>
+            <string language="en-US">the injured</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <keyword>
+            <string language="x-mt-de">technische Rettung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Feuerwehrmänner</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Unfall</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Verkehrsunfall</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">verletzt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">délivrance technique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pompiers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accident</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">accident de la route</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">blessé</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">salvamento técnico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">firemen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acidente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">acidente de estrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ferido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">salvataggio tecnico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vigili del fuoco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">incidente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">incidente stradale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">danneggiato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τεχνική διάσωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πυροσβέστες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ατύχημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τροχαίο ατύχημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τραυματισμένη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rescate técnico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bomberos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">accidente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">accidente de camino</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dañado</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:52:37.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:ce4150b9-124a-4b3c-9105-391e0c0df43c</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:52:37.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:21:32.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>583</id>
+              <entry>
+                <string language="en-US">health education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=ce4150b9-124a-4b3c-9105-391e0c0df43c</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-WebNormal</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-WebNormal-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/ce4150b9-124a-4b3c-9105-391e0c0df43c/1/5/ResourceNormal/muszment.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-Thumbnail</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>thumbnail</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>ce4150b9-124a-4b3c-9105-391e0c0df43c-Thumbnail-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/data/ce4150b9-124a-4b3c-9105-391e0c0df43c/1/5/ResourcePreview/muszment.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,365 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/92304</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>92304</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:c28555a4-d93d-46a3-a3d7-823987b94d9f</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A vércsoportok</string>
+            <string language="en-US">Blood Types</string>
+            <string language="x-mt-de">Blut-Typen</string>
+            <string language="x-mt-fr">Types de Sang</string>
+            <string language="x-mt-pt">Tipos Do Sangue</string>
+            <string language="x-mt-it">Tipi Di Anima</string>
+            <string language="x-mt-el">Τύποι αίματος</string>
+            <string language="x-mt-es">Tipos De la Sangre</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Az AB0- és az Rh-vércsoportrendszer; a vérátömlesztés, az Rh-összeférhetetlenség</string>
+            <string language="en-US">The AB0 and the RhD Blood Type System; Blood Transfusion, az RhD-incompatibility</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">biológia</string>
+            <string language="en-US">biology</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">immunitás</string>
+            <string language="en-US">immunity</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">immunrendszer</string>
+            <string language="en-US">immune system</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">vércsoportok</string>
+            <string language="en-US">blood groups</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">vérátömlesztés</string>
+            <string language="en-US">blood transfusion</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Das AB0 und der RhD Blut-Typ System; 
+Bluttransfusion, az RhD-Unverträglichkeit</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'AB0 et le type système de sang de RhD ; 
+Transfusion sanguine, RhD-incompatibilité d'az</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O AB0 e o tipo sistema do sangue de RhD; 
+Transfusion de sangue, RhD-rhD-incompatibility do az</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il AB0 ed il tipo sistema di anima di RhD; 
+Trasfusione di sangue, RhD-incompatibilità del az</string>
+          </description>
+          <description>
+            <string language="x-mt-el">AB0 και το σύστημα τύπων αίματος RhD  
+Μετάγγιση αίματος, ρχΔ-ασυμβίβαστο AZ</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El AB0 y el tipo sistema de la sangre de RhD; 
+Transfusión de sangre, RhD-incompatibilidad del az</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Biologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Immunität</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">immunes System</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Blutgruppen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bluttransfusion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">biologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">immunité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">système immunitaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">groupes sanguins</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">transfusion sanguine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">biologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">immunity</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistema imune</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">grupos de sangue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">transfusion de sangue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">biologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">immunità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sistema immune</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">gruppi sanguigni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">trasfusione di sangue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">η βιολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ασυλία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανοσοποιητικό σύστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ομάδες αίματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετάγγιση αίματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">biología</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">inmunidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistema inmune</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">grupos sanguíneos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">transfusión de sangre</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:c28555a4-d93d-46a3-a3d7-823987b94d9f</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:29:31.19Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5ea25e37-30b4-4f85-a328-3cad294f3aca</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b2f5a0af-2ae5-40c7-8d31-8e4676547aea</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>9a52f7f0-053e-44af-8576-0b2ce41f630e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6dbbc649-e433-4f1f-a90c-f9ee6513065d</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>fe9193cc-6b16-4f8a-a86f-573180537ab1</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>8f8827a2-a01d-4661-a96e-b8a100d10ce0</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>143</id>
+              <entry>
+                <string language="en-US">biological sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=c28555a4-d93d-46a3-a3d7-823987b94d9f</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>c28555a4-d93d-46a3-a3d7-823987b94d9f-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/c2/85/c28555a4-d93d-46a3-a3d7-823987b94d9f_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,292 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/668034886</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>668034886</entry>
+  </identifier>
+  <identifier>
+    <catalog>lre</catalog>
+    <entry>at.CONTAKE.1610</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.1610</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.1610</entry>
+          </identifier>
+          <title>
+            <string language="de-DE">Die Wright Brothers- eine Website des Discovery Channels in engl. Sprache über die ersten Flugversuche der Gebrüder Wright</string>
+          </title>
+          <description>
+            <string language="de-DE">Die Seiten beim Discovery Channel geben einen authentischen und historischen Überblick über die Arbeit der Wright Brothers und ihre Flugversuche. Virtuelle Flüge, virtuelle Rundgänge durch ihre Arbeitsstätten, historische Fakten und persönliche Daten machen diese Seiten zu einem interessanten Ausflug, aber man muss des Englischen mächtig sein.</string>
+          </description>
+          <language>de-DE</language>
+          <keyword>
+            <string language="de-DE">Technikgeschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">20. Jahrhundert</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Technik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">technologischer Wandel</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Wright</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Gebrüder Wright</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Fliegen</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Flugzeug</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Doppeldecker</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Englisch</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Zeitgeschichte</string>
+          </keyword>
+          <keyword>
+            <string language="de-DE">Dynamik</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en-US">1.0.2004-05-14</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. Discovery Channel
+n:Discovery Channel;N.
+email;type=intern:letters@discovery.com
+end:vcard</entity>
+            <date>
+              <dateTime>2004-05-14</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:N. Discovery Channel
+n:Discovery Channel;N.
+email;type=intern:letters@discovery.com
+end:vcard</entity>
+            <date>
+              <dateTime>2004-05-14</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:bildungspool.bildung.at:at.CONTAKE.1610.lre-mr</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>at.CONTAKE.1610.lre-mr</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Tiroler Bildungsservice
+n:Tiroler Bildungsservice
+org:Tiroler Bildungsservice
+email;type=internet:office@tibs.at
+end:vCard</entity>
+            <date>
+              <dateTime>2004-05-14</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Bundesministerium für Bildung\, Wissenschaft und Kultur
+N:Bundesministerium für Bildung\, Wissenschaft und Kultur
+ORG:Bundesministerium für Bildung\, Wissenschaft und Kultur
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T00:12:27.35Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>data</value>
+          </learningResourceType>
+          <interactivityLevel>
+            <source>interactivityLevelValues</source>
+            <value>low</value>
+          </interactivityLevel>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>other</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-17</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en-US">1. Discovery.com Content &lt;br /&gt;
+1.1 The contents of the Discovery.com Internet service are intended for the personal, noncommercial use of its Users. All materials published on Discovery.com (including, but not limited to, feature articles, photographs, images, illustrations, audio clips and video clips, also known as the "Content") are protected by copyright and owned or controlled by Discovery.com, Discovery Communications Inc., or the party credited as the provider of the content, software or other materials. User shall abide by all additional copyright notices, information or restrictions contained in any Content accessed through the Web site. &lt;br /&gt;
+&lt;br /&gt;
+1.2 Discovery.com is protected by copyright as a collective work and/or compilation, pursuant to U.S. copyright laws, international conventions and other copyright laws. User may not modify, publish, transmit, participate in the transfer or sale of, reproduce, create derivative works from, distribute, perform, display or in any way exploit any of the Content, software, materials or service, in whole or in part. &lt;br /&gt;
+&lt;br /&gt;
+1.3 User may not download or copy the Content and other downloadable items displayed on this Web site for personal use. User shall not store any significant portion of any Content owned by or licensed to Discovery.com in any form.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">foreign language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>590</id>
+              <entry>
+                <string language="en">history</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>lre</catalog>
+      <entry>at.CONTAKE.1610</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://media.dsc.discovery.com/convergence/wright/wright.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
