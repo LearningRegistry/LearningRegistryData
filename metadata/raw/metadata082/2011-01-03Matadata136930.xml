@@ -1,0 +1,401 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93636</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93636</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>01d96b73-d190-4d98-aeeb-ed60cc800780</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:01d96b73-d190-4d98-aeeb-ed60cc800780</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>01d96b73-d190-4d98-aeeb-ed60cc800780</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Olvadás - fagyás</string>
+            <string language="en-US">Melting - Freezing</string>
+            <string language="x-mt-de">Schmelzen - Einfrierend</string>
+            <string language="x-mt-fr">Fonte - Gelant</string>
+            <string language="x-mt-pt">Derretimento - Congelando-se</string>
+            <string language="x-mt-it">Fusione - Congelando</string>
+            <string language="x-mt-el">Τήξη - που παγώνει</string>
+            <string language="x-mt-es">El Derretir - Congelando</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Halmazállapotok, olvadás, fagyás, olvadáspont, olvadáshő</string>
+            <string language="en-US">States of Matter, Melting, Freezing, Melting Point, Melting Heat</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">fizika</string>
+            <string language="en-US">physics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hőjelenségek</string>
+            <string language="en-US">heat phenomena</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">olvadás</string>
+            <string language="en-US">melting</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">fagyás</string>
+            <string language="en-US">freezing</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">olvadáspont</string>
+            <string language="en-US">melting point</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">olvadáshő</string>
+            <string language="en-US">heat of fusion</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">halmazállapot</string>
+            <string language="en-US">state of matter</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Zustände des Stoffes, schmelzend und frieren, 
+Schmelzpunkt, schmelzende Hitze ein</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">États de matière, fondant, gelant, point de 
+fusion, la chaleur de fonte</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Estados da matéria, derretendo, congelando-se, 
+ponto de derretimento, calor de derretimento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Dichiara della materia, fondendosi, 
+congelando, punto di fusione, fondente il calore</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κράτη του θέματος, που λειώνουν, παγώνοντας, σημείο 
+τήξης, θερμότητα τήξης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Estados de la materia, derritiendo, congelando, 
+punto de fusión, calor que derrite</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hitzephänomene</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schmelzen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Einfrieren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schmelzpunkt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hitze des Schmelzverfahrens</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tatsache</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">phénomènes de la chaleur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">congélation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">point de fusion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la chaleur de la fusion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">état de choses</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fenômenos do calor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">derretimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">congelar-se</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ponto de derretimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">calor da fusão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estado da matéria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fenomeni di calore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fusione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">congelamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto di fusione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calore di fusione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dichiari della materia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φαινόμενα θερμότητας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τήξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πάγωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημείο τήξης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θερμότητα της τήξης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κατάσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fenómenos del calor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el derretir</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el congelar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">punto de fusión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">calor de la fusión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">declaraciones</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:01d96b73-d190-4d98-aeeb-ed60cc800780</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>01d96b73-d190-4d98-aeeb-ed60cc800780</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:32:20.86Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2c0957a4-62ff-49ed-b2d0-d0ad3d781f23</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>9223b8da-51fd-4c19-809d-c86a2dc7c586</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d1503f1f-b820-49c0-b893-dffb74f3a038</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a3b12c24-30b8-47ff-a208-a6616558c5c9</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en-US">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>01d96b73-d190-4d98-aeeb-ed60cc800780-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>01d96b73-d190-4d98-aeeb-ed60cc800780-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=01d96b73-d190-4d98-aeeb-ed60cc800780</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>01d96b73-d190-4d98-aeeb-ed60cc800780-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>01d96b73-d190-4d98-aeeb-ed60cc800780-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/01/d9/01d96b73-d190-4d98-aeeb-ed60cc800780_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

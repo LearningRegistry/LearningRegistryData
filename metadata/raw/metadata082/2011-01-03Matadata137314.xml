@@ -1,0 +1,317 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/90494</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>90494</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:6a4788ad-ff06-4c0e-9668-44e142a5abb7</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Térelemek, kölcsönös helyzetük, távolságuk</string>
+            <string language="en-US">Spatial items, Their Mutual Position, Distances</string>
+            <string language="x-mt-de">Räumliche Einzelteile, ihre gegenseitige 
+Position, Abstände</string>
+            <string language="x-mt-fr">Éléments spatiaux, leur position mutuelle, 
+distances</string>
+            <string language="x-mt-pt">Artigos spatial, sua posição mútua, 
+distâncias</string>
+            <string language="x-mt-it">Articoli spaziali, la loro posizione reciproca, 
+distanze</string>
+            <string language="x-mt-el">Χωρικά αντικείμενα, η αμοιβαία θέση τους, αποστάσεις</string>
+            <string language="x-mt-es">Items espaciales, su posición mutua, distancias</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="en-US">Figures with properties of space, their mutual position, distances</string>
+          </description>
+          <keyword>
+            <string language="en-US">geometry</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">line</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">point</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Abbildungen mit Eigenschaften des Platzes, ihre 
+gegenseitige Position, Abstände</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Figures avec des propriétés de l'espace, leur 
+position mutuelle, distances</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Figuras com propriedades do espaço, sua posição
+mútua, distâncias</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Figure con le proprietà di spazio, la loro 
+posizione reciproca, distanze</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αριθμοί με τις ιδιότητες του διαστήματος, η αμοιβαία 
+θέση τους, αποστάσεις</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Figuras con las características del espacio, su 
+posición mutua, distancias</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punkt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">point</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ponto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημείο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">geometría</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">punta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:6a4788ad-ff06-4c0e-9668-44e142a5abb7</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:06:18.90Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>798afc3e-f06f-4340-a902-9770a16d237f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1a4928aa-4bc6-4886-ac30-39e71e135231</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4f145107-9ef3-49f7-a88d-6e835d78c9d4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>656558fe-d6df-4fb4-bce2-0f416782163a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>117f3f76-3f94-443e-9062-f1b63fd4f78f</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=6a4788ad-ff06-4c0e-9668-44e142a5abb7</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>6a4788ad-ff06-4c0e-9668-44e142a5abb7-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/6a/47/6a4788ad-ff06-4c0e-9668-44e142a5abb7_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

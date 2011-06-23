@@ -1,0 +1,309 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/96313</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>96313</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>1192a30a-1396-4e37-837d-4b762067a450</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:1192a30a-1396-4e37-837d-4b762067a450</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>1192a30a-1396-4e37-837d-4b762067a450</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Pont és egyenes távolsága, szögfelező</string>
+            <string language="en-US">The Distance Of Point And Line, The Bisector</string>
+            <string language="x-mt-de">Der Abstand Des Punktes Und Der Zeile, Das 
+Bisector</string>
+            <string language="x-mt-fr">La Distance du Point et de la Ligne, Le Bisector</string>
+            <string language="x-mt-pt">A Distância Do Ponto E Da Linha, O Bisector</string>
+            <string language="x-mt-it">La Distanza Di Punto E Della Riga, Il Bisector</string>
+            <string language="x-mt-el">Η απόσταση του σημείου και της γραμμής, ο 
+διαχωριστικός</string>
+            <string language="x-mt-es">La Distancia De la Punta Y De la Línea, El 
+Bisector</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Pont és egyenes távolságának megadása, szögfelező egyenes egyenlete</string>
+            <string language="en-US">Defining the distance of point and line, equation of bisection line</string>
+          </description>
+          <keyword>
+            <string language="en-US">angle bisector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">line intersection</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">point-line distance</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Definieren des Abstandes des Punktes und der 
+Zeile, Gleichung der Bisectionzeile</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Définir la distance du point et de la ligne, 
+équation de ligne de bisection</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Definindo a distância do ponto e da linha, 
+equação da linha do bisection</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Definizione della distanza di punto e della riga,
+equazione della riga di bisection</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθορισμός της απόστασης του σημείου και της γραμμής, 
+εξίσωση της γραμμής bisection</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Definir la distancia de la punta y de la línea, 
+ecuación de la línea de la bisección</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Winkel bisector</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeile Durchschnitt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punkt-Zeile Abstand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bisector d'angle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne intersection</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">point-ligne distance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bisector do ângulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha interseção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ponto-linha distância</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bisector di angolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga intersezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punto-riga distanza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γωνία διαχωριστική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διατομή γραμμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απόσταση σημείο-γραμμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bisector del ángulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea intersección</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">punta-li'nea distancia</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:1192a30a-1396-4e37-837d-4b762067a450</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>1192a30a-1396-4e37-837d-4b762067a450</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:37:07.48Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>12595f42-4968-43b0-a166-ad0f2fa8a83f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>19fcf2a3-1d07-4d9f-9b9d-af6a48bcc357</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ef9334bf-e653-4a17-b2a8-c41f2b58b226</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>1192a30a-1396-4e37-837d-4b762067a450-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>1192a30a-1396-4e37-837d-4b762067a450-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=1192a30a-1396-4e37-837d-4b762067a450</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>1192a30a-1396-4e37-837d-4b762067a450-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>1192a30a-1396-4e37-837d-4b762067a450-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/11/92/1192a30a-1396-4e37-837d-4b762067a450_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

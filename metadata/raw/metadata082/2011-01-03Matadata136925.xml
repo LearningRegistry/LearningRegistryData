@@ -1,0 +1,344 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98111</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98111</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>602b65a1-0c19-458c-9190-ebed98179d54</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:602b65a1-0c19-458c-9190-ebed98179d54</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>602b65a1-0c19-458c-9190-ebed98179d54</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A hőmérséklet járása</string>
+            <string language="en-US">The Changes Of Temperature</string>
+            <string language="x-mt-de">Die Temperaturänderungen</string>
+            <string language="x-mt-fr">Les Variations Température</string>
+            <string language="x-mt-pt">As Mudanças De Temperatura</string>
+            <string language="x-mt-it">Le Variazioni Di Temperatura</string>
+            <string language="x-mt-el">Οι αλλαγές της θερμοκρασίας</string>
+            <string language="x-mt-es">Los Cambios De la Temperatura</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A hőmérséklet napi és évi járása, izotermatérkép, napfénytartam, hőösszeg.</string>
+            <string language="en-US">Daily and Annual Change of Temperature, Isothermal Map, Sunshine Duration, Accumulated Quality of Radiation</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">légkör</string>
+            <string language="en-US">atmosphere</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">izoterma</string>
+            <string language="en-US">isotherm</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hajlásszög</string>
+            <string language="en-US">inclination angle</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hőösszeg</string>
+            <string language="en-US">accumulated quality of radiation</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Tägliche und jährliche Temperaturänderung, 
+Isothermalkarte, Sonnenschein-Dauer, akkumulierte Qualität der 
+Strahlung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Variation température quotidienne et annuelle, 
+carte isotherme, durée de soleil, qualité accumulée de rayonnement</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Mudança de temperatura diária e anual, mapa 
+isothermal, duração da luz do sol, qualidade acumulada da 
+radiação</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Variazione di temperatura quotidiana ed annuale, 
+programma isotermico, durata del sole, qualità accumulata di 
+radiazione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Καθημερινή και ετήσια αλλαγή της θερμοκρασίας, 
+ισόθερμος χάρτης, "διάρκεια" ηλιοφάνειας, συσσωρευμένη ποιότητα 
+της ακτινοβολίας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cambio diario y anual de la temperatura, 
+correspondencia isotérmica, duración de la sol, calidad acumulada de
+la radiación</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Atmosphäre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Isotherme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Neigungwinkel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">akkumulierte Qualität der Strahlung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'atmosphère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">isotherme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">angle de inclination</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">qualité accumulée de rayonnement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">atmosfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">isotherm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ângulo da inclinação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">qualidade acumulada da radiação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">atmosfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">isoterma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">angolo di inclinazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">qualità accumulata di radiazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ατμόσφαιρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισόθερμος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γωνία κλίσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συσσωρευμένη ποιότητα της ακτινοβολίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">atmósfera</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">isoterma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ángulo de la inclinación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">calidad acumulada de la radiación</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:602b65a1-0c19-458c-9190-ebed98179d54</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>602b65a1-0c19-458c-9190-ebed98179d54</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:58:53.36Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>af0147d1-2a2c-49d9-ad2f-1d784503ab34</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b217703c-53c0-479c-b058-e939fcaa5b22</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4632c76d-e40f-421f-b379-9ae260b1ffca</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b4f73fe8-d07e-49be-b166-8393834b5783</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>dae378f3-c11d-441b-a90f-b79da0c88881</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>602b65a1-0c19-458c-9190-ebed98179d54-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>602b65a1-0c19-458c-9190-ebed98179d54-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=602b65a1-0c19-458c-9190-ebed98179d54</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>602b65a1-0c19-458c-9190-ebed98179d54-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>602b65a1-0c19-458c-9190-ebed98179d54-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/60/2b/602b65a1-0c19-458c-9190-ebed98179d54_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
