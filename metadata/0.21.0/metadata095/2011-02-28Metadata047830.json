@@ -1,0 +1,51 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Electronische", 
+        "getallen", 
+        "formule", 
+        "factoren", 
+        "ontbinden", 
+        "balansmethode", 
+        "snijpunt", 
+        "parabool", 
+        "kwadratische", 
+        "lineaire", 
+        "grafiek", 
+        "functie", 
+        "cosinus", 
+        "sinus", 
+        "tangens", 
+        "hellingsgetal", 
+        "negatieve", 
+        "goniometrie", 
+        "positieve", 
+        "delen", 
+        "vermenigvuldigen", 
+        "rekenvolgorde", 
+        "ABC", 
+        "leeromgeving"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/206336</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>206336</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>oai</catalog>\r\n    <entry>oai:s01.klascement.net:2405</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:2405</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>2405</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"nl\">Wiskunde Online : Startpagina</string>\r\n          </title>\r\n          <language>nl</language>\r\n          <description>\r\n            <string language=\"nl\">Op deze wiskunde site staan momenteel 4608 opgaven in verschillende categorien. Leerlingen kunnen zich gratis aanmelden en oneindig veel opgaven maken. Meer dan 100 onderwerpen zijn momenteel beschikbaar. Daarnaast kan je theorie opvragen bij het gekozen onderwerp. Heb je een vraag: stel deze dan gerust in het forum. Ze kunnen de leerstof, die ze geleerd hebben oneindig vaak oefenen. Wel moeten leerlingen eerst een account aanmaken. Dit is gratis!</string>\r\n          </description>\r\n          <keyword>\r\n            <string language=\"nl\">Electronische</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">getallen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">formule</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">factoren</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ontbinden</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">balansmethode</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">snijpunt</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">parabool</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">kwadratische</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">lineaire</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">grafiek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">functie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">cosinus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">sinus</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">tangens</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">hellingsgetal</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">negatieve</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">goniometrie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">positieve</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">delen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">vermenigvuldigen</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">rekenvolgorde</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">ABC</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"nl\">leeromgeving</string>\r\n          </keyword>\r\n          <structure>\r\n            <source>structureValues</source>\r\n            <value>atomic</value>\r\n          </structure>\r\n          <aggregationLevel>\r\n            <source>aggregationLevelValues</source>\r\n            <value>3</value>\r\n          </aggregationLevel>\r\n        </general>\r\n        <lifeCycle>\r\n          <status>\r\n            <source>statusValues</source>\r\n            <value>final</value>\r\n          </status>\r\n          <contribute>\r\n            <role>\r\n              <source>roleValues</source>\r\n              <value>author</value>\r\n            </role>\r\n            <date>\r\n              <dateTime>2008-09-24T13:16:10.00Z</dateTime>\r\n            </date>\r\n            <entity>BEGIN:VCARD \r\nVERSION:3.0 \r\nN:Walter Bruggeling\r\nFN:Walter Bruggeling \r\nEMAIL;TYPE=INTERNET: \r\nORG: Walter Bruggeling\r\nEND:VCARD</entity>\r\n          </contribute>\r\n        </lifeCycle>\r\n        <metaMetadata>\r\n          <identifier>\r\n            <catalog>oai</catalog>\r\n            <entry>oai:s01.klascement.net:2405</entry>\r\n          </identifier>\r\n          <identifier>\r\n            <catalog>KC</catalog>\r\n            <entry>2405</entry>\r\n          </identifier>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>creator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>validator</value>\r\n            </role>\r\n          </contribute>\r\n          <metadataSchema>MELTv1.0</metadataSchema>\r\n          <language>nl</language>\r\n          <contribute>\r\n            <entity>BEGIN:VCARD\r\nFN:Klascement\r\nN:Klascement\r\nORG:Klascement\r\nVERSION:3.0\r\nEND:VCARD</entity>\r\n            <role>\r\n              <value>provider</value>\r\n              <source>ASPECTv1.0</source>\r\n            </role>\r\n            <date>\r\n              <dateTime>2010-01-11T22:03:31.85Z</dateTime>\r\n            </date>\r\n          </contribute>\r\n        </metaMetadata>\r\n        <educational>\r\n          <learningResourceType>\r\n            <source>LRE.learningResourceTypeValues</source>\r\n            <value>web page</value>\r\n          </learningResourceType>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>teacher</value>\r\n          </intendedEndUserRole>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>compulsory education</value>\r\n          </context>\r\n          <context>\r\n            <source>LRE.contextValues</source>\r\n            <value>vocational education</value>\r\n          </context>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-lre\">12-19</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>no</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"nl\">no description</string>\r\n          </description>\r\n        </rights>\r\n        <classification>\r\n          <purpose>\r\n            <source>purposeValues</source>\r\n            <value>discipline</value>\r\n          </purpose>\r\n          <taxonPath>\r\n            <source>\r\n              <string language=\"x-none\">LRE-0001</string>\r\n            </source>\r\n            <taxon>\r\n              <id>790</id>\r\n            </taxon>\r\n          </taxonPath>\r\n        </classification>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>oai</catalog>\r\n      <entry>2405</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.klascement.net/nieuws/2405/?ref=aspect</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.klascement.net/nieuws/2405/?ref=aspect"
+}
