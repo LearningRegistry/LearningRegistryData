@@ -1,0 +1,181 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/112562</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>112562</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5651</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5651</entry>
+          </identifier>
+          <title>
+            <string language="nl">Leuke wiskunde lesfiches (1)</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">'Leuke wiskunde' is een concept dat je kan gebruiken om een aantal 'dode momenten' op te vullen in de wiskundeles. Kan je leerlingen moeilijk motiveren om op vrijdagnamiddag voldoende aandacht te schenken? Heb je nog enkele minuten over in een les en wil je nog niet met het volgende hoofdstuk beginnen? Dan kan je met een fiche 'Leuke wiskunde' de leerlingen eens wiskunde op een andere manier laten beleven.Deze fiches zijn kant-en-klaar in de les te gebruiken. Er zijn verschillende onderwerpen die allemaal op een of andere manier met de leerstof van het eerste jaar verbonden zijn. Een greep uit het aanbod:- Het schaakbord van Shiras- Magische vierkanten, de legende van de Lo-Shu- Logicavraagstuk- Rekenen met rechten- Sudoku</string>
+          </description>
+          <keyword>
+            <string language="nl">Sudoku</string>
+          </keyword>
+          <keyword>
+            <string language="nl">logicavraagstuk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">schaakbord</string>
+          </keyword>
+          <keyword>
+            <string language="nl">shiras</string>
+          </keyword>
+          <keyword>
+            <string language="nl">lo-shu</string>
+          </keyword>
+          <keyword>
+            <string language="nl">alternatief</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-06-28T17:30:47.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5651</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5651</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:33:53.56Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-13</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Thomas Deckers</entity>
+          <date>
+            <dateTime>2008-06-16</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>112562</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/5651/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

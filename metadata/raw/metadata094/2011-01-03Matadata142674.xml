@@ -1,0 +1,197 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/112921</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>112921</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4980</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4980</entry>
+          </identifier>
+          <title>
+            <string language="nl">Maal- en deeltafelkaartjes</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Op een gevarieerde manier de maal- en deeltafels inoefenen. De maal- en deeltafelkaartjes kunnen in verschillende werkvormen gebruikt worden. Afhankelijk van de gekozen werkvorm kan je de kaartjes verschillende keren kopiëren of afdrukken.De kaartjes kunnen door de kinderen zelfstandig gebruikt worden en er is zelfcontrole ingebouwd.De bijlagen 'MAALrecto&amp;verso' en 'DEELrecto&amp;verso' zijn zodanig opgemaakt dat als ze effectief recto verso worden gekopieerd het antwoord meteen achter het juiste product (deling) staat.  </string>
+          </description>
+          <keyword>
+            <string language="nl">delen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vermenigvuldigen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gedeeld</string>
+          </keyword>
+          <keyword>
+            <string language="nl">maaltafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">deeltafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">spel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">maal</string>
+          </keyword>
+          <keyword>
+            <string language="nl">deel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">tafel</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ICT Helpt</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-03-10T10:28:54.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Pascal Penta
+FN:Pascal Penta 
+EMAIL;TYPE=INTERNET: 
+ORG: Pascal Penta
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:4980</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>4980</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:34:12.95Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Katleen Bellens</entity>
+          <date>
+            <dateTime>2008-04-09</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>112921</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/4980/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
