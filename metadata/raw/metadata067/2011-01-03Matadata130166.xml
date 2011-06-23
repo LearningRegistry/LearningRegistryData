@@ -1,0 +1,394 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98546</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98546</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:ad84ee9a-2117-40ca-aa31-6c6bd32bf187</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Gráfelméleti alapfogalmak, tételek</string>
+            <string language="en-US">Basic Terms And Theorems Of Graph Theory</string>
+            <string language="x-mt-de">Grundlegende Bezeichnungen Und Theoreme Der 
+Graphentheorie</string>
+            <string language="x-mt-fr">Limites et Théorèmes de base de Théorie de 
+Graphique</string>
+            <string language="x-mt-pt">Termos E Theorems Básicos Da Teoria De Gráfico</string>
+            <string language="x-mt-it">Termini E Teoremi Di base Della Teoria Di 
+Grafico</string>
+            <string language="x-mt-el">Βασικοί όροι και θεωρήματα της θεωρίας γραφικών 
+παραστάσεων</string>
+            <string language="x-mt-es">Términos Y Teoremas Básicos De la Teoría De 
+Gráfico</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Gráfelméleti alapfogalmak, tételek, gráfok tulajdonságai</string>
+            <string language="en-US">Basic terms and theorems of graph theory, characteristics of graphs</string>
+          </description>
+          <keyword>
+            <string language="en-US">graph theory</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">edge</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">isomorphism</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">degree</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">tree</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Grundlegende Bezeichnungen und Theoreme der 
+Graphentheorie, Eigenschaften der Diagramme</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Limites et théorèmes de base de théorie de 
+graphique, caractéristiques des graphiques</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Termos e theorems básicos da teoria de gráfico,
+características dos gráficos</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Termini e teoremi di base della teoria di 
+grafico, caratteristiche dei grafici</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Βασικοί όροι και θεωρήματα της θεωρίας γραφικών 
+παραστάσεων, χαρακτηριστικά των γραφικών παραστάσεων</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Términos y teoremas básicos de la teoría de 
+gráfico, características de gráficos</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Graphentheorie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Gipfel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Isomorphismus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Grad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Baum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">théorie de graphique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sommet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bord</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">isomorphisme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">degré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">arbre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">teoria de gráfico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">borda</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">isomorphism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">grau</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">árvore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">teoria di grafico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vertice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bordo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">isomorfismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">albero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θεωρία γραφικών παραστάσεων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">vertex</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">άκρη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ισομορφισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βαθμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δέντρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">teoría de gráfico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cima</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">borde</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">isomorfismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">grado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">árbol</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:ad84ee9a-2117-40ca-aa31-6c6bd32bf187</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:22:21.70Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7796c21d-ab6c-4e37-8dc3-876b315da91b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c4b969f3-f721-4f79-a00a-1dee57aa3ee8</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7a850664-b0c8-473e-834c-3e702d085e8c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e3e26567-dff7-40f6-8cd5-4f320788320e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e48ee82e-c2d0-4421-84e6-a4f690582806</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>92453505-7154-491e-b97d-a2e6e807d766</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a262489c-9d8b-44c9-8d7d-8f98ba57cc58</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f1fc51e0-0269-4104-b45c-2b5e5a96d7fd</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=ad84ee9a-2117-40ca-aa31-6c6bd32bf187</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>ad84ee9a-2117-40ca-aa31-6c6bd32bf187-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/ad/84/ad84ee9a-2117-40ca-aa31-6c6bd32bf187_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,342 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/92448</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>92448</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>76cac233-ffde-40b3-9530-1d364004c9db</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:76cac233-ffde-40b3-9530-1d364004c9db</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>76cac233-ffde-40b3-9530-1d364004c9db</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A nyomtató működése</string>
+            <string language="en-US">Operation of the Printer</string>
+            <string language="x-mt-de">Operation des Druckers</string>
+            <string language="x-mt-fr">Fonctionnement de l'imprimante</string>
+            <string language="x-mt-pt">Operação da impressora</string>
+            <string language="x-mt-it">Funzionamento della stampante</string>
+            <string language="x-mt-el">Λειτουργία του εκτυπωτή</string>
+            <string language="x-mt-es">Operación de la impresora</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A nyomtató és a szkenner működési elve</string>
+            <string language="en-US">Operation of the Printer and the Scanner</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">informatika</string>
+            <string language="en-US">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">papír</string>
+            <string language="en-US">paper</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">printer</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">nyomtatás</string>
+            <string language="en-US">printing</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">CCD</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">szkenner</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Operation des Druckers und des Scanners</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Fonctionnement de l'imprimante et du module de 
+balayage</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Operação da impressora e do varredor</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Funzionamento della stampatrice e del dispositivo
+d'esplorazione</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Λειτουργία του εκτυπωτή και του σαρωτή</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Operación de la impresora y del explorador</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Informatik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Papier</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Druck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">informatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">papier</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">impression</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">informatics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">papel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">imprimir</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">informatica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">carta</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">stampa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληροφορική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έγγραφο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εκτύπωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">informática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">papel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">impresión</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:76cac233-ffde-40b3-9530-1d364004c9db</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>76cac233-ffde-40b3-9530-1d364004c9db</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T19:01:15.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:33:23.49Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>09afff6c-27e7-40a6-a0f8-6eaa1b650a21</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ce10492e-bcf4-479c-a17b-69d64986780a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c80c61c9-fa03-4de8-9788-cf27eda2262c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>aea5ee38-765d-4498-8059-fc73f2aaacff</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a6d4b130-c26a-4a87-9e8f-7312aacaa46f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2dd2c05c-08c9-4a69-8449-5182eb75e548</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>416bcddb-3880-439e-2b67-9f3a079e0c82</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5db96ccc-c014-4aff-bc2b-c8f4dad3ccb4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b711924e-49d8-4682-b79b-38f7b1844f70</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>26ccd8ff-7bad-4bfb-8c59-4ebbedcf90ba</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>625</id>
+              <entry>
+                <string language="en-US">ICT</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>76cac233-ffde-40b3-9530-1d364004c9db-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>76cac233-ffde-40b3-9530-1d364004c9db-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=76cac233-ffde-40b3-9530-1d364004c9db</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>76cac233-ffde-40b3-9530-1d364004c9db-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>76cac233-ffde-40b3-9530-1d364004c9db-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/76/ca/76cac233-ffde-40b3-9530-1d364004c9db_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
