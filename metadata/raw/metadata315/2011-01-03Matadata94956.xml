@@ -1,0 +1,253 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/45274</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>45274</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020111</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020111</entry>
+          </identifier>
+          <title>
+            <string language="es">Une las mayúsculas con su nombre</string>
+            <string language="en">Match the capital letters with their names</string>
+            <string language="x-mt-de">Bringen Sie die Großbuchstaben mit ihren Namen 
+zusammen</string>
+            <string language="x-mt-fr">Appariez les majuscules avec leurs noms</string>
+            <string language="x-mt-pt">Combine as letras importantas com seus nomes</string>
+            <string language="x-mt-it">Abbini le lettere maiuscole con i loro nomi</string>
+            <string language="x-mt-el">Ταιριάξτε με τα κεφαλαία γράμματα τα ονόματά τους</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Es un applet de Java. El alumno debe unir mediante flechas las mayúsculas y su nombre. Posee diversos niveles. Cada vez que se abre la actividad cambia el orden de las letras.</string>
+            <string language="en">This is a Java applet. The students must match the capital Greek letters with their names. There are several levels. When the applet is restarted, the program changes the order of the letters.</string>
+          </description>
+          <keyword>
+            <string language="es">griego</string>
+            <string language="en">Greek</string>
+          </keyword>
+          <keyword>
+            <string language="es">mayúsculas</string>
+            <string language="en">capital letters</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses ist ein Java applet. Die 
+Kursteilnehmer müssen die griechischen ernstlichzeichen mit ihren 
+Namen zusammenbringen. Es gibt einige Stufen. Wenn der 
+applet wiederbegonnen wird, ändert das Programm die Ordnung der 
+Zeichen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">C'est un Java applet. Les étudiants 
+doivent apparier les lettres grecques capitales avec leurs noms. 
+Il y a plusieurs niveaux. Quand l'applet est relancé, le 
+programme change la commande des lettres.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este é um Java applet. Os estudantes devem
+combinar as letras gregas importantas com seus nomes. Há 
+diversos níveis. Quando o applet é reiniciado, o programa muda
+a ordem das letras.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ciò è un Java applet. Gli allievi devono 
+abbinare le lettere greche capitali con i loro nomi. Ci sono 
+parecchi livelli. Quando il applet è ricominciato, il programma
+cambia l'ordine delle lettere.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό είναι ένα applet της Ιάβας. Οι 
+σπουδαστές πρέπει να ταιριάξουν με τις κύριες ελληνικές 
+επιστολές τα ονόματά τους. Υπάρχουν διάφορα επίπεδα. 
+Όταν το applet επανεκκινείται, το πρόγραμμα αλλάζει την 
+κατάταξη των επιστολών.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Griechisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Großbuchstaben</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Grec</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">majuscules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Grego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">letras importantas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Greco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lettere maiuscole</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ελληνικά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κεφαλαία γράμματα</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Luis Miguel Orbaneja García\,Jesús María Quílez Bielsa\,Lourdes Pérez Go
+ nzález
+N:Luis Miguel Orbaneja García,Jesús María Quílez Bielsa,Lourdes Pérez Gonzá
+ lez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020111</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020111</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:39.40Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>218</id>
+              <entry>
+                <string>griego antiguo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>45274</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc323ac15.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,238 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/51108</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>51108</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020410</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020410</entry>
+          </identifier>
+          <title>
+            <string language="es">Sopa de obras épicas</string>
+            <string language="en">Epic works word search</string>
+            <string language="x-mt-de">Epische Arbeiten Wortsuche</string>
+            <string language="x-mt-fr">Recherche épique de mot de travaux</string>
+            <string language="x-mt-pt">Busca epic da palavra dos trabalhos</string>
+            <string language="x-mt-it">Ricerca epic di parola degli impianti</string>
+            <string language="x-mt-el">Επική αναζήτηση λέξης εργασιών</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Actividad de sopa de letras con obras épicas.</string>
+            <string language="en">Activity with a word search about epic works.</string>
+          </description>
+          <keyword>
+            <string language="es">obras épicas</string>
+            <string language="en">epic works</string>
+          </keyword>
+          <keyword>
+            <string language="es">grecolatina</string>
+            <string language="en">Graeco-Roman</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Aktivität mit einer Wortsuche über epische 
+Arbeiten.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Activité avec une recherche de mot au sujet des 
+travaux épiques.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Atividade com uma busca da palavra sobre trabalhos
+epic.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Attività con una ricerca di parola circa gli 
+impianti epic.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Δραστηριότητα με μια αναζήτηση λέξης για τις επικές 
+εργασίες.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">epische Arbeiten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Graeco-Römisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">travaux épiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Graeco-Romain</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trabalhos epic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Graeco-graeco-Roman</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">impianti epic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Graeco-Romano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επικές εργασίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Γραεθο-ρωμαϊκά</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Luis Miguel Orbaneja García\,Jesús María Quílez Bielsa
+N:Luis Miguel Orbaneja García,Jesús María Quílez Bielsa
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020410</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020410</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:51.93Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>218</id>
+              <entry>
+                <string>griego antiguo</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>51108</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/cclasica/esc411ac05.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

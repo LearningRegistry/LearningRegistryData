@@ -1,0 +1,308 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/1954593319</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>1954593319</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_771</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_771</entry>
+          </identifier>
+          <title>
+            <string language="es">Una carrera de coches lanzando dados</string>
+            <string language="en">A car race throwing dice</string>
+            <string language="x-mt-de">Werfende Würfel eines Autorennens</string>
+            <string language="x-mt-fr">Matrices de lancement d'une course de voiture</string>
+            <string language="x-mt-pt">Dados jogando de uma raça do carro</string>
+            <string language="x-mt-it">Dadi gettanti della corsa dell'automobile</string>
+            <string language="x-mt-el">Μια ρίψη φυλών αυτοκινήτων χωρίζει σε τετράγωνα</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación interactiva que muestra una carrera de coches que avanzan a partir de la puntuación obtenida en el lanzamiento de dos dados</string>
+            <string language="en">interactive simulation which shows a car race where the cars move according to the points they get throwing dice</string>
+          </description>
+          <keyword>
+            <string language="es">dados</string>
+            <string language="en">dice</string>
+          </keyword>
+          <keyword>
+            <string language="es">suma</string>
+            <string language="en">sum</string>
+          </keyword>
+          <keyword>
+            <string language="es">puntos</string>
+            <string language="en">points</string>
+          </keyword>
+          <keyword>
+            <string language="es">lanzamiento</string>
+            <string language="en">throw</string>
+          </keyword>
+          <keyword>
+            <string language="es">probabilidad</string>
+            <string language="en">probability</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">interaktive Simulation, die einem Autorennen 
+zeigt, wohin die Autos entsprechend den Punkten bewegen, erhalten sie 
+werfende Würfel</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">simulation interactive qui montre à une course 
+de voiture où le mouvement de voitures s'accordant aux points elles 
+obtiennent les matrices de lancement</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">a simulação interativa que mostra a uma raça 
+do carro aonde os carros se movem de acordo com os pontos começam 
+dados jogando</string>
+          </description>
+          <description>
+            <string language="x-mt-it">simulazione interattiva che mostra ad una corsa 
+dell'automobile dove gli automobili si muovono secondo i punti 
+ottengono i dadi gettanti</string>
+          </description>
+          <description>
+            <string language="x-mt-el">η διαλογική προσομοίωση που εμφανίζει σε μια φυλή 
+αυτοκινήτων όπου η κίνηση αυτοκινήτων σύμφωνα με τα σημεία που 
+παίρνουν τη ρίψη χωρίζει σε τετράγωνα</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Würfel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Summe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Punkte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Throw</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wahrscheinlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">matrices</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">somme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">points</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">jet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">probabilité</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dados</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">soma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pontos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">throw</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">probabilidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dadi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">somma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">punti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tiro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">probabilità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χωρίστε σε τετράγωνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσό</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σημεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρίξτε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πιθανότητα</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Ángela Núñez Castaín
+N:Ángela Núñez Castaín
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_771</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_771</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:13:47.37Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1029</id>
+              <entry>
+                <string>probabilidad</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>1954593319</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/no_equiprob/no_equiprob.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

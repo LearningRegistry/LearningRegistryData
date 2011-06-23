@@ -1,0 +1,308 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/55710</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>55710</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_796</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_796</entry>
+          </identifier>
+          <title>
+            <string language="es">La derivada como límite de la tasa de variación media</string>
+            <string language="en">Derivatives as a limiting case of the mean rate of variation</string>
+            <string language="x-mt-de">Ableitungen als Grenzfall des Mittelkurses der 
+Variante</string>
+            <string language="x-mt-fr">Dérivés comme cas de limitation de la cadence 
+moyenne de la variation</string>
+            <string language="x-mt-pt">Derivatives como um exemplo limitando da taxa 
+média da variação</string>
+            <string language="x-mt-it">Derivati come caso di limitazione del tasso medio
+di variazione</string>
+            <string language="x-mt-el">Παράγωγα ως περιοριστική περίπτωση του μέσου ποσοστού
+παραλλαγής</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación interactiva que muestra la tangente a una curva como límite de las secantes</string>
+            <string language="en">interactive simulation which shows the tangent to a curve as the limiting case of intersecting lines</string>
+          </description>
+          <keyword>
+            <string language="es">pendiente</string>
+            <string language="en">slope</string>
+          </keyword>
+          <keyword>
+            <string language="es">límite</string>
+            <string language="en">limit</string>
+          </keyword>
+          <keyword>
+            <string language="es">tangente</string>
+            <string language="en">tangent</string>
+          </keyword>
+          <keyword>
+            <string language="es">derivada</string>
+            <string language="en">derivative</string>
+          </keyword>
+          <keyword>
+            <string language="es">secante</string>
+            <string language="en">intersection</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">interaktive Simulation, die die Tangente zu einer
+Kurve als der Grenzfall des Schneidens zeigt, zeichnet</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">la simulation interactive qui montre la tangente 
+à une courbe comme cas de limitation de l'intersection raye</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">a simulação interativa que mostra o tangent a 
+uma curva como o exemplo limitando de se cruzar alinha</string>
+          </description>
+          <description>
+            <string language="x-mt-it">la simulazione interattiva che mostra la tangente
+ad una curva come il caso di limitazione di intersezione si allinea</string>
+          </description>
+          <description>
+            <string language="x-mt-el">διαλογική προσομοίωση που εμφανίζει την εφαπτομένη σε 
+μια καμπύλη ως περιοριστική περίπτωση τις γραμμές</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Steigung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Begrenzung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Tangente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ableitung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Durchschnitt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">limite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tangente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dérivé</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">intersection</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">inclinação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">limite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tangent</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">derivative</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">interseção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">pendio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">limite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tangente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">derivato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">intersezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλίση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">όριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εφαπτομένη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παράγωγο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διατομή</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Ángela Núñez Castaín
+N:Ángela Núñez Castaín
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_796</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_796</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:13:53.40Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>789</id>
+              <entry>
+                <string>análisis matemático</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>55710</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/deriva/deriva.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

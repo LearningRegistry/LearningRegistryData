@@ -1,0 +1,248 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/45725</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>45725</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020505</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020505</entry>
+          </identifier>
+          <title>
+            <string language="es">Sinopsis de la historia de Roma</string>
+            <string language="en">Summary of Roman history</string>
+            <string language="x-mt-de">Zusammenfassung der römischen Geschichte</string>
+            <string language="x-mt-fr">Sommaire de l'histoire romaine</string>
+            <string language="x-mt-pt">Sumário do history roman</string>
+            <string language="x-mt-it">Sommario di storia romana</string>
+            <string language="x-mt-el">Περίληψη της ρωμαϊκής ιστορίας</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">Cuadro cronológico con los principales sucesos de la historia de Roma desde su fundación hasta su crisis final.</string>
+            <string language="en">A chronological table including the main events in Roman history from its foundation to its final crisis.</string>
+          </description>
+          <keyword>
+            <string language="es">Roma</string>
+            <string language="en">Rome</string>
+          </keyword>
+          <keyword>
+            <string language="es">historia</string>
+            <string language="en">history</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Eine chronologische Tabelle einschließlich die 
+Hauptfälle in der römischen Geschichte von seiner Grundlage zu 
+seiner abschließenden Krise.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une table chronologique comprenant les 
+événements principaux dans l'histoire romaine de sa base à sa crise
+finale.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma tabela cronológica including os eventos 
+principais no history roman de sua fundação a sua crise final.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una tabella cronologica compreso gli eventi 
+principali nella storia romana dal relativo fondamento alla relativa 
+crisi finale.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας χρονολογικός πίνακας συμπεριλαμβανομένων των 
+βασικών γεγονότων στη ρωμαϊκή ιστορία από το ίδρυμά του στην 
+τελική κρίση του.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Rom</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Rome</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histoire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">history</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Roma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">storia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ρώμη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορία</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jesús María Quílez Bielsa\,Alfredo Ortega Martínez
+N:Jesús María Quílez Bielsa,Alfredo Ortega Martínez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:clao_es_20070119_2_0020505</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>clao_es_20070119_2_0020505</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:19:57.63Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>guide</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string>lenguas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>712</id>
+              <entry>
+                <string>latín</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1108</id>
+              <entry>
+                <string>historia romana</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>219</id>
+              <entry>
+                <string>lenguas clásicas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>45725</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://recursos.cnice.mec.es/latingriego/Palladium/latin/esl141dt06.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

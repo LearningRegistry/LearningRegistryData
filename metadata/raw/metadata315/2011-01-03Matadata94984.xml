@@ -1,0 +1,303 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/54417</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>54417</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_836</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_836</entry>
+          </identifier>
+          <title>
+            <string language="es">Proyección de la semiesfera en el plano</string>
+            <string language="en">Projection of a hemisphere onto a plane</string>
+            <string language="x-mt-de">Projektion einer Hemisphäre auf eine Fläche</string>
+            <string language="x-mt-fr">Projection d'un hémisphère sur un avion</string>
+            <string language="x-mt-pt">Projeção de um hemisfério em um plano</string>
+            <string language="x-mt-it">Proiezione di un emisfero su un aereo</string>
+            <string language="x-mt-el">Προβολή ενός ημισφαιρίου επάνω σε ένα αεροπλάνο</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación interactiva que muestra la proyección estereográfica sobre una semiesfera</string>
+            <string language="en">interactive simulation which shows the stereographic projection of a hemisphere onto a plane</string>
+          </description>
+          <keyword>
+            <string language="es">proyección</string>
+            <string language="en">projection</string>
+          </keyword>
+          <keyword>
+            <string language="es">geometría</string>
+            <string language="en">geometry</string>
+          </keyword>
+          <keyword>
+            <string language="es">semiesfera</string>
+            <string language="en">hemisphere</string>
+          </keyword>
+          <keyword>
+            <string language="es">tridimensional</string>
+            <string language="en">three-dimensional</string>
+          </keyword>
+          <keyword>
+            <string language="es">estereográfica</string>
+            <string language="en">stereographic</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">interaktive Simulation, die die stereographic 
+Projektion einer Hemisphäre auf eine Fläche zeigt</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">simulation interactive qui montre la projection 
+stereographic d'un hémisphère sur un avion</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">simulação interativa que mostra a projeção 
+stereographic de um hemisfério em um plano</string>
+          </description>
+          <description>
+            <string language="x-mt-it">simulazione interattiva che mostra la proiezione 
+stereographic di un emisfero su un aereo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">διαλογική προσομοίωση που εμφανίζει στερεογραφική 
+προβολή ενός ημισφαιρίου επάνω σε ένα αεροπλάνο</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Projektion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hemisphäre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">dreidimensional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">stereographic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">projection</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">hémisphère</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tridimensionnel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">stereographic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">projeção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">hemisfério</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tridimensional</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">stereographic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">proiezione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">emisfero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tridimensionale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">stereographic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προβολή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ημισφαίριο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τρισδιάστατος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στερεογραφικός</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Consolación Ruiz Gil
+N:Consolación Ruiz Gil
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_836</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_836</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:14:50.53Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>544</id>
+              <entry>
+                <string>geometría</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>54417</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/proyeccion_semiesfera/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

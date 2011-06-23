@@ -1,0 +1,327 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/62479</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>62479</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_820</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_820</entry>
+          </identifier>
+          <title>
+            <string language="es">Cálculo de dígitos de control (ISBN y cuentas corrientes)</string>
+            <string language="en">Calculation of check digits (ISBN numbers and bank accounts)</string>
+            <string language="x-mt-de">Berechnung der Überprüfung Digits (ISBN Zahlen 
+und Bankkonten)</string>
+            <string language="x-mt-fr">Calcul des chiffres-clés (nombres d'ISBN et 
+comptes bancaires)</string>
+            <string language="x-mt-pt">Cálculo de dígitos de verificação (números 
+do ISBN e clientes de banco)</string>
+            <string language="x-mt-it">Calcolo delle cifre di controllo (numeri del ISBN
+e clienti della banca)</string>
+            <string language="x-mt-el">Υπολογισμός των ψηφίων ελέγχου (αριθμοί ISBN και 
+τραπεζικοί λογαριασμοί)</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">dos simulaciones que calculan los dígitos de control de ISBN y de una cuenta corriente</string>
+            <string language="en">two simulations which calculate the check digits for ISBN numbers and bank accounts</string>
+          </description>
+          <keyword>
+            <string language="es">ISBN</string>
+            <string language="en">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="es">dígitos</string>
+            <string language="en">digits</string>
+          </keyword>
+          <keyword>
+            <string language="es">operaciones</string>
+            <string language="en">operations</string>
+          </keyword>
+          <keyword>
+            <string language="es">cálculo</string>
+            <string language="en">calculation</string>
+          </keyword>
+          <keyword>
+            <string language="es">control</string>
+            <string language="en">check</string>
+          </keyword>
+          <keyword>
+            <string language="es">números</string>
+            <string language="en">numbers</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">zwei Simulationen, die die Überprüfung Digits 
+für ISBN Zahlen und Bankkonten errechnen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">deux simulations qui calculent les chiffres-clés
+pour des nombres d'ISBN et des comptes bancaires</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">duas simulações que calculam os dígitos de 
+verificação para números do ISBN e clientes de banco</string>
+          </description>
+          <description>
+            <string language="x-mt-it">due simulazioni che calcolano le cifre di 
+controllo per i numeri del ISBN ed i clienti della banca</string>
+          </description>
+          <description>
+            <string language="x-mt-el">δύο προσομοιώσεις που υπολογίζουν τα ψηφία ελέγχου 
+για τους αριθμούς ISBN και τους τραπεζικούς λογαριασμούς</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Digits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Operationen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Berechnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Überprüfung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahlen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chiffres</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">exécutions</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">calcul</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">contrôle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombres</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dígitos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">operações</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cálculo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">verificação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">números</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cifre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzionamenti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">calcolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">controllo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numeri</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ISBN</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαδικασίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">υπολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έλεγχος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμοί</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Salvador Calvo-Fernández Pérez
+N:Salvador Calvo-Fernández Pérez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_820</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_820</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:13:59.42Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>77</id>
+              <entry>
+                <string>matemáticas aplicadas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>62479</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/digitocontrol/DigitoControl.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

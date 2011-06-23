@@ -1,0 +1,322 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/44802</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>44802</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_843</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_843</entry>
+          </identifier>
+          <title>
+            <string language="es">Obtención de un histograma</string>
+            <string language="en">Obtaining a histogram</string>
+            <string language="x-mt-de">Erhalten eines Histogramms</string>
+            <string language="x-mt-fr">Obtention d'un histogramme</string>
+            <string language="x-mt-pt">Obtendo um histograma</string>
+            <string language="x-mt-it">Ottenere un istogramma</string>
+            <string language="x-mt-el">Λήψη ενός ιστογράμμου</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">simulación interactiva que permite construir un histograma a partir de los datos</string>
+            <string language="en">interactive simulation which allows the user to create a histogram from a set of data</string>
+          </description>
+          <keyword>
+            <string language="es">histograma</string>
+            <string language="en">histogram</string>
+          </keyword>
+          <keyword>
+            <string language="es">estadística</string>
+            <string language="en">statistics</string>
+          </keyword>
+          <keyword>
+            <string language="es">descriptiva</string>
+            <string language="en">descriptive</string>
+          </keyword>
+          <keyword>
+            <string language="es">datos</string>
+            <string language="en">data</string>
+          </keyword>
+          <keyword>
+            <string language="es">frecuencia</string>
+            <string language="en">frequency</string>
+          </keyword>
+          <keyword>
+            <string language="es">número</string>
+            <string language="en">number</string>
+          </keyword>
+          <structure>
+            <value>collection</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">interaktive Simulation, die dem Benutzer erlaubt,
+ein Histogramm von einem Set Daten zu erstellen</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">simulation interactive qui permet à 
+l'utilisateur de créer un histogramme d'un ensemble de données</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">simulação interativa que permite que o usuário
+críe um histograma de um jogo dos dados</string>
+          </description>
+          <description>
+            <string language="x-mt-it">simulazione interattiva che permette che l'utente
+crei un istogramma da un insieme dei dati</string>
+          </description>
+          <description>
+            <string language="x-mt-el">διαλογική προσομοίωση που επιτρέπει στο χρήστη για να 
+δημιουργήσει ένα ιστόγραμμο από ένα σύνολο στοιχείων</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Histogramm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Statistiken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">beschreibend</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Daten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Frequenz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">histogramme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">statistiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">descriptif</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">données</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fréquence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">histograma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">statistics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">descritivo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dados</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">freqüência</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">número</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">istogramma</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">statistiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">descrittivo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dati</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frequenza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστόγραμμο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στατιστικές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιγραφικός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στοιχεία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συχνότητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμός</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:José Luis Ramón Pérez
+N:José Luis Ramón Pérez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mato_843</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mato_843</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:14:50.67Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1242</id>
+              <entry>
+                <string>estadística</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>44802</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/java</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Zapatos/zapatos.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

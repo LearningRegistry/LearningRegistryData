@@ -1,0 +1,334 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/43542</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>43542</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_326</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_326</entry>
+          </identifier>
+          <title>
+            <string language="es">Medidas de polígonos</string>
+            <string language="en">Polygon measurements</string>
+            <string language="x-mt-de">Polygonmessen</string>
+            <string language="x-mt-fr">Mesures de polygone</string>
+            <string language="x-mt-pt">Medidas do polygon</string>
+            <string language="x-mt-it">Misure del poligono</string>
+            <string language="x-mt-el">Μετρήσεις πολυγώνων</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="es">unidad didáctica que desarrolla mediante simulaciones cuestiones relacionadas con los polígonos y sus medidas. Se estudia el cálculo de sus ángulos, áreas y se estudia las teselación del plano mediante polígonos.</string>
+            <string language="en">teaching unit which uses simulations to approach the subject of polygons and the measurement of their features. The angles and surface areas are calculated and the tessellation of a plane with polygons is studied.</string>
+          </description>
+          <keyword>
+            <string language="es">ángulo</string>
+            <string language="en">angle</string>
+          </keyword>
+          <keyword>
+            <string language="es">área</string>
+            <string language="en">area</string>
+          </keyword>
+          <keyword>
+            <string language="es">teselas</string>
+            <string language="en">tile</string>
+          </keyword>
+          <keyword>
+            <string language="es">plano</string>
+            <string language="en">plane</string>
+          </keyword>
+          <keyword>
+            <string language="es">geometría</string>
+            <string language="en">geometry</string>
+          </keyword>
+          <keyword>
+            <string language="es">polígonos</string>
+            <string language="en">polygons</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">unterrichtende Maßeinheit welcher Gebrauch 
+Simulationen, sich dem Thema der Polygone und des Messens ihrer 
+Merkmale zu nähern. Die Winkel und die Flächen werden 
+errechnet und das tessellation einer Fläche mit Polygonen wird 
+studiert.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">unité d'enseignement quelles utilisations 
+simulations d'approcher le sujet des polygones et de la mesure de 
+leurs dispositifs. Les angles et les superficies sont calculés 
+et le tessellation d'un avion avec des polygones est étudié.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">unidade ensinando que usos simulações aproximar 
+o assunto dos polygons e da medida de suas características. Os 
+ângulos e as áreas de superfície são calculados e o tessellation 
+de um plano com polygons é estudado.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">unità d'istruzione quali usi simulazioni 
+avvicinarsi all'argomento di poligoni e misura delle loro 
+caratteristiche. Gli angoli e le aree sono calcolati ed il 
+tessellation di un aereo con i poligoni è studiato.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">μονάδα διδασκαλίας που χρησιμοποιεί τις προσομοιώσεις 
+για να πλησιάσει το θέμα των πολυγώνων και τη μέτρηση των 
+χαρακτηριστικών γνωρισμάτων τους. Οι γωνίες και οι περιοχές 
+επιφάνειας υπολογίζονται και το tessellation ενός αεροπλάνου με
+τα πολύγωνα μελετάται.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Winkel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bereich</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fliese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fläche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geometrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Polygone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">angle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">zone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">tuile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">avion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">la géométrie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">polygones</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ângulo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">área</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">telha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">plano</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">polygons</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">angolo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">zona</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">mattonelle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aereo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">la geometria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">poligoni</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γωνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιοχή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κεραμίδι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αεροπλάνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωμετρία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πολύγωνα</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Agustín Muñoz Núñez
+N:Agustín Muñoz Núñez
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_326</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_326</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:15:26.24Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>544</id>
+              <entry>
+                <string>geometría</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>43542</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Poly_measure/Indice_poligonos.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,370 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/66116</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>66116</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_476</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_476</entry>
+          </identifier>
+          <title>
+            <string language="es">Medida del tiempo y ángulos</string>
+            <string language="en">Measuring time and angles</string>
+            <string language="x-mt-de">Messende Zeit und Winkel</string>
+            <string language="x-mt-fr">Temps et angles de mesure</string>
+            <string language="x-mt-pt">Tempo e ângulos de medição</string>
+            <string language="x-mt-it">Tempo ed angoli di misurazione</string>
+            <string language="x-mt-el">Μέτρηση του χρόνου και των γωνιών</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">unidad didáctica que desarrolla mediante simulaciones problemas relacionados con la medida de ángulos y del tiempo. Se estudian también cuestiones relativas a la precisión en las medidas.</string>
+            <string language="en">teaching unit which uses simulations to study problems related to the measurement of angles and time. It also studies problems related to the precision of measurements.</string>
+          </description>
+          <keyword>
+            <string language="es">segundos</string>
+            <string language="en">seconds</string>
+          </keyword>
+          <keyword>
+            <string language="es">grados</string>
+            <string language="en">degrees</string>
+          </keyword>
+          <keyword>
+            <string language="es">tiempo</string>
+            <string language="en">time</string>
+          </keyword>
+          <keyword>
+            <string language="es">relojes</string>
+            <string language="en">clocks</string>
+          </keyword>
+          <keyword>
+            <string language="es">minutos</string>
+            <string language="en">minutes</string>
+          </keyword>
+          <keyword>
+            <string language="es">ángulos</string>
+            <string language="en">angles</string>
+          </keyword>
+          <keyword>
+            <string language="es">estimación</string>
+            <string language="en">estimation</string>
+          </keyword>
+          <keyword>
+            <string language="es">medida</string>
+            <string language="en">measurement</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">unterrichtende Maßeinheit, welche 
+Gebrauchsimulationen, Probleme zu studieren auf dem Messen von Winkeln
+und von Zeit in Verbindung stand. Es studiert auch die Probleme,
+die auf der Präzision von Messen in Verbindung gestanden werden.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">unité d'enseignement quelles simulations 
+d'utilisations étudier des problèmes a associées à la mesure des 
+angles et du temps. Il étudie également des problèmes liés 
+à la précision des mesures.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">unidade ensinando que simulações dos usos 
+estudar problemas relacionou à medida dos ângulos e do tempo. 
+Estuda também os problemas relacionados à precisão das 
+medidas.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">unità d'istruzione quali simulazioni di usi 
+studiare i problemi ha collegato alla misura degli angoli e del tempo.
+Egualmente studia i problemi relativi alla precisione delle 
+misure.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">η μονάδα διδασκαλίας που χρησιμοποιεί τις 
+προσομοιώσεις στα προβλήματα μελέτης αφορούσε τη μέτρηση των 
+γωνιών και του χρόνου. Μελετά επίσης τα προβλήματα σχετικά
+με την ακρίβεια των μετρήσεων.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Sekunden</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Grad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Taktgeber</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Minuten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Winkel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schätzung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Messen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">secondes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">degrés</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">temps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">horloges</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minutes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">angles</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">évaluation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mesure</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">segundos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">graus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">pulsos de disparo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">minutos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ângulos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estimation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">medida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">secondi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">gradi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">orologi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resoconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">angoli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">valutazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">misura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δευτερόλεπτα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βαθμοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">χρόνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρολόγια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λεπτά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γωνίες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εκτίμηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέτρηση</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Javier de la Escosura Caballero
+N:Javier de la Escosura Caballero
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_476</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_476</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:16:02.79Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">12-14</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>905</id>
+              <entry>
+                <string>número</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>66116</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/Tiempo_y_angulos_d3/indice.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

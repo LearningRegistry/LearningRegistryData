@@ -1,0 +1,312 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/53170</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>53170</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_366</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_366</entry>
+          </identifier>
+          <title>
+            <string language="es">Distribución normal e inferencia estadística</string>
+            <string language="en">Normal distribution and statistical inference</string>
+            <string language="x-mt-de">Normalverteilung und statistische Folgerung</string>
+            <string language="x-mt-fr">Distribution normale et inférence statistique</string>
+            <string language="x-mt-pt">Distribuição normal e inference estatístico</string>
+            <string language="x-mt-it">Distribuzione normale ed illazione statistica</string>
+            <string language="x-mt-el">Κανονική διανομή και στατιστικό συμπέρασμα</string>
+          </title>
+          <language>es</language>
+          <description>
+            <string language="es">unidad didáctica que desarrolla mediante simulaciones el tema de la inferencia estadística. Se estudian las distribuciones muestrales, la estimación de parámetros y el contraste de hipótesis.</string>
+            <string language="en">teaching unit which uses simulations to approach the subject of statistical inference. It studies sampling distributions, the estimation of parameters and hypothesis testing.</string>
+          </description>
+          <keyword>
+            <string language="es">estadística</string>
+            <string language="en">statistics</string>
+          </keyword>
+          <keyword>
+            <string language="es">contraste de hipótesis</string>
+            <string language="en">hypothesis testing</string>
+          </keyword>
+          <keyword>
+            <string language="es">estimación de parámetros</string>
+            <string language="en">estimation of parameters</string>
+          </keyword>
+          <keyword>
+            <string language="es">inferencia</string>
+            <string language="en">inference</string>
+          </keyword>
+          <keyword>
+            <string language="es">distribuciones muestrales</string>
+            <string language="en">sampling distributions</string>
+          </keyword>
+          <structure>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">unterrichtende Maßeinheit welcher Gebrauch 
+Simulationen, sich dem Thema der statistischen Folgerung zu nähern. 
+Sie studiert Musterstückverteilungen, die Schätzung von 
+Parametern und die Hypotheseprüfung.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">unité d'enseignement quelles utilisations 
+simulations d'approcher le sujet de l'inférence statistique. 
+Elle étudie des distributions de prélèvement, l'évaluation 
+des paramètres et le test d'hypothèse.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">unidade ensinando que usos simulações aproximar 
+o assunto do inference estatístico. Estuda distribuições da 
+amostragem, o estimation dos parâmetros e testar da hipótese.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">unità d'istruzione quali usi simulazioni 
+avvicinarsi all'argomento di illazione statistica. Studia le 
+distribuzioni di campione, la valutazione dei parametri e la prova di 
+ipotesi.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">μονάδα διδασκαλίας που χρησιμοποιεί τις προσομοιώσεις 
+για να πλησιάσει το θέμα του στατιστικού συμπεράσματος. 
+Μελετά τις διανομές δειγματοληψίας, την εκτίμηση των 
+παραμέτρων και τη δοκιμή υπόθεσης.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Statistiken</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hypotheseprüfung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schätzung von Parametern</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Folgerung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Musterstückverteilungen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">statistiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">test d'hypothèse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">évaluation des paramètres</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">inférence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">distributions de prélèvement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">statistics</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">testar da hipótese</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estimation dos parâmetros</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">inference</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">distribuições da amostragem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">statistiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">prova di ipotesi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">valutazione dei parametri</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">illazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">distribuzioni di campione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">στατιστικές</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δοκιμή υπόθεσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εκτίμηση των παραμέτρων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συμπέρασμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διανομές δειγματοληψίας</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mª José García Cebrián
+N:Mª José García Cebrián
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:ISFRRP
+N:ISFRRP
+EMAIL;TYPE=INTERNET:mail
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oai.cnice.mec.es:mats_366</entry>
+          </identifier>
+          <identifier>
+            <catalog>ISFRRP-MEPSYD</catalog>
+            <entry>mats_366</entry>
+          </identifier>
+          <language>es</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Ministerio de Educación y Ciencia
+N:Ministerio de Educación y Ciencia
+ORG:Ministerio de Educación y Ciencia
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-03T16:15:32.64Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="es">16-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="es">Reconocimiento-No comercial-Compartir bajo la misma licencia</string>
+            <string language="en">creative commons: attribution - non commercial - share alike</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1242</id>
+              <entry>
+                <string>estadística</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string>matemáticas</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string>ciencias</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>53170</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://descartes.cnice.mec.es/materiales_didacticos/inferencia_estadistica/index_inferencia.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
