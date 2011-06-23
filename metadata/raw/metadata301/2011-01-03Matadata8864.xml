@@ -1,0 +1,161 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/78190</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>78190</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>d3ab6f50-aaa3-468d-944d-867115a91be1#1#7</entry>
+          </identifier>
+          <title>
+            <string language="hu">Angol kódexek</string>
+            <string language="en">english codexes</string>
+            <string language="x-mt-de">englische codexes</string>
+            <string language="x-mt-fr">codexes anglais</string>
+            <string language="x-mt-pt">codexes ingleses</string>
+            <string language="x-mt-it">codexes inglesi</string>
+            <string language="x-mt-el">αγγλικά codexes</string>
+            <string language="x-mt-es">codexes ingleses</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Középkori angol kódexek</string>
+            <string language="en">english codexes in the middle ages</string>
+          </description>
+          <keyword>
+            <string language="hu">indafonat,  zsoltároskönyv,  9. évfolyam,  </string>
+            <string language="en">bine texture, psalm book, 9th class, </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">englische codexes im mittleren Alter</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">codexes anglais dans les âges moyens</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">codexes ingleses nas idades médias</string>
+          </description>
+          <description>
+            <string language="x-mt-it">codexes inglesi in Medio Evo</string>
+          </description>
+          <description>
+            <string language="x-mt-el">αγγλικά codexes στις μέσες ηλικίες</string>
+          </description>
+          <description>
+            <string language="x-mt-es">codexes ingleses en las edades medias</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">bine Beschaffenheit, Psalmbuch, 9. Kategorie,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">texture de bine, livre de psaume, 9ème classe,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">textura do bine, livro do psalm, 9a classe,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">struttura di bine, libro dello psalm, nono codice 
+categoria,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">bine σύσταση, βιβλίο ψαλμού, 9η κλάση,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">textura del bine, libro del salmo, 9na clase,</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">13-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:Kossuth Kiadó Rt.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>591</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>78190</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d3ab6f50-aaa3-468d-944d-867115a91be1&amp;v=1&amp;b=7</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

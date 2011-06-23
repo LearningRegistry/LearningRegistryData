@@ -1,0 +1,218 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/225465</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>225465</entry>
+  </identifier>
+  <identifier>
+    <catalog>DE.FWU</catalog>
+    <entry>ASP-CP_06600893.008</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomloose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sodis.de:ASP-CP_06600893.008</entry>
+          </identifier>
+          <identifier>
+            <catalog>DE.FWU</catalog>
+            <entry>ASP-CP_06600893.008</entry>
+          </identifier>
+          <title>
+            <string language="de">Beleuchtungszonen der Erde</string>
+          </title>
+          <language>de</language>
+          <description>
+            <string language="de">Neben der Einteilung der Erde in Beleuchtungsklimazonen
+&lt;br&gt;werden die Schwankungen der Tageslängen und die unterschiedliche Strahlungsverteilung erklärt.</string>
+          </description>
+          <keyword>
+            <string language="de">Erde</string>
+          </keyword>
+          <keyword>
+            <string language="de">Sonne</string>
+          </keyword>
+          <keyword>
+            <string language="de">Strahlung</string>
+          </keyword>
+          <keyword>
+            <string language="de">Strahlungsverteilung</string>
+          </keyword>
+          <keyword>
+            <string language="de">Beleuchtung</string>
+          </keyword>
+          <keyword>
+            <string language="de">Klimazone</string>
+          </keyword>
+          <keyword>
+            <string language="de">Tag</string>
+          </keyword>
+          <keyword>
+            <string language="de">Tageslänge</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="de">1.0</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+N:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+ORG:FWU Institut fuer Film und Bild in Wissenschaft und Unterricht
+EMAIL:info@fwu.de
+INTERNET:http://www.fwu.de
+END:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:FWU (Grünwald)
+N:FWU (Grünwald)
+END:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sodis.de:metadata.ASP-CP_06600893.008</entry>
+          </identifier>
+          <identifier>
+            <catalog>DE.FWU</catalog>
+            <entry>metadata.ASP-CP_06600893.008</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:&amp;amp;lt
+N:&amp;amp;lt
+END:vcard</entity>
+            <date>
+              <dateTime>2010-03-07T19:58:58.0Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:FWU (Grünwald)
+N:FWU (Grünwald)
+END:vcard</entity>
+            <date>
+              <dateTime>2010-03-07T19:58:58.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>de</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:FWU
+N:FWU
+ORG:FWU
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-03-08T03:17:38.63Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>demonstration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>video</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-15</string>
+          </typicalAgeRange>
+          <language>de</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v1p2</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://sodis.de/cp/packages/scorm/FWU-06600893/Beleuchtungszonen_der_Erde.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
