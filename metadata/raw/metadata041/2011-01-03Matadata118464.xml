@@ -1,0 +1,205 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209626</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209626</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/are-you-a-healthy-eater-2.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/are-you-a-healthy-eater-2.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/are-you-a-healthy-eater-2.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Are you a healthy eater?</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="cs">Pracovní list obsahuje jednoduchý dotazník a text o důležitých složkách výživy. Žáci nejprve sami odpoví na otázky v dotazníku a diskutují se spolužákem. Dále si přečtou informaci o skupinách potravin a podle svých odpovědí činí rozhodnutí o svém jídelníčku do budoucna. Přečtou si také informace o základních složkách výživy a zakreslí podle svého rozhodnutí do nákupních vozíků „zdravý&amp;quot; nebo „nezdravý&amp;quot; nákup. Jejich spolužáci pak hádají, o jaký nákup jde, vybírají nejzdravější košík. Nakonec tvoří věty, ve kterých porovnávají, která potravina je vhodnější a proč.</string>
+          </description>
+          <keyword>
+            <string language="cs">food</string>
+          </keyword>
+          <keyword>
+            <string language="cs">healthy</string>
+          </keyword>
+          <keyword>
+            <string language="cs">fibre</string>
+          </keyword>
+          <keyword>
+            <string language="cs">vitamin</string>
+          </keyword>
+          <keyword>
+            <string language="cs">carbohydrate</string>
+          </keyword>
+          <keyword>
+            <string language="cs">fat</string>
+          </keyword>
+          <keyword>
+            <string language="cs">protein</string>
+          </keyword>
+          <keyword>
+            <string language="cs">good</string>
+          </keyword>
+          <keyword>
+            <string language="cs">bad</string>
+          </keyword>
+          <keyword>
+            <string language="cs">better</string>
+          </keyword>
+          <keyword>
+            <string language="cs">worse</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Petra Boháčková
+N:Boháčková;Petra;;;
+PROFILE:VCARD
+EMAIL:bohackova19@seznam.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/are-you-a-healthy-eater.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/are-you-a-healthy-eater.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Petra Boháčková
+N:Boháčková;Petra;;;
+PROFILE:VCARD
+EMAIL:bohackova19@seznam.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:17:47.42Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">12 - 15</string>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">Foreign languages</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/are-you-a-healthy-eater-2.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=fddfgthu</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

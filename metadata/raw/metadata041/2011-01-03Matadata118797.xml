@@ -1,0 +1,249 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/236235</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>236235</entry>
+  </identifier>
+  <identifier>
+    <catalog>SIVECO</catalog>
+    <entry>MATH006ENSCORM</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomloose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SIVECO</catalog>
+            <entry>MATH006ENSCORM</entry>
+          </identifier>
+          <title>
+            <string language="en">Similar Triangles. The Fundamental Theorem of
+							Similarity</string>
+            <string language="ro">Triunghiuri asemenea. Teorema fundamentala a
+							asemanarii.</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">Triangle's elements, classification of triangles,
+							properties of similar triangles</string>
+            <string language="ro">Elementele triunghiului, clasificarea triunghiurilor,
+							proprietatile triunghiurilor asemenea</string>
+          </description>
+          <keyword>
+            <string language="en">similar</string>
+          </keyword>
+          <keyword>
+            <string language="en">triangle</string>
+          </keyword>
+          <keyword>
+            <string language="en">fundamental</string>
+          </keyword>
+          <keyword>
+            <string language="en">theorem</string>
+          </keyword>
+          <keyword>
+            <string language="en">similarity</string>
+          </keyword>
+          <keyword>
+            <string language="ro">asemenea</string>
+          </keyword>
+          <keyword>
+            <string language="ro">triunghi</string>
+          </keyword>
+          <keyword>
+            <string language="ro">fundamental</string>
+          </keyword>
+          <keyword>
+            <string language="ro">teorema</string>
+          </keyword>
+          <keyword>
+            <string language="ro">asemanare</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>1</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="en">1.0</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:SIVECO Romania
+N:SIVECO Romania
+ORG:SIVECO Romania
+EMAIL:florin.burcea@siveco.ro
+INTERNET:http://advancedelearning.com/
+END:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:SIVECO Romania
+N:SIVECO Romania
+ORG:SIVECO Romania
+EMAIL:florin.burcea@siveco.ro
+INTERNET:http://advancedelearning.com/
+END:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>SIVECO</catalog>
+            <entry>metadata.MATH006ENSCORM</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:Burcea
+CN:Florin
+N:Burcea;Florin
+ORG:SIVECO Romania
+EMAIL:florin.burcea@siveco.ro
+END:vcard</entity>
+            <date>
+              <dateTime>2009-10-22T00:00:00.0Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+FN:SIVECO Romania
+N:SIVECO Romania
+ORG:SIVECO Romania
+EMAIL:florin.burcea@siveco.ro
+INTERNET:http://advancedelearning.com/
+END:vcard</entity>
+            <date>
+              <dateTime>2008-04-04T00:00:00.0Z</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>assessment</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">13</string>
+          </typicalAgeRange>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://advancedelearning.com/index.php/articles/122/en</string>
+            <string language="en">Copyright (c)2005 SIVECO România S.A.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">Mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="ro">Europa</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>scorm_v2004</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://195.82.131.106/MATH006ENSCORM.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

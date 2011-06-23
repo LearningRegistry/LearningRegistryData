@@ -1,0 +1,214 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/158757</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>158757</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2616</entry>
+          </identifier>
+          <title>
+            <string language="en">Angular Velocity</string>
+            <string language="x-mt-de">Winkelgeschwindigkeit</string>
+            <string language="x-mt-fr">Vitesse Angulaire</string>
+            <string language="x-mt-pt">Velocidade Angular</string>
+            <string language="x-mt-it">Velocità Angolare</string>
+            <string language="x-mt-el">Γωνιακή ταχύτητα</string>
+            <string language="x-mt-es">Velocidad Angular</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="en">An animation of angular velocity as demonstrated by an amusement park big wheel</string>
+          </description>
+          <keyword>
+            <string language="en">velocity</string>
+          </keyword>
+          <keyword>
+            <string language="en">amusement park</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Eine Animation der Winkelgeschwindigkeit, wie 
+durch ein grosses Rad des Vergnügungsparks gezeigt</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une animation de vitesse angulaire comme 
+démontré par roue de parc d'amusement une grande</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um animation da velocidade angular como 
+demonstrado por uma roda grande do parque de divertimento</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una animazione di velocità angolare come 
+dimostrato da una rotella grande del parco di divertimento</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μια ζωτικότητα της γωνιακής ταχύτητας όπως 
+καταδεικνύεται από μια μεγάλη ρόδα πάρκων διασκέδασης</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una animación de la velocidad angular según lo 
+demostrado por una rueda grande del parque de atracciones</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geschwindigkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vergnügungspark</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vitesse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">parc d'amusement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">velocidade</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">parque de divertimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">velocità</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parco di divertimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταχύτητα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πάρκο διασκέδασης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">velocidad</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">parque de atracciones</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>ILMoE</catalog>
+            <entry>ILMoE2616</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+version:3.0
+fn:Israel Ministry of Education
+n:Israel Ministry of Education
+org:Israel Ministry of Education
+end:vcard</entity>
+            <date>
+              <dateTime>2009-02-20</dateTime>
+            </date>
+          </contribute>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <typicalAgeRange>
+            <string language="en">14-18</string>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <language>en</language>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>yes</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">edumedia</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>158757</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.edumedia-sciences.com/a355_l2-angular-velocity.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
