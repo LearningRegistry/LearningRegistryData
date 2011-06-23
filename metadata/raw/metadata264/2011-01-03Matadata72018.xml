@@ -1,0 +1,178 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/209482</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>209482</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:13660</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:13660</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>13660</entry>
+          </identifier>
+          <title>
+            <string language="nl">Lieven Van Parys wint Koning Paolaprijs</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Lieven Van Parys werd tweede laureaat in de Koningin Paolaprijs voor het Onderwijs. Lieven, ICT-coördinator van de vrije basisscholen in Meulebeke ontving deze prijs op 10 juni 2009 voor zijn eTwinningproject Kids hand in hand. De Koningin Paolaprijs voor het Onderwijs bekroont elk jaar leerkrachten die zich op een creatieve manier onderscheiden in hun beroep. Lieven ontving deze prijs omdat hij al twaalf jaar de computer in de klas integreert via eTwinning. Dankzij eTwinning kunnen jongeren én leerkrachten uit verschillende Europese landen elkaar kennen en samenwerken. In het project Kids hand in hand werken kleuters en kinderen uit de lagere scholen samen met leeftijdsgenoten uit de hele wereld. Via tekeningen, schetsen en een kaartenspel leren ze hun emoties benoemen en uiten. De kinderen communiceren met elkaar zonder taal te gebruiken. Dit project ontving eerder al de Nationale en Europese eTwinningprijs.</string>
+          </description>
+          <keyword>
+            <string language="nl">Kids hand in hand</string>
+          </keyword>
+          <keyword>
+            <string language="nl">computer in de klad</string>
+          </keyword>
+          <keyword>
+            <string language="nl">eTwinning-prijs</string>
+          </keyword>
+          <keyword>
+            <string language="nl">communiceren</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-29T16:30:08.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Sara Gilissen
+FN:Sara Gilissen 
+EMAIL;TYPE=INTERNET: 
+ORG: Sara Gilissen
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:13660</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>13660</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-01-11T21:43:01.57Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>13660</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/13660/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

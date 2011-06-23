@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/77205</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>77205</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>81eb5ed3-474e-4dc2-8e8e-766c5e838b55#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kígyóbűvölő</string>
+            <string language="en">snake charmer</string>
+            <string language="x-mt-de">Schlangecharmeur</string>
+            <string language="x-mt-fr">charmeur de serpent</string>
+            <string language="x-mt-pt">charmer da serpente</string>
+            <string language="x-mt-it">charmer del serpente</string>
+            <string language="x-mt-el">γόης φιδιών</string>
+            <string language="x-mt-es">charmer de la serpiente</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kígyóbűvölő fotója</string>
+            <string language="en">Picture of the snake charmer</string>
+          </description>
+          <keyword>
+            <string language="hu">fizika, kígyó, bűvölő, kígyóbűvölő</string>
+            <string language="en">Physics, charmer, snake-charmer, </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Abbildung des Schlangecharmeurs</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Image du charmeur de serpent</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Retrato do charmer da serpente</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Immagine del charmer del serpente</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Εικόνα του γόη φιδιών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cuadro del charmer de la serpiente</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik, Charmeur, Schlange-Charmeur,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Physique, charmeur, serpent-charmeur,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Física, charmer, serpente-snake-charmer,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Fisica, charmer, serpente-snake-charmer,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φυσική, γόης, φίδι-γόης,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Física, charmer, serpiente-snake-charmer,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pálfi ;Zoltán;
+fn:Zoltán Pálfi 
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>77205</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=81eb5ed3-474e-4dc2-8e8e-766c5e838b55&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
