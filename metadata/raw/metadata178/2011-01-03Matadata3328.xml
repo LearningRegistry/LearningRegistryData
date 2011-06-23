@@ -1,0 +1,169 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/75666</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>75666</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>4f613575-241c-4be8-b8e2-eab022ded7ea#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Newton 1704-ben kiadott Optikájának címlapja</string>
+            <string language="en">Frontpage of the  Newton's Optics 1704 </string>
+            <string language="x-mt-de">Frontpage der Optik 1704 des Newtons</string>
+            <string language="x-mt-fr">Frontpage du systeme optique 1704 de newton</string>
+            <string language="x-mt-pt">Frontpage do sistema ótico 1704 do newton</string>
+            <string language="x-mt-it">Frontpage dell'ottica 1704 del Newton</string>
+            <string language="x-mt-el">Frontpage της οπτικής 1704 του Newton</string>
+            <string language="x-mt-es">Frontpage de la óptica 1704 del neutonio</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Nyitókép</string>
+            <string language="en">first picture</string>
+          </description>
+          <keyword>
+            <string language="hu">Newton,  </string>
+            <string language="en">Newton,  </string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">erste Abbildung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">première image</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">primeiro retrato</string>
+          </description>
+          <description>
+            <string language="x-mt-it">prima immagine</string>
+          </description>
+          <description>
+            <string language="x-mt-el">πρώτη εικόνα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">primer cuadro</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Newton,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Newton,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Newton,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Newton,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Θ*Νεωτον,</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Neutonio,</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:Pócs;Dániel;
+fn:Dániel Pócs  
+org:
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>75666</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=4f613575-241c-4be8-b8e2-eab022ded7ea&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
