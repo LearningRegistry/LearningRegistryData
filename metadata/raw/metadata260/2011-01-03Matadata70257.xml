@@ -1,0 +1,171 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/230751</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>230751</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5530</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5530</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5530</entry>
+          </identifier>
+          <title>
+            <string language="nl">Docville 2008 : Internationaal documentaire filmfestival</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Van 10 tot 17 mei gaat op verschillende locaties in Leuven het internationaal documentaire festival Docville van start.  Het festival werkt deze vierde editie verder op de eerder beproefde en gesmaakte formule: een overzichtelijk, streng geselecteerd programma van de beste recente nationale en internationale documentaire films. Docville 2008 pakt uit met 31 titels die netjes verdeeld werden in de vijf categorieën: nieuwe releases, nationale selectie, internationale selectie, de special rond de muziekdocumentaires van Martin Scorsese en een special rond het verschijnsel van de geanimeerde documentaire. Het volledige programma kan u terugvinden op onze website http://www.docville.be/ of doorblader onze folder via deze link.  Ook verwelkomen we graag scholen en klassen. Voor meer info contacteer Dorien Verhavert op dorien@fonk.be</string>
+          </description>
+          <keyword>
+            <string language="nl">film</string>
+          </keyword>
+          <keyword>
+            <string language="nl">documentaire</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2008-05-02 11:43:37</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>initiator</value>
+            </role>
+            <date>
+              <dateTime>2008-05-09T15:36:57.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Dorien Verhavert
+FN:Dorien Verhavert 
+EMAIL;TYPE=INTERNET: 
+ORG: Dorien Verhavert
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5530</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5530</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:28:59.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5530</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5530</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5530/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
