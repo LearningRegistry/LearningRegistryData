@@ -1,0 +1,509 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/163930</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>163930</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114519</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114519</entry>
+          </identifier>
+          <title>
+            <string language="en">Digital signal of a single telephone call</string>
+            <string language="x-mt-de">Digital Signal eines einzelnen Telefonanrufes</string>
+            <string language="x-mt-fr">Signal numérique D'un appel téléphonique 
+simple</string>
+            <string language="x-mt-pt">Sinal de Digital de um único atendimento de 
+telefone</string>
+            <string language="x-mt-it">Segnale numerico Di singola telefonata</string>
+            <string language="x-mt-el">Ψηφιακό σήμα ενός ενιαίου τηλεφωνήματος</string>
+            <string language="x-mt-es">Señal digital de una sola llamada telefónica</string>
+          </title>
+          <description>
+            <string language="en">This block diagram shows how a digital signal is produced in a single telephone call (top) and the graph of its corresponding digital signal on the trunk line (bottom).</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="en">bit duration</string>
+          </keyword>
+          <keyword>
+            <string language="en">Clock</string>
+          </keyword>
+          <keyword>
+            <string language="en">clock frequency</string>
+          </keyword>
+          <keyword>
+            <string language="en">digital signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">eight bits</string>
+          </keyword>
+          <keyword>
+            <string language="en">logic 0</string>
+          </keyword>
+          <keyword>
+            <string language="en">logic 1</string>
+          </keyword>
+          <keyword>
+            <string language="en">Parallel</string>
+          </keyword>
+          <keyword>
+            <string language="en">sample and hold</string>
+          </keyword>
+          <keyword>
+            <string language="en">serial</string>
+          </keyword>
+          <keyword>
+            <string language="en">single telephone call</string>
+          </keyword>
+          <keyword>
+            <string language="en">telephone exchange</string>
+          </keyword>
+          <keyword>
+            <string language="en">telephone system</string>
+          </keyword>
+          <keyword>
+            <string language="en">trunk line</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Blockdiagramm zeigt, wie ein digitales 
+Signal in einem einzelnen Telefonanruf (Oberseite) und im Diagramm 
+seines entsprechenden digitalen Signals auf der Hauptluftlinie 
+(Unterseite) produziert wird.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma fonctionnel montre comment un signal 
+numérique est produit dans un appel téléphonique simple (dessus) et
+le graphique de son signal numérique correspondant sur la ligne 
+interurbaine (bas).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de bloco mostra como um sinal 
+digital é produzido em um único atendimento de telefone (alto) e no 
+gráfico de seu sinal digital correspondente na linha de tronco 
+(fundo).</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema a blocchi mostra come un segnale 
+numerico è prodotto in una singola telefonata (parte superiore) e nel
+grafico del relativo segnale numerico corrispondente sulla riga di 
+tronco (parte inferiore).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα ομάδων δεδομένων επιδεικνύει πώς 
+ένα ψηφιακό σήμα παράγεται σε ένα ενιαίο τηλεφώνημα (κορυφή) 
+και τη γραφική παράσταση του αντίστοιχου ψηφιακού σήματός του 
+στη γραμμή κορμών (κατώτατο σημείο).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este diagrama de bloque muestra cómo una señal 
+digital se produce en una sola llamada telefónica (tapa) y el 
+gráfico de su señal digital correspondiente en la línea interurbana
+(fondo).</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bitdauer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Taktgeber</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Taktfrequenz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">digitales Signal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">acht Bits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Logik 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Logik 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ähnlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Probe und Einfluß</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">serienmäßig</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">einzelner Telefonanruf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Telefonamt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fernsprechsystem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hauptluftlinie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">CDA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">durée de bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Horloge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fréquence de base</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">huit bits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">logique 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">logique 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Parallèle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">échantillon et prise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">séquentiel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">appel téléphonique simple</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">central téléphonique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">système de téléphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">ligne interurbaine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">CAD</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">duração do bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pulso de disparo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">freqüência de pulso de disparo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">oito bits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lógica 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lógica 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Paralela</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">amostra e preensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">de série</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">único atendimento de telefone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">central</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistema de telefone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">linha de tronco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">durata del bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Orologio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">frequenza di orologio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale numerico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">otto bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">logica 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">logica 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Parallelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito analogico per catturare e memorizzare un 
+segnale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">seriale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">singola telefonata</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">scambio di telefono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">linea telefonica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">riga di tronco</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΠΑΧ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">"διάρκεια" δυαδικών ψηφίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">"Ένδειξη ώρασ"</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συχνότητα ρολογιών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφιακό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οκτώ μπιτ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογική 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λογική 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Παράλληλος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δείγμα και λαβή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τμηματικός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ενιαίο τηλεφώνημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τηλεφωνική ανταλλαγή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τηλεφωνικό σύστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμμή κορμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">duración del dígito binario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Reloj</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">frecuencia de reloj</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ocho dígitos binarios</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lógica 0</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lógica 1</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Paralelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">muestra y asimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">serial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sola llamada telefónica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">intercambio de teléfono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistema de teléfono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">línea interurbana</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114519</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114519</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:33:21.26Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>163930</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114519.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

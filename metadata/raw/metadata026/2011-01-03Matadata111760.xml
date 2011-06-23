@@ -1,0 +1,466 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/109269</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>109269</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_81502</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_81502</entry>
+          </identifier>
+          <title>
+            <string language="fr">La masse moyenne pour un ensemble de feuilles</string>
+            <string language="en">The average mass for one set of leaves</string>
+            <string language="x-mt-de">Die durchschnittliche Masse für ein Set Blätter</string>
+            <string language="x-mt-pt">A massa média para um jogo das folhas</string>
+            <string language="x-mt-it">La massa media per un insieme dei fogli</string>
+            <string language="x-mt-el">Η μέση μάζα για ένα σύνολο φύλλων</string>
+            <string language="x-mt-es">La masa media para un conjunto de hojas</string>
+          </title>
+          <language>x-none</language>
+          <description>
+            <string language="fr">Ce graphe par ligne montre la masse moyenne pour un ensemble de feuilles prises toutes les 25 minutes.</string>
+            <string language="en">This line graph shows the average mass for one set of leaves taken every 25 minutes.</string>
+          </description>
+          <keyword>
+            <string language="fr">moyenne</string>
+            <string language="en">average</string>
+          </keyword>
+          <keyword>
+            <string language="fr">enduit</string>
+            <string language="en">coating</string>
+          </keyword>
+          <keyword>
+            <string language="fr">évaporation</string>
+            <string language="en">evaporation</string>
+          </keyword>
+          <keyword>
+            <string language="fr">suspension</string>
+            <string language="en">hanging</string>
+          </keyword>
+          <keyword>
+            <string language="fr">feuille</string>
+            <string language="en">Leaf</string>
+          </keyword>
+          <keyword>
+            <string language="fr">feuilles</string>
+            <string language="en">leaves</string>
+          </keyword>
+          <keyword>
+            <string language="fr">la masse</string>
+            <string language="en">Mass</string>
+          </keyword>
+          <keyword>
+            <string language="fr">minutes</string>
+            <string language="en">minutes</string>
+          </keyword>
+          <keyword>
+            <string language="fr">plantes</string>
+            <string language="en">Plants</string>
+          </keyword>
+          <keyword>
+            <string language="fr">surface</string>
+            <string language="en">surface</string>
+          </keyword>
+          <keyword>
+            <string language="fr">temps</string>
+            <string language="en">Time</string>
+          </keyword>
+          <keyword>
+            <string language="fr">vaseline</string>
+            <string language="en">Vaseline</string>
+          </keyword>
+          <keyword>
+            <string language="fr">eau</string>
+            <string language="en">water</string>
+          </keyword>
+          <keyword>
+            <string language="fr">pesant</string>
+            <string language="en">Weighing</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Zeile Diagramm zeigt die durchschnittliche 
+Masse für ein Set Blätter, die alle 25 Minuten gedauert werden.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta linha gráfico mostra a massa média para um 
+jogo das folhas feitas exame cada 25 minutos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico lineare mostra la massa media per 
+un insieme dei fogli occors ogni 25 minuti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση γραμμών εμφανίζει μέση 
+μάζα για ένα σύνολο φύλλων που λαμβάνονται κάθε 25 λεπτά.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta línea gráfico muestra la masa media para 
+un conjunto de hojas tomadas cada 25 minutos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Durchschnitt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schicht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Verdampfung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Hängen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Blatt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Blätter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Masse</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Minuten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Betriebe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Oberfläche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Vaseline</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wasser</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wiegen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">média</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">revestimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">evaporação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">suspensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Folha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">folhas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">minutos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Plantas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">superfície</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Vaseline</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">água</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pesar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">media</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">rivestimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">evaporazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">appendere</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Foglio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fogli</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Massa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resoconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Piante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">superficie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Vaselina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">acqua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pesare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέσος όρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επίστρωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εξάτμιση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ένωση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φύλλο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φύλλα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μάζα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λεπτά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Εγκαταστάσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επιφάνεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χρόνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Βαζελίνη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ύδωρ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ζύγισμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">promedio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">capa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">evaporación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el colgar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Hoja</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">hojas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Masa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">minutos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Plantas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">superficie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Tiempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Vaselina</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">agua</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">El pesar</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun-melt-melt.cup.cam.ac.uk</catalog>
+            <entry>melt.cup.cam.ac.uk:metadata_81502</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-03T16:20:35.89Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-24</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Littlewood;Anna;;;
+FN:Anna Littlewood
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-03-24</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-16</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;![CDATA[&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;			    &lt;Work rdf:about=""&gt;			    			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;			    &lt;/Work&gt;			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;			    			    			    			    			    			    			    &lt;/License&gt;			    &lt;/rdf:RDF&gt;]]&gt;</string>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>377</id>
+              <entry>
+                <string language="en">ecology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>109269</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/81502.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
