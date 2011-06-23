@@ -1,0 +1,163 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76562</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76562</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>b29ed43b-e57a-4301-b941-4ebf46700f92#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Giuseppe Verdi arcképe</string>
+            <string language="en">The portrait of Giuseppe Verdi</string>
+            <string language="x-mt-de">Das Portrait von Giuseppe Verdi</string>
+            <string language="x-mt-fr">La verticale de Giuseppe Verdi</string>
+            <string language="x-mt-pt">O retrato de Giuseppe Verdi</string>
+            <string language="x-mt-it">Il ritratto di Giuseppe Verdi</string>
+            <string language="x-mt-el">Το πορτρέτο του Giuseppe Verdi</string>
+            <string language="x-mt-es">El retrato de Giuseppe Verdi</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">olasz romantikus zeneszerző arcképe</string>
+            <string language="en">The portrait of an Italian Romanticist composer</string>
+          </description>
+          <keyword>
+            <string language="hu">opera,  requiem,  Nabucco,  Rigoletto,  Don Carlos,  </string>
+            <string language="en">opera, requiem, Nabucco, Rigoletto, Don Carlos</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Das Portrait eines italienischen Romanticist 
+Komponisten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La verticale d'un compositeur italien de 
+Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O retrato de um compositor italiano de 
+Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Il ritratto di un compositore italiano di 
+Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το πορτρέτο ενός ιταλικού συνθέτη Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El retrato de un compositor italiano de 
+Romanticist</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Oper, requiem, Nabucco, Rigoletto, zieht Carlos an</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'opéra, requiem, Nabucco, Rigoletto, met Carlos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">a ópera, requiem, Nabucco, Rigoletto, don Carlos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">l'opera, requiem, Nabucco, Rigoletto, indossa Carlos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">η όπερα, requiem, Nabucco, Rigoletto, φορά τον 
+Carlos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">la ópera, requiem, Nabucco, Rigoletto, pone Carlos</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76562</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b29ed43b-e57a-4301-b941-4ebf46700f92&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
