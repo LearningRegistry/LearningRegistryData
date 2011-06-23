@@ -1,0 +1,314 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/93696</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>93696</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>19eac116-a555-4621-bda2-1406620b2df4</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:19eac116-a555-4621-bda2-1406620b2df4</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>19eac116-a555-4621-bda2-1406620b2df4</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A skaláris szorzás</string>
+            <string language="en-US">The Scalar Multiplication</string>
+            <string language="x-mt-de">Die Skalarvermehrung</string>
+            <string language="x-mt-fr">La Multiplication Scalaire</string>
+            <string language="x-mt-pt">A Multiplicação Escalar</string>
+            <string language="x-mt-it">La Moltiplicazione Scalare</string>
+            <string language="x-mt-el">Ο κλιμακωτός πολλαπλασιασμός</string>
+            <string language="x-mt-es">La Multiplicación Escalar</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Két vektor skaláris szorzata, a skaláris szorzat tulajdonságai</string>
+            <string language="en-US">Scalar multiplication of two vectors, characteristics of scalar multiplication</string>
+          </description>
+          <keyword>
+            <string language="en-US">position vector</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">scalar product</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">direction vector</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Skalarvermehrung von zwei Vektoren, Eigenschaften 
+der Skalarvermehrung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Multiplication scalaire de deux vecteurs, 
+caractéristiques de multiplication scalaire</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Multiplicação escalar de dois vetores, 
+características da multiplicação escalar</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una moltiplicazione scalare di due vettori, 
+caratteristiche di moltiplicazione scalare</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Κλιμακωτός πολλαπλασιασμός δύο διανυσμάτων, 
+χαρακτηριστικά του κλιμακωτού πολλαπλασιασμού</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Multiplicación escalar de dos vectores, 
+características de la multiplicación escalar</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">bringen Sie Vektor in Position</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Skalarprodukt</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Richtung Vektor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">placez le vecteur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">produit scalaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">vecteur de direction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">posicione o vetor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">produto escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vetor do sentido</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">posizioni il vettore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">prodotto scalare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vettore di senso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα θέσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλιμακωτό προϊόν</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διάνυσμα κατεύθυνσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">coloque el vector</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">producto escalar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">vector de la dirección</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:19eac116-a555-4621-bda2-1406620b2df4</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>19eac116-a555-4621-bda2-1406620b2df4</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:21:00.63Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>50205c3d-cc55-407f-99b1-617245d6e3f4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f0279745-792d-4b39-919b-a32b6366944f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>4c9a24b3-d76a-48d2-b99f-58a6e074469f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b38c07b6-4b53-43eb-bd62-e58b8c7d335c</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>f0792182-51cb-4295-8e83-966d77cc2197</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>19eac116-a555-4621-bda2-1406620b2df4-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>19eac116-a555-4621-bda2-1406620b2df4-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=19eac116-a555-4621-bda2-1406620b2df4</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>19eac116-a555-4621-bda2-1406620b2df4-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>19eac116-a555-4621-bda2-1406620b2df4-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/19/ea/19eac116-a555-4621-bda2-1406620b2df4_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,390 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98503</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98503</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8dc71a5e-7001-4636-a565-526a5e4fdf77</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A népesség összetétele</string>
+            <string language="en-US">The Composition Of The Population</string>
+            <string language="x-mt-de">Der Aufbau Der Bevölkerung</string>
+            <string language="x-mt-fr">La Composition de la Population</string>
+            <string language="x-mt-pt">A Composição Da População</string>
+            <string language="x-mt-it">La Composizione Della Popolazione</string>
+            <string language="x-mt-el">Η σύνθεση του πληθυσμού</string>
+            <string language="x-mt-es">La Composición De la Población</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A népesség összetétele, foglalkozásszerkezet, nemek és kor szerinti megoszlás</string>
+            <string language="en-US">The Composition of the Population, Employment Structure, Distribution Based on Sex and Age</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">népesség</string>
+            <string language="en-US">population</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">földrajz</string>
+            <string language="en-US">geography</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">társadalomföldrajz</string>
+            <string language="en-US">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">rasszizmus</string>
+            <string language="en-US">racism</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">foglalkozásszerkezet</string>
+            <string language="en-US">employment structure</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">népességszám</string>
+            <string language="en-US">number of population</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Der Aufbau der Bevölkerung, der 
+Beschäftigung-Struktur, der Verteilung basiert auf Geschlecht und des
+Alters</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La composition de la population, de la structure 
+d'emploi, de la distribution basée sur le sexe et de l'âge</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A composição da população, da estrutura do 
+emprego, da distribuição baseada no sexo e da idade</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La composizione della popolazione, della 
+struttura di occupazione, della distribuzione basata sul sesso e 
+dell'età</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η σύνθεση του πληθυσμού, δομή απασχόλησης, διανομή 
+βασισμένη στο φύλο και την ηλικία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La composición de la población, de la 
+estructura del empleo, de la distribución basada en sexo y de la 
+edad</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Bevölkerung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rassismus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beschäftigungstruktur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zahl der Bevölkerung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">population</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">géographie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">racisme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">structure d'emploi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombre de population</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">população</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">geografia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">racism</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estrutura do emprego</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">número da população</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">popolazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">geografia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">razzismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">struttura di occupazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numero di popolazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πληθυσμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γεωγραφία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">tαrsadalomfφldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ρατσισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δομή απασχόλησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμός πληθυσμού</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">población</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">geografía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">társadalomföldrajz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">racismo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">estructura del empleo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">número de la población</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:8dc71a5e-7001-4636-a565-526a5e4fdf77</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:54:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:37:05.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>63f8421c-48ce-411d-8740-021399d02a61</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>63a8d924-7b2d-41e0-9c70-158ecaaff0b4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e058de3f-4372-4a97-9f8b-b256e11d928b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7b71ef6b-30e0-4b14-8ce2-ba30d51f8c38</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>13ff338e-26a8-4d54-aebe-888d25fb95d2</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2fc3faa2-2b69-4a53-b740-a03a19cd37bf</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en-US">geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=8dc71a5e-7001-4636-a565-526a5e4fdf77</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>8dc71a5e-7001-4636-a565-526a5e4fdf77-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/8d/c7/8dc71a5e-7001-4636-a565-526a5e4fdf77_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

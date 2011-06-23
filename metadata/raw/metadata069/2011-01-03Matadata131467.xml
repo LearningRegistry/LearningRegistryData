@@ -1,0 +1,309 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/98159</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>98159</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>e0708557-666b-7010-0043-6b726f6e696b</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:e0708557-666b-7010-0043-6b726f6e696b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>e0708557-666b-7010-0043-6b726f6e696b</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A mese</string>
+            <string language="en-US">The Tale</string>
+            <string language="x-mt-de">Die Geschichte</string>
+            <string language="x-mt-fr">Le Conte</string>
+            <string language="x-mt-pt">O Tale</string>
+            <string language="x-mt-it">Il Racconto</string>
+            <string language="x-mt-el">Η ιστορία</string>
+            <string language="x-mt-es">El Cuento</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Teljes szöveg, ismertető</string>
+            <string language="en-US">Full Text, Guide</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">foglalkozás</string>
+            <string language="en-US">profession</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">mese</string>
+            <string language="en-US">tale</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Ganztext, Anleitung</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">À texte intégral, Guide</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Texto Cheio, Guia</string>
+          </description>
+          <description>
+            <string language="x-mt-it">A testo integrale, Guida</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πλήρες κείμενο, οδηγός</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Texto Completo, Guía</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Beruf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">profession</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">conte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">profissão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">professione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">racconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επάγγελμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιστορία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">profesión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuento</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:23.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:e0708557-666b-7010-0043-6b726f6e696b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>e0708557-666b-7010-0043-6b726f6e696b</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:23.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T23:32:05.32Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708501-6c70-8010-0219-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708502-6c70-8010-0220-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708601-6c70-8010-0222-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708602-6c70-8010-0223-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708701-6c70-8010-0224-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708801-6c70-8010-0225-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0708901-6c70-8010-0226-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>dc287059-6d33-4c4d-aaf5-43a03682459b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>224c11dc-7616-40e4-a1de-f66a3bfd0df4</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d408eca9-92e3-4039-8786-29a1047e0dbd</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>758</id>
+              <entry>
+                <string language="en-US">literature</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>e0708557-666b-7010-0043-6b726f6e696b-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>e0708557-666b-7010-0043-6b726f6e696b-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e0708557-666b-7010-0043-6b726f6e696b</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>e0708557-666b-7010-0043-6b726f6e696b-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>e0708557-666b-7010-0043-6b726f6e696b-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/e0/70/e0708557-666b-7010-0043-6b726f6e696b_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
