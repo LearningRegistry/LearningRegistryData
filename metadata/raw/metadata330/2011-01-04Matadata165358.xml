@@ -1,0 +1,241 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/36</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>36</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG3779</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3779</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG3779</entry>
+          </identifier>
+          <title>
+            <string language="it">La Scuola Apprendisti della Dalmine. 4/10: un allievo sottoposto a prove psicoattitudinali</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">Istituzioni come la Scuola Apprendisti della Soc. An. Stabilimenti di Dalmine furono caratterizzate da una notevole selettività nell'ammissione dei potenziali allievi. Dal punto di vista di una grande Società industriale, accogliere allievi - ai quali, insieme alla prospettiva di un' opportunità di lavoro, si offriva potenzialmente anche un articolato programma di opere sociali per i dipendenti (dalle abitazioni alle scuole per i figli, dalla mensa aziendale alla cooperativa di consumo, dalle attività sportive al poliambulatorio) - presupponeva, all'inizio e nel corso del curriculum scolastico, un'attenta valutazione dei risultati e dei comportamenti disciplinari.L'ammissione alla scuola, riservata ai ragazzi dai 14 ai 15 anni, oltre che basata su prove d'esame scritte e orali e su una prova di lavoro, era condizionata da una serie variabile di elementi: legami di parentela con i dipendenti della Società, formazione scolastica precedente con una preferenza per le scuole di avviamento professionale, stato di famiglia (orfani di dipendenti e di guerra potevano essere favoriti), iscrizione alla GIL, esami medici e prove psicotecniche che potessero contribuire alla valutazione delle attitudini lavorative. Il primo laboratorio psicotecnico (1937) della Società e annesso alla Scuola fu diretto dal professor Enrico Gatti, docente di Psicologia all'Università di Torino e Direttore del primo Centro Italiano di Psicologia del Lavoro. Cessò l'attività nel 1941 a causa della guerra e riprese nel 1947 rivolto anche a operai e impiegati. Nel 1958 il nuovo laboratorio estese la sua attività, che comprendeva nel suo complesso selezione, orientamento, esami attitudinali, ricerche nel campo infortunistico, ecc.</string>
+          </description>
+          <coverage>
+            <string language="it">Dalmine (Bergamo)</string>
+          </coverage>
+          <coverage>
+            <string language="it">1940d</string>
+          </coverage>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Fondazione Dalmine;;;; 
+FN:Fondazione Dalmine 
+ORG:FDAL
+URL:http://fondazione.dalmine.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Cattaneo;Barbara;;; 
+FN:BarbaraŠCattaneo 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3779</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG3779</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T07:13:19.84Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1122</id>
+              <entry>
+                <string language="en">school</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1134</id>
+              <entry>
+                <string language="en">school management</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1371</id>
+              <entry>
+                <string language="en">vocational school</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1052</id>
+              <entry>
+                <string language="en">pupil</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1250</id>
+              <entry>
+                <string language="en">student</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>386</id>
+              <entry>
+                <string language="en">education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>649</id>
+              <entry>
+                <string language="en">informal education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>886</id>
+              <entry>
+                <string language="en">non-formal education</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1023</id>
+              <entry>
+                <string language="en">preventive medicine</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG3779</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/nuovedalmine3/sc163.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
