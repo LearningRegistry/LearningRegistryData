@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73193</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73193</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>307d2222-0d9b-4525-9198-584b2db16c98#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Közlekedő edények 2.</string>
+            <string language="en">Communicaton vessel 2,</string>
+            <string language="x-mt-de">Communicaton Behälter 2,</string>
+            <string language="x-mt-fr">Navire 2 de Communicaton,</string>
+            <string language="x-mt-pt">Embarcação 2 de Communicaton,</string>
+            <string language="x-mt-it">Vaso 2 di Communicaton,</string>
+            <string language="x-mt-el">Σκάφος 2 Communicaton,</string>
+            <string language="x-mt-es">Recipiente 2 de Communicaton,</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Öt szárú közlekedőedény megdöntve</string>
+            <string language="en">Five parts communicaton vessel </string>
+          </description>
+          <keyword>
+            <string language="hu">közlekedő edények,  </string>
+            <string language="en">communication vessels</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Fünf Teile communicaton Behälter</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Cinq parts de navire de communicaton</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Cinco porções da embarcação do communicaton</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Cinque parti di vaso del communicaton</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πέντε μέρη communicaton σκαφών</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Cinco porciones de recipiente del communicaton</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Kommunikation Behälter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">navires de transmission</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">embarcações de uma comunicação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">vasi di comunicazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σκάφη επικοινωνίας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">recipientes de la comunicación</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73193</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=307d2222-0d9b-4525-9198-584b2db16c98&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74627</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74627</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e59dcd22-7839-445e-80ef-c33e58e7ae25#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kondenzátorok soros kapcsolása</string>
+            <string language="en">linear circuit of condenser</string>
+            <string language="x-mt-de">linearer Stromkreis des Kondensatores</string>
+            <string language="x-mt-fr">circuit linéaire de condensateur</string>
+            <string language="x-mt-pt">circuito linear do condensador</string>
+            <string language="x-mt-it">circuito lineare del condensatore</string>
+            <string language="x-mt-el">γραμμικό κύκλωμα του συμπυκνωτή</string>
+            <string language="x-mt-es">circuito linear del condensador</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kondenzátorok soros kapcsolása</string>
+            <string language="en">linear circuit of condenser</string>
+          </description>
+          <keyword>
+            <string language="hu">kondenzátorok kapcsolása,  </string>
+            <string language="en">circuit of condenser</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">linearer Stromkreis des Kondensatores</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">circuit linéaire de condensateur</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">circuito linear do condensador</string>
+          </description>
+          <description>
+            <string language="x-mt-it">circuito lineare del condensatore</string>
+          </description>
+          <description>
+            <string language="x-mt-el">γραμμικό κύκλωμα του συμπυκνωτή</string>
+          </description>
+          <description>
+            <string language="x-mt-es">circuito linear del condensador</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Stromkreis des Kondensatores</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit de condensateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito do condensador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito del condensatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κύκλωμα του συμπυκνωτή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito del condensador</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn:
+org:IBCnet Magyarország Kft.
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74627</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e59dcd22-7839-445e-80ef-c33e58e7ae25&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
