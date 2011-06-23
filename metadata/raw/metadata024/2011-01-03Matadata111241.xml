@@ -1,0 +1,665 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/164968</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>164968</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_114525</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_114525</entry>
+          </identifier>
+          <title>
+            <string language="en">Operation of a mobile-phone handset</string>
+            <string language="x-mt-de">Operation eines Beweglichtelefon Hörers</string>
+            <string language="x-mt-fr">Fonctionnement d'un combiné téléphonique de 
+mobile-téléphone</string>
+            <string language="x-mt-pt">Operação de um monofone do móvel-telefone</string>
+            <string language="x-mt-it">Funzionamento di un microtelefono del 
+mobile-telefono</string>
+            <string language="x-mt-el">Λειτουργία ενός μικροτηλεφώνου κινητών τηλεφώνων</string>
+            <string language="x-mt-es">Operación de un microteléfono del 
+mo'vil-tele'fono</string>
+          </title>
+          <description>
+            <string language="en">This block diagram shows the operation of a mobile-phone handset.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="en">aerial</string>
+          </keyword>
+          <keyword>
+            <string language="en">AF amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">Amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="en">demodulator</string>
+          </keyword>
+          <keyword>
+            <string language="en">digital signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">loudspeaker</string>
+          </keyword>
+          <keyword>
+            <string language="en">Microphone</string>
+          </keyword>
+          <keyword>
+            <string language="en">microphone signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">microprocessor</string>
+          </keyword>
+          <keyword>
+            <string language="en">mobile communication</string>
+          </keyword>
+          <keyword>
+            <string language="en">mobile-phone handset</string>
+          </keyword>
+          <keyword>
+            <string language="en">mobile-phone system</string>
+          </keyword>
+          <keyword>
+            <string language="en">modulator</string>
+          </keyword>
+          <keyword>
+            <string language="en">oscillator</string>
+          </keyword>
+          <keyword>
+            <string language="en">Parallel</string>
+          </keyword>
+          <keyword>
+            <string language="en">parallel to serial</string>
+          </keyword>
+          <keyword>
+            <string language="en">RF amplifier</string>
+          </keyword>
+          <keyword>
+            <string language="en">serial</string>
+          </keyword>
+          <keyword>
+            <string language="en">switching</string>
+          </keyword>
+          <keyword>
+            <string language="en">telephone system</string>
+          </keyword>
+          <keyword>
+            <string language="en">tuning circuit</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Blockdiagramm zeigt die Operation eines 
+Beweglichtelefon Hörers.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce schéma fonctionnel montre le fonctionnement 
+d'un combiné téléphonique de mobile-téléphone.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este diagrama de bloco mostra a operação de um 
+monofone do móvel-telefone.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo schema a blocchi mostra il funzionamento di
+un microtelefono del mobile-telefono.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό το διάγραμμα ομάδων δεδομένων εμφανίζει τη 
+λειτουργία ενός μικροτηλεφώνου κινητών τηλεφώνων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este diagrama de bloque muestra la operación de 
+un microteléfono del mo'vil-tele'fono.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">von der Luft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Af Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Demodulator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">digitales Signal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lautsprecher</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mikrophon</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mikrophonsignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mikroprozessor</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bewegliche Kommunikation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beweglichtelefon Hörer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beweglichtelefon System</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Modulator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Oszillator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ähnlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ähnlichkeit zur Serie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">HF Verstärker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">serienmäßig</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schaltung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Fernsprechsystem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">justierenstromkreis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">CDA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">aérien</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Amplificateur d'AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Amplificateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">démodulateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">haut-parleur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Microphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal de microphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">microprocesseur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">transmission mobile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">combiné téléphonique de mobile-téléphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">système de mobile-téléphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">modulateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">oscillateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Parallèle</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">parallèle à la publication périodique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Amplificateur de rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">séquentiel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commutation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">système de téléphone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuit d'accord</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">CAD</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">aéreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Amplificador do AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Amplificador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">demodulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">loudspeaker</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Microfone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal do microfone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">microprocessador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">uma comunicação móvel</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">monofone do móvel-telefone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistema do móvel-telefone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">modulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">oscilador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Paralela</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">paralela à série</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Amplificador do RF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">de série</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">switching</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sistema de telefone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuito ajustando</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">aereo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Amplificatore di AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Amplificatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">demodulatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale numerico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">altoparlante</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Microfono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale del microfono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">microprocessore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">comunicazione mobile</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">microtelefono del mobile-telefono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sistema del mobile-telefono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">modulatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">oscillatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Parallelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parallelamente alla pubblicazione periodica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Amplificatore di rf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">seriale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">commutazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">linea telefonica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuito di sintonia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ΠΑΧ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εναέριος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ενισχυτής AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ενισχυτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αποδιαμορφωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφιακό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μεγάφωνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μικρόφωνο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σήμα μικροφώνων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μικροεπεξεργαστής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κινητή επικοινωνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μικροτηλέφωνο κινητών τηλεφώνων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύστημα κινητών τηλεφώνων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διαμορφωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ταλαντωτής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Παράλληλος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παράλληλος στην παρουσίαση σε συνέχειες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ενισχυτής RF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τμηματικός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετατροπή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τηλεφωνικό σύστημα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συντονίζοντας κύκλωμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">aéreo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Amplificador del AF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Amplificador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">DAC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">desmodulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal digital</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">altavoz</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Micrófono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal del micrófono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">microprocesador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">comunicación móvil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">microteléfono del mo'vil-tele'fono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistema del mo'vil-tele'fono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">modulador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">oscilador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Paralelo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">paralelo al cuento por entregas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Amplificador del RF</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">serial</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">conmutación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sistema de teléfono</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuito que templa</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_114525</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_114525</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:33:21.16Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>164968</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/114525.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
