@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73009</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73009</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>a20aea9f-b445-4a61-9e55-1f36a8e8b08a#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A Bohr-féle atommodell</string>
+            <string language="en">Bohr's atommodel</string>
+            <string language="x-mt-de">Atommodel Bohrs</string>
+            <string language="x-mt-fr">L'atommodel de Bohr</string>
+            <string language="x-mt-pt">Atommodel de Bohr</string>
+            <string language="x-mt-it">Atommodel del Bohr</string>
+            <string language="x-mt-el">Bohr atommodel</string>
+            <string language="x-mt-es">Atommodel de Bohr</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Interaktív játék a Bohr-féle atommodell felépülésére</string>
+            <string language="en">Bohr's atommodel</string>
+          </description>
+          <keyword>
+            <string language="hu">bohr, atommodell</string>
+            <string language="en">bohr, atom-modell</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Atommodel Bohrs</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'atommodel de Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Atommodel de Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Atommodel del Bohr</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Bohr atommodel</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Atommodel de Bohr</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">bohr, Atom-modell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bohr, atome-modell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bohr, átomo-modell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bohr, atomo-modell</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">bohr, άτομο -άτομο-μοδελλ</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bohr, a'tomo-modell</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73009</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=a20aea9f-b445-4a61-9e55-1f36a8e8b08a&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

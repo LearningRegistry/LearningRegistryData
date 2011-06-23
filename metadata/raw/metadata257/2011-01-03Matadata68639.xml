@@ -1,0 +1,204 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/207619</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>207619</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:1895</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:1895</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>1895</entry>
+          </identifier>
+          <title>
+            <string language="nl">Jetico personal firewall</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Deze (gratis) firewall geeft uw pc bescherming tegen aanvallen vanuit het internet. Een basiskennis van software is wel vereist.</string>
+          </description>
+          <keyword>
+            <string language="nl">Klascement</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>1</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">1.0</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:1895</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:1895</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T17:02:31.22Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <technical>
+          <format>application/octet-stream</format>
+        </technical>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>tool</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">0-U</string>
+          </typicalAgeRange>
+          <description>
+            <string language="nl">Dit gratis freeware programma kan je perfect integreren zowel thuis als op school. Het is een volwaardig firewall systeem. De software biedt gedetailleerde, configureerbare 'event logs', 'reports', alsook de optie om de firewall configuratie te bekijken en te wijzigen. De modulaire architectuur van het programma is zo open mogelijk gemaakt om het beveiligingssysteem eenvoudiger te kunnen evalueren en te verbeteren.
+
+Het programma laat je toe om:
+Je PC te beveiligen tegen hackers en kwaadaardige software wanneer je PC in een netwerk of op het Internet aangesloten is.
+Een vooropgesteld-definieerbaar beveiligingsbeleid in te stellen.
+Een beveiligingsbeleid te creëren.
+Over het netwerk lopende applicaties te beheren.
+Alle of geselecteerde netwerk pakketten en geselecteerde gebeurtenissen te beheren.
+
+Het programma biedt drie beschermingsniveaus aan:
+'Eenvoudig niveau'... Jetico Personal Firewall maakt je PC onzichtbaar voor een onbetrouwbaar netwerk. Door de 'Optimal Protection Policy' te selecteren, wordt je PC volledig beschermd tegen hackersaanvallen door deze onzichtbare modus.
+'Applicatie niveau'... Met deze optie is het eenvoudig om een bepaald programma de toegang tot het Internet te verlenen of te weigeren.
+'Gebruikersniveau'... Dit beveiligingsniveau informeert en voorkomt slinkse truukjes door trojaanse en andere kwaadaardige software.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>650</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>1895</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>1895</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/1895/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

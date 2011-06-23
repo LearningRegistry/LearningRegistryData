@@ -1,0 +1,171 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/228080</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>228080</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:5735</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:5735</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>5735</entry>
+          </identifier>
+          <title>
+            <string language="nl">Geloof in kinderen</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Op 11 juni organiseert de lerarenopleiding van de Katholieke Hogeschool Kempen op haar campus Vorselaar een studienamiddag getiteld 'geloof in kinderen?'.Tijdens deze studienamiddag zullen de belangrijkste resultaten van het PWO 'levensbeschouwelijke groei' voorgesteld worden. De uitgangsvragen van deze namiddag zijn:In welke mate staan kinderen en jongeren open voor geloof?Hoe is de relatie tussen geloof en maatschappelijke context?Is het geloof van kinderen en jongeren fundamenteel verschillend van het geloof van volwassenen? Zo ja, op welke manier?Verliezen kinderen hun geloof in de overgang van basis- naar secundair onderwijs of wordt hun geloof anders?Zijn er verbanden tussen de manier waarop de leraar gelooft en het geloof dat leerlingen ontwikkelen? En zo ja, welke?Het volledige programma en de sprekers zijn te bekijken op deze siteOp de site is ook een elektronische inschrijfmodule terug te vinden is.</string>
+          </description>
+          <keyword>
+            <string language="nl">geloven</string>
+          </keyword>
+          <keyword>
+            <string language="nl">religie</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <version>
+            <string language="nl">2008-05-27 15:27:15</string>
+          </version>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>initiator</value>
+            </role>
+            <date>
+              <dateTime>2008-05-28T13:19:22.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Katholieke Hogeschool Kempen
+FN:Katholieke Hogeschool Kempen 
+EMAIL;TYPE=INTERNET: 
+ORG: Katholieke Hogeschool Kempen
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:5735</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:5735</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T16:25:40.39Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">6-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="nl">no description</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1085</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>5735</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>5735</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/5735/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
