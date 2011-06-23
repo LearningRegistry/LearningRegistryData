@@ -1,0 +1,52 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "kr\u00f3lik domowy", 
+        " ssak", 
+        " krowa", 
+        " ciel\u0119", 
+        " pier\u015b", 
+        " w\u0142osy", 
+        " sta\u0142ocieplno\u015b\u0107", 
+        " \u015bwistak", 
+        " serce ssak\u00f3w", 
+        " kot", 
+        " p\u0142uca", 
+        "  przepona", 
+        " kresom\u00f3zgowie", 
+        " \u017cyworodno\u015b\u0107", 
+        " stekowce", 
+        " \u0142o\u017cysko", 
+        " p\u0142\u00f3d", 
+        " zarodek", 
+        " torbacze", 
+        " kangur", 
+        " lwica", 
+        " potomstwo", 
+        " Biologia", 
+        " Gimnazjum", 
+        " \u0106wiczenia interaktywne"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/22051</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>22051</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>scholaris</catalog>\r\n            <entry>scholaris16145</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"pl\">Co wyr\u00f3\u017cnia ssaki?</string>\r\n          </title>\r\n          <language>pl</language>\r\n          <keyword>\r\n            <string language=\"pl\">kr\u00f3lik domowy</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> ssak</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> krowa</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> ciel\u0119</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> pier\u015b</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> w\u0142osy</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> sta\u0142ocieplno\u015b\u0107</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> \u015bwistak</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> serce ssak\u00f3w</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> kot</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> p\u0142uca</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\">  przepona</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> kresom\u00f3zgowie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> \u017cyworodno\u015b\u0107</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> stekowce</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> \u0142o\u017cysko</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> p\u0142\u00f3d</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> zarodek</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> torbacze</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> kangur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> lwica</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> potomstwo</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Biologia</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Gimnazjum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> \u0106wiczenia interaktywne</string>\r\n          </keyword>\r\n        </general>\r\n        <educational>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>learner</value>\r\n          </intendedEndUserRole>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-LRE\">13-15</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licences/by-nc-nd/2.5</string>\r\n            <string language=\"en\">Attribution Non-commercial No Derivatives (by-nc-nd)</string>\r\n          </description>\r\n        </rights>\r\n        <metaMetadata>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nfn:\r\nn:\r\norg:Scholaris\r\nversion:3.0\r\nend:vcard</entity>\r\n          </contribute>\r\n          <language>pl</language>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>22051</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.scholaris.pl/cms/index.php/resources/ekran_co_wyr\u00f3\u017cnia_ssaki.html</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.scholaris.pl/cms/index.php/resources/ekran_co_wyr\u00f3\u017cnia_ssaki.html"
+}
