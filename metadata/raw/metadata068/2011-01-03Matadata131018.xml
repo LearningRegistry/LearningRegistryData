@@ -1,0 +1,276 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/97600</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>97600</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Hegynek guruló kettőskúp</string>
+            <string language="en-US">Double Cone Rolling Uphill</string>
+            <string language="x-mt-de">Doppeltes Kegel-Rollen Aufwärts</string>
+            <string language="x-mt-fr">Double Roulement de Cône Vers le haut</string>
+            <string language="x-mt-pt">Rolling Dobro Do Cone Uphill</string>
+            <string language="x-mt-it">Doppio Rolling Del Cono In salita</string>
+            <string language="x-mt-el">Διπλός κώνος που κυλά ανηφορικά</string>
+            <string language="x-mt-es">Balanceo Doble Del Cono Cuesta arriba</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Hegynek guruló kettőskúp feldolgozása</string>
+            <string language="en-US">Processing Double Cone Rolling Uphill</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">fizika</string>
+            <string language="en-US">physics</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Doppeltes Kegel-Rollen Aufwärts Verarbeiten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Traitant Le Double Roulement de Cône Vers le haut</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Processando O Rolling Dobro Do Cone Uphill</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Elaborando Doppio Rolling Del Cono In salita</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Επεξεργαμένος το διπλό κώνο που κυλά ανηφορικά</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Procesando El Balanceo Doble Del Cono Cuesta 
+arriba</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:52:43.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:52:43.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:40:15.24Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>ee1d2ba7-6678-472c-a798-1d4af03f2edf</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>785a592d-1778-4129-add2-34a4af3b01db</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>fe73062a-b09b-4d43-b33d-fee563380181</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e583fbb7-0cec-47bf-bbd4-22d317a28d90</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>01f4f4f8-ee17-4ffb-959d-8a10050d5fca</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>b87445d2-97d0-4361-84ad-3a8b79db6c36</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1045dcde-766f-4159-b4f5-88fd6bdd93d1</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en-US">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/2f/8d/2f8d3bfa-6b61-4c67-b7c6-0ceb033d2403_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

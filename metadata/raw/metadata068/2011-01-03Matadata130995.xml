@@ -1,0 +1,292 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/97644</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>97644</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>e0704515-666b-7010-0022-6b726f6e696b</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:e0704515-666b-7010-0022-6b726f6e696b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>e0704515-666b-7010-0022-6b726f6e696b</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Kölcsey Ferenc: Himnusz</string>
+            <string language="en-US">Ferenc Kölcsey: Hymnusz</string>
+            <string language="x-mt-de">Ferenc Kölcsey: Hymnusz</string>
+            <string language="x-mt-fr">Ferenc Kölcsey : Hymnusz</string>
+            <string language="x-mt-pt">Ferenc Kölcsey: Hymnusz</string>
+            <string language="x-mt-it">Ferenc Kölcsey: Hymnusz</string>
+            <string language="x-mt-el">Θ*Φερενθ Kφlcsey: Hymnusz</string>
+            <string language="x-mt-es">Ferenc Kölcsey: Hymnusz</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Teljes szöveg, műelemzés, tájékoztató, életrajz, életmű</string>
+            <string language="en-US">Full Text, Interpretation of the Work, Information, Biography, Works</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">foglalkozás</string>
+            <string language="en-US">profession</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">Kölcsey-Himnusz</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Ganztext, arbeitet Deutung der Arbeit, 
+Informationen, Biographie,</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">À texte intégral, la traduction du travail, 
+l'information, biographie, fonctionne</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O texto cheio, interpretação do trabalho, 
+informação, biografia, trabalha</string>
+          </description>
+          <description>
+            <string language="x-mt-it">A testo integrale, l'interpretazione del lavoro, 
+le informazioni, biografia, funziona</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πλήρες κείμενο, ερμηνεία της εργασίας, πληροφορίες, 
+βιογραφία, εργασίες</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El texto completo, interpretación del trabajo, 
+información, biografía, trabaja</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Beruf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">profession</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">profissão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">professione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">επάγγελμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">profesión</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:23.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:e0704515-666b-7010-0022-6b726f6e696b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>e0704515-666b-7010-0022-6b726f6e696b</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:23.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:10:49.79Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704501-6c70-8010-0143-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704502-6c70-8010-0144-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704601-6c70-8010-0146-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704602-6c70-8010-0147-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704701-6c70-8010-0148-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704703-6c70-8010-0150-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>e0704704-6c70-8010-0151-6b726f6e696b</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>1639725d-3c67-40e0-b6a9-a52dab8b904f</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2fbac046-426c-4339-86cc-62d9e5ccd9ab</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>758</id>
+              <entry>
+                <string language="en-US">literature</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>e0704515-666b-7010-0022-6b726f6e696b-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>e0704515-666b-7010-0022-6b726f6e696b-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e0704515-666b-7010-0022-6b726f6e696b</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>e0704515-666b-7010-0022-6b726f6e696b-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>e0704515-666b-7010-0022-6b726f6e696b-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/e0/70/e0704515-666b-7010-0022-6b726f6e696b_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
