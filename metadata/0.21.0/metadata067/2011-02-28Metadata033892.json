@@ -1,0 +1,43 @@
+﻿{
+    "TOS": {
+        "submission_TOS": "http://www.learningregistry.org/tos/cc0/v0-5/"
+    }, 
+    "active": true, 
+    "doc_type": "resource_data", 
+    "doc_version": "0.21.0", 
+    "identity": {
+        "curator": "European School Net", 
+        "owner": "European School Net", 
+        "submitter": "Learning Registry", 
+        "submitter_type": "agent"
+    }, 
+    "keys": [
+        "EUN", 
+        "LOM", 
+        "lr-test-data", 
+        "Ludwik Pasteur", 
+        " Robert Koch", 
+        " mikrobiologia", 
+        " \u015bwieca", 
+        " ch\u0142opiec", 
+        " szczepienie", 
+        " p\u0142ytka petriego", 
+        " pod\u0142o\u017ce", 
+        " autoklaw", 
+        " pr\u0105tki gru\u017alicy", 
+        " przecinkowiec cholery", 
+        " sterylizacja", 
+        " mikrobiologia", 
+        " Biologia", 
+        " Gimnazjum", 
+        " Filmy wideo | animacje"
+    ], 
+    "payload_placement": "inline", 
+    "payload_schema": [
+        "LODE", 
+        "LOM"
+    ], 
+    "resource_data": "<expression xsi:schemaLocation=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd\" xmlns=\"http://www.imsglobal.org/xsd/imslorsltitm_v1p0\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">\r\n  <identifier>\r\n    <catalog>hdl</catalog>\r\n    <entry>10494/22375</entry>\r\n  </identifier>\r\n  <identifier>\r\n    <catalog>expression-cmr-id</catalog>\r\n    <entry>22375</entry>\r\n  </identifier>\r\n  <description>\r\n    <facet>\r\n      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>\r\n      <value>main</value>\r\n    </facet>\r\n    <metadata>\r\n      <schema>http://ltsc.ieee.org/xsd/LOM</schema>\r\n      <lom xsi:schemaLocation=\"http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd\" xmlns=\"http://ltsc.ieee.org/xsd/LOM\">\r\n        <general>\r\n          <identifier>\r\n            <catalog>scholaris</catalog>\r\n            <entry>scholaris33868</entry>\r\n          </identifier>\r\n          <title>\r\n            <string language=\"pl\">Ludwik Pasteur i Robert Koch \u2013 tw\u00f3rcy mikrobiologii</string>\r\n          </title>\r\n          <language>pl</language>\r\n          <keyword>\r\n            <string language=\"pl\">Ludwik Pasteur</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Robert Koch</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> mikrobiologia</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> \u015bwieca</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> ch\u0142opiec</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> szczepienie</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> p\u0142ytka petriego</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> pod\u0142o\u017ce</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> autoklaw</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> pr\u0105tki gru\u017alicy</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> przecinkowiec cholery</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> sterylizacja</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> mikrobiologia</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Biologia</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Gimnazjum</string>\r\n          </keyword>\r\n          <keyword>\r\n            <string language=\"pl\"> Filmy wideo | animacje</string>\r\n          </keyword>\r\n        </general>\r\n        <educational>\r\n          <intendedEndUserRole>\r\n            <source>LRE.intendedEndUserRoleValues</source>\r\n            <value>learner</value>\r\n          </intendedEndUserRole>\r\n          <typicalAgeRange>\r\n            <string language=\"x-t-LRE\">13-15</string>\r\n          </typicalAgeRange>\r\n        </educational>\r\n        <rights>\r\n          <cost>\r\n            <source>costValues</source>\r\n            <value>no</value>\r\n          </cost>\r\n          <copyrightAndOtherRestrictions>\r\n            <source>copyrightAndOtherRestrictionsValues</source>\r\n            <value>yes</value>\r\n          </copyrightAndOtherRestrictions>\r\n          <description>\r\n            <string language=\"x-t-cc-url\">http://creativecommons.org/licences/by-nc-nd/2.5</string>\r\n            <string language=\"en\">Attribution Non-commercial No Derivatives (by-nc-nd)</string>\r\n          </description>\r\n        </rights>\r\n        <metaMetadata>\r\n          <contribute>\r\n            <role>\r\n              <source>LRE.roleMetaValues</source>\r\n              <value>provider</value>\r\n            </role>\r\n            <entity>begin:vcard\r\nfn:\r\nn:\r\norg:Scholaris\r\nversion:3.0\r\nend:vcard</entity>\r\n          </contribute>\r\n          <language>pl</language>\r\n        </metaMetadata>\r\n      </lom>\r\n    </metadata>\r\n  </description>\r\n  <manifestation>\r\n    <identifier>\r\n      <catalog>manifestation-cmr-id</catalog>\r\n      <entry>22375</entry>\r\n    </identifier>\r\n    <name>\r\n      <vocabularyID>LRE.manifestationNameValues</vocabularyID>\r\n      <value>experience</value>\r\n    </name>\r\n    <item>\r\n      <location>\r\n        <uri>http://www.scholaris.pl/cms/index.php/resources/animacja_ludwik_pasteur_i_robert_koch_tw\u00f3rcy_mikrobiologii.html</uri>\r\n      </location>\r\n    </item>\r\n  </manifestation>\r\n</expression>\r\n", 
+    "resource_data_type": "metadata", 
+    "resource_locator": "http://www.scholaris.pl/cms/index.php/resources/animacja_ludwik_pasteur_i_robert_koch_tw\u00f3rcy_mikrobiologii.html"
+}
