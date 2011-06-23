@@ -1,0 +1,166 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76485</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76485</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>63eb5e1c-3434-4767-af8c-5ec805cdf94f#1#6</entry>
+          </identifier>
+          <title>
+            <string language="hu">Dalok ünnepeinkre</string>
+            <string language="en">Songs for our holidays</string>
+            <string language="x-mt-de">Liede für unsere Feiertage</string>
+            <string language="x-mt-fr">Chansons pendant nos vacances</string>
+            <string language="x-mt-pt">Canções por nossos feriados</string>
+            <string language="x-mt-it">Canzoni per le nostre feste</string>
+            <string language="x-mt-el">Τραγούδια για τις διακοπές μας</string>
+            <string language="x-mt-es">Canciones por nuestros días de fiesta</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Dalok ünnepeinkre - ünnepi dalaink</string>
+            <string language="en">Songs for our holidays - our festive songs</string>
+          </description>
+          <keyword>
+            <string language="hu">ünnep, dal</string>
+            <string language="en">festival, song</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Liede für unsere Feiertage - unsere festlichen 
+Liede</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Chansons pendant nos vacances - nos chansons de 
+fête</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Canções por nossos feriados - nossas canções 
+festive</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Canzoni per le nostre feste - le nostre canzoni 
+festive</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τραγούδια για τις διακοπές μας - τα εορταστικά 
+τραγούδια μας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Canciones por nuestros días de fiesta - nuestras
+canciones festivas</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Festival, Lied</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">festival, chanson</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">festival, canção</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">festival, canzone</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φεστιβάλ, τραγούδι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">festival, canción</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">12-14</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76485</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=63eb5e1c-3434-4767-af8c-5ec805cdf94f&amp;v=1&amp;b=6</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

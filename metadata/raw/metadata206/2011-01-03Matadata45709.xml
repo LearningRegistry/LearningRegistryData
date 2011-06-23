@@ -1,0 +1,134 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105295</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105295</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210000</entry>
+          </identifier>
+          <title>
+            <string language="en">Four Tones</string>
+            <string language="x-mt-de">Vier Töne</string>
+            <string language="x-mt-fr">Quatre Tonalités</string>
+            <string language="x-mt-pt">Quatro Tons</string>
+            <string language="x-mt-it">Quattro Toni</string>
+            <string language="x-mt-el">Τέσσερις τόνοι</string>
+            <string language="x-mt-es">Cuatro Tonos</string>
+          </title>
+          <description>
+            <string language="en">This is an interactive display that allow exploration of four key tones in Chinese language</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Dieses ist eine interaktive Bildschirmanzeige, das
+Erforschung von vier Schlüsseltönen in der chinesischen Sprache 
+erlauben</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">C'est un affichage interactif qui permettent 
+l'exploration de quatre tonalités principales en langue chinoise</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este é um indicador interativo que permite uma 
+exploração de quatro tons chaves na língua chinesa</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Ciò è una visualizzazione interattiva che 
+permette un'esplorazione di quattro toni chiave in linguaggio 
+cinese</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτό είναι μια διαλογική παρουσίαση που επιτρέπει την
+εξερεύνηση τεσσάρων βασικών τόνων στην κινεζική γλώσσα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esto es una visualización interactiva que permite
+la exploración de cuatro tonos dominantes en lenguaje chino</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DR. DANIEL CHURCHILL
+FN:DR. DANIEL CHURCHILL
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770210000</entry>
+          </identifier>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="en">Custom License</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105295</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/four-tones</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

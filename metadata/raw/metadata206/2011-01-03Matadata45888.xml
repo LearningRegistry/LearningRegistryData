@@ -1,0 +1,151 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/106023</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>106023</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208230</entry>
+          </identifier>
+          <title>
+            <string language="en">Standing Waves and Wind Instruments</string>
+            <string language="x-mt-de">Stehende Wellen und Wind-Instrumente</string>
+            <string language="x-mt-fr">Vagues et instruments de vent se tenants</string>
+            <string language="x-mt-pt">Ondas e instrumentos de vento estando</string>
+            <string language="x-mt-it">Onde e strumenti di vento levantesi in piedi</string>
+            <string language="x-mt-el">Μόνιμα κύματα και όργανα αέρα</string>
+            <string language="x-mt-es">Ondas e instrumentoes de viento que están 
+parados</string>
+          </title>
+          <description>
+            <string language="en">The musical sounds of aerophones (woodwinds and brass) are created by standing waves in the air inside the instruments.</string>
+          </description>
+          <keyword>
+            <string language="en">Arts</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Die musikalischen Töne von aerophones 
+(Holzblasinstrumente und Messing) werden erstellt, indem man Wellen in der 
+Luft innerhalb der Instrumente steht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les bruits musicaux des aerophones (les woodwinds 
+et le laiton) sont créés au stand des vagues dans le ciel à 
+l'intérieur des instruments.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os sons musicais dos aerophones (woodwinds e 
+bronze) são criados estando ondas no ar dentro dos instrumentos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">I suoni musicali dei aerophones (woodwinds ed 
+ottone) sono creati levandosi in piedi le onde nell'aria all'interno 
+degli strumenti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι μουσικοί ήχοι των aerophones (woodwinds και 
+ορείχαλκος) δημιουργούνται από τα μόνιμα κύματα στον αέρα μέσα 
+στα όργανα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los sonidos musicales de aerophones (los woodwinds
+y latón) son creados estando paradas ondas en el aire dentro de los 
+instrumentos.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Künste</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Arts</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Artes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Arti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Τέχνες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Artes</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:CATHERINE SCHMIDT-JONES
+FN:CATHERINE SCHMIDT-JONES
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770208230</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 1.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>106023</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/standing-waves-and-wind-instruments</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

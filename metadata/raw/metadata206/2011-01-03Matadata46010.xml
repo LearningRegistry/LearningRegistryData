@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104798</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104798</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085843</entry>
+          </identifier>
+          <title>
+            <string language="en">Learning from new teachers</string>
+            <string language="x-mt-de">Lernen von den neuen Lehrern</string>
+            <string language="x-mt-fr">Étude de nouveaux professeurs</string>
+            <string language="x-mt-pt">Aprendizagem dos professores novos</string>
+            <string language="x-mt-it">Imparando dai nuovi insegnanti</string>
+            <string language="x-mt-el">Εκμάθηση από τους νέους δασκάλους</string>
+            <string language="x-mt-es">El aprender de nuevos profesores</string>
+          </title>
+          <description>
+            <string language="en">Mentors can share in the hope and enthusiasm of new teachers.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Mentoren können in der Hoffnung und in der 
+Begeisterung der neuen Lehrer teilen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les mentorats peuvent partager dans l'espoir et 
+l'enthousiasme de nouveaux professeurs.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os mentors podem compartilhar na esperança e no 
+entusiasmo de professores novos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">I mentors possono ripartirsi nella speranza e 
+nell'entusiasmo di nuovi insegnanti.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σύμβουλοι μπορούν να μοιραστούν με την ελπίδα και 
+τον ενθουσιασμό των νέων δασκάλων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los mentores pueden compartir en la esperanza y el
+entusiasmo de nuevos profesores.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:JOY JENKINS
+FN:JOY JENKINS
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1765085843</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104798</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/learning-from-new-teachers</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

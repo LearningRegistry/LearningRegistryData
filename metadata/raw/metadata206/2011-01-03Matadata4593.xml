@@ -1,0 +1,146 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/52536841</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>52536841</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>aeeb2f68-11d1-49c7-8f41-e277cd3f33b3#1#5</entry>
+          </identifier>
+          <title>
+            <string language="hu">A reneszánsz vokális zene</string>
+            <string language="en">The Renaissance vocal music</string>
+            <string language="x-mt-de">Die vocal Musik der Renaissance</string>
+            <string language="x-mt-fr">La musique vocale de la Renaissance</string>
+            <string language="x-mt-pt">A música vocal do renascimento</string>
+            <string language="x-mt-it">La musica vocale di rinascita</string>
+            <string language="x-mt-el">Η φωνητική μουσική αναγέννησης</string>
+            <string language="x-mt-es">La música vocal del renacimiento</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">9-10. reneszánsz, vokális</string>
+            <string language="en">p. 9-10 Renaissance, vocal</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, reneszánsz, vokális</string>
+            <string language="en">music, Renaissance, vocal</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">P., 9-10 Renaissance, vocal</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">p. la Renaissance de 9-10, vocale</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">p. renascimento de 9-10, vocal</string>
+          </description>
+          <description>
+            <string language="x-mt-it">p. rinascita di 9-10, vocale</string>
+          </description>
+          <description>
+            <string language="x-mt-el">σελ. αναγέννηση 9-10, φωνητική</string>
+          </description>
+          <description>
+            <string language="x-mt-es">p. renacimiento de 9-10, vocal</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, Renaissance, vocal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, la Renaissance, vocale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, renascimento, vocal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, rinascita, vocale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, αναγέννηση, φωνητική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, renacimiento, vocal</string>
+          </keyword>
+        </general>
+        <educational>
+          <typicalAgeRange>
+            <string language="x-T-LRE">14-15</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>52536841</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=aeeb2f68-11d1-49c7-8f41-e277cd3f33b3&amp;v=1&amp;b=5</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
