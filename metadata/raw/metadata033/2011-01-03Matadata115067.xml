@@ -1,0 +1,688 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/161116</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>161116</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:cahi1:data_111292</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>cahi1:data_111292</entry>
+          </identifier>
+          <title>
+            <string language="en">One-step growth curve for a bacteriophage virus</string>
+            <string language="x-mt-de">Einwachstumkurve für ein Bakteriophagevirus</string>
+            <string language="x-mt-fr">Courbe en une étape de croissance pour un virus 
+de bactériophage</string>
+            <string language="x-mt-pt">Curva de uma etapa do crescimento para um vírus 
+do bacteriófago</string>
+            <string language="x-mt-it">Curva di uno stadio di sviluppo per un virus del 
+batteriofago</string>
+            <string language="x-mt-el">One-step καμπύλη αύξησης για έναν ιό 
+βακτηριοφάγων</string>
+            <string language="x-mt-es">Curva de un solo paso del crecimiento para un 
+virus del bacteriófago</string>
+          </title>
+          <description>
+            <string language="en">This line graph shows the growth curve of a bacteriophage virus.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">adhesion</string>
+          </keyword>
+          <keyword>
+            <string language="en">bacteria</string>
+          </keyword>
+          <keyword>
+            <string language="en">bacteriopgae virus</string>
+          </keyword>
+          <keyword>
+            <string language="en">bacteriophages</string>
+          </keyword>
+          <keyword>
+            <string language="en">broth culture</string>
+          </keyword>
+          <keyword>
+            <string language="en">burst period</string>
+          </keyword>
+          <keyword>
+            <string language="en">burst size</string>
+          </keyword>
+          <keyword>
+            <string language="en">cell culture</string>
+          </keyword>
+          <keyword>
+            <string language="en">Cells</string>
+          </keyword>
+          <keyword>
+            <string language="en">growth</string>
+          </keyword>
+          <keyword>
+            <string language="en">growth curve</string>
+          </keyword>
+          <keyword>
+            <string language="en">growth rate</string>
+          </keyword>
+          <keyword>
+            <string language="en">latent phase</string>
+          </keyword>
+          <keyword>
+            <string language="en">lysis</string>
+          </keyword>
+          <keyword>
+            <string language="en">lytic cycle</string>
+          </keyword>
+          <keyword>
+            <string language="en">microbiology</string>
+          </keyword>
+          <keyword>
+            <string language="en">microorganisms</string>
+          </keyword>
+          <keyword>
+            <string language="en">minutes</string>
+          </keyword>
+          <keyword>
+            <string language="en">one-step curve</string>
+          </keyword>
+          <keyword>
+            <string language="en">plaque</string>
+          </keyword>
+          <keyword>
+            <string language="en">plaque count</string>
+          </keyword>
+          <keyword>
+            <string language="en">replication</string>
+          </keyword>
+          <keyword>
+            <string language="en">Time</string>
+          </keyword>
+          <keyword>
+            <string language="en">viruses</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Diese Zeile Diagramm zeigt die Wachstumkurve eines
+Bakteriophagevirus.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphe par ligne montre la courbe de 
+croissance d'un virus de bactériophage.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Esta linha gráfico mostra a curva do crescimento 
+de um vírus do bacteriófago.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico lineare mostra la curva di sviluppo
+di un virus del batteriofago.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση γραμμών εμφανίζει καμπύλη 
+αύξησης ενός ιού βακτηριοφάγων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Esta línea gráfico muestra la curva del 
+crecimiento de un virus del bacteriófago.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Adhäsion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bakterium</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">bacteriopgae Virus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bakteriophagen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Suppekultur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Impulsperiode</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Impulsgröße</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zellkultur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zellen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wachstum</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wachstumkurve</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wachstumsrate</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">latente Phase</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Lysis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">lytische Schleife</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mikrobiologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Mikroorganismen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Minuten</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Einkurve</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Plakette</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Plakette Zählimpuls</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Reproduktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Zeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Viren</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">adhérence</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bactéries</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">virus de bacteriopgae</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bactériophages</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">culture de bouillon</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">période d'éclat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">taille d'éclat</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">culture de cellules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Cellules</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">croissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">courbe de croissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cadence de croissance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">phase latente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">lysis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">cycle lytique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">microbiologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">micro-organismes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">minutes</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">courbe en une étape</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">plaque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte de plaque</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">réplique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Temps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">virus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">adesão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bactérias</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vírus dos bacteriopgae</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bacteriófagos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cultura do caldo de carne</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">período do estouro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">tamanho do estouro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cultura de pilha</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pilhas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">crescimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">curva do crescimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">taxa de crescimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">fase latente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">lysis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ciclo lytic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">microbiology</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">microorganisms</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">minutos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">curva de uma etapa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">chapa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">contagem da chapa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">replication</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">vírus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">adesione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">batteri</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">virus di bacteriopgae</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">batteriofagi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">coltura del brodo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">periodo di burst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">formato di burst</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">coltura delle cellule</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Cellule</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sviluppo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">curva di sviluppo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">tasso di accrescimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fase latente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">lysis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ciclo litico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">microbiologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">microorganismi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">resoconto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">curva di uno stadio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">piastra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">conteggio della piastra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">replica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">virus</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">προσκόλληση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βακτηρίδια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιός bacteriopgae</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βακτηριοφάγοι</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πολιτισμός ζωμού</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περίοδος έκρηξης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέγεθος έκρηξης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κυτταροκαλλιέργεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Κύτταρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αύξηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καμπύλη αύξησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ποσοστό αύξησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λανθάνουσα φάση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λύση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λυτηκός κύκλος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μικροβιολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μικροοργανισμοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λεπτά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">one-step καμπύλη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πινακίδα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αρίθμηση πινακίδων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αντένσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Χρόνος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ιοί</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">adherencia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bacterias</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">virus de los bacteriopgae</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">bacteriófagos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cultura del caldo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">período de la explosión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">talla de la explosión</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cultura de célula</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Células</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">crecimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">curva del crecimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">tarifa de crecimiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">fase latente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lysis</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">ciclo lytic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">microbiología</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">microorganismos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">minutos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">curva de un solo paso</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">placa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta de la placa</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">réplica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Tiempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">virus</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.cup.cam.ac.uk:metadata_111292</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_111292</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-09T19:37:12.52Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+			    &lt;Work rdf:about=""&gt;
+			    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+			    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+			    &lt;/Work&gt;
+			    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+			    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+			    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+			    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+			    &lt;/License&gt;
+			    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>161116</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.cup.cam.ac.uk/DataServlet/111292.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
