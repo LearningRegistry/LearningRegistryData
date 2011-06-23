@@ -1,0 +1,320 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/69751</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>69751</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:fizleti/120526</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120526</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120526</entry>
+          </identifier>
+          <title>
+            <string language="sl">Poišči neznani  naboj</string>
+            <string language="en">Find the unknown charge</string>
+            <string language="x-mt-de">Finden Sie die unbekannte Ladung</string>
+            <string language="x-mt-fr">Trouvez la charge inconnue</string>
+            <string language="x-mt-pt">Encontre a carga desconhecida</string>
+            <string language="x-mt-it">Trovi la carica sconosciuta</string>
+            <string language="x-mt-el">Βρείτε την άγνωστη δαπάνη</string>
+            <string language="x-mt-es">Encuentre la carga desconocida</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Okoli fiksnega nabitega delca premikamo nabit delec in merimo silo.</string>
+            <string language="en">A charged particle in moved around fixed point charge while measuring resulting force.</string>
+          </description>
+          <keyword>
+            <string language="sl">fizlet</string>
+            <string language="en">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="sl">električno polje</string>
+            <string language="en">electric field</string>
+          </keyword>
+          <keyword>
+            <string language="sl">električni naboj</string>
+            <string language="en">electric charge</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Ein belasteter Partikel bewog innen um 
+Fixpunktladung beim Messen der resultierenden Kraft.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Une particule chargée s'est dedans déplacée 
+autour de la charge de point fixe tout en mesurant la force 
+résultante.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Uma partícula carregada moveu-se dentro em torno
+da carga do ponto fixo ao medir a força resultante.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Una particella caricata dentro si è mossa 
+intorno alla carica del punto fisso mentre misurava la forza 
+risultante.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα χρεωμένο μόριο κινημένος γύρω από τη σταθερή 
+δαπάνη σημείου μετρώντας την προκύπτουσα δύναμη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Una partícula cargada adentro se movió 
+alrededor de carga de la punta fija mientras que medía la fuerza que 
+resultaba.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrisch fangen Sie auf</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektrische Ladung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">champ électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">charge électrique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">campo elétrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">carga elétrica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">campo elettrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">carica elettrica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρικό πεδίο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρική δαπάνη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">physlet</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">campo eléctrico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">carga eléctrica</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mario Belloni
+N:Belloni;Mario;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Wolfgang Christian
+N:Christian;Wolfgang;;;
+ORG:Davidson College
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-01-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>unknown</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Saša Divjak
+N:Divjak;Saša;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:fizleti/120526</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:fizleti/120526</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:Univerza v Ljubljani
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-05T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-05-23T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:06:47.77Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.sl</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>414</id>
+              <entry>
+                <string language="sl">elektromagnetizem</string>
+                <string language="en">electromagnetism</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:fizleti/120526</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:fizleti/120526:item</entry>
+      </identifier>
+      <location>
+        <uri>http://colos1.fri.uni-lj.si/fizleti/FIZLETI_FIZIKA/contents/electromagnetism/e_fields/prob23_1.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

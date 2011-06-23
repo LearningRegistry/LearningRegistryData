@@ -1,0 +1,343 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/71564</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>71564</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-UL-id</catalog>
+    <entry>trubar1:uciteljska/111916</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/111916</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/111916</entry>
+          </identifier>
+          <title>
+            <string language="sl">Kdo je kdo?</string>
+            <string language="en">Who is who?</string>
+            <string language="x-mt-de">Wer ist, wer?</string>
+            <string language="x-mt-fr">Qui est qui ?</string>
+            <string language="x-mt-pt">Quem é quem?</string>
+            <string language="x-mt-it">Chi è chi?</string>
+            <string language="x-mt-el">Ποιος είναι ποιοι;</string>
+            <string language="x-mt-es">¿Quién es quién?</string>
+          </title>
+          <language>sl</language>
+          <description>
+            <string language="sl">Preberi posamezne opise in jih primerjaj s sličicami. Potem določi, kdo je kdo.
+Izvirna datoteka (dva kviza, lahko sta povezana. lahko samostojna) Hot Potatoes, primerna za prilagajanje po svojih potrebah.</string>
+            <string language="en">Read the given description of a person and compare it with the given pictures. (Hot Potatoes source code is included).</string>
+          </description>
+          <keyword>
+            <string language="sl">slika</string>
+            <string language="en">image</string>
+          </keyword>
+          <keyword>
+            <string language="sl">opis</string>
+            <string language="en">description</string>
+          </keyword>
+          <keyword>
+            <string language="sl">sklepanje</string>
+            <string language="en">reasoning</string>
+          </keyword>
+          <keyword>
+            <string language="sl">opazovanje</string>
+            <string language="en">observation</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Lesen Sie die gegebene Beschreibung einer Person und 
+vergleichen Sie sie mit den gegebenen Abbildungen. (heißes 
+Kartoffelquellenprogramm ist enthalten).</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Lisez la description donnée d'une personne et 
+comparez-l'aux images données. (le code source chaud de pommes 
+de terre est inclus).</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Leia a descrição dada de uma pessoa e compare-a com os 
+retratos dados. (o código de fonte quente das batatas é 
+incluído).</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Legga la data descrizione di una persona e paragonila alle
+date immagini. (il codice sorgente caldo delle patate è 
+incluso).</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Διαβάστε τη δεδομένη περιγραφή ενός προσώπου και την 
+συγκρίνετε με τις δεδομένες εικόνες. (Ο καυτός κώδικας 
+πηγής πατατών συμπεριλαμβάνεται).</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Lea la descripción dada de una persona y compárela con 
+los cuadros dados. (el código de fuente caliente de las patatas
+es incluido).</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Bild</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beschreibung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Argumentation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beobachtung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">image</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">description</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">raisonnement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">observation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">imagem</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">descrição</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">raciocínio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">observação</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">immagine</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">descrizione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ragionamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">osservazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">εικόνα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιγραφή</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">συλλογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">παρατήρηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">imagen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">descripción</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">razonamiento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">observación</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Nataša Holy
+N:Holy;Nataša;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-12T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:atlas.fri.uni-lj.si:trubar1:uciteljska/111916</entry>
+          </identifier>
+          <identifier>
+            <catalog>lre</catalog>
+            <entry>trubar1:uciteljska/111916</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Nataša Holy
+N:Holy;Nataša;;;
+ORG:Učiteljska.net
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-12T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-05-23T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Jernej Južna
+N:Južna;Jernej;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-09-19T12:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN::OAI Atlas UL FRI
+N:OAI Atlas UL FRI;;;;
+ORG:UL FRI
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-10-12T10:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <language>sl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:University of Ljubljana
+N:University of Ljubljana
+ORG:University of Ljubljana
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-27T00:53:05.97Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>educational game</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/si/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1277</id>
+              <entry>
+                <string language="sl">poučevanje</string>
+                <string language="en">teaching</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-UL-id</catalog>
+      <entry>trubar1:uciteljska/111916</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-zip-compressed</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>item-UL-id</catalog>
+        <entry>trubar1:uciteljska/111916:item</entry>
+      </identifier>
+      <location>
+        <uri>http://www.uciteljska.net/ucit_dl.php?id=1916&amp;n=0</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,149 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/73736</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>73736</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>edc34b88-9339-4031-aaac-a0c9d3768731#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">A kettős kötés térigénye</string>
+            <string language="en">The demand for space of the double bond</string>
+            <string language="x-mt-de">Die Nachfrage nach Platz der Doppelbindung</string>
+            <string language="x-mt-fr">La demande de l'espace de la double obligation</string>
+            <string language="x-mt-pt">A demanda para o espaço da ligação dobro</string>
+            <string language="x-mt-it">La richiesta di spazio del legame doppio</string>
+            <string language="x-mt-el">Η απαίτηση για το διάστημα του διπλού δεσμού</string>
+            <string language="x-mt-es">La demanda para el espacio del enlace doble</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">A kettős kötéseknek nagyobb a térigényük</string>
+            <string language="en">The demand for space of the double bonds are larger</string>
+          </description>
+          <keyword>
+            <string language="hu">kettős kötés</string>
+            <string language="en">double bond</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Nachfrage nach Platz der Doppelbindungen sind 
+größer</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La demande de l'espace des doubles obligations 
+sont plus grande</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">A demanda para o espaço das ligações dobro é 
+maior</string>
+          </description>
+          <description>
+            <string language="x-mt-it">La richiesta di spazio dei legami doppi è più 
+grande</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η ζήτηση για το διάστημα των διπλών δεσμών είναι 
+μεγαλύτερη</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La demanda para el espacio de los enlaces dobles 
+es más grande</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Doppelbindung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">double obligation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ligação dobro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">legame doppio</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">διπλός δεσμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">enlace doble</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>73736</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=edc34b88-9339-4031-aaac-a0c9d3768731&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
