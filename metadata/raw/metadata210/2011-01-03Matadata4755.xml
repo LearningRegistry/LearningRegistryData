@@ -1,0 +1,158 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/74659</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>74659</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>0d1e563c-6b61-449a-9885-7f9d13aec7da#1#2</entry>
+          </identifier>
+          <title>
+            <string language="hu">Dvorak képe</string>
+            <string language="en">The picture of Dvorak</string>
+            <string language="x-mt-de">Die Abbildung von Dvorak</string>
+            <string language="x-mt-fr">L'image de Dvorak</string>
+            <string language="x-mt-pt">O retrato de Dvorak</string>
+            <string language="x-mt-it">L'immagine di Dvorak</string>
+            <string language="x-mt-el">Η εικόνα Dvorak</string>
+            <string language="x-mt-es">El cuadro de Dvorak</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Cseh romantikus zeneszerző képe</string>
+            <string language="en">The picture of a Czech Romanticist composer</string>
+          </description>
+          <keyword>
+            <string language="hu">Amerika,  Újvilág szimfónia,  </string>
+            <string language="en">America, New World symphony</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Die Abbildung eines tschechischen Romanticist 
+Komponisten</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'image d'un compositeur tchèque de Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O retrato de um compositor czech de Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-it">L'immagine di un compositore ceco di Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η εικόνα ενός τσεχικού συνθέτη Romanticist</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El cuadro de un compositor checo de Romanticist</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Amerika, neue Weltsymphonie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">l'Amérique, nouveau symphonie du monde</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">América, symphony novo do mundo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">L'America, nuovo symphony del mondo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αμερική, νέα παγκόσμια συμφωνία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">América, nueva sinfonía del mundo</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>74659</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=0d1e563c-6b61-449a-9885-7f9d13aec7da&amp;v=1&amp;b=2</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/105118</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>105118</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101364</entry>
+          </identifier>
+          <title>
+            <string language="en">How it's Made: Snowboards</string>
+            <string language="x-mt-de">Wie sie gebildet wird: Snowboards</string>
+            <string language="x-mt-fr">Comment il est fait : Snowboards</string>
+            <string language="x-mt-pt">Como é feito: Snowboards</string>
+            <string language="x-mt-it">Come è fatto: Snowboards</string>
+            <string language="x-mt-el">Πώς γίνεται: Snowboards</string>
+            <string language="x-mt-es">Cómo se hace: Snowboards</string>
+          </title>
+          <description>
+            <string language="en">The making of a snowboard, from a piece of wood to the high-performance final product.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Das Bilden eines snowboard, von einem Stück Holz 
+zum leistungsstarken abschließenden Produkt.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">La fabrication d'un snowboard, à partir d'un 
+morceau de bois au produit final à rendement élevé.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Fazer de um snowboard, de uma parte de madeira ao 
+produto final high-performance.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Fare di uno snowboard, da una parte di legno al 
+prodotto finale ad alto rendimento.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Η παραγωγή ενός snowboard, από ένα κομμάτι του 
+ξύλου στο υψηλής απόδοσης τελικό προϊόν.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">La fabricación de un snowboard, de un pedazo de 
+madera al producto final de alto rendimiento.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101364</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>105118</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/how-it-s-made-snowboards</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

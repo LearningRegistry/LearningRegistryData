@@ -1,0 +1,152 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/108720</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>108720</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205500</entry>
+          </identifier>
+          <title>
+            <string language="en">Anagram Challenger 1</string>
+            <string language="x-mt-de">Anagramm-Herausforderer 1</string>
+            <string language="x-mt-fr">Challengeur 1 d'Anagramme</string>
+            <string language="x-mt-pt">Desafiador 1 Do Anagram</string>
+            <string language="x-mt-it">Sfidante 1 Del Anagram</string>
+            <string language="x-mt-el">Ανάγραμμα challenger 1</string>
+            <string language="x-mt-es">Desafiador 1 Del Anagram</string>
+          </title>
+          <description>
+            <string language="en">40 anagrams with clues. The level is suitable for later elementary or early secondary school / later keystage two or early keystage three.</string>
+          </description>
+          <keyword>
+            <string language="en">Humanities</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">40 Anagramme mit Anhaltspunkten. Die Stufe 
+ist für neuere grundlegende oder frühe Sekundärschule/später 
+keystage zwei oder frühes keystage drei verwendbar.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">40 anagrammes avec des indices. Le niveau 
+convient à l'école secondaire postérieure/plus tard au keystage 
+élémentaire ou tôt deux ou au keystage tôt trois.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">40 anagrams com indícios. O nível é 
+apropriado para uma escola secundária mais atrasada/mais tarde o 
+keystage elementar ou adiantado dois ou o keystage adiantado três.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">40 anagrams con gli indizii. Il livello è 
+adatto a scuola secondaria successiva/più successivamente a keystage 
+elementare o iniziale due o a keystage iniziale tre.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">40 αναγράμματα με τις ενδείξεις. Το επίπεδο 
+είναι κατάλληλο για την πιό πρόσφατη στοιχειώδη ή πρόωρη 
+δευτεροβάθμια εκπαίδευση/αργότερα το keystage δύο ή το πρόωρο
+keystage τρία.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">40 anagrams con pistas. El nivel es 
+conveniente para una escuela secundaria más última/más adelante el 
+keystage elemental o temprano dos o el keystage temprano tres.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Menschlichkeit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Sciences humaines</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Humanities</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Studi umanistici</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανθρωπότητες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Humanidad</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:J SLATER
+FN:J SLATER
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205500</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>108720</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/anagram-challenger-1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,157 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/76000</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>76000</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>SDT</catalog>
+            <entry>e4fd7ffd-c6c4-4be2-b1f7-31363542c7e0#1#1</entry>
+          </identifier>
+          <title>
+            <string language="hu">Kromatikus skálák</string>
+            <string language="en">Chromatic scale</string>
+            <string language="x-mt-de">Chromatische Skala</string>
+            <string language="x-mt-fr">Échelle chromatique</string>
+            <string language="x-mt-pt">Escala chromatic</string>
+            <string language="x-mt-it">Scala cromatica</string>
+            <string language="x-mt-el">Χρωματική κλίμακα</string>
+            <string language="x-mt-es">Escala cromática</string>
+          </title>
+          <language>hu</language>
+          <description>
+            <string language="hu">Kromatikus skálák</string>
+            <string language="en">Chromatic scale</string>
+          </description>
+          <keyword>
+            <string language="hu">zene, kotta, skála, kromatikus</string>
+            <string language="en">music, sheet music, scale, chromatic</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Chromatische Skala</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Échelle chromatique</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Escala chromatic</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Scala cromatica</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Χρωματική κλίμακα</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Escala cromática</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musik, Blattmusik, Skala, chromatisch</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">musique, musique de feuille, échelle, chromatique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">música, música da folha, escala, chromatic</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">musica, musica del foglio, scala, cromatica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μουσική, μουσική φύλλων, κλίμακα, χρωματική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">música, música de la hoja, escala, cromática</string>
+          </keyword>
+        </general>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>simulation</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu">A tartalom kizárólag kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en">The content may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>begin:vcard 
+version:3.0
+n:;
+fn: 
+org:Panem Kiadó
+end:vcard</entity>
+          </contribute>
+        </lifeCycle>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <metaMetadata>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>begin:vcard
+        org:Sulinet
+        version:3.0
+        end:vcard</entity>
+          </contribute>
+        </metaMetadata>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>76000</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=e4fd7ffd-c6c4-4be2-b1f7-31363542c7e0&amp;v=1&amp;b=1</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

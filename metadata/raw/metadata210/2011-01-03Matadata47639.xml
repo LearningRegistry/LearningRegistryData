@@ -1,0 +1,143 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104749</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104749</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205501</entry>
+          </identifier>
+          <title>
+            <string language="en">Planet Quiz</string>
+            <string language="x-mt-de">Planet Quiz</string>
+            <string language="x-mt-fr">Jeu de Planète</string>
+            <string language="x-mt-pt">Quiz Do Planeta</string>
+            <string language="x-mt-it">Quiz Del Pianeta</string>
+            <string language="x-mt-el">Διαγωνισμός γνώσεων πλανητών</string>
+            <string language="x-mt-es">Concurso Del Planeta</string>
+          </title>
+          <description>
+            <string language="en">A short quiz about the planets of the solar system.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Ein kurzer Quiz über die Planeten des 
+Solarsystems.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un jeu court au sujet des planètes du système 
+solaire.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um quiz curto sobre os planetas do sistema solar.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un quiz corto circa i pianeti del sistema solare.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας σύντομος διαγωνισμός γνώσεων για τους πλανήτες 
+του ηλιακού συστήματος.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un concurso corto sobre los planetas de la Sistema
+Solar.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:DAN HOVEY AND QEDOC EDUCATIONAL TEAM
+FN:DAN HOVEY AND QEDOC EDUCATIONAL TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>1770205501</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution-Noncommercial-Share Alike 2.5</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104749</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/courses/planet-quiz</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

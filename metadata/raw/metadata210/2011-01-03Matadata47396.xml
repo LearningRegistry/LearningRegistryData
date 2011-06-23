@@ -1,0 +1,145 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/104830</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>104830</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101326</entry>
+          </identifier>
+          <title>
+            <string language="en">Early Life</string>
+            <string language="x-mt-de">Frühe Lebensdauer</string>
+            <string language="x-mt-fr">La Vie Tôt</string>
+            <string language="x-mt-pt">Vida Adiantada</string>
+            <string language="x-mt-it">Vita In anticipo</string>
+            <string language="x-mt-el">Πρόωρη ζωή</string>
+            <string language="x-mt-es">Vida Temprana</string>
+          </title>
+          <description>
+            <string language="en">A geologist probes the earliest secrets of the planet looking for traces of ancient life forms.</string>
+          </description>
+          <keyword>
+            <string language="en">Science and Technology</string>
+          </keyword>
+          <language>en</language>
+          <description>
+            <string language="x-mt-de">Ein Geologe prüft die frühesten Geheimnisse des 
+Planeten, welche nach Spuren der alten Lebensformen sucht.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un géologue sonde les secrets les plus tôt de la
+planète recherchant des traces des formes de vie antiques.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um geólogo sonda os segredos os mais adiantados 
+do planeta que procura traços de formulários de vida antigos.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un geologo sonda i segreti più iniziali del 
+pianeta che cerca le tracce delle forme di vita antiche.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένας γεωλόγος εξετάζει τα πιό πρόωρα μυστικά του 
+πλανήτη ψάχνοντας τα ίχνη αρχαίων μορφών ζωής.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un geólogo sonda los secretos más tempranos del 
+planeta que busca los rastros de las formas de vida antiguas.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wissenschaft und Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">La Science et technologie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ciência e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Scienza e tecnologia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Επιστήμη και τεχνολογία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ciencia y tecnología</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+N:SCIVEE-TEAM
+FN:SCIVEE-TEAM
+VERSION:3.0
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oercommons.org</catalog>
+            <entry>20101326</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:OERCommons
+FN:OERCommons
+ORG:OERCommons
+END:VCARD</entity>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <language>en</language>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by/3.0/</string>
+            <string language="en">Creative Commons Attribution 3.0</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>104830</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.oercommons.org/libraries/early-life</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
