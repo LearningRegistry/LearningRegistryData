@@ -1,0 +1,194 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/227997</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>227997</entry>
+  </identifier>
+  <identifier>
+    <catalog>oai</catalog>
+    <entry>oai:s01.klascement.net:13601</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:13601</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>13601</entry>
+          </identifier>
+          <title>
+            <string language="nl">JCW: Creutzfeldt-Jakob en jicht</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Wetenschapsexposciences 2009 vond plaats op 13 en 14 maart in paleis 3 van Brussels expo.Wetenschapsexposciences is een jaarlijks nationaal evenement waarbij jongeren van 6 tot 25 jaar hun eigen wetenschappelijk project komen voorstellen aan het grote publiek en een jury. Alle projecten rond wetenschap, techniek of samenleving zijn welkom! 1. DeelnemenOp wetenschapsexpo kan je, alleen of met een team, een eigen project komen voorstellen. het project kan verschillende vormen aannemen: een experiment dat je op poten zette, een onderzoek dat je uitvoerde, een ontwerp dat je maakte of een uitvinding die je deed, ... Gedurende 2 dagen krijg je op wetenschapsexpo een eigen stand, waar alle geïnteresseerden je kunnen vinden, om zich te verdiepen in jouw project. Je hebt alleen toestemming nodig van de school om aanwezig te zijn op de expo omdat de eerste dag op een schooldag valt. 2. Bezoeken Daarnaast bieden verschillende wetenschappelijke instellingen en scholen activiteiten aan op de expo. Het is dus zeker de moeite om de expo te komen bezoeken! je kan er bijvoorbeeld een uitstapje met de klas of met je familie van maken.</string>
+          </description>
+          <keyword>
+            <string language="nl">Creutzfeldt-Jakob</string>
+          </keyword>
+          <keyword>
+            <string language="nl">hersenziekte</string>
+          </keyword>
+          <keyword>
+            <string language="nl">hersenen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">geheugenverlies</string>
+          </keyword>
+          <keyword>
+            <string language="nl">jicht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gewrichten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kristallen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">opgezwollen teen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-06-18T20:54:56.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:KlasCement
+FN:KlasCement 
+EMAIL;TYPE=INTERNET:info@klascement.net 
+ORG: KlasCement
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:oai:s01.klascement.net:13601</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>oai:s01.klascement.net:13601</entry>
+          </identifier>
+          <metadataSchema>MELTv1.0</metadataSchema>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T14:26:59.44Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>144</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>oai</catalog>
+      <entry>13601</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <identifier>
+        <catalog>oai</catalog>
+        <entry>13601</entry>
+      </identifier>
+      <location>
+        <uri>http://www.klascement.net/13601/?ref=aspect</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
