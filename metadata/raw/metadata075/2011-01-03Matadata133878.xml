@@ -1,0 +1,265 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/96980</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>96980</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>b30f4228-3540-4eca-9120-53979938be5b</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:b30f4228-3540-4eca-9120-53979938be5b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>b30f4228-3540-4eca-9120-53979938be5b</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">A mondategész</string>
+            <string language="en-US">Whole Sentence</string>
+            <string language="x-mt-de">Vollständiger Programmsatz</string>
+            <string language="x-mt-fr">Phrase Entière</string>
+            <string language="x-mt-pt">Sentença Inteira</string>
+            <string language="x-mt-it">Frase Intera</string>
+            <string language="x-mt-el">Ολόκληρη πρόταση</string>
+            <string language="x-mt-es">Sentencia Entera</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">A mondategész jellemzői; a mondat szerkezet szerinti csoportosítása</string>
+            <string language="en-US">Features of Whole Sentence; Grouping of Sentence by Construction</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">szintaxis</string>
+            <string language="en-US">syntax</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Merkmale des vollständigen Programmsatzes; 
+Gruppierung des Programmsatzes durch Construction</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Dispositifs de phrase entière ; Grouper de 
+la phrase par Construction</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Características da sentença inteira; 
+Agrupar da sentença por Construção</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Caratteristiche della frase intera; 
+Raggruppamento della frase tramite Construction</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Χαρακτηριστικά γνωρίσματα ολόκληρης της πρότασης  
+Ομαδοποίηση της πρότασης από την κατασκευή</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Características de la sentencia entera; El 
+agrupar de la sentencia de Construction</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Syntax</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">syntaxe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sintaxe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">sintassi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύνταξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">sintaxis</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:b30f4228-3540-4eca-9120-53979938be5b</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>b30f4228-3540-4eca-9120-53979938be5b</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:12.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T22:22:55.88Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>567ae7eb-8ef8-4427-a574-8aec3a5d7385</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>29c8a855-51c6-4b67-bc19-f301ea516e3e</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>6bc45e8d-6c53-46f7-8049-1a8a41e4d621</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>615</id>
+              <entry>
+                <string language="en-US">Hungarian language</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>b30f4228-3540-4eca-9120-53979938be5b-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>b30f4228-3540-4eca-9120-53979938be5b-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=b30f4228-3540-4eca-9120-53979938be5b</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>b30f4228-3540-4eca-9120-53979938be5b-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>b30f4228-3540-4eca-9120-53979938be5b-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/b3/0f/b30f4228-3540-4eca-9120-53979938be5b_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
