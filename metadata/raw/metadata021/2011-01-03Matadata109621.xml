@@ -1,0 +1,478 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/211735</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>211735</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_c62d6a4f069c4a022c055ed38d48921b9bdfd64d</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_c62d6a4f069c4a022c055ed38d48921b9bdfd64d</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_c62d6a4f069c4a022c055ed38d48921b9bdfd64d</entry>
+          </identifier>
+          <title>
+            <string language="en">Voltage readings of a potentiometer with and without a three-bit digital conversion</string>
+            <string language="x-mt-de">Spannung Messwerte eines Potentiometers mit und 
+ohne einer Dreibit digitalen Konvertierung</string>
+            <string language="x-mt-fr">Lectures de tension d'un potentiomètre avec et 
+sans une conversion digitale de trois-bit</string>
+            <string language="x-mt-pt">Leituras da tensão de um potenciômetro com e 
+sem uma conversão digital do três-bit</string>
+            <string language="x-mt-it">Letture di tensione di un potenziometro con e 
+senza una conversione digitale del tre-bit</string>
+            <string language="x-mt-el">Αναγνώσεις τάσης ενός ποτενσιόμετρου με και χωρίς μια
+ψηφιακή μετατροπή τρεις-δυαδικών ψηφίων</string>
+            <string language="x-mt-es">Lecturas del voltaje de un potenciómetro con y 
+sin una conversión digital del tres-di'gito binario</string>
+          </title>
+          <description>
+            <string language="en">These line graphs show the relationship of wiper position and voltmeter reading as the wiper is moved from minimum to maximum. It indicates the difference between the pure analogue signal (left) and the recovered analogue signal (right) with a three-bit ADC output.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">dac</string>
+          </keyword>
+          <keyword>
+            <string language="en">analogue-to-digital converter</string>
+          </keyword>
+          <keyword>
+            <string language="en">bit number</string>
+          </keyword>
+          <keyword>
+            <string language="en">digital-to-analogue converter</string>
+          </keyword>
+          <keyword>
+            <string language="en">pure analogue signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">quantisation</string>
+          </keyword>
+          <keyword>
+            <string language="en">quantisation error</string>
+          </keyword>
+          <keyword>
+            <string language="en">recovered analogue signal</string>
+          </keyword>
+          <keyword>
+            <string language="en">three-bit adc output</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltage readings</string>
+          </keyword>
+          <keyword>
+            <string language="en">voltmeters</string>
+          </keyword>
+          <keyword>
+            <string language="en">wiper position</string>
+          </keyword>
+          <keyword>
+            <string language="en">word-length</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses zeigen Zeile Diagramme das Verhältnis der
+Wischerposition und des Voltmetermesswertes, während der Wischer von 
+Minimum zu Maximum verschoben wird. Sie zeigt den Unterschied 
+zwischen dem reinen Analogsignal (nach links) und dem wieder 
+hergestellten Analogsignal (recht) mit einer Dreibit ADC Ausgabe an.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ces graphes par ligne montrent le rapport de la 
+position d'essuie-glace et de la lecture de voltmètre pendant que 
+l'essuie-glace est déplacé du minimum au maximum. Il indique 
+la différence entre le signal analogue pur (à gauche) et le signal 
+analogue récupéré (droit) avec un résultat du trois-bit CDA.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este a linha gráficos mostra o relacionamento da
+posição do limpador e da leitura do voltímetro enquanto o limpador 
+é movido do mínimo para o máximo. Indica a diferença entre o
+sinal análogo puro (à esquerda) e o sinal análogo recuperado 
+(direito) com uma saída do três-bit CAD.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafici lineari mostra il rapporto della 
+posizione del pulitore e della lettura del voltmetro mentre il 
+pulitore è spostato dal minimo verso il massimo. Indica la 
+differenza fra il segnale di analogico puro (a sinistra) ed il segnale
+di analogico recuperato (di destra) con un'uscita del tre-bit ADC.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτές οι γραφικές παραστάσεις γραμμών εμφανίζουν τη 
+σχέση της θέσης ψηκτρών και της ανάγνωσης βολτόμετρων καθώς η 
+ψήκτρα κινείται από το ελάχιστο στο μέγιστο. Δείχνει τη 
+διαφορά μεταξύ του καθαρού αναλογικού σήματος (αριστερά) και του
+ανακτημένου αναλογικού σήματος (δεξιά) με μια έξοδο της ΠΑΧ 
+τρεις-δυαδικών ψηφίων.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este la línea gráficos muestra el lazo de la 
+posición del limpiador y de la lectura del voltímetro mientras que 
+el limpiador se mueve desde mínimo al máximo. Indica la 
+diferencia entre la señal analogica pura (a la izquierda) y la señal
+analogica recuperada (derecha) con una salida del tres-di'gito binario
+ADC.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Analog-Digitalkonverter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bitzahl</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">digital-zu-analoger Konverter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">reines Analogsignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Quantelung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Quantelungfehler</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">wieder hergestelltes Analogsignal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Dreibit ADC Ausgabe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Spannung Messwerte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Voltmeter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wischerposition</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Wort-Länge</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">convertisseur analogique-numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">nombre de bits</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">convertisseur digital-à-analogique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal analogue pur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">quantification</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">erreur de quantification</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">signal analogue récupéré</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sortie du trois-bit CDA</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">lectures de tension</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">voltmètres</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">position d'essuie-glace</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">mot-longueur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conversor análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">número de bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">conversor digital-à-análogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal análogo puro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">quantização</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">erro da quantização</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">sinal análogo recuperado</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">saída do três-bit CAD</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">leituras da tensão</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">voltímetros</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">posição do limpador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">palavra-comprimento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">convertitore analogico-digitale</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">numero di bit</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">convertitore digitale-$$$-DIGITAL-TO-ANALOGUE</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale di analogico puro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">quantizzazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">errore di quantizzazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">segnale di analogico recuperato</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uscita del tre-bit ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">letture di tensione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">voltmetri</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">posizione del pulitore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parola-lunghezza</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναλογικός σε ψηφιακό μετατροπέας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμός δυαδικών ψηφίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ψηφιακός-$$$-ΑΝΑΛΟΓΙΚΌΣ μετατροπέας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">καθαρό αναλογικό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κβαντοποίηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σφάλμα κβαντοποίησης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανακτημένο αναλογικό σήμα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έξοδος της ΠΑΧ τρεις-δυαδικών ψηφίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναγνώσεις τάσης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">βολτόμετρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θέση ψηκτρών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λέξη-μήκος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">dac</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">convertidor análogo-numérico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">número de dígito binario</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">convertidor digital-a-analogico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal analogica pura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">quantisation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">error del quantisation</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">señal analogica recuperada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">salida del tres-di'gito binario ADC</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">lecturas del voltaje</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">voltímetros</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">posición del limpiador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">palabra-longitud</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_c62d6a4f069c4a022c055ed38d48921b9bdfd64d</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_c62d6a4f069c4a022c055ed38d48921b9bdfd64d</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:43:10.67Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/c62d6a4f069c4a022c055ed38d48921b9bdfd64d.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
