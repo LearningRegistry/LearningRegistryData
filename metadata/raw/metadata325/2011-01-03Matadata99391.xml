@@ -1,0 +1,375 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/218732</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>218732</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_fabcd83ea63a2254be5acb18e35dd16028f54bf3</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_fabcd83ea63a2254be5acb18e35dd16028f54bf3</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_fabcd83ea63a2254be5acb18e35dd16028f54bf3</entry>
+          </identifier>
+          <title>
+            <string language="en">Circuit diagram of a latch</string>
+            <string language="x-mt-de">Schaltplan einer Verriegelung</string>
+            <string language="x-mt-fr">Schéma de circuit d'un verrou</string>
+            <string language="x-mt-pt">Diagrama de circuito de uma trava</string>
+            <string language="x-mt-it">Schema circuitale di un fermo</string>
+            <string language="x-mt-el">Διάγραμμα κυκλωμάτων ενός σύρτη</string>
+            <string language="x-mt-es">Esquema circular de un cierre</string>
+          </title>
+          <description>
+            <string language="en">The partial circuit diagram illustrates a latch circuit that uses two NAND gates connected such that the outputs feedback on the input of the other.</string>
+          </description>
+          <language>x-none</language>
+          <keyword>
+            <string language="en">feedback</string>
+          </keyword>
+          <keyword>
+            <string language="en">input</string>
+          </keyword>
+          <keyword>
+            <string language="en">nand gates</string>
+          </keyword>
+          <keyword>
+            <string language="en">reset</string>
+          </keyword>
+          <keyword>
+            <string language="en">set</string>
+          </keyword>
+          <keyword>
+            <string language="en">electronic control circuits</string>
+          </keyword>
+          <keyword>
+            <string language="en">latch</string>
+          </keyword>
+          <keyword>
+            <string language="en">output</string>
+          </keyword>
+          <keyword>
+            <string language="en">switch on</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Der teilweise Schaltplan veranschaulicht einen 
+Verriegelung Stromkreis, dem Gebrauch zwei NAND Gatter so daß das 
+Ausgabefeedback auf dem Input vom anderen anschloß.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Le schéma de circuit partiel illustre un circuit 
+de verrou que les utilisations deux portes de non-et ont relié tels 
+que le feedback de sorties sur l'entrée de l'autre.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">O diagrama de circuito parcial ilustra um circuito
+da trava que os usos duas portas do NAND conectem tais que o feedback 
+das saídas na entrada da outra.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Lo schema circuitale parziale illustra un circuito
+del fermo che gli usi due cancelli di NAND hanno collegato tali che le
+risposte delle uscite sull'input dell'altro.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Το μερικό διάγραμμα κυκλωμάτων επεξηγεί ένα κύκλωμα 
+συρτών που οι χρήσεις δύο NAND πύλες σύνδεσαν έτσι ώστε η 
+ανατροφοδότηση αποτελεσμάτων στην είσοδο άλλη.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">El esquema circular parcial ilustra un circuito 
+del cierre que las aplicaciones dos puertas del NAND conectaron tales 
+que el feedback de las salidas en la entrada de información de la 
+otra.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Input</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">NAND Gatter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rücksetzen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Set</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">elektronisches Steuerstromkreise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Verriegelung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ausgabe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">schalten Sie ein</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">entrée</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">portes de non-et</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">remise</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">positionnement</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">circuits de commande électronique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">verrou</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">sortie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">alimentez</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">entrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">portas do nand</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">restauração</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">jogo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">circuitos de controle eletrônico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">trava</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">saída</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ligue</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">risposte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">input</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cancelli di NAND</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">risistemazione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">insieme</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">circuiti di controllo elettronico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fermo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">uscita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">inseriscasi</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανατροφοδότηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">είσοδος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">nand πύλες</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αναστοιχειοθέτηση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύνολο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ηλεκτρονικά κυκλώματα ελέγχου</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">σύρτης</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">έξοδος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">ανάψτε</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">feedback</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">entrada de información</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">puertas del NAND</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">restauración</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">conjunto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">circuitos de control electrónico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cierre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">salida</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">encienda (con.)</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_fabcd83ea63a2254be5acb18e35dd16028f54bf3</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_fabcd83ea63a2254be5acb18e35dd16028f54bf3</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:35:26.48Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/fabcd83ea63a2254be5acb18e35dd16028f54bf3.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
