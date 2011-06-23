@@ -1,0 +1,280 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/13772</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>13772</entry>
+  </identifier>
+  <identifier>
+    <catalog>DIA (Digital Image Archive)</catalog>
+    <entry>D-JFVG3KA0</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3KA0</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA (Digital Image Archive)</catalog>
+            <entry>D-JFVG3KA0</entry>
+          </identifier>
+          <title>
+            <string language="it">Veduta dell'acropoli di Atene illuminata di notte</string>
+          </title>
+          <language>it</language>
+          <description>
+            <string language="it">L'acropoli greca definiva nell'antica Grecia (come indica il nome akros, alto; polis, città) la parte alta dei vari nuclei abitativi. Si trattava quindi di un'altura già fortificata per natura, il più delle volte ulteriormente difesa con mura. Qui c'era in origine la dimora del sovrano e qui vennero posti i santuari più importanti; qui inoltre si rifugiava la popolazione della città bassa in caso di attacco nemico.Tuttavia, quando si fa menzione dell'acropoli, si pensa  soprattutto a quella di Atene, diventata simbolo non solo della città attica, ma anche della Grecia antica.In origine l'acropoli era il primo nucleo abitato di Atene, ma in età storica divenne innanzitutto un luogo sacro, tanto che nell'urbanistica della città ne è il centro senza far parte di nessun quartiere abitato.Dopo l'età micenea poco sappiamo della storia dell'acropoli sino al VI secolo a.C., ma la sua lenta trasformazione da rocca abitata in santuario dovette probabilmente concludersi al tempo del tiranno Pisistrato, nella seconda metà del secolo.L'acropoli di Atene deve a Pericle la sua fama, tuttavia non si deve pensare che essa fosse sguarnita prima dell'avvento del grande statista.Formata da un colle di roccia calcarea alto 156 metri, largo 150 e lungo 300 circa, essa fu abitata senza interruzioni dal 3000 a.C. e in epoca micenea fu uno dei maggiori centri del tempo.Segno ne sono i resti delle mura ciclopiche e di un grande palazzo, sede di potenti signori. L'acropoli divenne in seguito un luogo sacro.Vi furono costruiti templi dedicati alle divinità protettrici della città (Atena, Zeus, Poseidone), altari, recinti sacri e altri edifici dedicati a eroi mitici.Le costruzioni dell'età arcaica furono distrutte dai Persiani nel 480 a.C.La ricostruzione voluta da Pericle alla fine delle guerre persiane assunse un grande valore ideologico: l'acropoli divenne simbolo della vittoria sul barbaro e della grandezza della città.</string>
+          </description>
+          <coverage>
+            <string language="it">Atene (Grecia)</string>
+          </coverage>
+        </general>
+        <lifeCycle xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>content provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Olycom S.p.A.;;;; 
+FN:Olycom S.p.A. 
+ORG:OLYC
+URL:http://www.olycom.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>licensor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>editor</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:Grossi;Edoardo;;; 
+FN:EdoardoŠGrossi 
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:oaicat.indire.it:D-JFVG3KA0</entry>
+          </identifier>
+          <identifier>
+            <catalog>DIA Schema</catalog>
+            <entry>D-JFVG3KA0</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0 
+N:Indire;;;; 
+FN:Indire 
+ADR;TYPE=work:;;via Buonarroti 10;Florence;FI;50122;ITALY 
+ORG:Indire
+URL:www.indire.it 
+END:vCard</entity>
+            <date>
+              <dateTime>2007-03-09</dateTime>
+            </date>
+          </contribute>
+          <language>it</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:INDIRE
+N:INDIRE
+ORG:INDIRE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T07:57:35.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+          	&lt;Work rdf:about=""&gt;
+							&lt;License rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/"/&gt;
+              &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+            &lt;/Work&gt;
+            &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;
+           		&lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+            	&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+              &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+              &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+            &lt;/License&gt;
+          &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification xmlns:xdt="http://www.w3.org/2005/xpath-datatypes" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>450</id>
+              <entry>
+                <string language="en">European Commission</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>451</id>
+              <entry>
+                <string language="en">European dimension</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>455</id>
+              <entry>
+                <string language="en">European Union</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1390</id>
+              <entry>
+                <string language="en">Western Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>562</id>
+              <entry>
+                <string language="en">green spaces</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1318</id>
+              <entry>
+                <string language="en">town</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>277</id>
+              <entry>
+                <string language="en">country</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>507</id>
+              <entry>
+                <string language="en">foreign country</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en">geography</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1082</id>
+              <entry>
+                <string language="en">regional geography</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>85</id>
+              <entry>
+                <string language="en">architecture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1086</id>
+              <entry>
+                <string language="en">religious building</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>981</id>
+              <entry>
+                <string language="en">place of worship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>840</id>
+              <entry>
+                <string language="en">monument</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>84</id>
+              <entry>
+                <string language="en">archaeology</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>DIA (Digital Image Archive)</catalog>
+      <entry>D-JFVG3KA0</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.indire.it/immagini/immag/olypays/at1004.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
