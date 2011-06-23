@@ -1,0 +1,239 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114115</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114115</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3165</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3165</entry>
+          </identifier>
+          <title>
+            <string language="nl">Een gat in mijn portemonnee</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Lespakket over omgaan met het maandbudget, banken, en verschillende soorten rekeningen, overschrijvingen uitvoeren, facturen bestuderen, besparen en kopen op krediet.  Bijgevoegd ook een handleiding voor de leerkracht met de ontwikkelingsdoelen. Daarnaast vind je enkele betalingsdocumenten die je kunt gebruiken.</string>
+          </description>
+          <keyword>
+            <string language="nl">betalingsdocumenten</string>
+          </keyword>
+          <keyword>
+            <string language="nl">betaling</string>
+          </keyword>
+          <keyword>
+            <string language="nl">betalingsdocument</string>
+          </keyword>
+          <keyword>
+            <string language="nl">kopen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">krediet</string>
+          </keyword>
+          <keyword>
+            <string language="nl">facturen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">factuur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">overschrijvingen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">overschrijving</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rekeningen</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rekening</string>
+          </keyword>
+          <keyword>
+            <string language="nl">banken</string>
+          </keyword>
+          <keyword>
+            <string language="nl">bank</string>
+          </keyword>
+          <keyword>
+            <string language="nl">budget</string>
+          </keyword>
+          <keyword>
+            <string language="nl">maandbudget</string>
+          </keyword>
+          <keyword>
+            <string language="nl">lespakket</string>
+          </keyword>
+          <keyword>
+            <string language="nl">les</string>
+          </keyword>
+          <keyword>
+            <string language="nl">handel</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Inge De Cleyn
+FN:Inge De Cleyn 
+EMAIL;TYPE=INTERNET:ingedecleyn@hotmail.com 
+ORG: Inge De Cleyn
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3165</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3165</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:35:33.20Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-17</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Griet Pauwels</entity>
+          <date>
+            <dateTime>2007-10-08</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114115</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/3165/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

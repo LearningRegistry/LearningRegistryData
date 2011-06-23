@@ -1,0 +1,250 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/112030</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>112030</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3004</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3004</entry>
+          </identifier>
+          <title>
+            <string language="nl">Technologische Opvoeding : Zoekopdrachten op internet</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Leren zoeken op internet. Beknopte zoekcursus. 
+Allerlei thema's komen aan bod:
+- Energie  
+- Veiligheid 
+- Informatietechnologie 
+- Elektriciteit 
+- Technisch communiceren 
+- Technologie 
+- Bouwwerken 
+- Gezondheid en milieu 
+- Actualiteit 
+- Kracht en beweging</string>
+          </description>
+          <keyword>
+            <string language="nl">milieu</string>
+          </keyword>
+          <keyword>
+            <string language="nl">en</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Gezondheid</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Bouwwerken</string>
+          </keyword>
+          <keyword>
+            <string language="nl">thuis</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Technologie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">communiceren</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Technisch</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Elektriciteit</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Informatietechnologie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Veiligheid</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Energie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Actualiteit</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Kracht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">beweging</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Gezonde voeding</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Gezondheidseducatie</string>
+          </keyword>
+          <keyword>
+            <string language="nl">Milieueducatie</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>3</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>1970-01-01T00:00:00.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Dirk Spruytte
+FN:Dirk Spruytte 
+EMAIL;TYPE=INTERNET:dirk.spruytte@skynet.be 
+ORG: Dirk Spruytte
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:D3004</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>D3004</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>validator</value>
+            </role>
+          </contribute>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:35:37.09Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>course</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-17</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Annick Devocht</entity>
+          <date>
+            <dateTime>2008-01-04</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1291</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>112030</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/3004/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
