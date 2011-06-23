@@ -1,0 +1,324 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/101324</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>101324</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:d87a9f70-1eab-4d4e-9e64-0560999f822e</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Egészrész-, és törtrészfüggvény</string>
+            <string language="en-US">Integral And Fractional Function</string>
+            <string language="x-mt-de">Integrale Und Bruchfunktion</string>
+            <string language="x-mt-fr">Fonction Intégrale et Fractionnaire</string>
+            <string language="x-mt-pt">Função Integral E Fracionária</string>
+            <string language="x-mt-it">Funzione Integrale E Frazionaria</string>
+            <string language="x-mt-el">Ακέραια και κλασματική λειτουργία</string>
+            <string language="x-mt-es">Función Integral Y Fraccionaria</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="en-US">Integral and fractional function</string>
+          </description>
+          <keyword>
+            <string language="en-US">fractional part</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">integer part</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">sign function</string>
+          </keyword>
+          <keyword>
+            <string language="en-US">function</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Integrale und Bruchfunktion</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Fonction intégrale et fractionnaire</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Função integral e fracionária</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Funzione integrale e frazionaria</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ακέραια και κλασματική λειτουργία</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Función integral y fraccionaria</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Bruchteil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">ganzzahliger Teil</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">eingebaute Signum-Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Funktion</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">partie fractionnaire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">pièce de nombre entier</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonction de signe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">fonction</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">parte fracionária</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">peça de inteiro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">função de sinal</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">função</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parte frazionaria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">parte di numero intero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzione di segno</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">funzione</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">κλασματικό μέρος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μέρος ακέραιων αριθμών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργία σημαδιών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">λειτουργία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">parte fraccionaria</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">pieza de número entero</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">función de muestra</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">función</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:d87a9f70-1eab-4d4e-9e64-0560999f822e</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:56:28.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T21:00:49.08Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>3a98a355-55f8-4e31-9d3d-203b3a842dde</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>99c4c814-e48c-4957-aff4-24b93bf4fcd2</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>a13b1316-3ef5-4fe4-af5b-f5d084fc20a8</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>7457b1b6-169e-4e6f-bdcb-be3e796e8fd8</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en-US">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=d87a9f70-1eab-4d4e-9e64-0560999f822e</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>d87a9f70-1eab-4d4e-9e64-0560999f822e-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/d8/7a/d87a9f70-1eab-4d4e-9e64-0560999f822e_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
