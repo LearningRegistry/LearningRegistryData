@@ -1,0 +1,382 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/99516</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>99516</entry>
+  </identifier>
+  <identifier>
+    <catalog>sdt.sulinet.hu</catalog>
+    <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://fire.eun.org/xsd/lre/lre.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:17043594-3a1c-4fe8-a39c-fb153a570bb5</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5</entry>
+          </identifier>
+          <title>
+            <string language="hu-HU">Pálya, út, elmozdulás</string>
+            <string language="en-US">Path, distance and displacement</string>
+            <string language="x-mt-de">Pfad, Abstand und Distanzadresse</string>
+            <string language="x-mt-fr">Voie d'accès, distance et déplacement</string>
+            <string language="x-mt-pt">Trajeto, distância e deslocamento</string>
+            <string language="x-mt-it">Percorso, distanza e spostamento</string>
+            <string language="x-mt-el">Μονοπάτι, απόσταση και μετατόπιση</string>
+            <string language="x-mt-es">Camino, distancia y dislocación</string>
+          </title>
+          <language>hu-HU</language>
+          <description>
+            <string language="hu-HU">Pálya, út, elmozdulás, út-idő grafikon</string>
+            <string language="en-US">Pálya, út, elmozdulás, út-idő grafikon</string>
+          </description>
+          <keyword>
+            <string language="hu-HU">fizika</string>
+            <string language="en-US">physics</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">mozgások leírása</string>
+            <string language="en-US">description of motions</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">pálya</string>
+            <string language="en-US">orbit</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">út</string>
+            <string language="en-US">road</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">elmozdulás</string>
+            <string language="en-US">shift</string>
+          </keyword>
+          <keyword>
+            <string language="hu-HU">hely-idő grafikon</string>
+            <string language="en-US">place-time graph</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Pálya, út, elmozdulás, út-Kennzeichen? 
+grafikon</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Pálya, út, elmozdulás, út-identifications ? 
+grafikon</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Pálya, út, elmozdulás, út-identificações? 
+grafikon</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Pálya, út, elmozdulás, út-identificazioni? 
+grafikon</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Pαlya, ϊt, elmozdulαs, 3uτ-ταυτότητα; grafikon</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Pálya, út, elmozdulás, út-identificaciones? 
+grafikon</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Physik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Beschreibung von Bewegungen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bahn</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Straße</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Schicht</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Platz-Zeit Diagramm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">physique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">description des mouvements</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">orbite</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">route</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">décalage</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">graphique d'endroit-temps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">descrição dos movimentos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">órbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">estrada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">SHIFT</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">gráfico do lugar-tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">fisica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">descrizione dei movimenti</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">orbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">strada</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">spostamento</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">grafico di posto-tempo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">φυσική</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">περιγραφή των κινήσεων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">τροχιά</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">δρόμος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">μετατόπιση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θέση-χρονική γραφική παράσταση</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">física</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">descripción de movimientos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">órbita</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">camino</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">rotación</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">gráfico del lugar-tiempo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;;;;
+FN:Educatio KHT.
+ORG:Educatio KHT.;
+X-ABShowAs:COMPANY
+X-ABUID:E0E1B151-01C0-4BA0-87E6-2CEDA0A8F3FA\:ABPerson
+END:VCARD</entity>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:sdt.sulinet.hu:17043594-3a1c-4fe8-a39c-fb153a570bb5</entry>
+          </identifier>
+          <identifier>
+            <catalog>sdt.sulinet.hu</catalog>
+            <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2009-12-03T18:59:24.0+01:00</dateTime>
+            </date>
+          </contribute>
+          <language>hu-HU</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:EDUCATIO/Ministry of Education
+N:EDUCATIO/Ministry of Education
+ORG:EDUCATIO/Ministry of Education
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T20:10:33.75Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="hu-HU">Kizárólag az oktatás illetve tudományos kutatás céljára használható szigorúan non-profit jelleggel.</string>
+            <string language="en-US">It may be used for the sole purpose of illustration for teaching or scientific research and only for a strictly non-commercial purpose.</string>
+          </description>
+        </rights>
+        <educational>
+          <language>hu-HU</language>
+          <typicalAgeRange>
+            <string language="en-US">12-U</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+        </educational>
+        <relation>
+          <kind>
+            <source>LRE.kindValues</source>
+            <value>references</value>
+          </kind>
+          <resource>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>fbd266b5-7eb0-45fd-887e-a59e97f6ea37</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>d207c0b3-393a-4f48-83c2-c0308cfecae1</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>c41e0432-1423-490f-850f-e69a1b29958a</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>2e293106-26da-4181-b0d9-3056d88a7dd6</entry>
+            </identifier>
+            <identifier>
+              <catalog>sdt.sulinet.hu</catalog>
+              <entry>5c053848-8291-4731-90e4-2afd66ffed01</entry>
+            </identifier>
+          </resource>
+        </relation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en-US">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en-US">physics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5-html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>text/html</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5-html-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/Player/default.aspx?g=17043594-3a1c-4fe8-a39c-fb153a570bb5</uri>
+      </location>
+    </item>
+  </manifestation>
+  <manifestation>
+    <identifier>
+      <catalog>sdt.sulinet.hu</catalog>
+      <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5-ccpackage</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>package in</value>
+    </name>
+    <parameter>
+      <vocabularyID>LRE.packageInValues</vocabularyID>
+      <value>imscc_v1p0</value>
+    </parameter>
+    <item>
+      <identifier>
+        <catalog>sdt.sulinet.hu</catalog>
+        <entry>17043594-3a1c-4fe8-a39c-fb153a570bb5-ccpackage-original</entry>
+      </identifier>
+      <location>
+        <uri>http://sdt.sulinet.hu/CCPackages/17/04/17043594-3a1c-4fe8-a39c-fb153a570bb5_ims_cc_v1p0.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
