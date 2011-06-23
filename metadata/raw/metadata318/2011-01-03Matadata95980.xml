@@ -1,0 +1,419 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33194</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33194</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:9715</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>9715</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Arkivering av faktura</string>
+            <string language="en">Archiving of invoice</string>
+            <string language="x-mt-de">Archivieren der Rechnung</string>
+            <string language="x-mt-fr">Archivage de la facture</string>
+            <string language="x-mt-pt">Archiving do invoice</string>
+            <string language="x-mt-it">Archiviatura della fattura</string>
+            <string language="x-mt-el">Αρχειοθέτηση του τιμολογίου</string>
+            <string language="x-mt-es">El archivar de la factura</string>
+          </title>
+          <description>
+            <string language="sv">Skriv ut faktura i fem exemplar och arkivera enligt olika kriterier.Modul 4 - Administration och Regler.Ingår i FöretagarSKOLAN.</string>
+            <string language="en">Print invoice in five copies and archive according to different criteria.
+
+Module 4 - administration and rules.
+
+Is included in FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="sv">ekonomi</string>
+            <string language="sv">verifikationspärm</string>
+            <string language="sv">nummerordning</string>
+            <string language="sv">kundpärm</string>
+            <string language="sv">bokstavsordning</string>
+            <string language="sv">fakturapärm</string>
+            <string language="sv">nummerordning för bevakning</string>
+            <string language="sv">kund original</string>
+            <string language="sv">redovisning</string>
+            <string language="en">economy</string>
+            <string language="en">verifikationspärm</string>
+            <string language="en">numerical order</string>
+            <string language="en">customer folder</string>
+            <string language="en">bokstavsordning</string>
+            <string language="en">invoice folder</string>
+            <string language="en">numerical order for monitoring</string>
+            <string language="en">customer originals</string>
+            <string language="en">account</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Drucken Sie Rechnung in fünf Exemplaren und 
+archivieren Sie entsprechend unterschiedlichem criteria.Module 4 - die
+Leitung und rules.Is, die in FöretagarSKOLAN eingeschlossen sind.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Imprimez la facture dans cinq copies et l'archivez
+selon criteria.Module différent 4 - gestion et rules.Is inclus dans 
+FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Imprima o invoice em cinco cópias e archive de 
+acordo com criteria.Module diferente 4 - administração e rules.Is 
+incluídos em FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Stampi la fattura in cinque copie ed archivii 
+secondo criteria.Module differente 4 - gestione e rules.Is inclusi in 
+FöretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τιμολόγιο τυπωμένων υλών σε πέντε αντίγραφα και 
+αρχείο σύμφωνα με τη διαφορετική ενότητα 4 κριτηρίων - η 
+διοίκηση και οι κανόνες συμπεριλαμβάνονται σε FφretagarSKOLAN.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Imprima la factura en cinco copias y archívela 
+según diverso criteria.Module 4 - administración y rules.Is 
+incluidos en FöretagarSKOLAN.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Wirtschaft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">verifikationspärm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">numerische Ordnung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kunde Heft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Bokstavsordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rechnung Heft</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">numerische Ordnung für die Überwachung</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Kunde Vorlagen</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Konto</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">économie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">verifikationspärm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande numérique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chemise de client</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">bokstavsordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">chemise de facture</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">commande numérique pour la surveillance</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">originaux de client</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">compte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">verifikationspärm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ordem numérica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dobrador do cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">bokstavsordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">dobrador do invoice</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">ordem numérica para monitorar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">originais do cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">economia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">verifikationspärm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ordine numerico</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dispositivo di piegatura del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">bokstavsordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">dispositivo di piegatura della fattura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">ordine numerico per controllare</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">originali del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">οικονομία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">verifikationspδrm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμητική κατάταξη</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμματοθήκη πελατών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el"></string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">γραμματοθήκη τιμολογίων</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">αριθμητική κατάταξη για τον έλεγχο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">πρωτότυπα πελατών</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">απολογισμός</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">economía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">verifikationspärm</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">orden numérica</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">carpeta del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">el bokstavsordning</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">carpeta de la factura</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">orden numérica para vigilar</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">originales del cliente</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">cuenta</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:9715</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:9715</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:15:01.21Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>383</id>
+              <entry>
+                <string language="en">economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Företagsekonomi</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Business economics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>33194</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=9715</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

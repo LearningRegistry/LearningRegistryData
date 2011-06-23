@@ -1,0 +1,554 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/33302</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>33302</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:5188</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>5188</entry>
+          </identifier>
+          <language>sv</language>
+          <title>
+            <string language="sv">Strömningsförlopp</string>
+            <string language="en">Strömningsförlopp</string>
+            <string language="x-mt-de">Strömningsförlopp</string>
+            <string language="x-mt-fr">Strömningsförlopp</string>
+            <string language="x-mt-pt">Strömningsförlopp</string>
+            <string language="x-mt-it">Strömningsförlopp</string>
+            <string language="x-mt-el">Strφmningsfφrlopp</string>
+            <string language="x-mt-es">Strömningsförlopp</string>
+          </title>
+          <description>
+            <string language="sv">Teori om fläktens tryckvarianter.Modul - Processkomponenter.Ingår i Energi A.</string>
+            <string language="en">Theory about the fan's pressure variants.
+
+Module - Processkomponenter.
+
+Is included in energy A.</string>
+          </description>
+          <keyword>
+            <string language="sv">Energi</string>
+            <string language="sv">Energiteknik</string>
+            <string language="sv">Processkomponenter</string>
+            <string language="sv">Strömningsförlopp</string>
+            <string language="sv">Rotodynamisk pump</string>
+            <string language="sv">Fläkt</string>
+            <string language="sv">Absolut tryck</string>
+            <string language="sv">Manometer</string>
+            <string language="sv">Statiskt tryck</string>
+            <string language="sv">Dynamiskt tryck</string>
+            <string language="sv">Totaltryck</string>
+            <string language="sv">Övertryck</string>
+            <string language="sv">Undertryck</string>
+            <string language="sv">Barometerstånd</string>
+            <string language="sv">Inloppsstos</string>
+            <string language="sv">Fläktens totaltrycksökning</string>
+            <string language="en">Energy</string>
+            <string language="en">Energiteknik</string>
+            <string language="en">Processkomponenter</string>
+            <string language="en">Strömningsförlopp</string>
+            <string language="en">Rotodynamisk pump</string>
+            <string language="en">Fan</string>
+            <string language="en">Absolute pressures</string>
+            <string language="en">Manometer</string>
+            <string language="en">Static pressures</string>
+            <string language="en">Dynamic pressures</string>
+            <string language="en">Totaltryck</string>
+            <string language="en">Övertryck</string>
+            <string language="en">Undertryck</string>
+            <string language="en">Barometerstånd</string>
+            <string language="en">Inloppsstos</string>
+            <string language="en">The fan's total pressure search</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>hierarchical</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Theorie über den Druck variants.Module des 
+Ventilators - Processkomponenter.Is schloß in Energie A ein.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Théorie au sujet de la pression variants.Module 
+du ventilateur - Processkomponenter.Is a inclus dans l'énergie A.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Teoria sobre a pressão variants.Module do 
+ventilador - Processkomponenter.Is incluiu na energia A.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Teoria circa la pressione variants.Module del 
+ventilatore - Processkomponenter.Is ha incluso nell'energia A.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Θεωρία για την ενότητα παραλλαγών πίεσης του 
+ανεμιστήρα - Processkomponenter. συμπεριλαμβάνεται στην ενέργεια
+Α.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Teoría sobre la presión variants.Module del 
+ventilador - Processkomponenter.Is incluyó en la energía A.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Energie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Strömningsförlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Rotodynamisk Pumpe</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Ventilator</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Absoluter Druck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Manometer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Statischer Druck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Dynamischer Druck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Övertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Barometerstånd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-de">Die Gesamtdrucksuche des Ventilators</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Énergie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Strömningsförlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Pompe de Rotodynamisk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Ventilateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Pressions absolues</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Manomètre</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Pressions statiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Pressions dynamiques</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Övertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Barometerstånd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Toute la recherche de la pression du ventilateur</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Energia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Strömningsförlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Bomba de Rotodynamisk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Ventilador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pressões absolutas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Manometer</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pressões de estática</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Pressões dinâmicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Övertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Barometerstånd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">A busca total da pressão do ventilador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Energia</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Strömningsförlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pompa di Rotodynamisk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Ventilatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pressioni assolute</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Manometro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pressioni statiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Pressioni dinamiche</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Övertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Barometerstånd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">La ricerca totale di pressione del ventilatore</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ενέργεια</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Strφmningsfφrlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Αντλία Rotodynamisk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ανεμιστήρας</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Απόλυτες πιέσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Μανόμετρο</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Στατικές πιέσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Δυναμικές πιέσεις</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Φvertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Barometerstεnd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Η συνολική αναζήτηση πίεσης του ανεμιστήρα</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Energía</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Energiteknik</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Processkomponenter</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Strömningsförlopp</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Bomba de Rotodynamisk</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Ventilador</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Presiones absolutas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Manómetro</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Presiones estáticas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Presiones dinámicas</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Totaltryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Övertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Undertryck</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Barometerstånd</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Inloppsstos</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">La búsqueda total de la presión del ventilador</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:melt.contento.se:mm1:5188</entry>
+          </identifier>
+          <identifier>
+            <catalog>CFL</catalog>
+            <entry>mm1:5188</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:vCard
+VERSION:3.0
+N:CFL
+FN:CFL
+ORG:CFL
+END:vCard</entity>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Swedish Agency for Flexible Learning
+N:Swedish Agency for Flexible Learning
+ORG:Swedish Agency for Flexible Learning
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-04-06T15:13:43.36Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>other</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>other</value>
+          </context>
+          <typicalAgeRange>
+            <string language="sv">U-12</string>
+            <string language="en">U-12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/2.5/se/</string>
+            <string language="sv">Erkännande-Ickekommersiell-Dela Lika 2.5 Sverige</string>
+            <string language="en">Attribution-Noncommercial-Share Alike 2.5 Generic</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>424</id>
+              <entry>
+                <string language="en">energy</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="sv">Energiteknik</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="sv">CFL Kursnavet (kursnavet.cfl.se)</string>
+            </source>
+            <taxon>
+              <entry>
+                <string language="en">Energiteknik</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>33302</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>html, shockwave</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://melt.contento.se/broker/pages/loader.aspx?objectid=5188</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
