@@ -1,0 +1,202 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/200295</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>200295</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/cesta-kolem-sveta.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/cesta-kolem-sveta.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/cesta-kolem-sveta.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Cesta kolem světa</string>
+          </title>
+          <language>cs</language>
+          <description>
+            <string language="cs">Interaktivní hra slouží jako doplňková aktivita do hodin regionální geografie (případně jako zpestření hodin v závěru roku). Hry se účastní 2 skupiny žáků. Jedna skupina postupuje po stopách Magalhaese, 2. skupina po stopách Fogga. 
+
+Hra začíná u hvězdičky označené nápisem start. Kliknutím na hvězdičku se odkryje první otázka a zástupce družstva odpoví. Hvězdička se bez ohledu na správnost odpovědi zbarví (aby bylo ihned zřejmé, které otázky byly odkryty a které ne). Následně odpovídá 2. družstvo. Pokud předchozí družstvo odpovědělo správně, odpovídá jednou. Pokud předchozí mužstvo odpovědělo špatně, má možnost dvou odpovědí (za předpokladu, že odpoví správně). Hra končí správným zodpovězením poslední otázky. 
+
+Hru lze samozřejmě upravit k vlastním potřebám. Osobně mám v úmyslu doplnit ještě další kolo, aby byla možnost rozdělit žáky do více skupin.</string>
+          </description>
+          <keyword>
+            <string language="cs">Fogg</string>
+          </keyword>
+          <keyword>
+            <string language="cs">Magalhaes</string>
+          </keyword>
+          <keyword>
+            <string language="cs">regionální geografie</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr Jan Pravda
+N:Pravda;Jan;;Mgr;
+PROFILE:VCARD
+EMAIL:pravda.honza@seznam.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/cesta-kolem-sveta.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/cesta-kolem-sveta.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr Jan Pravda
+N:Pravda;Jan;;Mgr;
+PROFILE:VCARD
+EMAIL:pravda.honza@seznam.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:08:12.12Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">16 - 19</string>
+            <string language="x-t-lre">16-19</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">Natural sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>540</id>
+              <entry>
+                <string language="en">Geography</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/cesta-kolem-sveta.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/vnd.ms-powerpoint</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=fogawocp</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

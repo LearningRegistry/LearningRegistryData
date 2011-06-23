@@ -1,0 +1,224 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/20495</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>20495</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/gambler.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/gambler.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/gambler.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Gambler</string>
+          </title>
+          <language>cs</language>
+          <description>
+            <string language="cs">Příběh 26letého Jirky, který propadl hazardu. Sledujeme jeho monolog (zpověď), kterým popisuje svou cestu k sázení a důvody, proč začal sázet. Poznáváme, k jakým životním ztrátám (rodiny, přátel, majetku...) ho sázení dovedlo.
+Video je určeno jako úvod k diskusi se žáky o hráčství, gamblingu, sázení a jeho rizicích. Diskuse se může zaměřit na různé aspekty hazardu v ČR:
+1. „Loterijní zákon&amp;quot; č. 202/1990 Sb. a jeho dodržování nebo porušování provozovateli heren (zákon zakazuje přístup mladistvých do 18 let k sázení a hazardním hrám).
+2. Obec a herny; herny a sázkové kanceláře v blízkosti škol; on-line sázení na internetu.
+3. Rostoucí počet herních automatů na počet obyvatel v ČR (v ČR je 1 automat na 200 obyvatel a např. ve Francii 1 automat na 18000 obyvatel).
+4. Jak se dá Jirkovi pomoci v jeho situaci? Kdo mu může pomoci? 
+5. Čeho se vyvarovat, aby člověk nespadl do hazardu tak jako Jirka?
+
+Příběh je součástí projektu Rubikon, který se věnuje právnímu vědomí mládeže a přístupu mladistvých k sázení.</string>
+          </description>
+          <keyword>
+            <string language="cs">hazard</string>
+          </keyword>
+          <keyword>
+            <string language="cs">sázení</string>
+          </keyword>
+          <keyword>
+            <string language="cs">gambling</string>
+          </keyword>
+          <keyword>
+            <string language="cs">sázení mladistvých</string>
+          </keyword>
+          <keyword>
+            <string language="cs">herny</string>
+          </keyword>
+          <keyword>
+            <string language="cs">hráčství</string>
+          </keyword>
+          <keyword>
+            <string language="cs">sázky</string>
+          </keyword>
+          <keyword>
+            <string language="cs">loterie</string>
+          </keyword>
+          <keyword>
+            <string language="cs">zákony</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Petr Vinš
+N:Vinš;Petr;;Mgr.;
+PROFILE:VCARD
+EMAIL:petr.vins@aisis.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/gambler.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/gambler.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Petr Vinš
+N:Vinš;Petr;;Mgr.;
+PROFILE:VCARD
+EMAIL:petr.vins@aisis.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T10:59:14.61Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">12 - 15</string>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1204</id>
+              <entry>
+                <string language="en">Social sciences</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>292</id>
+              <entry>
+                <string language="en">Cross-curricular education</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/gambler.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>video/mpeg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=rdrppxrc</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

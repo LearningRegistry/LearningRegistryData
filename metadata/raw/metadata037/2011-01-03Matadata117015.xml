@@ -1,0 +1,188 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/200563</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>200563</entry>
+  </identifier>
+  <identifier>
+    <catalog>URI</catalog>
+    <entry>http://dum.rvp.cz/materialy/bludiste-s-tajenkou-2.html</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/bludiste-s-tajenkou-2.html</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/bludiste-s-tajenkou-2.html</entry>
+          </identifier>
+          <title>
+            <string language="cs">Bludiště s tajenkou</string>
+          </title>
+          <language>cs</language>
+          <description>
+            <string language="cs">Bludiště tvoří 15 úkolů, v nichž si žáci formou hry zopakují nejen pravopis. 
+Luštit začnou na startu, rozhodnou se buď pro odpověď ANO, nebo NE (podle toho, zda s napsaným tvrzením souhlasí, či nesouhlasí) a pak postoupí podle šipky za vybranou odpovědí. Písmena řazená podle úkolů jim odhalí známou pravdu, že Opakování ... (viz tajenka bludiště).</string>
+          </description>
+          <keyword>
+            <string language="cs">pravopis</string>
+          </keyword>
+          <keyword>
+            <string language="cs">opozita</string>
+          </keyword>
+          <keyword>
+            <string language="cs">vidová dvojice</string>
+          </keyword>
+          <keyword>
+            <string language="cs">slovní druhy</string>
+          </keyword>
+          <keyword>
+            <string language="cs">pořekadlo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>LRE.roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Lenka Mikulášová
+N:Mikulášová;Lenka;;Mgr.;
+PROFILE:VCARD
+EMAIL:mikulen@centrum.cz
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:dum.rvp.cz:http://dum.rvp.cz/materialy/gramaticke-bludiste.xml.lom</entry>
+          </identifier>
+          <identifier>
+            <catalog>URI</catalog>
+            <entry>http://dum.rvp.cz/materialy/gramaticke-bludiste.xml.lom</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Mgr. Lenka Mikulášová
+N:Mikulášová;Lenka;;Mgr.;
+PROFILE:VCARD
+EMAIL:mikulen@centrum.cz
+END:VCARD</entity>
+          </contribute>
+          <language>cs</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Metodický portál
+N:Metodický portál
+ORG:Metodický portál
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T11:11:00.18Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <interactivityType>
+            <source>interactivityTypeValues</source>
+            <value>active</value>
+          </interactivityType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="cs">12 - 15</string>
+            <string language="x-t-lre">12-15</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+            <string language="en">Creative Commons Attribution Non-commercial Share Alike 3.0 License</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>707</id>
+              <entry>
+                <string language="en">Language and literature</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>URI</catalog>
+      <entry>http://dum.rvp.cz/materialy/bludiste-s-tajenkou-2.html</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/msword</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://dum.rvp.cz/materialy/stahnout.html?s=xqujgxjl</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
