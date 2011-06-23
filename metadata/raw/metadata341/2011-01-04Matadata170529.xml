@@ -1,0 +1,260 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82707</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82707</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4743</entry>
+          </identifier>
+          <title>
+            <string language="it">Toni e semitoni</string>
+            <string language="en">Whole and half steps</string>
+            <string language="x-mt-de">Ganzes und halbe Jobsteps</string>
+            <string language="x-mt-fr">Totalité et demi d'étapes</string>
+            <string language="x-mt-pt">Todo e meias etapas</string>
+            <string language="x-mt-el">Ολόκληρα και μισά βήματα</string>
+            <string language="x-mt-es">Conjunto y medios pasos de progresión</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Sperimenta con toni e semitoni! Scopri quale è il loro suono, dove sono situati e come sono connotati.</string>
+            <string language="en">Experiment with whole and half steps! Find out how they sound, where they are placed and how they are notated.</string>
+          </description>
+          <keyword>
+            <string language="it">teoria musicale</string>
+            <string language="en">music theory</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>networked</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Experiment mit den vollständigen und halben 
+Jobsteps! Finden Sie heraus, wie sie klingen, wo sie plaziert 
+werden und wie sie sind, notated.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Expérience avec d'étapes entières et demi ! 
+Découvrez comment elles retentissent, où elles sont placées 
+et comment ils sont notated.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Experiência com etapas inteiras e meias! 
+Encontre para fora como soam, onde são colocados e como são 
+notated.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πείραμα με ολόκληρα και τα μισά βήματα! 
+Ανακαλύψτε πώς ηχούν, όπου τοποθετούνται και πώς είναι.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¡Experimento con pasos de progresión enteros y 
+medios! Descubra cómo suenan, donde se colocan y cómo son 
+notated.</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Musiktheorie</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">théorie de musique</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">teoria da música</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">θεωρία μουσικής</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">teoría de la música</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Evensen;Kristian;;;
+FN:Kristian Evensen
+ORG:null
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4743</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Evensen;Kristian;;;
+FN:Kristian Evensen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-04-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-17</string>
+            <string language="en">10-17</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Il discente può fare esperimenti con toni e semitoni, trovare quale sia il loro suono, dove sono situati sulla tastiera e come sono connotati.</string>
+            <string language="en">The learner may experiment with the whole and the half steps, find out how they sound, where they are placed on the keyboard and how they are notated.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>856</id>
+              <entry>
+                <string language="en">music</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>859</id>
+              <entry>
+                <string language="en">music listening</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82707</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/demoportal/steps.zip</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

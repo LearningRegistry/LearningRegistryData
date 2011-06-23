@@ -1,0 +1,330 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82845</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82845</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14418</entry>
+          </identifier>
+          <title>
+            <string language="it">Minoranze in Europa</string>
+            <string language="en">Minorities in Europe</string>
+            <string language="x-mt-de">Minoritäten in Europa</string>
+            <string language="x-mt-fr">Minorités en Europe</string>
+            <string language="x-mt-pt">Minorities em Europa</string>
+            <string language="x-mt-el">Μειονότητες στην Ευρώπη</string>
+            <string language="x-mt-es">Minorías en Europa</string>
+          </title>
+          <language>en</language>
+          <language>de</language>
+          <description>
+            <string language="it">Gli allievi possono imparare molto circa le minoranze etniche in Europa ed negli Stati Uniti.</string>
+            <string language="en">Students can learn a lot about ethnic minorities in Europe and the US.</string>
+          </description>
+          <description>
+            <string language="x-mt-de">Kursteilnehmer können über ethnische 
+Minoritäten in Europa und in den US viel erlernen.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Les étudiants peuvent se renseigner beaucoup sur 
+des minorités ethniques en à l'Europe et aux USA.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Os estudantes podem aprender muito sobre 
+minorities étnicos em Europa e nos E. U..</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Οι σπουδαστές μπορούν να μάθουν πολύ για τις εθνικές 
+μειονότητες στην Ευρώπη και τις ΗΠΑ.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Los estudiantes pueden aprender mucho sobre 
+minorías étnicas en Europa y los E.E.U.U..</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:VBS-HAKIII Schoenborngasse
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>14418</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pratscher;Susanne;;;
+FN:Susanne Pratscher
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-03-25</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-20</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>professional development</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>library</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">16-U</string>
+            <string language="en">&gt; 16</string>
+          </typicalAgeRange>
+          <description>
+            <string language="it">Questo learning object- sistema di apprendimento - può essere usato per familiarizzare gli studenti con le minoranze e con i loro stili di vita e le loro lingue.</string>
+            <string language="en">This learning object can be used in order to make students familiar with minorities and their special way of life and languages.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>213</id>
+              <entry>
+                <string language="en">civics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>209</id>
+              <entry>
+                <string language="en">citizenship</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>590</id>
+              <entry>
+                <string language="en">history</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>711</id>
+              <entry>
+                <string language="en">languages</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>508</id>
+              <entry>
+                <string language="en">foreign language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>825</id>
+              <entry>
+                <string language="en">minority</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>443</id>
+              <entry>
+                <string language="en">ethnic group</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>737</id>
+              <entry>
+                <string language="en">lesser used language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>845</id>
+              <entry>
+                <string language="en">mother tongue</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>866</id>
+              <entry>
+                <string language="en">national language as second language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1083</id>
+              <entry>
+                <string language="en">regional language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1157</id>
+              <entry>
+                <string language="en">second official language</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>762</id>
+              <entry>
+                <string language="en">local studies</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>419</id>
+              <entry>
+                <string language="en">emigration</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>635</id>
+              <entry>
+                <string language="en">immigration</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1200</id>
+              <entry>
+                <string language="en">social life</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82845</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/01/ps/minorities/index_en.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

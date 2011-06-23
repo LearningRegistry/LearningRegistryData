@@ -1,0 +1,287 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82412</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82412</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>1814</entry>
+          </identifier>
+          <title>
+            <string language="no">Elsikkerhet</string>
+            <string language="en">Electrical safety</string>
+            <string language="x-mt-de">Elektrische Sicherheit</string>
+            <string language="x-mt-fr">Sûreté électrique</string>
+            <string language="x-mt-pt">Segurança elétrica</string>
+            <string language="x-mt-it">Sicurezza elettrica</string>
+            <string language="x-mt-el">Ηλεκτρική ασφάλεια</string>
+            <string language="x-mt-es">Seguridad eléctrica</string>
+          </title>
+          <language>no</language>
+          <description>
+            <string language="no">Hva er kroppens impedans? Hvor mye skal til før elektrisiteten er farlig?</string>
+            <string language="en">What is the body's impedance?How much electricity can the body manage before it is dangerous?</string>
+          </description>
+          <keyword>
+            <string language="no">kroppens impedans</string>
+            <string language="en">The body's impedance</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Was ist das impedance?How des Körpers viel 
+Elektrizität einmachen den Körper handhaben, bevor es gefährlich 
+ist?</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Que l'impedance?How du corps est-il beaucoup 
+d'électricité mettent-ils en boîte le corps contrôlent-ils avant 
+qu'il soit dangereux ?</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Que é o impedance?How do corpo muita 
+eletricidade enlata o corpo controla antes que esteja perigoso?</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Che cosa è il impedance?How del corpo molta 
+elettricità inscatola il corpo gestisce prima che sia pericoloso?</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Τι είναι το impedance?How του σώματος πολλή 
+ηλεκτρική ενέργεια μπορεί το σώμα να διαχειριστεί προτού να 
+είσαι επικίνδυνο;</string>
+          </description>
+          <description>
+            <string language="x-mt-es">¿Cuál es el impedance?How del cuerpo mucha 
+electricidad conserva el cuerpo maneja antes de que sea peligroso?</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Der Widerstand des Körpers</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">L'impédance du corps</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">O impedance do corpo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-it">L'impedenza del corpo</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Η σύνθετη αντίσταση του σώματος</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">La impedancia del cuerpo</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Norwegian Board of Education
+FN:Norwegian Board of Education
+ORG:Norwegian Board of Education
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>1814</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Pedersen;Lisbeth;;;
+FN:Lisbeth Pedersen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-01-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-20</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Madsen;Per;;;
+FN:Per Madsen
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-03-20</dateTime>
+            </date>
+          </contribute>
+          <language>no</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>exploration</value>
+          </learningResourceType>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>application</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>special education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-18</string>
+            <string language="no">12-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>875</id>
+              <entry>
+                <string language="en">natural sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>977</id>
+              <entry>
+                <string language="en">physical sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>978</id>
+              <entry>
+                <string language="en">physics</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>413</id>
+              <entry>
+                <string language="en">electricity</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82412</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.ls.no/Norsk/Animasjoner/NMfag/Elsikkerhet_2.swf</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

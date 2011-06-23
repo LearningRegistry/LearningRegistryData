@@ -1,0 +1,225 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82675</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82675</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15641</entry>
+          </identifier>
+          <title>
+            <string language="it">Fatti interessanti sulla Turchia</string>
+            <string language="en">Interesting Facts About Turkey</string>
+            <string language="x-mt-de">Interessante Tatsachen Über Die Türkei</string>
+            <string language="x-mt-fr">Faits Intéressants Sur La Turquie</string>
+            <string language="x-mt-pt">Fatos Interessantes Sobre Turquia</string>
+            <string language="x-mt-el">Ενδιαφέροντα γεγονότα για την Τουρκία</string>
+            <string language="x-mt-es">Hechos Interesantes Sobre Turquía</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Informazioni su fatti interessanti sulla Turchia</string>
+            <string language="en">Information concerning interesting facts of Turkey</string>
+          </description>
+          <keyword>
+            <string language="it">Storia</string>
+            <string language="en">History</string>
+          </keyword>
+          <description>
+            <string language="x-mt-de">Informationen hinsichtlich sind der interessanten 
+Tatsachen von der Türkei</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">L'information au sujet des faits intéressants de 
+la Turquie</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Informação a respeito dos fatos interessantes de
+Turquia</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Πληροφορίες σχετικά με τα ενδιαφέροντα γεγονότα της 
+Τουρκίας</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Información referente a hechos interesantes de 
+Turquía</string>
+          </description>
+          <keyword>
+            <string language="x-mt-de">Geschichte</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-fr">Histoire</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-pt">History</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-el">Ιστορία</string>
+          </keyword>
+          <keyword>
+            <string language="x-mt-es">Historia</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Gürsoy;Ulkü;;;
+FN:Ulkü Gürsoy
+ORG:Turkish Education Association
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15641</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Gursoy;Ulku;;;
+FN:Ulku Gursoy
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-13</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Gennaro;Carmen;;;
+FN:Carmen de Gennaro
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-08</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>continuing education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">12-U</string>
+            <string language="en">&gt; 12</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>303</id>
+              <entry>
+                <string language="en">culture</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1335</id>
+              <entry>
+                <string language="en">Turkey</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82675</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/ulku1/interesting/interesting.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

@@ -1,0 +1,261 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82430</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82430</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eln:demoportal</catalog>
+            <entry>4790</entry>
+          </identifier>
+          <title>
+            <string language="it">Operazioni con i vettori</string>
+            <string language="en">Operations with vectors</string>
+            <string language="x-mt-de">Operationen mit Vektoren</string>
+            <string language="x-mt-fr">Exécutions avec des vecteurs</string>
+            <string language="x-mt-pt">Operações com os vetores</string>
+            <string language="x-mt-el">Διαδικασίες με τα διανύσματα</string>
+            <string language="x-mt-es">Operaciones con vectores</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="it">Dopo aver spiegato il concetto di vettore, vengono prese in considerazione operazioni che includono vettori. mediante un'animazione interattiva possono essere aggiunti due o tre vettori. L'animazione indica anche come possiamo raggiungere il vettore addditivo.</string>
+            <string language="en">After explanation of the concept of vector some operations including vectors are considered. By means of interactive animation any two or three vectors can be added. The animation also indicate how we can reach the additive vector.</string>
+          </description>
+          <structure>
+            <source>structureValues</source>
+            <value>linear</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Nach Erklärung des Konzeptes des Vektors werden 
+einige Operationen einschließlich Vektoren betrachtet. Mittels 
+der interaktiven Animation können alle mögliche zwei oder drei 
+Vektoren hinzugefügt werden. Die Animation zeigen auch an, wie 
+wir den additiven Vektor erreichen können.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Après explication du concept du vecteur quelques 
+exécutions comprenant des vecteurs sont considérées. Au moyen
+d'animation interactive deux ou trois vecteurs quelconques peuvent 
+être ajoutés. L'animation indiquent également comment nous 
+pouvons atteindre le vecteur additif.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Após a explanação do conceito do vetor algumas 
+operações including vetores são consideradas. Por meio do 
+animation interativo todos os dois ou três vetores podem ser 
+adicionados. O animation indica também como nós podemos 
+alcançar o vetor aditivo.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Μετά από την εξήγηση της έννοιας του διανύσματος 
+μερικές διαδικασίες συμπεριλαμβανομένων των διανυσμάτων 
+εξετάζονται. Με τη βοήθεια διαλογικής ζωτικότητας οποιας 
+δήποτε δύο ή τριών διανυσμάτων μπορεί να προστεθεί. Η 
+ζωτικότητα δείχνει επίσης πώς μπορούμε να φθάσουμε στο πρόσθετο
+διάνυσμα.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Después de la explicación del concepto del 
+vector algunas operaciones incluyendo vectores se consideran. 
+Por medio de la animación interactiva cualquier dos o tres 
+vectores pueden ser agregados. La animación también indica 
+cómo podemos alcanzar el vector aditivo.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;Sulinet
+FN:Sulinet
+ORG:Sulinet
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>4790</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Hunya;Márta;;;
+FN:Márta Hunya
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2004-05-01</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:de Angelis-Curtis;Irene;;;
+FN:Irene de Angelis-Curtis
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-10-17</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>drill and practice</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-18</string>
+            <string language="en">14-18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>791</id>
+              <entry>
+                <string language="en">meadow</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>1143</id>
+              <entry>
+                <string language="en">sciences</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>790</id>
+              <entry>
+                <string language="en">mathematics</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82430</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/x-shockwave-flash</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://celebrate.digitalbrain.com/celebrate/community/celebrate/resources/Hungary/maths/Operations%20with%20vectors/home/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

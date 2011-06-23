@@ -1,0 +1,239 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82383</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82383</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15619</entry>
+          </identifier>
+          <title>
+            <string language="de">Konturen der Europäischen Länder</string>
+            <string language="en">Shapes of European Countries</string>
+            <string language="x-mt-fr">Forme des pays européens</string>
+            <string language="x-mt-pt">Dá forma de países europeus</string>
+            <string language="x-mt-it">Modella dei paesi europei</string>
+            <string language="x-mt-el">Μορφές των ευρωπαϊκών χωρών</string>
+            <string language="x-mt-es">Forma de países europeos</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="de">Ein interaktives Programm zum Erlernen und Erkennen der Konturen der europäischen Länder. Die Flagge muss jeweils dem richtigen Land zugeordnet werden.</string>
+            <string language="en">An interactive program for learning and recognizing the shapes of European Countries. You will have to choose the flag of the appropriate country according to the shown country shape.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Un programme interactif pour apprendre et 
+identifier les formes des pays européens. Vous devrez choisir 
+l'indicateur du pays approprié selon la forme montrée de pays.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Um programa interativo para aprender e reconhecer
+as formas de países europeus. Você terá que escolher a 
+bandeira do país apropriado de acordo com a forma mostrada do país.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Un programma interattivo per imparare e 
+riconoscere le figure dei paesi europei. Dovrete scegliere la 
+bandierina del paese adatto secondo la figura indicata del paese.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Ένα διαλογικό πρόγραμμα για και τις μορφές των 
+ευρωπαϊκών χωρών. Θα πρέπει να επιλέξετε τη σημαία της 
+κατάλληλης χώρας σύμφωνα με την εμφανισμένη μορφή χωρών.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Un programa interactivo para aprender y reconocer
+las dimensiones de una variable de países europeos. Usted 
+tendrá que elegir el indicador del país apropiado según la 
+dimensión de una variable mostrada del país.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Galik;Zoltan;;;
+FN:Zoltan Galik
+ORG:Comenius University, Slovakia
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>15619</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Galik;Zoltan;;;
+FN:Zoltan Galik
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2006-06-12</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>provider</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:;European Schoolnet
+FN:European Schoolnet
+ORG:European Schoolnet
+END:VCARD</entity>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>enricher</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Sattler;Ruth;;;
+FN:Ruth Sattler
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2008-02-29</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>web page</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>parent</value>
+          </intendedEndUserRole>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>vocational education</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>distance education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">8-U</string>
+            <string language="en">&gt; 8</string>
+          </typicalAgeRange>
+          <description>
+            <string language="de">SchülerInnen können hier ihr Wissen über die Umrisse und Konturen europäischer Länder beweisen. Sie müssen die Flagge dem richtigen Land zuordnen.</string>
+            <string language="en">Pupils will demonstrate their knowledge of the shapes of European countries. They will have to drag the flags to the proper place according to the shown country shape.</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" /&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>449</id>
+              <entry>
+                <string language="en">Europe</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>547</id>
+              <entry>
+                <string language="en">geopolitical areas</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82383</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://myeurope.eun.org/shared/data/myeurope/2005/los/05/zoltan/last/countries/en/index.htm</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

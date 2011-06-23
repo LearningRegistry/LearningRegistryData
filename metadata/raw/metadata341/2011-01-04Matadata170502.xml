@@ -1,0 +1,192 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/82394</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>82394</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>59920</entry>
+          </identifier>
+          <title>
+            <string language="hu">Elektromágneses indukció</string>
+          </title>
+          <language>en</language>
+          <description>
+            <string language="hu">Az elektromágneses indukció tanulmányozása 45 percben. Alapvetően frontális vezetésű óra, de tartalmaz kísérletet is és egyéni munkát is.
+A forrás URl címe: http://micro.magnet.fsu.edu/electromag/java/
+
+</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Somogyi;Ágota;;;
+FN:Ágota Somogyi
+ORG:
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <metadataSchema>LREv4.0</metadataSchema>
+          <identifier>
+            <catalog>eun</catalog>
+            <entry>59920</entry>
+          </identifier>
+          <contribute>
+            <role>
+              <source>LRE.roleMetaValues</source>
+              <value>creator</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+N:Somogyi;Ágota;;;
+FN:Ágota Somogyi
+ORG:
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-11-11</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>lesson plan</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">15-18</string>
+            <string language="hu">15-18</string>
+          </typicalAgeRange>
+          <description>
+            <string language="hu">Elektromosságtan óraterv
+Készítette: Somogyi Ágota
+Téma: Az elektromágneses indukció
+Osztály: 9.évfolyam – 15 év
+Tantárgyi cél:  Az indukció jelenségének bemutatása, megértése, gyakorlati példák megismerése
+Fejlesztendő kompetenciák: oksági gondolkodás, képi információ feldolgozás, modellalkotás, rendszerezés
+A calibrate portálon az http://micro.magnet.fsu.edu/electromag/java/
+URL-en található internetes forrás kipróbálása.
+Foglalkozástípus: frontálisan vezetett óra
+Előzmény: A diákok megismerkedtek az áram által létrehozott mágneses tér tulajdonságaival
+Az óra menete:
+Az óra elején ismertetem a diákokkal az óra menetét, és az értékelés módját.
+A tananyag feldolgozása:
+1.	A diákok a tanteremben 4 fős csoportokban ülnek. A hat asztalra odakészítettem egy tálcán a kísérlethez szükséges eszközöket. Csoportonként: 1 db ampermérő, 1 db rúdmágnes, 1 db tekercs (légmagos, belefér a mágnes), 2 db röpzsinór.
+A mozgási indukció jelenségének vizsgálata:
+Minden csoport a tanári bemutatás után elvégzi a mozgási indukció jelenségének vizsgálatát.
+A csoportok csoportforgóban beszámolnak az eredményekről.
+2. A jelenség magyarázata a táblánál. A teremben található számítógép, internetes kapcsolat és projektor, így kivetítettem a  http://micro.magnet.fsu.edu/electromag/java/
+lapon található Another Faraday Experiment szimulációt. A táblánál vázlatot készítettem.
+3. A nyugalmi indukció bemutatása:
+A kivetítőn megnézzük a http://micro.magnet.fsu.edu/electromag/java/
+lapon található Faraday's Electromagnetic Induction Experiment szimulációt.
+Közösen keressük a választ arra a kérdésre, hogy:
+Hogyan értelmezhető a szimuláció a mozgási indukciónál tanultakkal?
+4. A tapasztalatok összegzése, a logikai lépések átismétlése következik.
+5. Az óra utolsó részében egy filmrészletet nézünk meg az indukciós motor működéséről, és arról, hogy a dinamó hogyan mozgatja a motort.
+Egyéni munkára kapják azt a feladatot, hogy az órai tapasztalatok alapján röviden írják le a látottak magyarázatát.
+Az óra végén be lehet adni a füzetet értékelésre.
+
+</string>
+          </description>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;&lt;Work rdf:about=""&gt;&lt;license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" /&gt;&lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;&lt;/Work&gt;&lt;License rdf:about="http://creativecommons.org/licenses/by-sa/3.0/"&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Attribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Reproduction" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/Distribution" /&gt;&lt;permits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;&lt;requires rdf:resource="http://web.resource.org/cc/Notice" /&gt;&lt;/License&gt;&lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>642</id>
+              <entry>
+                <string language="hu">individualizált oktatás</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>414</id>
+              <entry>
+                <string language="hu">elektromágnesesség</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>413</id>
+              <entry>
+                <string language="hu">elektromosság</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>773</id>
+              <entry>
+                <string language="hu">mágnesesség</string>
+              </entry>
+            </taxon>
+            <taxon>
+              <id>464</id>
+              <entry>
+                <string language="hu">kísérlet</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>82394</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://resources.eun.org/calibrate/lp/HU_Somogyi_2007-11-11_3:11:52.html</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
