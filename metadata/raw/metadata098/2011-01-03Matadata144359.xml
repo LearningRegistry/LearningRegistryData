@@ -1,0 +1,184 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/114131</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>114131</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10992</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10992</entry>
+          </identifier>
+          <title>
+            <string language="nl">Screeningsinstrument en sjabloon taalbeleid basisonderwijs</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Een taal- en talenbeleid voeren in een school vraagt de betrokkenheid van het hele team. Op de website van het Steunpunt GOK vind je een aantal instrumenten in dat verband voor de basisschool:Een screeningsinstrument om de beginsituatie van een basisschool te analyseren m.b.t. taalvaardigheidsonderwijs en taalbeleid. (pdf-bestand)Dit instrument kan het team helpen om een synthese te maken van de stand van zaken en om te komen tot een concreet plan van doelstellingen en acties Een sjabloon taalbeleidsplan dat een bron van inspiratie kan zijn voor het eigen taalbeleidsplan. (Worddocument) De handleiding bij het sjabloon (pdf-bestand)De drie bestanden kun je downloaden en gratis gebruiken.</string>
+          </description>
+          <keyword>
+            <string language="nl">Brussels onderwijs</string>
+          </keyword>
+          <keyword>
+            <string language="nl">anderstalig NT2</string>
+          </keyword>
+          <keyword>
+            <string language="nl">taalbeleidsplan</string>
+          </keyword>
+          <keyword>
+            <string language="nl">taalvaardigheidsonderwijs</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talenbeleid</string>
+          </keyword>
+          <keyword>
+            <string language="nl">taal-en talenbeleid</string>
+          </keyword>
+          <keyword>
+            <string language="nl">talen</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2009-01-20T16:28:52.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Steunpunt GOK
+FN:Steunpunt GOK 
+EMAIL;TYPE=INTERNET: 
+ORG: Steunpunt GOK
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:10992</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>10992</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:32:48.51Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>reference</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>pre-school</value>
+          </context>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">3-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Heidi Geyskens</entity>
+          <date>
+            <dateTime>2009-03-25</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>718</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>114131</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/10992/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

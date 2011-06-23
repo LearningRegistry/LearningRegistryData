@@ -1,0 +1,232 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/111951</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>111951</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:9472</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>9472</entry>
+          </identifier>
+          <title>
+            <string language="nl">Vlakke figuren : Werkbundel</string>
+          </title>
+          <language>nl</language>
+          <description>
+            <string language="nl">Zeer uitgebreide werkbundel rond de vlakke figuren:rechte, gebroken en gebogen lijnenlijnstuk, rechte, half rechterechte hoek, stompe hoek, scherpe hoekdiagonalenevenwijdige lijnenloodrechtvlakke figurenveelhoekentrapezium, parallellogram, ruit, rechthoek, vierkantgelijkbenige driehoek, gelijkzijdige driehoek, ongelijkzijdige driehoekscherphoekige driehoek, stomphoekige driehoek, rechthoekige driehoekbegrippen 'omtrek' en 'oppervlakte'oppervlaktematen</string>
+          </description>
+          <keyword>
+            <string language="nl">hoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">lijn</string>
+          </keyword>
+          <keyword>
+            <string language="nl">meetkunde</string>
+          </keyword>
+          <keyword>
+            <string language="nl">veelhoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">lijnstuk</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rechte</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rechte hoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">stompe hoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">scherpe hoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">diagonaal</string>
+          </keyword>
+          <keyword>
+            <string language="nl">loodrecht</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vlakke figuur</string>
+          </keyword>
+          <keyword>
+            <string language="nl">trapezium</string>
+          </keyword>
+          <keyword>
+            <string language="nl">parallellogram</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ruit</string>
+          </keyword>
+          <keyword>
+            <string language="nl">rechthoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">vierkant</string>
+          </keyword>
+          <keyword>
+            <string language="nl">driehoek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gelijkbenig</string>
+          </keyword>
+          <keyword>
+            <string language="nl">gelijkzijdig</string>
+          </keyword>
+          <keyword>
+            <string language="nl">ongelijkzijdig</string>
+          </keyword>
+          <keyword>
+            <string language="nl">omtrek</string>
+          </keyword>
+          <keyword>
+            <string language="nl">oppervlakte</string>
+          </keyword>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <aggregationLevel>
+            <source>aggregationLevelValues</source>
+            <value>4</value>
+          </aggregationLevel>
+        </general>
+        <lifeCycle>
+          <status>
+            <source>statusValues</source>
+            <value>final</value>
+          </status>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <date>
+              <dateTime>2008-10-07T09:36:21.00Z</dateTime>
+            </date>
+            <entity>BEGIN:VCARD 
+VERSION:3.0 
+N:Sarah De Koninck
+FN:Sarah De Koninck 
+EMAIL;TYPE=INTERNET: 
+ORG: Sarah De Koninck
+END:VCARD</entity>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:s01.klascement.net:9472</entry>
+          </identifier>
+          <identifier>
+            <catalog>KC</catalog>
+            <entry>9472</entry>
+          </identifier>
+          <language>nl</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Klascement
+N:Klascement
+ORG:Klascement
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2009-03-31T09:33:30.49Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>open activity</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>teacher</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">10-11</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>no</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <annotation>
+          <entity>Lien Struyf</entity>
+          <date>
+            <dateTime>2008-10-08</dateTime>
+          </date>
+        </annotation>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>790</id>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>111951</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/zip</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://www.klascement.net/nieuws/9472/</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>

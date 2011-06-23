@@ -1,0 +1,170 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/83575</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>83575</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lomLoose.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:87463</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>87463</entry>
+          </identifier>
+          <title>
+            <string language="es-EC">LA FORMULA EOQ (CONTROL%2BDE%2BINVENTARIOS.pdf)</string>
+          </title>
+          <language>es-EC</language>
+          <description>
+            <string language="es-EC">Método Promedio PonderadoSe basa en el supuesto de que tanto el costo de ventas como el de los inventarios finales deben valuarse a un costo promedio, que tenga en cuenta el peso relativo del número de unidades adquiridas a diferentes precios:Costo de los artículos disponiblesUnidades disponibles para la ventaCuando se utiliza el sistema permanente de inventarios pueden presentarse dos situaciones que arrojarían resultados diferentes para la valuación del inventario final y la determinación del costo de ventas. En la primera, si los costos únicamente se registran al final del período (mes, trimestre, semestre o año), en esa fecha se calcula un sólo costo promedio. En la segunda situación, los costos relacionados con las ventas se registran a medida en que ellas se realizan y, por lo tanto, los costos promedio deben estimarse al momento de cada venta. Esto obliga a calcular otro costo promedio ponderado después de cada nueva compra que se realice, llegando así al método conocido bajo el nombre de "promedio móvil".Con ajustes por inflación, el procedimiento es el mismo sólo que tomando en cuenta los ajustes acumulados practicados a los inventarios iniciales y a las compras, cuando apliquen en éste último caso:Costo ajustado de los artículos disponiblesUnidades disponibles para la ventaEl método de costo promedio ponderado es el de uso más difundido, en razón de que toma en cuenta el flujo físico de los productos, especialmente cuando existe variación de precios y los artículos se adquieren repetitivamente. A éste método se le señala, como una limitación, el hecho de que los inventarios incorporan permanentemente costos antiguos que pueden provocar alguna distorsión frente a precios más actuales. Sin embargo, esta limitación parece que quedaría subsanada con la aplicación del sistema integral de ajustes por inflación y, más aún, con una correcta distribución de dichos ajustes entre inventario final y costo de ventas. OBSÉRVESE EL DOCUMENTO ADJUNTO SOBRE UNA APLICACIÓN DE LAS TÉCNICAS DE CONTROL DE INVENTARIOS.</string>
+          </description>
+          <keyword>
+            <string language="es-EC">Promedio</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">inventarios</string>
+          </keyword>
+          <keyword>
+            <string language="es-EC">costo promedio</string>
+          </keyword>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:Fernando Francisco Sandoya Sanchez
+N:Sandoya Sanchez;Fernando Francisco
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-09T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>publisher</value>
+            </role>
+            <entity>BEGIN:VCARD
+FN:ESPOL ESPOL
+N:ESPOL;ESPOL
+VERSION:3.0
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-02-09T00:00:00.00Z</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:ariadne.cti.espol.edu.ec:87463</entry>
+          </identifier>
+          <identifier>
+            <catalog>ESPOL</catalog>
+            <entry>87463</entry>
+          </identifier>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:ESPOL - ARIADNE
+N:ESPOL - ARIADNE
+ORG:ESPOL - ARIADNE
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>LRE.roleMetaValues</source>
+            </role>
+            <date>
+              <dateTime>2008-11-17T21:39:32.54Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>presentation</value>
+          </learningResourceType>
+          <intendedEndUserRole>
+            <source>LRE.intendedEndUserRoleValues</source>
+            <value>learner</value>
+          </intendedEndUserRole>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>higher education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">18-U</string>
+            <string language="en">18</string>
+          </typicalAgeRange>
+        </educational>
+        <rights>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-sa/3.0/</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="x-none">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>214</id>
+              <entry>
+                <string>civil engineering</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <identifier>
+      <catalog>manifestation-cmr-id</catalog>
+      <entry>83575</entry>
+    </identifier>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>application/pdf</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://ariadne.cti.espol.edu.ec/SIDWeb_SQI/download?attachment=87463&amp;websiteId=1795&amp;folderId=663&amp;docId=80646&amp;websiteType=1&amp;action=none&amp;url=</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
