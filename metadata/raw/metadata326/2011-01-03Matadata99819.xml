@@ -1,0 +1,197 @@
+<expression xsi:schemaLocation="http://www.imsglobal.org/xsd/imslorsltitm_v1p0 http://fire.eun.org/lode/imslorsltitm_v1p0.xsd" xmlns="http://www.imsglobal.org/xsd/imslorsltitm_v1p0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <identifier>
+    <catalog>hdl</catalog>
+    <entry>10494/218111</entry>
+  </identifier>
+  <identifier>
+    <catalog>expression-cmr-id</catalog>
+    <entry>218111</entry>
+  </identifier>
+  <identifier>
+    <catalog>CUP</catalog>
+    <entry>cahi1:data_03d9624f0c8560d6edacf725e3768dc8610dbecd</entry>
+  </identifier>
+  <description>
+    <facet>
+      <vocabularyID>LRE.expressionDescriptionFacetValues</vocabularyID>
+      <value>main</value>
+    </facet>
+    <metadata>
+      <schema>http://ltsc.ieee.org/xsd/LOM</schema>
+      <lom xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd" xmlns="http://ltsc.ieee.org/xsd/LOM">
+        <general>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:cahi1:data_03d9624f0c8560d6edacf725e3768dc8610dbecd</entry>
+          </identifier>
+          <identifier>
+            <catalog>CUP</catalog>
+            <entry>cahi1:data_03d9624f0c8560d6edacf725e3768dc8610dbecd</entry>
+          </identifier>
+          <title>
+            <string language="en">Burning candle</string>
+            <string language="x-mt-de">Brennende Kerze</string>
+            <string language="x-mt-fr">Bougie brûlante</string>
+            <string language="x-mt-pt">Vela ardente</string>
+            <string language="x-mt-it">Candela burning</string>
+            <string language="x-mt-el">Καίγοντας κερί</string>
+            <string language="x-mt-es">Vela ardiente</string>
+          </title>
+          <description>
+            <string language="en">This graph shows the relationship between the time a candle burns and the volume of air in the jar.</string>
+          </description>
+          <language>x-none</language>
+          <structure>
+            <source>structureValues</source>
+            <value>atomic</value>
+          </structure>
+          <description>
+            <string language="x-mt-de">Dieses Diagramm zeigt dem Verhältnis zwischen der
+Zeit ein Kerzebrände und den Datenträger der Luft im Glas.</string>
+          </description>
+          <description>
+            <string language="x-mt-fr">Ce graphique montre au rapport entre le moment les
+brûlures par bougie et le volume d'air dans la fiole.</string>
+          </description>
+          <description>
+            <string language="x-mt-pt">Este gráfico mostra ao relacionamento entre o 
+tempo um queimaduras da vela e o volume do ar no frasco.</string>
+          </description>
+          <description>
+            <string language="x-mt-it">Questo grafico mostra al rapporto fra il tempo un 
+le ustioni della candela ed il volume di aria nel vaso.</string>
+          </description>
+          <description>
+            <string language="x-mt-el">Αυτή η γραφική παράσταση εμφανίζει τη σχέση μεταξύ 
+του χρόνου που ένα κερί καίει και η ένταση του ήχου του αέρα 
+στο βάζο.</string>
+          </description>
+          <description>
+            <string language="x-mt-es">Este gráfico muestra a lazo entre el tiempo las 
+quemaduras de la vela y el volumen de aire en el tarro.</string>
+          </description>
+        </general>
+        <lifeCycle>
+          <contribute>
+            <role>
+              <source>roleValues</source>
+              <value>author</value>
+            </role>
+            <entity>BEGIN:VCARD
+VERSION:3.0
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi
+ADR:University Printing House;Shaftesbury Road;Cambridge;CB2 8BS
+END:VCARD</entity>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+        </lifeCycle>
+        <metaMetadata>
+          <identifier>
+            <catalog>oai</catalog>
+            <entry>oai:aspect.cup.cam.ac.uk:metadata_03d9624f0c8560d6edacf725e3768dc8610dbecd</entry>
+          </identifier>
+          <identifier>
+            <catalog>CupSalMetadata</catalog>
+            <entry>metadata_03d9624f0c8560d6edacf725e3768dc8610dbecd</entry>
+          </identifier>
+          <contribute>
+            <date>
+              <dateTime>2007-01-01</dateTime>
+            </date>
+          </contribute>
+          <language>en</language>
+          <contribute>
+            <entity>BEGIN:VCARD
+FN:Cambridge-Hitachi Educational Solutions PLC
+N:Cambridge-Hitachi Educational Solutions PLC
+ORG:Cambridge-Hitachi Educational Solutions PLC
+VERSION:3.0
+END:VCARD</entity>
+            <role>
+              <value>provider</value>
+              <source>ASPECTv1.0</source>
+            </role>
+            <date>
+              <dateTime>2010-04-26T19:10:38.08Z</dateTime>
+            </date>
+          </contribute>
+        </metaMetadata>
+        <educational>
+          <context>
+            <source>LRE.contextValues</source>
+            <value>compulsory education</value>
+          </context>
+          <typicalAgeRange>
+            <string language="x-t-lre">14-16</string>
+          </typicalAgeRange>
+          <learningResourceType>
+            <source>LRE.learningResourceTypeValues</source>
+            <value>image</value>
+          </learningResourceType>
+        </educational>
+        <rights>
+          <copyrightAndOtherRestrictions>
+            <source>copyrightAndOtherRestrictionsValues</source>
+            <value>yes</value>
+          </copyrightAndOtherRestrictions>
+          <cost>
+            <source>costValues</source>
+            <value>no</value>
+          </cost>
+          <description>
+            <string language="x-t-cc-url">http://creativecommons.org/licenses/by-nc-nd/3.0/</string>
+            <string language="x-t-cc">&lt;rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"&gt;
+						    &lt;Work rdf:about=""&gt;
+						    &lt;license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/&gt;
+						    &lt;attributionName&gt;Attribution to be given to the licensor if present, otherwise to the author.&lt;/attributionName&gt;
+						    &lt;/Work&gt;
+						    &lt;License rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/"&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Attribution"/&gt;
+						    &lt;requires rdf:resource="http://web.resource.org/cc/Notice"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Reproduction"/&gt;
+						    &lt;permits rdf:resource="http://web.resource.org/cc/Distribution"/&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/DerivativeWorks" /&gt;
+						    &lt;prohibits rdf:resource="http://web.resource.org/cc/CommercialUse" /&gt;
+						    &lt;/License&gt;
+						    &lt;/rdf:RDF&gt;</string>
+          </description>
+        </rights>
+        <classification>
+          <purpose>
+            <source>purposeValues</source>
+            <value>discipline</value>
+          </purpose>
+          <taxonPath>
+            <source>
+              <string language="en">LRE-0001</string>
+            </source>
+            <taxon>
+              <id>195</id>
+              <entry>
+                <string language="en">chemistry</string>
+              </entry>
+            </taxon>
+          </taxonPath>
+        </classification>
+      </lom>
+    </metadata>
+  </description>
+  <manifestation>
+    <name>
+      <vocabularyID>LRE.manifestationNameValues</vocabularyID>
+      <value>experience</value>
+    </name>
+    <parameter>
+      <vocabularyID>MIME</vocabularyID>
+      <value>image/jpg</value>
+    </parameter>
+    <item>
+      <location>
+        <uri>http://aspect.cup.cam.ac.uk/DataServlet/03d9624f0c8560d6edacf725e3768dc8610dbecd.jpg</uri>
+      </location>
+    </item>
+  </manifestation>
+</expression>
